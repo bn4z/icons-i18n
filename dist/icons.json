@@ -1,0 +1,3946 @@
+[
+  {
+    "name": "copyright sign",
+    "svg": "00a9.svg"
+  },
+  {
+    "name": "registered sign",
+    "svg": "00ae.svg"
+  },
+  {
+    "name": "double exclamation mark",
+    "svg": "203c.svg"
+  },
+  {
+    "name": "exclamation question mark",
+    "svg": "2049.svg"
+  },
+  {
+    "name": "trade mark sign",
+    "svg": "2122.svg"
+  },
+  {
+    "name": "information source",
+    "svg": "2139.svg"
+  },
+  {
+    "name": "left right arrow",
+    "svg": "2194.svg"
+  },
+  {
+    "name": "up down arrow",
+    "svg": "2195.svg"
+  },
+  {
+    "name": "north west arrow",
+    "svg": "2196.svg"
+  },
+  {
+    "name": "north east arrow",
+    "svg": "2197.svg"
+  },
+  {
+    "name": "south east arrow",
+    "svg": "2198.svg"
+  },
+  {
+    "name": "south west arrow",
+    "svg": "2199.svg"
+  },
+  {
+    "name": "leftwards arrow with hook",
+    "svg": "21a9.svg"
+  },
+  {
+    "name": "rightwards arrow with hook",
+    "svg": "21aa.svg"
+  },
+  {
+    "name": "watch",
+    "svg": "231a.svg"
+  },
+  {
+    "name": "hourglass",
+    "svg": "231b.svg"
+  },
+  {
+    "name": "keyboard",
+    "svg": "2328.svg"
+  },
+  {
+    "name": "black right-pointing double triangle",
+    "svg": "23e9.svg"
+  },
+  {
+    "name": "black left-pointing double triangle",
+    "svg": "23ea.svg"
+  },
+  {
+    "name": "black up-pointing double triangle",
+    "svg": "23eb.svg"
+  },
+  {
+    "name": "black down-pointing double triangle",
+    "svg": "23ec.svg"
+  },
+  {
+    "name": "black right-pointing double triangle with vertical bar",
+    "svg": "23ed.svg"
+  },
+  {
+    "name": "black left-pointing double triangle with vertical bar",
+    "svg": "23ee.svg"
+  },
+  {
+    "name": "black right-pointing triangle with double vertical bar",
+    "svg": "23ef.svg"
+  },
+  {
+    "name": "alarm clock",
+    "svg": "23f0.svg"
+  },
+  {
+    "name": "stopwatch",
+    "svg": "23f1.svg"
+  },
+  {
+    "name": "timer clock",
+    "svg": "23f2.svg"
+  },
+  {
+    "name": "hourglass with flowing sand",
+    "svg": "23f3.svg"
+  },
+  {
+    "name": "double vertical bar",
+    "svg": "23f8.svg"
+  },
+  {
+    "name": "black square for stop",
+    "svg": "23f9.svg"
+  },
+  {
+    "name": "black circle for record",
+    "svg": "23fa.svg"
+  },
+  {
+    "name": "circled latin capital letter m",
+    "svg": "24c2.svg"
+  },
+  {
+    "name": "black small square",
+    "svg": "25aa.svg"
+  },
+  {
+    "name": "white small square",
+    "svg": "25ab.svg"
+  },
+  {
+    "name": "black right-pointing triangle",
+    "svg": "25b6.svg"
+  },
+  {
+    "name": "black left-pointing triangle",
+    "svg": "25c0.svg"
+  },
+  {
+    "name": "white medium square",
+    "svg": "25fb.svg"
+  },
+  {
+    "name": "black medium square",
+    "svg": "25fc.svg"
+  },
+  {
+    "name": "white medium small square",
+    "svg": "25fd.svg"
+  },
+  {
+    "name": "black medium small square",
+    "svg": "25fe.svg"
+  },
+  {
+    "name": "black sun with rays",
+    "svg": "2600.svg"
+  },
+  {
+    "name": "cloud",
+    "svg": "2601.svg"
+  },
+  {
+    "name": "umbrella",
+    "svg": "2602.svg"
+  },
+  {
+    "name": "snowman",
+    "svg": "2603.svg"
+  },
+  {
+    "name": "comet",
+    "svg": "2604.svg"
+  },
+  {
+    "name": "black telephone",
+    "svg": "260e.svg"
+  },
+  {
+    "name": "ballot box with check",
+    "svg": "2611.svg"
+  },
+  {
+    "name": "umbrella with rain drops",
+    "svg": "2614.svg"
+  },
+  {
+    "name": "hot beverage",
+    "svg": "2615.svg"
+  },
+  {
+    "name": "shamrock",
+    "svg": "2618.svg"
+  },
+  {
+    "name": "white up pointing index",
+    "svg": "261d.svg"
+  },
+  {
+    "name": "skull and crossbones",
+    "svg": "2620.svg"
+  },
+  {
+    "name": "radioactive sign",
+    "svg": "2622.svg"
+  },
+  {
+    "name": "biohazard sign",
+    "svg": "2623.svg"
+  },
+  {
+    "name": "orthodox cross",
+    "svg": "2626.svg"
+  },
+  {
+    "name": "star and crescent",
+    "svg": "262a.svg"
+  },
+  {
+    "name": "peace symbol",
+    "svg": "262e.svg"
+  },
+  {
+    "name": "yin yang",
+    "svg": "262f.svg"
+  },
+  {
+    "name": "wheel of dharma",
+    "svg": "2638.svg"
+  },
+  {
+    "name": "white frowning face",
+    "svg": "2639.svg"
+  },
+  {
+    "name": "white smiling face",
+    "svg": "263a.svg"
+  },
+  {
+    "name": "aries",
+    "svg": "2648.svg"
+  },
+  {
+    "name": "taurus",
+    "svg": "2649.svg"
+  },
+  {
+    "name": "gemini",
+    "svg": "264a.svg"
+  },
+  {
+    "name": "cancer",
+    "svg": "264b.svg"
+  },
+  {
+    "name": "leo",
+    "svg": "264c.svg"
+  },
+  {
+    "name": "virgo",
+    "svg": "264d.svg"
+  },
+  {
+    "name": "libra",
+    "svg": "264e.svg"
+  },
+  {
+    "name": "scorpius",
+    "svg": "264f.svg"
+  },
+  {
+    "name": "sagittarius",
+    "svg": "2650.svg"
+  },
+  {
+    "name": "capricorn",
+    "svg": "2651.svg"
+  },
+  {
+    "name": "aquarius",
+    "svg": "2652.svg"
+  },
+  {
+    "name": "pisces",
+    "svg": "2653.svg"
+  },
+  {
+    "name": "black spade suit",
+    "svg": "2660.svg"
+  },
+  {
+    "name": "black club suit",
+    "svg": "2663.svg"
+  },
+  {
+    "name": "black heart suit",
+    "svg": "2665.svg"
+  },
+  {
+    "name": "black diamond suit",
+    "svg": "2666.svg"
+  },
+  {
+    "name": "hot springs",
+    "svg": "2668.svg"
+  },
+  {
+    "name": "black universal recycling symbol",
+    "svg": "267b.svg"
+  },
+  {
+    "name": "wheelchair symbol",
+    "svg": "267f.svg"
+  },
+  {
+    "name": "hammer and pick",
+    "svg": "2692.svg"
+  },
+  {
+    "name": "anchor",
+    "svg": "2693.svg"
+  },
+  {
+    "name": "crossed swords",
+    "svg": "2694.svg"
+  },
+  {
+    "name": "scales",
+    "svg": "2696.svg"
+  },
+  {
+    "name": "alembic",
+    "svg": "2697.svg"
+  },
+  {
+    "name": "gear",
+    "svg": "2699.svg"
+  },
+  {
+    "name": "atom symbol",
+    "svg": "269b.svg"
+  },
+  {
+    "name": "fleur-de-lis",
+    "svg": "269c.svg"
+  },
+  {
+    "name": "warning sign",
+    "svg": "26a0.svg"
+  },
+  {
+    "name": "high voltage sign",
+    "svg": "26a1.svg"
+  },
+  {
+    "name": "medium white circle",
+    "svg": "26aa.svg"
+  },
+  {
+    "name": "medium black circle",
+    "svg": "26ab.svg"
+  },
+  {
+    "name": "coffin",
+    "svg": "26b0.svg"
+  },
+  {
+    "name": "funeral urn",
+    "svg": "26b1.svg"
+  },
+  {
+    "name": "soccer ball",
+    "svg": "26bd.svg"
+  },
+  {
+    "name": "baseball",
+    "svg": "26be.svg"
+  },
+  {
+    "name": "snowman without snow",
+    "svg": "26c4.svg"
+  },
+  {
+    "name": "sun behind cloud",
+    "svg": "26c5.svg"
+  },
+  {
+    "name": "thunder cloud and rain",
+    "svg": "26c8.svg"
+  },
+  {
+    "name": "ophiuchus",
+    "svg": "26ce.svg"
+  },
+  {
+    "name": "pick",
+    "svg": "26cf.svg"
+  },
+  {
+    "name": "helmet with white cross",
+    "svg": "26d1.svg"
+  },
+  {
+    "name": "chains",
+    "svg": "26d3.svg"
+  },
+  {
+    "name": "no entry",
+    "svg": "26d4.svg"
+  },
+  {
+    "name": "shinto shrine",
+    "svg": "26e9.svg"
+  },
+  {
+    "name": "church",
+    "svg": "26ea.svg"
+  },
+  {
+    "name": "mountain",
+    "svg": "26f0.svg"
+  },
+  {
+    "name": "umbrella on ground",
+    "svg": "26f1.svg"
+  },
+  {
+    "name": "fountain",
+    "svg": "26f2.svg"
+  },
+  {
+    "name": "flag in hole",
+    "svg": "26f3.svg"
+  },
+  {
+    "name": "ferry",
+    "svg": "26f4.svg"
+  },
+  {
+    "name": "sailboat",
+    "svg": "26f5.svg"
+  },
+  {
+    "name": "skier",
+    "svg": "26f7.svg"
+  },
+  {
+    "name": "ice skate",
+    "svg": "26f8.svg"
+  },
+  {
+    "name": "tent",
+    "svg": "26fa.svg"
+  },
+  {
+    "name": "fuel pump",
+    "svg": "26fd.svg"
+  },
+  {
+    "name": "black scissors",
+    "svg": "2702.svg"
+  },
+  {
+    "name": "white heavy check mark",
+    "svg": "2705.svg"
+  },
+  {
+    "name": "airplane",
+    "svg": "2708.svg"
+  },
+  {
+    "name": "envelope",
+    "svg": "2709.svg"
+  },
+  {
+    "name": "raised fist",
+    "svg": "270a.svg"
+  },
+  {
+    "name": "raised hand",
+    "svg": "270b.svg"
+  },
+  {
+    "name": "victory hand",
+    "svg": "270c.svg"
+  },
+  {
+    "name": "writing hand",
+    "svg": "270d.svg"
+  },
+  {
+    "name": "pencil",
+    "svg": "270f.svg"
+  },
+  {
+    "name": "black nib",
+    "svg": "2712.svg"
+  },
+  {
+    "name": "heavy check mark",
+    "svg": "2714.svg"
+  },
+  {
+    "name": "heavy multiplication x",
+    "svg": "2716.svg"
+  },
+  {
+    "name": "latin cross",
+    "svg": "271d.svg"
+  },
+  {
+    "name": "star of david",
+    "svg": "2721.svg"
+  },
+  {
+    "name": "sparkles",
+    "svg": "2728.svg"
+  },
+  {
+    "name": "eight spoked asterisk",
+    "svg": "2733.svg"
+  },
+  {
+    "name": "eight pointed black star",
+    "svg": "2734.svg"
+  },
+  {
+    "name": "snowflake",
+    "svg": "2744.svg"
+  },
+  {
+    "name": "sparkle",
+    "svg": "2747.svg"
+  },
+  {
+    "name": "cross mark",
+    "svg": "274c.svg"
+  },
+  {
+    "name": "negative squared cross mark",
+    "svg": "274e.svg"
+  },
+  {
+    "name": "black question mark ornament",
+    "svg": "2753.svg"
+  },
+  {
+    "name": "white question mark ornament",
+    "svg": "2754.svg"
+  },
+  {
+    "name": "white exclamation mark ornament",
+    "svg": "2755.svg"
+  },
+  {
+    "name": "heavy exclamation mark symbol",
+    "svg": "2757.svg"
+  },
+  {
+    "name": "heavy heart exclamation mark ornament",
+    "svg": "2763.svg"
+  },
+  {
+    "name": "heavy black heart",
+    "svg": "2764.svg"
+  },
+  {
+    "name": "heavy plus sign",
+    "svg": "2795.svg"
+  },
+  {
+    "name": "heavy minus sign",
+    "svg": "2796.svg"
+  },
+  {
+    "name": "heavy division sign",
+    "svg": "2797.svg"
+  },
+  {
+    "name": "black rightwards arrow",
+    "svg": "27a1.svg"
+  },
+  {
+    "name": "curly loop",
+    "svg": "27b0.svg"
+  },
+  {
+    "name": "double curly loop",
+    "svg": "27bf.svg"
+  },
+  {
+    "name": "arrow pointing rightwards then curving upwards",
+    "svg": "2934.svg"
+  },
+  {
+    "name": "arrow pointing rightwards then curving downwards",
+    "svg": "2935.svg"
+  },
+  {
+    "name": "leftwards black arrow",
+    "svg": "2b05.svg"
+  },
+  {
+    "name": "upwards black arrow",
+    "svg": "2b06.svg"
+  },
+  {
+    "name": "downwards black arrow",
+    "svg": "2b07.svg"
+  },
+  {
+    "name": "black large square",
+    "svg": "2b1b.svg"
+  },
+  {
+    "name": "white large square",
+    "svg": "2b1c.svg"
+  },
+  {
+    "name": "white medium star",
+    "svg": "2b50.svg"
+  },
+  {
+    "name": "heavy large circle",
+    "svg": "2b55.svg"
+  },
+  {
+    "name": "wavy dash",
+    "svg": "3030.svg"
+  },
+  {
+    "name": "part alternation mark",
+    "svg": "303d.svg"
+  },
+  {
+    "name": "circled ideograph congratulation",
+    "svg": "3297.svg"
+  },
+  {
+    "name": "circled ideograph secret",
+    "svg": "3299.svg"
+  },
+  {
+    "name": "mahjong tile red dragon",
+    "svg": "1f004.svg"
+  },
+  {
+    "name": "playing card black joker",
+    "svg": "1f0cf.svg"
+  },
+  {
+    "name": "negative squared latin capital letter a",
+    "svg": "1f170.svg"
+  },
+  {
+    "name": "negative squared latin capital letter b",
+    "svg": "1f171.svg"
+  },
+  {
+    "name": "negative squared latin capital letter o",
+    "svg": "1f17e.svg"
+  },
+  {
+    "name": "negative squared latin capital letter p",
+    "svg": "1f17f.svg"
+  },
+  {
+    "name": "negative squared ab",
+    "svg": "1f18e.svg"
+  },
+  {
+    "name": "squared cl",
+    "svg": "1f191.svg"
+  },
+  {
+    "name": "squared cool",
+    "svg": "1f192.svg"
+  },
+  {
+    "name": "squared free",
+    "svg": "1f193.svg"
+  },
+  {
+    "name": "squared id",
+    "svg": "1f194.svg"
+  },
+  {
+    "name": "squared new",
+    "svg": "1f195.svg"
+  },
+  {
+    "name": "squared ng",
+    "svg": "1f196.svg"
+  },
+  {
+    "name": "squared ok",
+    "svg": "1f197.svg"
+  },
+  {
+    "name": "squared sos",
+    "svg": "1f198.svg"
+  },
+  {
+    "name": "squared up with exclamation mark",
+    "svg": "1f199.svg"
+  },
+  {
+    "name": "squared vs",
+    "svg": "1f19a.svg"
+  },
+  {
+    "name": "squared katakana koko",
+    "svg": "1f201.svg"
+  },
+  {
+    "name": "squared katakana sa",
+    "svg": "1f202.svg"
+  },
+  {
+    "name": "squared cjk unified ideograph-7121",
+    "svg": "1f21a.svg"
+  },
+  {
+    "name": "squared cjk unified ideograph-6307",
+    "svg": "1f22f.svg"
+  },
+  {
+    "name": "squared cjk unified ideograph-7981",
+    "svg": "1f232.svg"
+  },
+  {
+    "name": "squared cjk unified ideograph-7a7a",
+    "svg": "1f233.svg"
+  },
+  {
+    "name": "squared cjk unified ideograph-5408",
+    "svg": "1f234.svg"
+  },
+  {
+    "name": "squared cjk unified ideograph-6e80",
+    "svg": "1f235.svg"
+  },
+  {
+    "name": "squared cjk unified ideograph-6709",
+    "svg": "1f236.svg"
+  },
+  {
+    "name": "squared cjk unified ideograph-6708",
+    "svg": "1f237.svg"
+  },
+  {
+    "name": "squared cjk unified ideograph-7533",
+    "svg": "1f238.svg"
+  },
+  {
+    "name": "squared cjk unified ideograph-5272",
+    "svg": "1f239.svg"
+  },
+  {
+    "name": "squared cjk unified ideograph-55b6",
+    "svg": "1f23a.svg"
+  },
+  {
+    "name": "circled ideograph advantage",
+    "svg": "1f250.svg"
+  },
+  {
+    "name": "circled ideograph accept",
+    "svg": "1f251.svg"
+  },
+  {
+    "name": "cyclone",
+    "svg": "1f300.svg"
+  },
+  {
+    "name": "foggy",
+    "svg": "1f301.svg"
+  },
+  {
+    "name": "closed umbrella",
+    "svg": "1f302.svg"
+  },
+  {
+    "name": "night with stars",
+    "svg": "1f303.svg"
+  },
+  {
+    "name": "sunrise over mountains",
+    "svg": "1f304.svg"
+  },
+  {
+    "name": "sunrise",
+    "svg": "1f305.svg"
+  },
+  {
+    "name": "cityscape at dusk",
+    "svg": "1f306.svg"
+  },
+  {
+    "name": "sunset over buildings",
+    "svg": "1f307.svg"
+  },
+  {
+    "name": "rainbow",
+    "svg": "1f308.svg"
+  },
+  {
+    "name": "bridge at night",
+    "svg": "1f309.svg"
+  },
+  {
+    "name": "water wave",
+    "svg": "1f30a.svg"
+  },
+  {
+    "name": "volcano",
+    "svg": "1f30b.svg"
+  },
+  {
+    "name": "milky way",
+    "svg": "1f30c.svg"
+  },
+  {
+    "name": "earth globe europe-africa",
+    "svg": "1f30d.svg"
+  },
+  {
+    "name": "earth globe americas",
+    "svg": "1f30e.svg"
+  },
+  {
+    "name": "earth globe asia-australia",
+    "svg": "1f30f.svg"
+  },
+  {
+    "name": "globe with meridians",
+    "svg": "1f310.svg"
+  },
+  {
+    "name": "new moon symbol",
+    "svg": "1f311.svg"
+  },
+  {
+    "name": "waxing crescent moon symbol",
+    "svg": "1f312.svg"
+  },
+  {
+    "name": "first quarter moon symbol",
+    "svg": "1f313.svg"
+  },
+  {
+    "name": "waxing gibbous moon symbol",
+    "svg": "1f314.svg"
+  },
+  {
+    "name": "full moon symbol",
+    "svg": "1f315.svg"
+  },
+  {
+    "name": "waning gibbous moon symbol",
+    "svg": "1f316.svg"
+  },
+  {
+    "name": "last quarter moon symbol",
+    "svg": "1f317.svg"
+  },
+  {
+    "name": "waning crescent moon symbol",
+    "svg": "1f318.svg"
+  },
+  {
+    "name": "crescent moon",
+    "svg": "1f319.svg"
+  },
+  {
+    "name": "new moon with face",
+    "svg": "1f31a.svg"
+  },
+  {
+    "name": "first quarter moon with face",
+    "svg": "1f31b.svg"
+  },
+  {
+    "name": "last quarter moon with face",
+    "svg": "1f31c.svg"
+  },
+  {
+    "name": "full moon with face",
+    "svg": "1f31d.svg"
+  },
+  {
+    "name": "sun with face",
+    "svg": "1f31e.svg"
+  },
+  {
+    "name": "glowing star",
+    "svg": "1f31f.svg"
+  },
+  {
+    "name": "shooting star",
+    "svg": "1f320.svg"
+  },
+  {
+    "name": "thermometer",
+    "svg": "1f321.svg"
+  },
+  {
+    "name": "white sun with small cloud",
+    "svg": "1f324.svg"
+  },
+  {
+    "name": "white sun behind cloud",
+    "svg": "1f325.svg"
+  },
+  {
+    "name": "white sun behind cloud with rain",
+    "svg": "1f326.svg"
+  },
+  {
+    "name": "cloud with rain",
+    "svg": "1f327.svg"
+  },
+  {
+    "name": "cloud with snow",
+    "svg": "1f328.svg"
+  },
+  {
+    "name": "cloud with lightning",
+    "svg": "1f329.svg"
+  },
+  {
+    "name": "cloud with tornado",
+    "svg": "1f32a.svg"
+  },
+  {
+    "name": "fog",
+    "svg": "1f32b.svg"
+  },
+  {
+    "name": "wind blowing face",
+    "svg": "1f32c.svg"
+  },
+  {
+    "name": "hot dog",
+    "svg": "1f32d.svg"
+  },
+  {
+    "name": "taco",
+    "svg": "1f32e.svg"
+  },
+  {
+    "name": "burrito",
+    "svg": "1f32f.svg"
+  },
+  {
+    "name": "chestnut",
+    "svg": "1f330.svg"
+  },
+  {
+    "name": "seedling",
+    "svg": "1f331.svg"
+  },
+  {
+    "name": "evergreen tree",
+    "svg": "1f332.svg"
+  },
+  {
+    "name": "deciduous tree",
+    "svg": "1f333.svg"
+  },
+  {
+    "name": "palm tree",
+    "svg": "1f334.svg"
+  },
+  {
+    "name": "cactus",
+    "svg": "1f335.svg"
+  },
+  {
+    "name": "hot pepper",
+    "svg": "1f336.svg"
+  },
+  {
+    "name": "tulip",
+    "svg": "1f337.svg"
+  },
+  {
+    "name": "cherry blossom",
+    "svg": "1f338.svg"
+  },
+  {
+    "name": "rose",
+    "svg": "1f339.svg"
+  },
+  {
+    "name": "hibiscus",
+    "svg": "1f33a.svg"
+  },
+  {
+    "name": "sunflower",
+    "svg": "1f33b.svg"
+  },
+  {
+    "name": "blossom",
+    "svg": "1f33c.svg"
+  },
+  {
+    "name": "ear of maize",
+    "svg": "1f33d.svg"
+  },
+  {
+    "name": "ear of rice",
+    "svg": "1f33e.svg"
+  },
+  {
+    "name": "herb",
+    "svg": "1f33f.svg"
+  },
+  {
+    "name": "four leaf clover",
+    "svg": "1f340.svg"
+  },
+  {
+    "name": "maple leaf",
+    "svg": "1f341.svg"
+  },
+  {
+    "name": "fallen leaf",
+    "svg": "1f342.svg"
+  },
+  {
+    "name": "leaf fluttering in wind",
+    "svg": "1f343.svg"
+  },
+  {
+    "name": "mushroom",
+    "svg": "1f344.svg"
+  },
+  {
+    "name": "tomato",
+    "svg": "1f345.svg"
+  },
+  {
+    "name": "aubergine",
+    "svg": "1f346.svg"
+  },
+  {
+    "name": "grapes",
+    "svg": "1f347.svg"
+  },
+  {
+    "name": "melon",
+    "svg": "1f348.svg"
+  },
+  {
+    "name": "watermelon",
+    "svg": "1f349.svg"
+  },
+  {
+    "name": "tangerine",
+    "svg": "1f34a.svg"
+  },
+  {
+    "name": "lemon",
+    "svg": "1f34b.svg"
+  },
+  {
+    "name": "banana",
+    "svg": "1f34c.svg"
+  },
+  {
+    "name": "pineapple",
+    "svg": "1f34d.svg"
+  },
+  {
+    "name": "red apple",
+    "svg": "1f34e.svg"
+  },
+  {
+    "name": "green apple",
+    "svg": "1f34f.svg"
+  },
+  {
+    "name": "pear",
+    "svg": "1f350.svg"
+  },
+  {
+    "name": "peach",
+    "svg": "1f351.svg"
+  },
+  {
+    "name": "cherries",
+    "svg": "1f352.svg"
+  },
+  {
+    "name": "strawberry",
+    "svg": "1f353.svg"
+  },
+  {
+    "name": "hamburger",
+    "svg": "1f354.svg"
+  },
+  {
+    "name": "slice of pizza",
+    "svg": "1f355.svg"
+  },
+  {
+    "name": "meat on bone",
+    "svg": "1f356.svg"
+  },
+  {
+    "name": "poultry leg",
+    "svg": "1f357.svg"
+  },
+  {
+    "name": "rice cracker",
+    "svg": "1f358.svg"
+  },
+  {
+    "name": "rice ball",
+    "svg": "1f359.svg"
+  },
+  {
+    "name": "cooked rice",
+    "svg": "1f35a.svg"
+  },
+  {
+    "name": "curry and rice",
+    "svg": "1f35b.svg"
+  },
+  {
+    "name": "steaming bowl",
+    "svg": "1f35c.svg"
+  },
+  {
+    "name": "spaghetti",
+    "svg": "1f35d.svg"
+  },
+  {
+    "name": "bread",
+    "svg": "1f35e.svg"
+  },
+  {
+    "name": "french fries",
+    "svg": "1f35f.svg"
+  },
+  {
+    "name": "roasted sweet potato",
+    "svg": "1f360.svg"
+  },
+  {
+    "name": "dango",
+    "svg": "1f361.svg"
+  },
+  {
+    "name": "oden",
+    "svg": "1f362.svg"
+  },
+  {
+    "name": "sushi",
+    "svg": "1f363.svg"
+  },
+  {
+    "name": "fried shrimp",
+    "svg": "1f364.svg"
+  },
+  {
+    "name": "fish cake with swirl design",
+    "svg": "1f365.svg"
+  },
+  {
+    "name": "soft ice cream",
+    "svg": "1f366.svg"
+  },
+  {
+    "name": "shaved ice",
+    "svg": "1f367.svg"
+  },
+  {
+    "name": "ice cream",
+    "svg": "1f368.svg"
+  },
+  {
+    "name": "doughnut",
+    "svg": "1f369.svg"
+  },
+  {
+    "name": "cookie",
+    "svg": "1f36a.svg"
+  },
+  {
+    "name": "chocolate bar",
+    "svg": "1f36b.svg"
+  },
+  {
+    "name": "candy",
+    "svg": "1f36c.svg"
+  },
+  {
+    "name": "lollipop",
+    "svg": "1f36d.svg"
+  },
+  {
+    "name": "custard",
+    "svg": "1f36e.svg"
+  },
+  {
+    "name": "honey pot",
+    "svg": "1f36f.svg"
+  },
+  {
+    "name": "shortcake",
+    "svg": "1f370.svg"
+  },
+  {
+    "name": "bento box",
+    "svg": "1f371.svg"
+  },
+  {
+    "name": "pot of food",
+    "svg": "1f372.svg"
+  },
+  {
+    "name": "cooking",
+    "svg": "1f373.svg"
+  },
+  {
+    "name": "fork and knife",
+    "svg": "1f374.svg"
+  },
+  {
+    "name": "teacup without handle",
+    "svg": "1f375.svg"
+  },
+  {
+    "name": "sake bottle and cup",
+    "svg": "1f376.svg"
+  },
+  {
+    "name": "wine glass",
+    "svg": "1f377.svg"
+  },
+  {
+    "name": "cocktail glass",
+    "svg": "1f378.svg"
+  },
+  {
+    "name": "tropical drink",
+    "svg": "1f379.svg"
+  },
+  {
+    "name": "beer mug",
+    "svg": "1f37a.svg"
+  },
+  {
+    "name": "clinking beer mugs",
+    "svg": "1f37b.svg"
+  },
+  {
+    "name": "baby bottle",
+    "svg": "1f37c.svg"
+  },
+  {
+    "name": "fork and knife with plate",
+    "svg": "1f37d.svg"
+  },
+  {
+    "name": "bottle with popping cork",
+    "svg": "1f37e.svg"
+  },
+  {
+    "name": "popcorn",
+    "svg": "1f37f.svg"
+  },
+  {
+    "name": "ribbon",
+    "svg": "1f380.svg"
+  },
+  {
+    "name": "wrapped present",
+    "svg": "1f381.svg"
+  },
+  {
+    "name": "birthday cake",
+    "svg": "1f382.svg"
+  },
+  {
+    "name": "jack-o-lantern",
+    "svg": "1f383.svg"
+  },
+  {
+    "name": "christmas tree",
+    "svg": "1f384.svg"
+  },
+  {
+    "name": "father christmas",
+    "svg": "1f385.svg"
+  },
+  {
+    "name": "fireworks",
+    "svg": "1f386.svg"
+  },
+  {
+    "name": "firework sparkler",
+    "svg": "1f387.svg"
+  },
+  {
+    "name": "balloon",
+    "svg": "1f388.svg"
+  },
+  {
+    "name": "party popper",
+    "svg": "1f389.svg"
+  },
+  {
+    "name": "confetti ball",
+    "svg": "1f38a.svg"
+  },
+  {
+    "name": "tanabata tree",
+    "svg": "1f38b.svg"
+  },
+  {
+    "name": "crossed flags",
+    "svg": "1f38c.svg"
+  },
+  {
+    "name": "pine decoration",
+    "svg": "1f38d.svg"
+  },
+  {
+    "name": "japanese dolls",
+    "svg": "1f38e.svg"
+  },
+  {
+    "name": "carp streamer",
+    "svg": "1f38f.svg"
+  },
+  {
+    "name": "wind chime",
+    "svg": "1f390.svg"
+  },
+  {
+    "name": "moon viewing ceremony",
+    "svg": "1f391.svg"
+  },
+  {
+    "name": "school satchel",
+    "svg": "1f392.svg"
+  },
+  {
+    "name": "graduation cap",
+    "svg": "1f393.svg"
+  },
+  {
+    "name": "military medal",
+    "svg": "1f396.svg"
+  },
+  {
+    "name": "reminder ribbon",
+    "svg": "1f397.svg"
+  },
+  {
+    "name": "studio microphone",
+    "svg": "1f399.svg"
+  },
+  {
+    "name": "level slider",
+    "svg": "1f39a.svg"
+  },
+  {
+    "name": "control knobs",
+    "svg": "1f39b.svg"
+  },
+  {
+    "name": "film frames",
+    "svg": "1f39e.svg"
+  },
+  {
+    "name": "admission tickets",
+    "svg": "1f39f.svg"
+  },
+  {
+    "name": "carousel horse",
+    "svg": "1f3a0.svg"
+  },
+  {
+    "name": "ferris wheel",
+    "svg": "1f3a1.svg"
+  },
+  {
+    "name": "roller coaster",
+    "svg": "1f3a2.svg"
+  },
+  {
+    "name": "fishing pole and fish",
+    "svg": "1f3a3.svg"
+  },
+  {
+    "name": "microphone",
+    "svg": "1f3a4.svg"
+  },
+  {
+    "name": "movie camera",
+    "svg": "1f3a5.svg"
+  },
+  {
+    "name": "cinema",
+    "svg": "1f3a6.svg"
+  },
+  {
+    "name": "headphone",
+    "svg": "1f3a7.svg"
+  },
+  {
+    "name": "artist palette",
+    "svg": "1f3a8.svg"
+  },
+  {
+    "name": "top hat",
+    "svg": "1f3a9.svg"
+  },
+  {
+    "name": "circus tent",
+    "svg": "1f3aa.svg"
+  },
+  {
+    "name": "ticket",
+    "svg": "1f3ab.svg"
+  },
+  {
+    "name": "clapper board",
+    "svg": "1f3ac.svg"
+  },
+  {
+    "name": "performing arts",
+    "svg": "1f3ad.svg"
+  },
+  {
+    "name": "video game",
+    "svg": "1f3ae.svg"
+  },
+  {
+    "name": "direct hit",
+    "svg": "1f3af.svg"
+  },
+  {
+    "name": "slot machine",
+    "svg": "1f3b0.svg"
+  },
+  {
+    "name": "billiards",
+    "svg": "1f3b1.svg"
+  },
+  {
+    "name": "game die",
+    "svg": "1f3b2.svg"
+  },
+  {
+    "name": "bowling",
+    "svg": "1f3b3.svg"
+  },
+  {
+    "name": "flower playing cards",
+    "svg": "1f3b4.svg"
+  },
+  {
+    "name": "musical note",
+    "svg": "1f3b5.svg"
+  },
+  {
+    "name": "multiple musical notes",
+    "svg": "1f3b6.svg"
+  },
+  {
+    "name": "saxophone",
+    "svg": "1f3b7.svg"
+  },
+  {
+    "name": "guitar",
+    "svg": "1f3b8.svg"
+  },
+  {
+    "name": "musical keyboard",
+    "svg": "1f3b9.svg"
+  },
+  {
+    "name": "trumpet",
+    "svg": "1f3ba.svg"
+  },
+  {
+    "name": "violin",
+    "svg": "1f3bb.svg"
+  },
+  {
+    "name": "musical score",
+    "svg": "1f3bc.svg"
+  },
+  {
+    "name": "running shirt with sash",
+    "svg": "1f3bd.svg"
+  },
+  {
+    "name": "tennis racquet and ball",
+    "svg": "1f3be.svg"
+  },
+  {
+    "name": "ski and ski boot",
+    "svg": "1f3bf.svg"
+  },
+  {
+    "name": "basketball and hoop",
+    "svg": "1f3c0.svg"
+  },
+  {
+    "name": "chequered flag",
+    "svg": "1f3c1.svg"
+  },
+  {
+    "name": "snowboarder",
+    "svg": "1f3c2.svg"
+  },
+  {
+    "name": "sports medal",
+    "svg": "1f3c5.svg"
+  },
+  {
+    "name": "trophy",
+    "svg": "1f3c6.svg"
+  },
+  {
+    "name": "horse racing",
+    "svg": "1f3c7.svg"
+  },
+  {
+    "name": "american football",
+    "svg": "1f3c8.svg"
+  },
+  {
+    "name": "rugby football",
+    "svg": "1f3c9.svg"
+  },
+  {
+    "name": "racing motorcycle",
+    "svg": "1f3cd.svg"
+  },
+  {
+    "name": "racing car",
+    "svg": "1f3ce.svg"
+  },
+  {
+    "name": "cricket bat and ball",
+    "svg": "1f3cf.svg"
+  },
+  {
+    "name": "volleyball",
+    "svg": "1f3d0.svg"
+  },
+  {
+    "name": "field hockey stick and ball",
+    "svg": "1f3d1.svg"
+  },
+  {
+    "name": "ice hockey stick and puck",
+    "svg": "1f3d2.svg"
+  },
+  {
+    "name": "table tennis paddle and ball",
+    "svg": "1f3d3.svg"
+  },
+  {
+    "name": "snow capped mountain",
+    "svg": "1f3d4.svg"
+  },
+  {
+    "name": "camping",
+    "svg": "1f3d5.svg"
+  },
+  {
+    "name": "beach with umbrella",
+    "svg": "1f3d6.svg"
+  },
+  {
+    "name": "building construction",
+    "svg": "1f3d7.svg"
+  },
+  {
+    "name": "house buildings",
+    "svg": "1f3d8.svg"
+  },
+  {
+    "name": "cityscape",
+    "svg": "1f3d9.svg"
+  },
+  {
+    "name": "derelict house building",
+    "svg": "1f3da.svg"
+  },
+  {
+    "name": "classical building",
+    "svg": "1f3db.svg"
+  },
+  {
+    "name": "desert",
+    "svg": "1f3dc.svg"
+  },
+  {
+    "name": "desert island",
+    "svg": "1f3dd.svg"
+  },
+  {
+    "name": "national park",
+    "svg": "1f3de.svg"
+  },
+  {
+    "name": "stadium",
+    "svg": "1f3df.svg"
+  },
+  {
+    "name": "house building",
+    "svg": "1f3e0.svg"
+  },
+  {
+    "name": "house with garden",
+    "svg": "1f3e1.svg"
+  },
+  {
+    "name": "office building",
+    "svg": "1f3e2.svg"
+  },
+  {
+    "name": "japanese post office",
+    "svg": "1f3e3.svg"
+  },
+  {
+    "name": "european post office",
+    "svg": "1f3e4.svg"
+  },
+  {
+    "name": "hospital",
+    "svg": "1f3e5.svg"
+  },
+  {
+    "name": "bank",
+    "svg": "1f3e6.svg"
+  },
+  {
+    "name": "automated teller machine",
+    "svg": "1f3e7.svg"
+  },
+  {
+    "name": "hotel",
+    "svg": "1f3e8.svg"
+  },
+  {
+    "name": "love hotel",
+    "svg": "1f3e9.svg"
+  },
+  {
+    "name": "convenience store",
+    "svg": "1f3ea.svg"
+  },
+  {
+    "name": "school",
+    "svg": "1f3eb.svg"
+  },
+  {
+    "name": "department store",
+    "svg": "1f3ec.svg"
+  },
+  {
+    "name": "factory",
+    "svg": "1f3ed.svg"
+  },
+  {
+    "name": "izakaya lantern",
+    "svg": "1f3ee.svg"
+  },
+  {
+    "name": "japanese castle",
+    "svg": "1f3ef.svg"
+  },
+  {
+    "name": "european castle",
+    "svg": "1f3f0.svg"
+  },
+  {
+    "name": "waving white flag",
+    "svg": "1f3f3.svg"
+  },
+  {
+    "name": "waving black flag",
+    "svg": "1f3f4.svg"
+  },
+  {
+    "name": "rosette",
+    "svg": "1f3f5.svg"
+  },
+  {
+    "name": "label",
+    "svg": "1f3f7.svg"
+  },
+  {
+    "name": "badminton racquet and shuttlecock",
+    "svg": "1f3f8.svg"
+  },
+  {
+    "name": "bow and arrow",
+    "svg": "1f3f9.svg"
+  },
+  {
+    "name": "amphora",
+    "svg": "1f3fa.svg"
+  },
+  {
+    "name": "emoji modifier fitzpatrick type-1-2",
+    "svg": "1f3fb.svg"
+  },
+  {
+    "name": "emoji modifier fitzpatrick type-3",
+    "svg": "1f3fc.svg"
+  },
+  {
+    "name": "emoji modifier fitzpatrick type-4",
+    "svg": "1f3fd.svg"
+  },
+  {
+    "name": "emoji modifier fitzpatrick type-5",
+    "svg": "1f3fe.svg"
+  },
+  {
+    "name": "emoji modifier fitzpatrick type-6",
+    "svg": "1f3ff.svg"
+  },
+  {
+    "name": "rat",
+    "svg": "1f400.svg"
+  },
+  {
+    "name": "mouse",
+    "svg": "1f401.svg"
+  },
+  {
+    "name": "ox",
+    "svg": "1f402.svg"
+  },
+  {
+    "name": "water buffalo",
+    "svg": "1f403.svg"
+  },
+  {
+    "name": "cow",
+    "svg": "1f404.svg"
+  },
+  {
+    "name": "tiger",
+    "svg": "1f405.svg"
+  },
+  {
+    "name": "leopard",
+    "svg": "1f406.svg"
+  },
+  {
+    "name": "rabbit",
+    "svg": "1f407.svg"
+  },
+  {
+    "name": "cat",
+    "svg": "1f408.svg"
+  },
+  {
+    "name": "dragon",
+    "svg": "1f409.svg"
+  },
+  {
+    "name": "crocodile",
+    "svg": "1f40a.svg"
+  },
+  {
+    "name": "whale",
+    "svg": "1f40b.svg"
+  },
+  {
+    "name": "snail",
+    "svg": "1f40c.svg"
+  },
+  {
+    "name": "snake",
+    "svg": "1f40d.svg"
+  },
+  {
+    "name": "horse",
+    "svg": "1f40e.svg"
+  },
+  {
+    "name": "ram",
+    "svg": "1f40f.svg"
+  },
+  {
+    "name": "goat",
+    "svg": "1f410.svg"
+  },
+  {
+    "name": "sheep",
+    "svg": "1f411.svg"
+  },
+  {
+    "name": "monkey",
+    "svg": "1f412.svg"
+  },
+  {
+    "name": "rooster",
+    "svg": "1f413.svg"
+  },
+  {
+    "name": "chicken",
+    "svg": "1f414.svg"
+  },
+  {
+    "name": "dog",
+    "svg": "1f415.svg"
+  },
+  {
+    "name": "pig",
+    "svg": "1f416.svg"
+  },
+  {
+    "name": "boar",
+    "svg": "1f417.svg"
+  },
+  {
+    "name": "elephant",
+    "svg": "1f418.svg"
+  },
+  {
+    "name": "octopus",
+    "svg": "1f419.svg"
+  },
+  {
+    "name": "spiral shell",
+    "svg": "1f41a.svg"
+  },
+  {
+    "name": "bug",
+    "svg": "1f41b.svg"
+  },
+  {
+    "name": "ant",
+    "svg": "1f41c.svg"
+  },
+  {
+    "name": "honeybee",
+    "svg": "1f41d.svg"
+  },
+  {
+    "name": "lady beetle",
+    "svg": "1f41e.svg"
+  },
+  {
+    "name": "fish",
+    "svg": "1f41f.svg"
+  },
+  {
+    "name": "tropical fish",
+    "svg": "1f420.svg"
+  },
+  {
+    "name": "blowfish",
+    "svg": "1f421.svg"
+  },
+  {
+    "name": "turtle",
+    "svg": "1f422.svg"
+  },
+  {
+    "name": "hatching chick",
+    "svg": "1f423.svg"
+  },
+  {
+    "name": "baby chick",
+    "svg": "1f424.svg"
+  },
+  {
+    "name": "front-facing baby chick",
+    "svg": "1f425.svg"
+  },
+  {
+    "name": "bird",
+    "svg": "1f426.svg"
+  },
+  {
+    "name": "penguin",
+    "svg": "1f427.svg"
+  },
+  {
+    "name": "koala",
+    "svg": "1f428.svg"
+  },
+  {
+    "name": "poodle",
+    "svg": "1f429.svg"
+  },
+  {
+    "name": "dromedary camel",
+    "svg": "1f42a.svg"
+  },
+  {
+    "name": "bactrian camel",
+    "svg": "1f42b.svg"
+  },
+  {
+    "name": "dolphin",
+    "svg": "1f42c.svg"
+  },
+  {
+    "name": "mouse face",
+    "svg": "1f42d.svg"
+  },
+  {
+    "name": "cow face",
+    "svg": "1f42e.svg"
+  },
+  {
+    "name": "tiger face",
+    "svg": "1f42f.svg"
+  },
+  {
+    "name": "rabbit face",
+    "svg": "1f430.svg"
+  },
+  {
+    "name": "cat face",
+    "svg": "1f431.svg"
+  },
+  {
+    "name": "dragon face",
+    "svg": "1f432.svg"
+  },
+  {
+    "name": "spouting whale",
+    "svg": "1f433.svg"
+  },
+  {
+    "name": "horse face",
+    "svg": "1f434.svg"
+  },
+  {
+    "name": "monkey face",
+    "svg": "1f435.svg"
+  },
+  {
+    "name": "dog face",
+    "svg": "1f436.svg"
+  },
+  {
+    "name": "pig face",
+    "svg": "1f437.svg"
+  },
+  {
+    "name": "frog face",
+    "svg": "1f438.svg"
+  },
+  {
+    "name": "hamster face",
+    "svg": "1f439.svg"
+  },
+  {
+    "name": "wolf face",
+    "svg": "1f43a.svg"
+  },
+  {
+    "name": "bear face",
+    "svg": "1f43b.svg"
+  },
+  {
+    "name": "panda face",
+    "svg": "1f43c.svg"
+  },
+  {
+    "name": "pig nose",
+    "svg": "1f43d.svg"
+  },
+  {
+    "name": "paw prints",
+    "svg": "1f43e.svg"
+  },
+  {
+    "name": "chipmunk",
+    "svg": "1f43f.svg"
+  },
+  {
+    "name": "eyes",
+    "svg": "1f440.svg"
+  },
+  {
+    "name": "eye",
+    "svg": "1f441.svg"
+  },
+  {
+    "name": "ear",
+    "svg": "1f442.svg"
+  },
+  {
+    "name": "nose",
+    "svg": "1f443.svg"
+  },
+  {
+    "name": "mouth",
+    "svg": "1f444.svg"
+  },
+  {
+    "name": "tongue",
+    "svg": "1f445.svg"
+  },
+  {
+    "name": "white up pointing backhand index",
+    "svg": "1f446.svg"
+  },
+  {
+    "name": "white down pointing backhand index",
+    "svg": "1f447.svg"
+  },
+  {
+    "name": "white left pointing backhand index",
+    "svg": "1f448.svg"
+  },
+  {
+    "name": "white right pointing backhand index",
+    "svg": "1f449.svg"
+  },
+  {
+    "name": "fisted hand sign",
+    "svg": "1f44a.svg"
+  },
+  {
+    "name": "waving hand sign",
+    "svg": "1f44b.svg"
+  },
+  {
+    "name": "ok hand sign",
+    "svg": "1f44c.svg"
+  },
+  {
+    "name": "thumbs up sign",
+    "svg": "1f44d.svg"
+  },
+  {
+    "name": "thumbs down sign",
+    "svg": "1f44e.svg"
+  },
+  {
+    "name": "clapping hands sign",
+    "svg": "1f44f.svg"
+  },
+  {
+    "name": "open hands sign",
+    "svg": "1f450.svg"
+  },
+  {
+    "name": "crown",
+    "svg": "1f451.svg"
+  },
+  {
+    "name": "womans hat",
+    "svg": "1f452.svg"
+  },
+  {
+    "name": "eyeglasses",
+    "svg": "1f453.svg"
+  },
+  {
+    "name": "necktie",
+    "svg": "1f454.svg"
+  },
+  {
+    "name": "t-shirt",
+    "svg": "1f455.svg"
+  },
+  {
+    "name": "jeans",
+    "svg": "1f456.svg"
+  },
+  {
+    "name": "dress",
+    "svg": "1f457.svg"
+  },
+  {
+    "name": "kimono",
+    "svg": "1f458.svg"
+  },
+  {
+    "name": "bikini",
+    "svg": "1f459.svg"
+  },
+  {
+    "name": "womans clothes",
+    "svg": "1f45a.svg"
+  },
+  {
+    "name": "purse",
+    "svg": "1f45b.svg"
+  },
+  {
+    "name": "handbag",
+    "svg": "1f45c.svg"
+  },
+  {
+    "name": "pouch",
+    "svg": "1f45d.svg"
+  },
+  {
+    "name": "mans shoe",
+    "svg": "1f45e.svg"
+  },
+  {
+    "name": "athletic shoe",
+    "svg": "1f45f.svg"
+  },
+  {
+    "name": "high-heeled shoe",
+    "svg": "1f460.svg"
+  },
+  {
+    "name": "womans sandal",
+    "svg": "1f461.svg"
+  },
+  {
+    "name": "womans boots",
+    "svg": "1f462.svg"
+  },
+  {
+    "name": "footprints",
+    "svg": "1f463.svg"
+  },
+  {
+    "name": "bust in silhouette",
+    "svg": "1f464.svg"
+  },
+  {
+    "name": "busts in silhouette",
+    "svg": "1f465.svg"
+  },
+  {
+    "name": "boy",
+    "svg": "1f466.svg"
+  },
+  {
+    "name": "girl",
+    "svg": "1f467.svg"
+  },
+  {
+    "name": "man",
+    "svg": "1f468.svg"
+  },
+  {
+    "name": "woman",
+    "svg": "1f469.svg"
+  },
+  {
+    "name": "family",
+    "svg": "1f46a.svg"
+  },
+  {
+    "name": "man and woman holding hands",
+    "svg": "1f46b.svg"
+  },
+  {
+    "name": "two men holding hands",
+    "svg": "1f46c.svg"
+  },
+  {
+    "name": "two women holding hands",
+    "svg": "1f46d.svg"
+  },
+  {
+    "name": "bride with veil",
+    "svg": "1f470.svg"
+  },
+  {
+    "name": "man with gua pi mao",
+    "svg": "1f472.svg"
+  },
+  {
+    "name": "older man",
+    "svg": "1f474.svg"
+  },
+  {
+    "name": "older woman",
+    "svg": "1f475.svg"
+  },
+  {
+    "name": "baby",
+    "svg": "1f476.svg"
+  },
+  {
+    "name": "princess",
+    "svg": "1f478.svg"
+  },
+  {
+    "name": "japanese ogre",
+    "svg": "1f479.svg"
+  },
+  {
+    "name": "japanese goblin",
+    "svg": "1f47a.svg"
+  },
+  {
+    "name": "ghost",
+    "svg": "1f47b.svg"
+  },
+  {
+    "name": "baby angel",
+    "svg": "1f47c.svg"
+  },
+  {
+    "name": "extraterrestrial alien",
+    "svg": "1f47d.svg"
+  },
+  {
+    "name": "alien monster",
+    "svg": "1f47e.svg"
+  },
+  {
+    "name": "imp",
+    "svg": "1f47f.svg"
+  },
+  {
+    "name": "skull",
+    "svg": "1f480.svg"
+  },
+  {
+    "name": "dancer",
+    "svg": "1f483.svg"
+  },
+  {
+    "name": "lipstick",
+    "svg": "1f484.svg"
+  },
+  {
+    "name": "nail polish",
+    "svg": "1f485.svg"
+  },
+  {
+    "name": "barber pole",
+    "svg": "1f488.svg"
+  },
+  {
+    "name": "syringe",
+    "svg": "1f489.svg"
+  },
+  {
+    "name": "pill",
+    "svg": "1f48a.svg"
+  },
+  {
+    "name": "kiss mark",
+    "svg": "1f48b.svg"
+  },
+  {
+    "name": "love letter",
+    "svg": "1f48c.svg"
+  },
+  {
+    "name": "ring",
+    "svg": "1f48d.svg"
+  },
+  {
+    "name": "gem stone",
+    "svg": "1f48e.svg"
+  },
+  {
+    "name": "kiss",
+    "svg": "1f48f.svg"
+  },
+  {
+    "name": "bouquet",
+    "svg": "1f490.svg"
+  },
+  {
+    "name": "couple with heart",
+    "svg": "1f491.svg"
+  },
+  {
+    "name": "wedding",
+    "svg": "1f492.svg"
+  },
+  {
+    "name": "beating heart",
+    "svg": "1f493.svg"
+  },
+  {
+    "name": "broken heart",
+    "svg": "1f494.svg"
+  },
+  {
+    "name": "two hearts",
+    "svg": "1f495.svg"
+  },
+  {
+    "name": "sparkling heart",
+    "svg": "1f496.svg"
+  },
+  {
+    "name": "growing heart",
+    "svg": "1f497.svg"
+  },
+  {
+    "name": "heart with arrow",
+    "svg": "1f498.svg"
+  },
+  {
+    "name": "blue heart",
+    "svg": "1f499.svg"
+  },
+  {
+    "name": "green heart",
+    "svg": "1f49a.svg"
+  },
+  {
+    "name": "yellow heart",
+    "svg": "1f49b.svg"
+  },
+  {
+    "name": "purple heart",
+    "svg": "1f49c.svg"
+  },
+  {
+    "name": "heart with ribbon",
+    "svg": "1f49d.svg"
+  },
+  {
+    "name": "revolving hearts",
+    "svg": "1f49e.svg"
+  },
+  {
+    "name": "heart decoration",
+    "svg": "1f49f.svg"
+  },
+  {
+    "name": "diamond shape with a dot inside",
+    "svg": "1f4a0.svg"
+  },
+  {
+    "name": "electric light bulb",
+    "svg": "1f4a1.svg"
+  },
+  {
+    "name": "anger symbol",
+    "svg": "1f4a2.svg"
+  },
+  {
+    "name": "bomb",
+    "svg": "1f4a3.svg"
+  },
+  {
+    "name": "sleeping symbol",
+    "svg": "1f4a4.svg"
+  },
+  {
+    "name": "collision symbol",
+    "svg": "1f4a5.svg"
+  },
+  {
+    "name": "splashing sweat symbol",
+    "svg": "1f4a6.svg"
+  },
+  {
+    "name": "droplet",
+    "svg": "1f4a7.svg"
+  },
+  {
+    "name": "dash symbol",
+    "svg": "1f4a8.svg"
+  },
+  {
+    "name": "pile of poo",
+    "svg": "1f4a9.svg"
+  },
+  {
+    "name": "flexed biceps",
+    "svg": "1f4aa.svg"
+  },
+  {
+    "name": "dizzy symbol",
+    "svg": "1f4ab.svg"
+  },
+  {
+    "name": "speech balloon",
+    "svg": "1f4ac.svg"
+  },
+  {
+    "name": "thought balloon",
+    "svg": "1f4ad.svg"
+  },
+  {
+    "name": "white flower",
+    "svg": "1f4ae.svg"
+  },
+  {
+    "name": "hundred points symbol",
+    "svg": "1f4af.svg"
+  },
+  {
+    "name": "money bag",
+    "svg": "1f4b0.svg"
+  },
+  {
+    "name": "currency exchange",
+    "svg": "1f4b1.svg"
+  },
+  {
+    "name": "heavy dollar sign",
+    "svg": "1f4b2.svg"
+  },
+  {
+    "name": "credit card",
+    "svg": "1f4b3.svg"
+  },
+  {
+    "name": "banknote with yen sign",
+    "svg": "1f4b4.svg"
+  },
+  {
+    "name": "banknote with dollar sign",
+    "svg": "1f4b5.svg"
+  },
+  {
+    "name": "banknote with euro sign",
+    "svg": "1f4b6.svg"
+  },
+  {
+    "name": "banknote with pound sign",
+    "svg": "1f4b7.svg"
+  },
+  {
+    "name": "money with wings",
+    "svg": "1f4b8.svg"
+  },
+  {
+    "name": "chart with upwards trend and yen sign",
+    "svg": "1f4b9.svg"
+  },
+  {
+    "name": "seat",
+    "svg": "1f4ba.svg"
+  },
+  {
+    "name": "personal computer",
+    "svg": "1f4bb.svg"
+  },
+  {
+    "name": "briefcase",
+    "svg": "1f4bc.svg"
+  },
+  {
+    "name": "minidisc",
+    "svg": "1f4bd.svg"
+  },
+  {
+    "name": "floppy disk",
+    "svg": "1f4be.svg"
+  },
+  {
+    "name": "optical disc",
+    "svg": "1f4bf.svg"
+  },
+  {
+    "name": "dvd",
+    "svg": "1f4c0.svg"
+  },
+  {
+    "name": "file folder",
+    "svg": "1f4c1.svg"
+  },
+  {
+    "name": "open file folder",
+    "svg": "1f4c2.svg"
+  },
+  {
+    "name": "page with curl",
+    "svg": "1f4c3.svg"
+  },
+  {
+    "name": "page facing up",
+    "svg": "1f4c4.svg"
+  },
+  {
+    "name": "calendar",
+    "svg": "1f4c5.svg"
+  },
+  {
+    "name": "tear-off calendar",
+    "svg": "1f4c6.svg"
+  },
+  {
+    "name": "card index",
+    "svg": "1f4c7.svg"
+  },
+  {
+    "name": "chart with upwards trend",
+    "svg": "1f4c8.svg"
+  },
+  {
+    "name": "chart with downwards trend",
+    "svg": "1f4c9.svg"
+  },
+  {
+    "name": "bar chart",
+    "svg": "1f4ca.svg"
+  },
+  {
+    "name": "clipboard",
+    "svg": "1f4cb.svg"
+  },
+  {
+    "name": "pushpin",
+    "svg": "1f4cc.svg"
+  },
+  {
+    "name": "round pushpin",
+    "svg": "1f4cd.svg"
+  },
+  {
+    "name": "paperclip",
+    "svg": "1f4ce.svg"
+  },
+  {
+    "name": "straight ruler",
+    "svg": "1f4cf.svg"
+  },
+  {
+    "name": "triangular ruler",
+    "svg": "1f4d0.svg"
+  },
+  {
+    "name": "bookmark tabs",
+    "svg": "1f4d1.svg"
+  },
+  {
+    "name": "ledger",
+    "svg": "1f4d2.svg"
+  },
+  {
+    "name": "notebook",
+    "svg": "1f4d3.svg"
+  },
+  {
+    "name": "notebook with decorative cover",
+    "svg": "1f4d4.svg"
+  },
+  {
+    "name": "closed book",
+    "svg": "1f4d5.svg"
+  },
+  {
+    "name": "open book",
+    "svg": "1f4d6.svg"
+  },
+  {
+    "name": "green book",
+    "svg": "1f4d7.svg"
+  },
+  {
+    "name": "blue book",
+    "svg": "1f4d8.svg"
+  },
+  {
+    "name": "orange book",
+    "svg": "1f4d9.svg"
+  },
+  {
+    "name": "books",
+    "svg": "1f4da.svg"
+  },
+  {
+    "name": "name badge",
+    "svg": "1f4db.svg"
+  },
+  {
+    "name": "scroll",
+    "svg": "1f4dc.svg"
+  },
+  {
+    "name": "memo",
+    "svg": "1f4dd.svg"
+  },
+  {
+    "name": "telephone receiver",
+    "svg": "1f4de.svg"
+  },
+  {
+    "name": "pager",
+    "svg": "1f4df.svg"
+  },
+  {
+    "name": "fax machine",
+    "svg": "1f4e0.svg"
+  },
+  {
+    "name": "satellite antenna",
+    "svg": "1f4e1.svg"
+  },
+  {
+    "name": "public address loudspeaker",
+    "svg": "1f4e2.svg"
+  },
+  {
+    "name": "cheering megaphone",
+    "svg": "1f4e3.svg"
+  },
+  {
+    "name": "outbox tray",
+    "svg": "1f4e4.svg"
+  },
+  {
+    "name": "inbox tray",
+    "svg": "1f4e5.svg"
+  },
+  {
+    "name": "package",
+    "svg": "1f4e6.svg"
+  },
+  {
+    "name": "e-mail symbol",
+    "svg": "1f4e7.svg"
+  },
+  {
+    "name": "incoming envelope",
+    "svg": "1f4e8.svg"
+  },
+  {
+    "name": "envelope with downwards arrow above",
+    "svg": "1f4e9.svg"
+  },
+  {
+    "name": "closed mailbox with lowered flag",
+    "svg": "1f4ea.svg"
+  },
+  {
+    "name": "closed mailbox with raised flag",
+    "svg": "1f4eb.svg"
+  },
+  {
+    "name": "open mailbox with raised flag",
+    "svg": "1f4ec.svg"
+  },
+  {
+    "name": "open mailbox with lowered flag",
+    "svg": "1f4ed.svg"
+  },
+  {
+    "name": "postbox",
+    "svg": "1f4ee.svg"
+  },
+  {
+    "name": "postal horn",
+    "svg": "1f4ef.svg"
+  },
+  {
+    "name": "newspaper",
+    "svg": "1f4f0.svg"
+  },
+  {
+    "name": "mobile phone",
+    "svg": "1f4f1.svg"
+  },
+  {
+    "name": "mobile phone with rightwards arrow at left",
+    "svg": "1f4f2.svg"
+  },
+  {
+    "name": "vibration mode",
+    "svg": "1f4f3.svg"
+  },
+  {
+    "name": "mobile phone off",
+    "svg": "1f4f4.svg"
+  },
+  {
+    "name": "no mobile phones",
+    "svg": "1f4f5.svg"
+  },
+  {
+    "name": "antenna with bars",
+    "svg": "1f4f6.svg"
+  },
+  {
+    "name": "camera",
+    "svg": "1f4f7.svg"
+  },
+  {
+    "name": "camera with flash",
+    "svg": "1f4f8.svg"
+  },
+  {
+    "name": "video camera",
+    "svg": "1f4f9.svg"
+  },
+  {
+    "name": "television",
+    "svg": "1f4fa.svg"
+  },
+  {
+    "name": "radio",
+    "svg": "1f4fb.svg"
+  },
+  {
+    "name": "videocassette",
+    "svg": "1f4fc.svg"
+  },
+  {
+    "name": "film projector",
+    "svg": "1f4fd.svg"
+  },
+  {
+    "name": "prayer beads",
+    "svg": "1f4ff.svg"
+  },
+  {
+    "name": "twisted rightwards arrows",
+    "svg": "1f500.svg"
+  },
+  {
+    "name": "clockwise rightwards and leftwards open circle arrows",
+    "svg": "1f501.svg"
+  },
+  {
+    "name": "clockwise rightwards and leftwards open circle arrows with circled one overlay",
+    "svg": "1f502.svg"
+  },
+  {
+    "name": "clockwise downwards and upwards open circle arrows",
+    "svg": "1f503.svg"
+  },
+  {
+    "name": "anticlockwise downwards and upwards open circle arrows",
+    "svg": "1f504.svg"
+  },
+  {
+    "name": "low brightness symbol",
+    "svg": "1f505.svg"
+  },
+  {
+    "name": "high brightness symbol",
+    "svg": "1f506.svg"
+  },
+  {
+    "name": "speaker with cancellation stroke",
+    "svg": "1f507.svg"
+  },
+  {
+    "name": "speaker",
+    "svg": "1f508.svg"
+  },
+  {
+    "name": "speaker with one sound wave",
+    "svg": "1f509.svg"
+  },
+  {
+    "name": "speaker with three sound waves",
+    "svg": "1f50a.svg"
+  },
+  {
+    "name": "battery",
+    "svg": "1f50b.svg"
+  },
+  {
+    "name": "electric plug",
+    "svg": "1f50c.svg"
+  },
+  {
+    "name": "left-pointing magnifying glass",
+    "svg": "1f50d.svg"
+  },
+  {
+    "name": "right-pointing magnifying glass",
+    "svg": "1f50e.svg"
+  },
+  {
+    "name": "lock with ink pen",
+    "svg": "1f50f.svg"
+  },
+  {
+    "name": "closed lock with key",
+    "svg": "1f510.svg"
+  },
+  {
+    "name": "key",
+    "svg": "1f511.svg"
+  },
+  {
+    "name": "lock",
+    "svg": "1f512.svg"
+  },
+  {
+    "name": "open lock",
+    "svg": "1f513.svg"
+  },
+  {
+    "name": "bell",
+    "svg": "1f514.svg"
+  },
+  {
+    "name": "bell with cancellation stroke",
+    "svg": "1f515.svg"
+  },
+  {
+    "name": "bookmark",
+    "svg": "1f516.svg"
+  },
+  {
+    "name": "link symbol",
+    "svg": "1f517.svg"
+  },
+  {
+    "name": "radio button",
+    "svg": "1f518.svg"
+  },
+  {
+    "name": "back with leftwards arrow above",
+    "svg": "1f519.svg"
+  },
+  {
+    "name": "end with leftwards arrow above",
+    "svg": "1f51a.svg"
+  },
+  {
+    "name": "on with exclamation mark with left right arrow above",
+    "svg": "1f51b.svg"
+  },
+  {
+    "name": "soon with rightwards arrow above",
+    "svg": "1f51c.svg"
+  },
+  {
+    "name": "top with upwards arrow above",
+    "svg": "1f51d.svg"
+  },
+  {
+    "name": "no one under eighteen symbol",
+    "svg": "1f51e.svg"
+  },
+  {
+    "name": "keycap ten",
+    "svg": "1f51f.svg"
+  },
+  {
+    "name": "input symbol for latin capital letters",
+    "svg": "1f520.svg"
+  },
+  {
+    "name": "input symbol for latin small letters",
+    "svg": "1f521.svg"
+  },
+  {
+    "name": "input symbol for numbers",
+    "svg": "1f522.svg"
+  },
+  {
+    "name": "input symbol for symbols",
+    "svg": "1f523.svg"
+  },
+  {
+    "name": "input symbol for latin letters",
+    "svg": "1f524.svg"
+  },
+  {
+    "name": "fire",
+    "svg": "1f525.svg"
+  },
+  {
+    "name": "electric torch",
+    "svg": "1f526.svg"
+  },
+  {
+    "name": "wrench",
+    "svg": "1f527.svg"
+  },
+  {
+    "name": "hammer",
+    "svg": "1f528.svg"
+  },
+  {
+    "name": "nut and bolt",
+    "svg": "1f529.svg"
+  },
+  {
+    "name": "hocho",
+    "svg": "1f52a.svg"
+  },
+  {
+    "name": "pistol",
+    "svg": "1f52b.svg"
+  },
+  {
+    "name": "microscope",
+    "svg": "1f52c.svg"
+  },
+  {
+    "name": "telescope",
+    "svg": "1f52d.svg"
+  },
+  {
+    "name": "crystal ball",
+    "svg": "1f52e.svg"
+  },
+  {
+    "name": "six pointed star with middle dot",
+    "svg": "1f52f.svg"
+  },
+  {
+    "name": "japanese symbol for beginner",
+    "svg": "1f530.svg"
+  },
+  {
+    "name": "trident emblem",
+    "svg": "1f531.svg"
+  },
+  {
+    "name": "black square button",
+    "svg": "1f532.svg"
+  },
+  {
+    "name": "white square button",
+    "svg": "1f533.svg"
+  },
+  {
+    "name": "large red circle",
+    "svg": "1f534.svg"
+  },
+  {
+    "name": "large blue circle",
+    "svg": "1f535.svg"
+  },
+  {
+    "name": "large orange diamond",
+    "svg": "1f536.svg"
+  },
+  {
+    "name": "large blue diamond",
+    "svg": "1f537.svg"
+  },
+  {
+    "name": "small orange diamond",
+    "svg": "1f538.svg"
+  },
+  {
+    "name": "small blue diamond",
+    "svg": "1f539.svg"
+  },
+  {
+    "name": "up-pointing red triangle",
+    "svg": "1f53a.svg"
+  },
+  {
+    "name": "down-pointing red triangle",
+    "svg": "1f53b.svg"
+  },
+  {
+    "name": "up-pointing small red triangle",
+    "svg": "1f53c.svg"
+  },
+  {
+    "name": "down-pointing small red triangle",
+    "svg": "1f53d.svg"
+  },
+  {
+    "name": "om symbol",
+    "svg": "1f549.svg"
+  },
+  {
+    "name": "dove of peace",
+    "svg": "1f54a.svg"
+  },
+  {
+    "name": "kaaba",
+    "svg": "1f54b.svg"
+  },
+  {
+    "name": "mosque",
+    "svg": "1f54c.svg"
+  },
+  {
+    "name": "synagogue",
+    "svg": "1f54d.svg"
+  },
+  {
+    "name": "menorah with nine branches",
+    "svg": "1f54e.svg"
+  },
+  {
+    "name": "clock face one oclock",
+    "svg": "1f550.svg"
+  },
+  {
+    "name": "clock face two oclock",
+    "svg": "1f551.svg"
+  },
+  {
+    "name": "clock face three oclock",
+    "svg": "1f552.svg"
+  },
+  {
+    "name": "clock face four oclock",
+    "svg": "1f553.svg"
+  },
+  {
+    "name": "clock face five oclock",
+    "svg": "1f554.svg"
+  },
+  {
+    "name": "clock face six oclock",
+    "svg": "1f555.svg"
+  },
+  {
+    "name": "clock face seven oclock",
+    "svg": "1f556.svg"
+  },
+  {
+    "name": "clock face eight oclock",
+    "svg": "1f557.svg"
+  },
+  {
+    "name": "clock face nine oclock",
+    "svg": "1f558.svg"
+  },
+  {
+    "name": "clock face ten oclock",
+    "svg": "1f559.svg"
+  },
+  {
+    "name": "clock face eleven oclock",
+    "svg": "1f55a.svg"
+  },
+  {
+    "name": "clock face twelve oclock",
+    "svg": "1f55b.svg"
+  },
+  {
+    "name": "clock face one-thirty",
+    "svg": "1f55c.svg"
+  },
+  {
+    "name": "clock face two-thirty",
+    "svg": "1f55d.svg"
+  },
+  {
+    "name": "clock face three-thirty",
+    "svg": "1f55e.svg"
+  },
+  {
+    "name": "clock face four-thirty",
+    "svg": "1f55f.svg"
+  },
+  {
+    "name": "clock face five-thirty",
+    "svg": "1f560.svg"
+  },
+  {
+    "name": "clock face six-thirty",
+    "svg": "1f561.svg"
+  },
+  {
+    "name": "clock face seven-thirty",
+    "svg": "1f562.svg"
+  },
+  {
+    "name": "clock face eight-thirty",
+    "svg": "1f563.svg"
+  },
+  {
+    "name": "clock face nine-thirty",
+    "svg": "1f564.svg"
+  },
+  {
+    "name": "clock face ten-thirty",
+    "svg": "1f565.svg"
+  },
+  {
+    "name": "clock face eleven-thirty",
+    "svg": "1f566.svg"
+  },
+  {
+    "name": "clock face twelve-thirty",
+    "svg": "1f567.svg"
+  },
+  {
+    "name": "candle",
+    "svg": "1f56f.svg"
+  },
+  {
+    "name": "mantelpiece clock",
+    "svg": "1f570.svg"
+  },
+  {
+    "name": "hole",
+    "svg": "1f573.svg"
+  },
+  {
+    "name": "man in business suit levitating",
+    "svg": "1f574.svg"
+  },
+  {
+    "name": "dark sunglasses",
+    "svg": "1f576.svg"
+  },
+  {
+    "name": "spider",
+    "svg": "1f577.svg"
+  },
+  {
+    "name": "spider web",
+    "svg": "1f578.svg"
+  },
+  {
+    "name": "joystick",
+    "svg": "1f579.svg"
+  },
+  {
+    "name": "linked paperclips",
+    "svg": "1f587.svg"
+  },
+  {
+    "name": "lower left ballpoint pen",
+    "svg": "1f58a.svg"
+  },
+  {
+    "name": "lower left fountain pen",
+    "svg": "1f58b.svg"
+  },
+  {
+    "name": "lower left paintbrush",
+    "svg": "1f58c.svg"
+  },
+  {
+    "name": "lower left crayon",
+    "svg": "1f58d.svg"
+  },
+  {
+    "name": "raised hand with fingers splayed",
+    "svg": "1f590.svg"
+  },
+  {
+    "name": "reversed hand with middle finger extended",
+    "svg": "1f595.svg"
+  },
+  {
+    "name": "raised hand with part between middle and ring fingers",
+    "svg": "1f596.svg"
+  },
+  {
+    "name": "desktop computer",
+    "svg": "1f5a5.svg"
+  },
+  {
+    "name": "printer",
+    "svg": "1f5a8.svg"
+  },
+  {
+    "name": "three button mouse",
+    "svg": "1f5b1.svg"
+  },
+  {
+    "name": "trackball",
+    "svg": "1f5b2.svg"
+  },
+  {
+    "name": "frame with picture",
+    "svg": "1f5bc.svg"
+  },
+  {
+    "name": "card index dividers",
+    "svg": "1f5c2.svg"
+  },
+  {
+    "name": "card file box",
+    "svg": "1f5c3.svg"
+  },
+  {
+    "name": "file cabinet",
+    "svg": "1f5c4.svg"
+  },
+  {
+    "name": "wastebasket",
+    "svg": "1f5d1.svg"
+  },
+  {
+    "name": "spiral note pad",
+    "svg": "1f5d2.svg"
+  },
+  {
+    "name": "spiral calendar pad",
+    "svg": "1f5d3.svg"
+  },
+  {
+    "name": "compression",
+    "svg": "1f5dc.svg"
+  },
+  {
+    "name": "old key",
+    "svg": "1f5dd.svg"
+  },
+  {
+    "name": "rolled-up newspaper",
+    "svg": "1f5de.svg"
+  },
+  {
+    "name": "dagger knife",
+    "svg": "1f5e1.svg"
+  },
+  {
+    "name": "speaking head in silhouette",
+    "svg": "1f5e3.svg"
+  },
+  {
+    "name": "left speech bubble",
+    "svg": "1f5e8.svg"
+  },
+  {
+    "name": "right anger bubble",
+    "svg": "1f5ef.svg"
+  },
+  {
+    "name": "ballot box with ballot",
+    "svg": "1f5f3.svg"
+  },
+  {
+    "name": "world map",
+    "svg": "1f5fa.svg"
+  },
+  {
+    "name": "mount fuji",
+    "svg": "1f5fb.svg"
+  },
+  {
+    "name": "tokyo tower",
+    "svg": "1f5fc.svg"
+  },
+  {
+    "name": "statue of liberty",
+    "svg": "1f5fd.svg"
+  },
+  {
+    "name": "silhouette of japan",
+    "svg": "1f5fe.svg"
+  },
+  {
+    "name": "moyai",
+    "svg": "1f5ff.svg"
+  },
+  {
+    "name": "grinning face",
+    "svg": "1f600.svg"
+  },
+  {
+    "name": "grinning face with smiling eyes",
+    "svg": "1f601.svg"
+  },
+  {
+    "name": "face with tears of joy",
+    "svg": "1f602.svg"
+  },
+  {
+    "name": "smiling face with open mouth",
+    "svg": "1f603.svg"
+  },
+  {
+    "name": "smiling face with open mouth and smiling eyes",
+    "svg": "1f604.svg"
+  },
+  {
+    "name": "smiling face with open mouth and cold sweat",
+    "svg": "1f605.svg"
+  },
+  {
+    "name": "smiling face with open mouth and tightly-closed eyes",
+    "svg": "1f606.svg"
+  },
+  {
+    "name": "smiling face with halo",
+    "svg": "1f607.svg"
+  },
+  {
+    "name": "smiling face with horns",
+    "svg": "1f608.svg"
+  },
+  {
+    "name": "winking face",
+    "svg": "1f609.svg"
+  },
+  {
+    "name": "smiling face with smiling eyes",
+    "svg": "1f60a.svg"
+  },
+  {
+    "name": "face savouring delicious food",
+    "svg": "1f60b.svg"
+  },
+  {
+    "name": "relieved face",
+    "svg": "1f60c.svg"
+  },
+  {
+    "name": "smiling face with heart-shaped eyes",
+    "svg": "1f60d.svg"
+  },
+  {
+    "name": "smiling face with sunglasses",
+    "svg": "1f60e.svg"
+  },
+  {
+    "name": "smirking face",
+    "svg": "1f60f.svg"
+  },
+  {
+    "name": "neutral face",
+    "svg": "1f610.svg"
+  },
+  {
+    "name": "expressionless face",
+    "svg": "1f611.svg"
+  },
+  {
+    "name": "unamused face",
+    "svg": "1f612.svg"
+  },
+  {
+    "name": "face with cold sweat",
+    "svg": "1f613.svg"
+  },
+  {
+    "name": "pensive face",
+    "svg": "1f614.svg"
+  },
+  {
+    "name": "confused face",
+    "svg": "1f615.svg"
+  },
+  {
+    "name": "confounded face",
+    "svg": "1f616.svg"
+  },
+  {
+    "name": "kissing face",
+    "svg": "1f617.svg"
+  },
+  {
+    "name": "face throwing a kiss",
+    "svg": "1f618.svg"
+  },
+  {
+    "name": "kissing face with smiling eyes",
+    "svg": "1f619.svg"
+  },
+  {
+    "name": "kissing face with closed eyes",
+    "svg": "1f61a.svg"
+  },
+  {
+    "name": "face with stuck-out tongue",
+    "svg": "1f61b.svg"
+  },
+  {
+    "name": "face with stuck-out tongue and winking eye",
+    "svg": "1f61c.svg"
+  },
+  {
+    "name": "face with stuck-out tongue and tightly-closed eyes",
+    "svg": "1f61d.svg"
+  },
+  {
+    "name": "disappointed face",
+    "svg": "1f61e.svg"
+  },
+  {
+    "name": "worried face",
+    "svg": "1f61f.svg"
+  },
+  {
+    "name": "angry face",
+    "svg": "1f620.svg"
+  },
+  {
+    "name": "pouting face",
+    "svg": "1f621.svg"
+  },
+  {
+    "name": "crying face",
+    "svg": "1f622.svg"
+  },
+  {
+    "name": "persevering face",
+    "svg": "1f623.svg"
+  },
+  {
+    "name": "face with look of triumph",
+    "svg": "1f624.svg"
+  },
+  {
+    "name": "disappointed but relieved face",
+    "svg": "1f625.svg"
+  },
+  {
+    "name": "frowning face with open mouth",
+    "svg": "1f626.svg"
+  },
+  {
+    "name": "anguished face",
+    "svg": "1f627.svg"
+  },
+  {
+    "name": "fearful face",
+    "svg": "1f628.svg"
+  },
+  {
+    "name": "weary face",
+    "svg": "1f629.svg"
+  },
+  {
+    "name": "sleepy face",
+    "svg": "1f62a.svg"
+  },
+  {
+    "name": "tired face",
+    "svg": "1f62b.svg"
+  },
+  {
+    "name": "grimacing face",
+    "svg": "1f62c.svg"
+  },
+  {
+    "name": "loudly crying face",
+    "svg": "1f62d.svg"
+  },
+  {
+    "name": "face with open mouth",
+    "svg": "1f62e.svg"
+  },
+  {
+    "name": "hushed face",
+    "svg": "1f62f.svg"
+  },
+  {
+    "name": "face with open mouth and cold sweat",
+    "svg": "1f630.svg"
+  },
+  {
+    "name": "face screaming in fear",
+    "svg": "1f631.svg"
+  },
+  {
+    "name": "astonished face",
+    "svg": "1f632.svg"
+  },
+  {
+    "name": "flushed face",
+    "svg": "1f633.svg"
+  },
+  {
+    "name": "sleeping face",
+    "svg": "1f634.svg"
+  },
+  {
+    "name": "dizzy face",
+    "svg": "1f635.svg"
+  },
+  {
+    "name": "face without mouth",
+    "svg": "1f636.svg"
+  },
+  {
+    "name": "face with medical mask",
+    "svg": "1f637.svg"
+  },
+  {
+    "name": "grinning cat face with smiling eyes",
+    "svg": "1f638.svg"
+  },
+  {
+    "name": "cat face with tears of joy",
+    "svg": "1f639.svg"
+  },
+  {
+    "name": "smiling cat face with open mouth",
+    "svg": "1f63a.svg"
+  },
+  {
+    "name": "smiling cat face with heart-shaped eyes",
+    "svg": "1f63b.svg"
+  },
+  {
+    "name": "cat face with wry smile",
+    "svg": "1f63c.svg"
+  },
+  {
+    "name": "kissing cat face with closed eyes",
+    "svg": "1f63d.svg"
+  },
+  {
+    "name": "pouting cat face",
+    "svg": "1f63e.svg"
+  },
+  {
+    "name": "crying cat face",
+    "svg": "1f63f.svg"
+  },
+  {
+    "name": "weary cat face",
+    "svg": "1f640.svg"
+  },
+  {
+    "name": "slightly frowning face",
+    "svg": "1f641.svg"
+  },
+  {
+    "name": "slightly smiling face",
+    "svg": "1f642.svg"
+  },
+  {
+    "name": "upside-down face",
+    "svg": "1f643.svg"
+  },
+  {
+    "name": "face with rolling eyes",
+    "svg": "1f644.svg"
+  },
+  {
+    "name": "see-no-evil monkey",
+    "svg": "1f648.svg"
+  },
+  {
+    "name": "hear-no-evil monkey",
+    "svg": "1f649.svg"
+  },
+  {
+    "name": "speak-no-evil monkey",
+    "svg": "1f64a.svg"
+  },
+  {
+    "name": "person raising both hands in celebration",
+    "svg": "1f64c.svg"
+  },
+  {
+    "name": "person with folded hands",
+    "svg": "1f64f.svg"
+  },
+  {
+    "name": "rocket",
+    "svg": "1f680.svg"
+  },
+  {
+    "name": "helicopter",
+    "svg": "1f681.svg"
+  },
+  {
+    "name": "steam locomotive",
+    "svg": "1f682.svg"
+  },
+  {
+    "name": "railway car",
+    "svg": "1f683.svg"
+  },
+  {
+    "name": "high-speed train",
+    "svg": "1f684.svg"
+  },
+  {
+    "name": "high-speed train with bullet nose",
+    "svg": "1f685.svg"
+  },
+  {
+    "name": "train",
+    "svg": "1f686.svg"
+  },
+  {
+    "name": "metro",
+    "svg": "1f687.svg"
+  },
+  {
+    "name": "light rail",
+    "svg": "1f688.svg"
+  },
+  {
+    "name": "station",
+    "svg": "1f689.svg"
+  },
+  {
+    "name": "tram",
+    "svg": "1f68a.svg"
+  },
+  {
+    "name": "tram car",
+    "svg": "1f68b.svg"
+  },
+  {
+    "name": "bus",
+    "svg": "1f68c.svg"
+  },
+  {
+    "name": "oncoming bus",
+    "svg": "1f68d.svg"
+  },
+  {
+    "name": "trolleybus",
+    "svg": "1f68e.svg"
+  },
+  {
+    "name": "bus stop",
+    "svg": "1f68f.svg"
+  },
+  {
+    "name": "minibus",
+    "svg": "1f690.svg"
+  },
+  {
+    "name": "ambulance",
+    "svg": "1f691.svg"
+  },
+  {
+    "name": "fire engine",
+    "svg": "1f692.svg"
+  },
+  {
+    "name": "police car",
+    "svg": "1f693.svg"
+  },
+  {
+    "name": "oncoming police car",
+    "svg": "1f694.svg"
+  },
+  {
+    "name": "taxi",
+    "svg": "1f695.svg"
+  },
+  {
+    "name": "oncoming taxi",
+    "svg": "1f696.svg"
+  },
+  {
+    "name": "automobile",
+    "svg": "1f697.svg"
+  },
+  {
+    "name": "oncoming automobile",
+    "svg": "1f698.svg"
+  },
+  {
+    "name": "recreational vehicle",
+    "svg": "1f699.svg"
+  },
+  {
+    "name": "delivery truck",
+    "svg": "1f69a.svg"
+  },
+  {
+    "name": "articulated lorry",
+    "svg": "1f69b.svg"
+  },
+  {
+    "name": "tractor",
+    "svg": "1f69c.svg"
+  },
+  {
+    "name": "monorail",
+    "svg": "1f69d.svg"
+  },
+  {
+    "name": "mountain railway",
+    "svg": "1f69e.svg"
+  },
+  {
+    "name": "suspension railway",
+    "svg": "1f69f.svg"
+  },
+  {
+    "name": "mountain cableway",
+    "svg": "1f6a0.svg"
+  },
+  {
+    "name": "aerial tramway",
+    "svg": "1f6a1.svg"
+  },
+  {
+    "name": "ship",
+    "svg": "1f6a2.svg"
+  },
+  {
+    "name": "speedboat",
+    "svg": "1f6a4.svg"
+  },
+  {
+    "name": "horizontal traffic light",
+    "svg": "1f6a5.svg"
+  },
+  {
+    "name": "vertical traffic light",
+    "svg": "1f6a6.svg"
+  },
+  {
+    "name": "construction sign",
+    "svg": "1f6a7.svg"
+  },
+  {
+    "name": "police cars revolving light",
+    "svg": "1f6a8.svg"
+  },
+  {
+    "name": "triangular flag on post",
+    "svg": "1f6a9.svg"
+  },
+  {
+    "name": "door",
+    "svg": "1f6aa.svg"
+  },
+  {
+    "name": "no entry sign",
+    "svg": "1f6ab.svg"
+  },
+  {
+    "name": "smoking symbol",
+    "svg": "1f6ac.svg"
+  },
+  {
+    "name": "no smoking symbol",
+    "svg": "1f6ad.svg"
+  },
+  {
+    "name": "put litter in its place symbol",
+    "svg": "1f6ae.svg"
+  },
+  {
+    "name": "do not litter symbol",
+    "svg": "1f6af.svg"
+  },
+  {
+    "name": "potable water symbol",
+    "svg": "1f6b0.svg"
+  },
+  {
+    "name": "non-potable water symbol",
+    "svg": "1f6b1.svg"
+  },
+  {
+    "name": "bicycle",
+    "svg": "1f6b2.svg"
+  },
+  {
+    "name": "no bicycles",
+    "svg": "1f6b3.svg"
+  },
+  {
+    "name": "no pedestrians",
+    "svg": "1f6b7.svg"
+  },
+  {
+    "name": "children crossing",
+    "svg": "1f6b8.svg"
+  },
+  {
+    "name": "mens symbol",
+    "svg": "1f6b9.svg"
+  },
+  {
+    "name": "womens symbol",
+    "svg": "1f6ba.svg"
+  },
+  {
+    "name": "restroom",
+    "svg": "1f6bb.svg"
+  },
+  {
+    "name": "baby symbol",
+    "svg": "1f6bc.svg"
+  },
+  {
+    "name": "toilet",
+    "svg": "1f6bd.svg"
+  },
+  {
+    "name": "water closet",
+    "svg": "1f6be.svg"
+  },
+  {
+    "name": "shower",
+    "svg": "1f6bf.svg"
+  },
+  {
+    "name": "bath",
+    "svg": "1f6c0.svg"
+  },
+  {
+    "name": "bathtub",
+    "svg": "1f6c1.svg"
+  },
+  {
+    "name": "passport control",
+    "svg": "1f6c2.svg"
+  },
+  {
+    "name": "customs",
+    "svg": "1f6c3.svg"
+  },
+  {
+    "name": "baggage claim",
+    "svg": "1f6c4.svg"
+  },
+  {
+    "name": "left luggage",
+    "svg": "1f6c5.svg"
+  },
+  {
+    "name": "couch and lamp",
+    "svg": "1f6cb.svg"
+  },
+  {
+    "name": "sleeping accommodation",
+    "svg": "1f6cc.svg"
+  },
+  {
+    "name": "shopping bags",
+    "svg": "1f6cd.svg"
+  },
+  {
+    "name": "bellhop bell",
+    "svg": "1f6ce.svg"
+  },
+  {
+    "name": "bed",
+    "svg": "1f6cf.svg"
+  },
+  {
+    "name": "place of worship",
+    "svg": "1f6d0.svg"
+  },
+  {
+    "name": "hammer and wrench",
+    "svg": "1f6e0.svg"
+  },
+  {
+    "name": "shield",
+    "svg": "1f6e1.svg"
+  },
+  {
+    "name": "oil drum",
+    "svg": "1f6e2.svg"
+  },
+  {
+    "name": "motorway",
+    "svg": "1f6e3.svg"
+  },
+  {
+    "name": "railway track",
+    "svg": "1f6e4.svg"
+  },
+  {
+    "name": "motor boat",
+    "svg": "1f6e5.svg"
+  },
+  {
+    "name": "small airplane",
+    "svg": "1f6e9.svg"
+  },
+  {
+    "name": "airplane departure",
+    "svg": "1f6eb.svg"
+  },
+  {
+    "name": "airplane arriving",
+    "svg": "1f6ec.svg"
+  },
+  {
+    "name": "satellite",
+    "svg": "1f6f0.svg"
+  },
+  {
+    "name": "passenger ship",
+    "svg": "1f6f3.svg"
+  },
+  {
+    "name": "zipper-mouth face",
+    "svg": "1f910.svg"
+  },
+  {
+    "name": "money-mouth face",
+    "svg": "1f911.svg"
+  },
+  {
+    "name": "face with thermometer",
+    "svg": "1f912.svg"
+  },
+  {
+    "name": "nerd face",
+    "svg": "1f913.svg"
+  },
+  {
+    "name": "thinking face",
+    "svg": "1f914.svg"
+  },
+  {
+    "name": "face with head-bandage",
+    "svg": "1f915.svg"
+  },
+  {
+    "name": "robot face",
+    "svg": "1f916.svg"
+  },
+  {
+    "name": "hugging face",
+    "svg": "1f917.svg"
+  },
+  {
+    "name": "sign of the horns",
+    "svg": "1f918.svg"
+  },
+  {
+    "name": "crab",
+    "svg": "1f980.svg"
+  },
+  {
+    "name": "lion face",
+    "svg": "1f981.svg"
+  },
+  {
+    "name": "scorpion",
+    "svg": "1f982.svg"
+  },
+  {
+    "name": "turkey",
+    "svg": "1f983.svg"
+  },
+  {
+    "name": "unicorn face",
+    "svg": "1f984.svg"
+  },
+  {
+    "name": "cheese wedge",
+    "svg": "1f9c0.svg"
+  }
+]

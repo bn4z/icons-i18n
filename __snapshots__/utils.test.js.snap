@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`json2String 1`] = `
+"{
+  \\"a\\": 1,
+  \\"b\\": {
+    \\"c\\": 2
+  }
+}"
+`;
