@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>icons-i18n test page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript">
+        var iconList = []
+
+        function loadJSON(callback) {
+            var xobj = new XMLHttpRequest();
+            xobj.overrideMimeType("application/json");
+            xobj.open('GET', 'icons.fra.json', true);
+            xobj.onreadystatechange = function () {
+                if (xobj.readyState == 4 && xobj.status == "200") {
+                    callback(xobj.responseText);
+                }
+            };
+            xobj.send(null);
+        }
+
+        function init() {
+            loadJSON(function (response) {
+                iconList = JSON.parse(response);
+                updateView()
+            });
+        }
+
+        function updateView() {
+            var container = document.getElementById('iconList')
+            var input = document.getElementById('input')
+            container.innerHTML = ''
+            if (input.value === '') {
+                return
+            }
+            var maxItemsToDisplay = 100;
+            const filteredList = iconList.filter(i => i.name.split(' ').indexOf(input.value) > -1)
+            if (filteredList.length === 0) {
+                return
+            }
+            for (k = 0; k < Math.min(filteredList.length, maxItemsToDisplay); k++) {
+                var img = document.createElement('img');
+                img.src = 'svg/' + filteredList[k].svg
+                img.style.width = '48px'
+                img.style.height = '48px'
+                container.appendChild(img)
+            }
+        }
+    </script>
+</head>
+
+<body onload="init()">
+    <h1>icons-i18n test page</h1>
+    <input id="input" type="text" onkeyup="updateView()">
+    <div id="iconList"></div>
+</body>
+
+</html>
