@@ -10,7 +10,7 @@ const {
 } = require("./utils")
 
 const FR_ICONS_FILE = "dist/icons.fra.json"
-const USELESS_WORDS = ['des', 'sur', 'par', 'des', 'les', 'ces', 'ses', 'mes', 'mon']
+const USELESS_WORDS = ['des', 'sur', 'par', 'des', 'les', 'ces', 'ses', 'mes', 'mon', 'avec', 'qui', 'chez', 'parmi', 'tous', 'être', 'rendre']
 
 const getDictionaryElement = en => dictionnary.find(word => word.en === en) || {}
 const getTranslations = en => getDictionaryElement(en).fr || [en] //return the english word if no translation is found
@@ -23,6 +23,7 @@ const translateIconList = () => {
     const frIcons = sourceIcons.map(i => {
         //console.log(i)
         return {
+            //name: translate(i.name),
             name: removeExtraSpaces(removeUselessWords(removeSmallWords(translate(i.name)))),
             svg: i.svg
         }

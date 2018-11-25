@@ -18,6 +18,8 @@ exports.string2File = (content, filePath) => {
 
 exports.removeExtraSpaces = str => str.trim().replace(/\s\s+/, ' ')
 
-exports.removeSmallWords = str => str.replace(/\W*\b\w{1,2}\b/g, '');
+//Regex: match one or two characters length words. Words are a group of characters between (spaces, start, end).
+//This regex also matches a sequence of two small words. Otherwise, if 2 small words are consecutive, the second one is not matched
+exports.removeSmallWords = str => str.replace(/(?:^|\s)(\S{1,2})(\s(\S{1,2}))?(?:$|\s)/g, ' ');
 
-exports.removeWords = (str, wordsToRemove) => exports.removeExtraSpaces(str.replace(new RegExp("\\b" + wordsToRemove.join('|\\b'), 'gi'), ''))
+exports.removeWords = (str, wordsToRemove) => exports.removeExtraSpaces(str.replace(new RegExp('(?:^|\\s)' + wordsToRemove.join('(?:$|\\s)|'), 'gi'), ' '))

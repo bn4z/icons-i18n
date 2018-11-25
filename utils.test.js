@@ -14,5 +14,13 @@ test('removeExtraSpaces', () => {
 });
 
 test('removeWords', () => {
-    expect(utils.removeWords("foo bar baz afoo bar baz", ["foo", "bar"])).toBe("baz afoo baz")
+    expect(utils.removeWords("foo bar baz afoo foox bar baz", ["foo", "bar"])).toBe("baz afoo foox baz")
+});
+
+test('removeWords (with non ascii characters)', () => {
+    expect(utils.removeWords("foo bàr baz àfoo foox bar baz", ["foo", "bar"])).toBe("bàr baz àfoo foox baz")
+});
+
+test('removeSmallWords (with non ascii characters)', () => {
+    expect(utils.removeSmallWords("x féo à ba xbàz b xféo   xbar bàz ")).toBe(" féo xbàz xféo   xbar bàz ")
 });
