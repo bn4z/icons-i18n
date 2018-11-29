@@ -2,7 +2,7 @@
 
 ## About
 
-I primarily created these tools for another project where I need a list of icons with a french keywords for each icons. The code can be easily adapted to suypport other languages.
+These tools where primarily created for another project where a list of icons with french keywords is needed. The code can be easily adapted to suypport other languages.
 
 ## Scripts
 
