@@ -1,5 +1,7 @@
 var fs = require('fs');
 
+const removeAccents = require('remove-accents-diacritics');
+
 exports.json2String = json => JSON.stringify(json, null, 2)
 
 exports.string2File = (content, filePath) => {
@@ -23,3 +25,5 @@ exports.removeExtraSpaces = str => str.trim().replace(/\s\s+/, ' ')
 exports.removeSmallWords = str => str.replace(/(?:^|\s)(\S{1,2})(\s(\S{1,2}))?(?:$|\s)/g, ' ');
 
 exports.removeWords = (str, wordsToRemove) => exports.removeExtraSpaces(str.replace(new RegExp('(?:^|\\s)' + wordsToRemove.join('(?:$|\\s)|'), 'gi'), ' '))
+
+exports.removeAccents = removeAccents.remove

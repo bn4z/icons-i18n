@@ -18,6 +18,11 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
+"@fortawesome/fontawesome-pro@^5.5.0":
+  version "5.5.0"
+  resolved "https://npm.fontawesome.com/@fortawesome/fontawesome-pro/-/fontawesome-pro-5.5.0.tgz#ee612da62e482d05ab4e2f1a6a30eb88797eaeb4"
+  integrity sha512-tctbibBOAJeLanvJht6rgtd79+DzbMFxQ/qtpAVVeBixIQ2srzMkLQfe64LmKP9fZ+HnTOREZM+QXcPYd7fsmg==
+
 abab@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.0.tgz#aba0ab4c5eee2d4c79d3487d85450fb2376ebb0f"
@@ -27,6 +32,11 @@ abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
+
+accent-folding@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/accent-folding/-/accent-folding-1.0.3.tgz#0c09c194a7ca5e1365d3411653576b59c081df1c"
+  integrity sha1-DAnBlKfKXhNl00EWU1drWcCB3xw=
 
 acorn-globals@^4.1.0:
   version "4.3.0"
@@ -2837,6 +2847,11 @@ regex-not@^1.0.0, regex-not@^1.0.2:
   dependencies:
     extend-shallow "^3.0.2"
     safe-regex "^1.1.0"
+
+remove-accents-diacritics@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/remove-accents-diacritics/-/remove-accents-diacritics-1.0.2.tgz#35aee1077d6a9d500a91b523bd6b0cc1bc4e5de1"
+  integrity sha1-Na7hB31qnVAKkbUjvWsMwbxOXeE=
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"

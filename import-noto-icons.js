@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 const EmojiData = require("mnasyrov-emoji-data");
+const jsonIcons = require("./dist/icons.json");
+
 
 const LOCAL_SVG_FOLDER = "./dist/svg";
 const NOTO_SVG_FOLDER = "./node_modules/noto-emoji/svg";
@@ -38,9 +40,23 @@ const importIcon = (emoji) => {
 
 const saveJsonOutput = (jsonArray) => {
     const jsonOutputFile = path.join(__dirname, JSON_OUTPUT_FILE);
-    const outputString = JSON.stringify(jsonArray, null, 2)
+    let count = 0
+
+    jsonArray.forEach(item => {
+        if (!jsonIcons.find(ji => ji.svg === item.svg)) {
+            jsonIcons.push(item)
+            count++
+        }
+    })
+
+    if (count === 0) {
+        console.log("No change found. No entry added in", jsonOutputFile);
+        return
+    }
+
+    const outputString = JSON.stringify(jsonIcons, null, 2)
     fs.writeFile(jsonOutputFile, outputString, "utf8", () => {
-        console.log(jsonArray.length, "entries saved in", jsonOutputFile);
+        console.log(count, "entries added in", jsonOutputFile);
     });
 }
 

@@ -1,22 +1,7154 @@
 [
   {
-    "name": "copyright augure preuve témoignage signal signe signer",
+    "name": "500px",
+    "svg": "500px.svg"
+  },
+  {
+    "name": "abordable accessible sensible icon",
+    "svg": "accessible-icon.svg"
+  },
+  {
+    "name": "accusoft",
+    "svg": "accusoft.svg"
+  },
+  {
+    "name": "acquisitions incorporated",
+    "svg": "acquisitions-incorporated.svg"
+  },
+  {
+    "name": "adn",
+    "svg": "adn.svg"
+  },
+  {
+    "name": "adversal",
+    "svg": "adversal.svg"
+  },
+  {
+    "name": "affiliatetheme",
+    "svg": "affiliatetheme.svg"
+  },
+  {
+    "name": "algolia",
+    "svg": "algolia.svg"
+  },
+  {
+    "name": "alipay",
+    "svg": "alipay.svg"
+  },
+  {
+    "name": "amazon pay",
+    "svg": "amazon-pay.svg"
+  },
+  {
+    "name": "amazon",
+    "svg": "amazon.svg"
+  },
+  {
+    "name": "amilia",
+    "svg": "amilia.svg"
+  },
+  {
+    "name": "android",
+    "svg": "android.svg"
+  },
+  {
+    "name": "angellist",
+    "svg": "angellist.svg"
+  },
+  {
+    "name": "angrycreative",
+    "svg": "angrycreative.svg"
+  },
+  {
+    "name": "anguleux",
+    "svg": "angular.svg"
+  },
+  {
+    "name": "app store boutique magasin ios",
+    "svg": "app-store-ios.svg"
+  },
+  {
+    "name": "app store boutique magasin",
+    "svg": "app-store.svg"
+  },
+  {
+    "name": "apper",
+    "svg": "apper.svg"
+  },
+  {
+    "name": "apple pay",
+    "svg": "apple-pay.svg"
+  },
+  {
+    "name": "apple pomme",
+    "svg": "apple.svg"
+  },
+  {
+    "name": "asymmetrik",
+    "svg": "asymmetrik.svg"
+  },
+  {
+    "name": "audible",
+    "svg": "audible.svg"
+  },
+  {
+    "name": "autoprefixer",
+    "svg": "autoprefixer.svg"
+  },
+  {
+    "name": "avianex",
+    "svg": "avianex.svg"
+  },
+  {
+    "name": "aviato",
+    "svg": "aviato.svg"
+  },
+  {
+    "name": "aws",
+    "svg": "aws.svg"
+  },
+  {
+    "name": "bandcamp",
+    "svg": "bandcamp.svg"
+  },
+  {
+    "name": "behance adobe",
+    "svg": "behance-square.svg"
+  },
+  {
+    "name": "behance adobe",
+    "svg": "behance.svg"
+  },
+  {
+    "name": "bimobject",
+    "svg": "bimobject.svg"
+  },
+  {
+    "name": "bitbucket",
+    "svg": "bitbucket.svg"
+  },
+  {
+    "name": "bitcoin",
+    "svg": "bitcoin.svg"
+  },
+  {
+    "name": "bity",
+    "svg": "bity.svg"
+  },
+  {
+    "name": "blacktie noir cravate",
+    "svg": "black-tie.svg"
+  },
+  {
+    "name": "blackberry mure",
+    "svg": "blackberry.svg"
+  },
+  {
+    "name": "blogger",
+    "svg": "blogger-b.svg"
+  },
+  {
+    "name": "blogger",
+    "svg": "blogger.svg"
+  },
+  {
+    "name": "bluetooth",
+    "svg": "bluetooth-b.svg"
+  },
+  {
+    "name": "bluetooth",
+    "svg": "bluetooth.svg"
+  },
+  {
+    "name": "btc",
+    "svg": "btc.svg"
+  },
+  {
+    "name": "buromobelexperte",
+    "svg": "buromobelexperte.svg"
+  },
+  {
+    "name": "buysellads",
+    "svg": "buysellads.svg"
+  },
+  {
+    "name": "amazon pay",
+    "svg": "cc-amazon-pay.svg"
+  },
+  {
+    "name": "amex carte credit american express",
+    "svg": "cc-amex.svg"
+  },
+  {
+    "name": "apple pay",
+    "svg": "cc-apple-pay.svg"
+  },
+  {
+    "name": "diners club carte credit",
+    "svg": "cc-diners-club.svg"
+  },
+  {
+    "name": "discover carte credit",
+    "svg": "cc-discover.svg"
+  },
+  {
+    "name": "jcb carte credit",
+    "svg": "cc-jcb.svg"
+  },
+  {
+    "name": "mastercard carte credit",
+    "svg": "cc-mastercard.svg"
+  },
+  {
+    "name": "paypal carte credit",
+    "svg": "cc-paypal.svg"
+  },
+  {
+    "name": "stripe carte credit",
+    "svg": "cc-stripe.svg"
+  },
+  {
+    "name": "visa carte credit",
+    "svg": "cc-visa.svg"
+  },
+  {
+    "name": "centercode",
+    "svg": "centercode.svg"
+  },
+  {
+    "name": "chrome google navigateur browser",
+    "svg": "chrome.svg"
+  },
+  {
+    "name": "cloudscale",
+    "svg": "cloudscale.svg"
+  },
+  {
+    "name": "cloudsmith",
+    "svg": "cloudsmith.svg"
+  },
+  {
+    "name": "cloudversify",
+    "svg": "cloudversify.svg"
+  },
+  {
+    "name": "codepen code dev",
+    "svg": "codepen.svg"
+  },
+  {
+    "name": "codiepie",
+    "svg": "codiepie.svg"
+  },
+  {
+    "name": "connectdevelop",
+    "svg": "connectdevelop.svg"
+  },
+  {
+    "name": "contao",
+    "svg": "contao.svg"
+  },
+  {
+    "name": "cpanel",
+    "svg": "cpanel.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-by.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-nc-eu.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-nc-jp.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-nc.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-nd.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-pd-alt.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-pd.svg"
+  },
+  {
+    "name": "creative commons remix",
+    "svg": "creative-commons-remix.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-sa.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-sampling-plus.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-sampling.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-share.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons-zero.svg"
+  },
+  {
+    "name": "creative commons",
+    "svg": "creative-commons.svg"
+  },
+  {
+    "name": "critical role",
+    "svg": "critical-role.svg"
+  },
+  {
+    "name": "css3 alt",
+    "svg": "css3-alt.svg"
+  },
+  {
+    "name": "css3",
+    "svg": "css3.svg"
+  },
+  {
+    "name": "cuttlefish",
+    "svg": "cuttlefish.svg"
+  },
+  {
+    "name": "d plus loin apres ensuite au‐dela outre",
+    "svg": "d-and-d-beyond.svg"
+  },
+  {
+    "name": "d",
+    "svg": "d-and-d.svg"
+  },
+  {
+    "name": "dashcube",
+    "svg": "dashcube.svg"
+  },
+  {
+    "name": "savoureux",
+    "svg": "delicious.svg"
+  },
+  {
+    "name": "deploydog",
+    "svg": "deploydog.svg"
+  },
+  {
+    "name": "deskpro",
+    "svg": "deskpro.svg"
+  },
+  {
+    "name": "dev",
+    "svg": "dev.svg"
+  },
+  {
+    "name": "deviantart",
+    "svg": "deviantart.svg"
+  },
+  {
+    "name": "digg",
+    "svg": "digg.svg"
+  },
+  {
+    "name": "digital ocean",
+    "svg": "digital-ocean.svg"
+  },
+  {
+    "name": "discord",
+    "svg": "discord.svg"
+  },
+  {
+    "name": "discourse",
+    "svg": "discourse.svg"
+  },
+  {
+    "name": "dochub",
+    "svg": "dochub.svg"
+  },
+  {
+    "name": "docker",
+    "svg": "docker.svg"
+  },
+  {
+    "name": "draft2digital",
+    "svg": "draft2digital.svg"
+  },
+  {
+    "name": "dribbble droit rectangle esplanade place rond‐point",
+    "svg": "dribbble-square.svg"
+  },
+  {
+    "name": "dribbble",
+    "svg": "dribbble.svg"
+  },
+  {
+    "name": "dropbox",
+    "svg": "dropbox.svg"
+  },
+  {
+    "name": "drupal",
+    "svg": "drupal.svg"
+  },
+  {
+    "name": "dyalog",
+    "svg": "dyalog.svg"
+  },
+  {
+    "name": "earlybirds",
+    "svg": "earlybirds.svg"
+  },
+  {
+    "name": "ebay",
+    "svg": "ebay.svg"
+  },
+  {
+    "name": "bord lisiere",
+    "svg": "edge.svg"
+  },
+  {
+    "name": "elementor",
+    "svg": "elementor.svg"
+  },
+  {
+    "name": "ello",
+    "svg": "ello.svg"
+  },
+  {
+    "name": "ember",
+    "svg": "ember.svg"
+  },
+  {
+    "name": "empire",
+    "svg": "empire.svg"
+  },
+  {
+    "name": "envira",
+    "svg": "envira.svg"
+  },
+  {
+    "name": "erlang",
+    "svg": "erlang.svg"
+  },
+  {
+    "name": "ethereum",
+    "svg": "ethereum.svg"
+  },
+  {
+    "name": "etsy",
+    "svg": "etsy.svg"
+  },
+  {
+    "name": "expeditedssl",
+    "svg": "expeditedssl.svg"
+  },
+  {
+    "name": "facebook",
+    "svg": "facebook-f.svg"
+  },
+  {
+    "name": "facebook messenger",
+    "svg": "facebook-messenger.svg"
+  },
+  {
+    "name": "facebook droit rectangle esplanade place rond‐point",
+    "svg": "facebook-square.svg"
+  },
+  {
+    "name": "facebook",
+    "svg": "facebook.svg"
+  },
+  {
+    "name": "fantaisie fuite ga",
+    "svg": "fantasy-flight-games.svg"
+  },
+  {
+    "name": "firefox",
+    "svg": "firefox.svg"
+  },
+  {
+    "name": "premier commencement premier lieu d'abord commander demander retenir commande ordre enjoindre ordonner sommer enchainement succession suite alt",
+    "svg": "first-order-alt.svg"
+  },
+  {
+    "name": "premier commencement premier lieu d'abord commander demander retenir commande ordre enjoindre ordonner sommer enchainement succession suite",
+    "svg": "first-order.svg"
+  },
+  {
+    "name": "firstdraft",
+    "svg": "firstdraft.svg"
+  },
+  {
+    "name": "flickr",
+    "svg": "flickr.svg"
+  },
+  {
+    "name": "flipboard",
+    "svg": "flipboard.svg"
+  },
+  {
+    "name": "voler mouche",
+    "svg": "fly.svg"
+  },
+  {
+    "name": "font awesome alt",
+    "svg": "font-awesome-alt.svg"
+  },
+  {
+    "name": "font awesome drapeau pavillon etendard",
+    "svg": "font-awesome-flag.svg"
+  },
+  {
+    "name": "font awesome logo complet entier rassasie",
+    "svg": "font-awesome-logo-full.svg"
+  },
+  {
+    "name": "font awesome",
+    "svg": "font-awesome.svg"
+  },
+  {
+    "name": "fonticons",
+    "svg": "fonticons-fi.svg"
+  },
+  {
+    "name": "fonticons",
+    "svg": "fonticons.svg"
+  },
+  {
+    "name": "fort awesome alt",
+    "svg": "fort-awesome-alt.svg"
+  },
+  {
+    "name": "fort awesome",
+    "svg": "fort-awesome.svg"
+  },
+  {
+    "name": "forumbee",
+    "svg": "forumbee.svg"
+  },
+  {
+    "name": "foursquare",
+    "svg": "foursquare.svg"
+  },
+  {
+    "name": "free code camp",
+    "svg": "free-code-camp.svg"
+  },
+  {
+    "name": "freebsd",
+    "svg": "freebsd.svg"
+  },
+  {
+    "name": "fulcrum",
+    "svg": "fulcrum.svg"
+  },
+  {
+    "name": "galactic republique",
+    "svg": "galactic-republic.svg"
+  },
+  {
+    "name": "galactic senate",
+    "svg": "galactic-senate.svg"
+  },
+  {
+    "name": "acquerir arriver aboutir atteindre parvenir remporter obtenir procurer faire hente devenir p accueillir recevoir poche",
+    "svg": "get-pocket.svg"
+  },
+  {
+    "name": "cercle rond ronde",
+    "svg": "gg-circle.svg"
+  },
+  {
+    "name": "",
+    "svg": "gg.svg"
+  },
+  {
+    "name": "git droit rectangle esplanade place rond‐point",
+    "svg": "git-square.svg"
+  },
+  {
+    "name": "git",
+    "svg": "git.svg"
+  },
+  {
+    "name": "github alt",
+    "svg": "github-alt.svg"
+  },
+  {
+    "name": "github droit rectangle esplanade place rond‐point",
+    "svg": "github-square.svg"
+  },
+  {
+    "name": "github",
+    "svg": "github.svg"
+  },
+  {
+    "name": "gitkraken",
+    "svg": "gitkraken.svg"
+  },
+  {
+    "name": "gitlab",
+    "svg": "gitlab.svg"
+  },
+  {
+    "name": "gitter",
+    "svg": "gitter.svg"
+  },
+  {
+    "name": "planer glisser",
+    "svg": "glide-g.svg"
+  },
+  {
+    "name": "planer glisser",
+    "svg": "glide.svg"
+  },
+  {
+    "name": "gofore",
+    "svg": "gofore.svg"
+  },
+  {
+    "name": "goodreads",
+    "svg": "goodreads-g.svg"
+  },
+  {
+    "name": "goodreads",
+    "svg": "goodreads.svg"
+  },
+  {
+    "name": "google amener faire avancer pourchasser poursuivre pousser actionner prise",
+    "svg": "google-drive.svg"
+  },
+  {
+    "name": "google jouer representer piece theatre",
+    "svg": "google-play.svg"
+  },
+  {
+    "name": "google plus",
+    "svg": "google-plus-g.svg"
+  },
+  {
+    "name": "google plus droit rectangle esplanade place rond‐point",
+    "svg": "google-plus-square.svg"
+  },
+  {
+    "name": "google plus",
+    "svg": "google-plus.svg"
+  },
+  {
+    "name": "google porte‐monnaie sacoche",
+    "svg": "google-wallet.svg"
+  },
+  {
+    "name": "google",
+    "svg": "google.svg"
+  },
+  {
+    "name": "gratipay",
+    "svg": "gratipay.svg"
+  },
+  {
+    "name": "grav",
+    "svg": "grav.svg"
+  },
+  {
+    "name": "gripfire",
+    "svg": "gripfire.svg"
+  },
+  {
+    "name": "grunt",
+    "svg": "grunt.svg"
+  },
+  {
+    "name": "gulp",
+    "svg": "gulp.svg"
+  },
+  {
+    "name": "hacker actualites droit rectangle esplanade place rond‐point",
+    "svg": "hacker-news-square.svg"
+  },
+  {
+    "name": "hacker actualites",
+    "svg": "hacker-news.svg"
+  },
+  {
+    "name": "hackerrank",
+    "svg": "hackerrank.svg"
+  },
+  {
+    "name": "hips",
+    "svg": "hips.svg"
+  },
+  {
+    "name": "embaucher louer milie dans quelqu'un araisonde une adjoint",
+    "svg": "hire-a-helper.svg"
+  },
+  {
+    "name": "hooli",
+    "svg": "hooli.svg"
+  },
+  {
+    "name": "hornbill",
+    "svg": "hornbill.svg"
+  },
+  {
+    "name": "hotjar",
+    "svg": "hotjar.svg"
+  },
+  {
+    "name": "houzz",
+    "svg": "houzz.svg"
+  },
+  {
+    "name": "html5",
+    "svg": "html5.svg"
+  },
+  {
+    "name": "hubspot",
+    "svg": "hubspot.svg"
+  },
+  {
+    "name": "imdb",
+    "svg": "imdb.svg"
+  },
+  {
+    "name": "instagram",
+    "svg": "instagram.svg"
+  },
+  {
+    "name": "internet explorer",
+    "svg": "internet-explorer.svg"
+  },
+  {
+    "name": "ioxhost",
+    "svg": "ioxhost.svg"
+  },
+  {
+    "name": "itunes billet ticket noter note",
+    "svg": "itunes-note.svg"
+  },
+  {
+    "name": "itunes",
+    "svg": "itunes.svg"
+  },
+  {
+    "name": "java",
+    "svg": "java.svg"
+  },
+  {
+    "name": "jedi commander demander retenir commande ordre enjoindre ordonner sommer enchainement succession suite",
+    "svg": "jedi-order.svg"
+  },
+  {
+    "name": "jenkins",
+    "svg": "jenkins.svg"
+  },
+  {
+    "name": "joget",
+    "svg": "joget.svg"
+  },
+  {
+    "name": "joomla",
+    "svg": "joomla.svg"
+  },
+  {
+    "name": "droit rectangle esplanade place rond‐point",
+    "svg": "js-square.svg"
+  },
+  {
+    "name": "",
+    "svg": "js.svg"
+  },
+  {
+    "name": "jsfiddle",
+    "svg": "jsfiddle.svg"
+  },
+  {
+    "name": "kaggle",
+    "svg": "kaggle.svg"
+  },
+  {
+    "name": "keybase",
+    "svg": "keybase.svg"
+  },
+  {
+    "name": "keycdn",
+    "svg": "keycdn.svg"
+  },
+  {
+    "name": "kickstarter",
+    "svg": "kickstarter-k.svg"
+  },
+  {
+    "name": "kickstarter",
+    "svg": "kickstarter.svg"
+  },
+  {
+    "name": "korvue",
+    "svg": "korvue.svg"
+  },
+  {
+    "name": "laravel",
+    "svg": "laravel.svg"
+  },
+  {
+    "name": "lastfm droit rectangle esplanade place rond‐point",
+    "svg": "lastfm-square.svg"
+  },
+  {
+    "name": "lastfm",
+    "svg": "lastfm.svg"
+  },
+  {
+    "name": "leanpub",
+    "svg": "leanpub.svg"
+  },
+  {
+    "name": "less",
+    "svg": "less.svg"
+  },
+  {
+    "name": "ligne file rang rangee tour",
+    "svg": "line.svg"
+  },
+  {
+    "name": "linkedin milie dans",
+    "svg": "linkedin-in.svg"
+  },
+  {
+    "name": "linkedin",
+    "svg": "linkedin.svg"
+  },
+  {
+    "name": "linode",
+    "svg": "linode.svg"
+  },
+  {
+    "name": "linux",
+    "svg": "linux.svg"
+  },
+  {
+    "name": "lyft",
+    "svg": "lyft.svg"
+  },
+  {
+    "name": "magento",
+    "svg": "magento.svg"
+  },
+  {
+    "name": "mailchimp",
+    "svg": "mailchimp.svg"
+  },
+  {
+    "name": "mandalorian",
+    "svg": "mandalorian.svg"
+  },
+  {
+    "name": "markdown",
+    "svg": "markdown.svg"
+  },
+  {
+    "name": "mastodon",
+    "svg": "mastodon.svg"
+  },
+  {
+    "name": "maxcdn",
+    "svg": "maxcdn.svg"
+  },
+  {
+    "name": "medapps",
+    "svg": "medapps.svg"
+  },
+  {
+    "name": "medium",
+    "svg": "medium-m.svg"
+  },
+  {
+    "name": "medium",
+    "svg": "medium.svg"
+  },
+  {
+    "name": "medrt",
+    "svg": "medrt.svg"
+  },
+  {
+    "name": "meetup",
+    "svg": "meetup.svg"
+  },
+  {
+    "name": "megaport",
+    "svg": "megaport.svg"
+  },
+  {
+    "name": "microsoft",
+    "svg": "microsoft.svg"
+  },
+  {
+    "name": "melanger meler retourner",
+    "svg": "mix.svg"
+  },
+  {
+    "name": "mixcloud",
+    "svg": "mixcloud.svg"
+  },
+  {
+    "name": "mizuni",
+    "svg": "mizuni.svg"
+  },
+  {
+    "name": "modx",
+    "svg": "modx.svg"
+  },
+  {
+    "name": "monero",
+    "svg": "monero.svg"
+  },
+  {
+    "name": "napster",
+    "svg": "napster.svg"
+  },
+  {
+    "name": "neos",
+    "svg": "neos.svg"
+  },
+  {
+    "name": "nimblr",
+    "svg": "nimblr.svg"
+  },
+  {
+    "name": "nintendo badine baguette allumer tourner interrupteur",
+    "svg": "nintendo-switch.svg"
+  },
+  {
+    "name": "noeud",
+    "svg": "node-js.svg"
+  },
+  {
+    "name": "noeud",
+    "svg": "node.svg"
+  },
+  {
+    "name": "npm",
+    "svg": "npm.svg"
+  },
+  {
+    "name": "ns8",
+    "svg": "ns8.svg"
+  },
+  {
+    "name": "nutritionix",
+    "svg": "nutritionix.svg"
+  },
+  {
+    "name": "odnoklassniki droit rectangle esplanade place rond‐point",
+    "svg": "odnoklassniki-square.svg"
+  },
+  {
+    "name": "odnoklassniki",
+    "svg": "odnoklassniki.svg"
+  },
+  {
+    "name": "vieux olda ancien republique",
+    "svg": "old-republic.svg"
+  },
+  {
+    "name": "opencart",
+    "svg": "opencart.svg"
+  },
+  {
+    "name": "openid",
+    "svg": "openid.svg"
+  },
+  {
+    "name": "opera",
+    "svg": "opera.svg"
+  },
+  {
+    "name": "optin clebard monstre",
+    "svg": "optin-monster.svg"
+  },
+  {
+    "name": "osi",
+    "svg": "osi.svg"
+  },
+  {
+    "name": "page4",
+    "svg": "page4.svg"
+  },
+  {
+    "name": "pagelines",
+    "svg": "pagelines.svg"
+  },
+  {
+    "name": "palfed",
+    "svg": "palfed.svg"
+  },
+  {
+    "name": "patreon",
+    "svg": "patreon.svg"
+  },
+  {
+    "name": "paypal",
+    "svg": "paypal.svg"
+  },
+  {
+    "name": "penny arcade",
+    "svg": "penny-arcade.svg"
+  },
+  {
+    "name": "periscope",
+    "svg": "periscope.svg"
+  },
+  {
+    "name": "phabricator",
+    "svg": "phabricator.svg"
+  },
+  {
+    "name": "phenix cadre",
+    "svg": "phoenix-framework.svg"
+  },
+  {
+    "name": "phenix squadron",
+    "svg": "phoenix-squadron.svg"
+  },
+  {
+    "name": "php",
+    "svg": "php.svg"
+  },
+  {
+    "name": "pied piper alt",
+    "svg": "pied-piper-alt.svg"
+  },
+  {
+    "name": "pied piper chapeau",
+    "svg": "pied-piper-hat.svg"
+  },
+  {
+    "name": "pied piper",
+    "svg": "pied-piper-pp.svg"
+  },
+  {
+    "name": "pied piper",
+    "svg": "pied-piper.svg"
+  },
+  {
+    "name": "pinterest",
+    "svg": "pinterest-p.svg"
+  },
+  {
+    "name": "pinterest droit rectangle esplanade place rond‐point",
+    "svg": "pinterest-square.svg"
+  },
+  {
+    "name": "pinterest",
+    "svg": "pinterest.svg"
+  },
+  {
+    "name": "playstation",
+    "svg": "playstation.svg"
+  },
+  {
+    "name": "product chasser",
+    "svg": "product-hunt.svg"
+  },
+  {
+    "name": "pushed",
+    "svg": "pushed.svg"
+  },
+  {
+    "name": "python",
+    "svg": "python.svg"
+  },
+  {
+    "name": "",
+    "svg": "qq.svg"
+  },
+  {
+    "name": "quinscape",
+    "svg": "quinscape.svg"
+  },
+  {
+    "name": "quora",
+    "svg": "quora.svg"
+  },
+  {
+    "name": "projeter une image projet",
+    "svg": "r-project.svg"
+  },
+  {
+    "name": "ravelry",
+    "svg": "ravelry.svg"
+  },
+  {
+    "name": "react",
+    "svg": "react.svg"
+  },
+  {
+    "name": "reacteurope",
+    "svg": "reacteurope.svg"
+  },
+  {
+    "name": "readme",
+    "svg": "readme.svg"
+  },
+  {
+    "name": "revolter",
+    "svg": "rebel.svg"
+  },
+  {
+    "name": "rouge fleuve riviere",
+    "svg": "red-river.svg"
+  },
+  {
+    "name": "reddit abject abominable hideux horrible odieux etranger contradictoire oppose",
+    "svg": "reddit-alien.svg"
+  },
+  {
+    "name": "reddit droit rectangle esplanade place rond‐point",
+    "svg": "reddit-square.svg"
+  },
+  {
+    "name": "reddit",
+    "svg": "reddit.svg"
+  },
+  {
+    "name": "renren",
+    "svg": "renren.svg"
+  },
+  {
+    "name": "replyd",
+    "svg": "replyd.svg"
+  },
+  {
+    "name": "researchgate",
+    "svg": "researchgate.svg"
+  },
+  {
+    "name": "resolving",
+    "svg": "resolving.svg"
+  },
+  {
+    "name": "rev",
+    "svg": "rev.svg"
+  },
+  {
+    "name": "rocketchat",
+    "svg": "rocketchat.svg"
+  },
+  {
+    "name": "rockrms",
+    "svg": "rockrms.svg"
+  },
+  {
+    "name": "safari",
+    "svg": "safari.svg"
+  },
+  {
+    "name": "sass",
+    "svg": "sass.svg"
+  },
+  {
+    "name": "schlix",
+    "svg": "schlix.svg"
+  },
+  {
+    "name": "scribd",
+    "svg": "scribd.svg"
+  },
+  {
+    "name": "searchengin",
+    "svg": "searchengin.svg"
+  },
+  {
+    "name": "sellcast",
+    "svg": "sellcast.svg"
+  },
+  {
+    "name": "sellsy",
+    "svg": "sellsy.svg"
+  },
+  {
+    "name": "servicestack",
+    "svg": "servicestack.svg"
+  },
+  {
+    "name": "shirtsinbulk",
+    "svg": "shirtsinbulk.svg"
+  },
+  {
+    "name": "shopware",
+    "svg": "shopware.svg"
+  },
+  {
+    "name": "simplybuilt",
+    "svg": "simplybuilt.svg"
+  },
+  {
+    "name": "sistrix",
+    "svg": "sistrix.svg"
+  },
+  {
+    "name": "sith",
+    "svg": "sith.svg"
+  },
+  {
+    "name": "skyatlas",
+    "svg": "skyatlas.svg"
+  },
+  {
+    "name": "skype",
+    "svg": "skype.svg"
+  },
+  {
+    "name": "slack hash",
+    "svg": "slack-hash.svg"
+  },
+  {
+    "name": "slack",
+    "svg": "slack.svg"
+  },
+  {
+    "name": "slideshare",
+    "svg": "slideshare.svg"
+  },
+  {
+    "name": "snapchat apparition",
+    "svg": "snapchat-ghost.svg"
+  },
+  {
+    "name": "snapchat droit rectangle esplanade place rond‐point",
+    "svg": "snapchat-square.svg"
+  },
+  {
+    "name": "snapchat",
+    "svg": "snapchat.svg"
+  },
+  {
+    "name": "soundcloud",
+    "svg": "soundcloud.svg"
+  },
+  {
+    "name": "speakap",
+    "svg": "speakap.svg"
+  },
+  {
+    "name": "spotify",
+    "svg": "spotify.svg"
+  },
+  {
+    "name": "squarespace",
+    "svg": "squarespace.svg"
+  },
+  {
+    "name": "accumuler entasser ramasser rassembler tas central centrale",
+    "svg": "stack-exchange.svg"
+  },
+  {
+    "name": "accumuler entasser ramasser rassembler tas deborder",
+    "svg": "stack-overflow.svg"
+  },
+  {
+    "name": "staylinked",
+    "svg": "staylinked.svg"
+  },
+  {
+    "name": "vapeur droit rectangle esplanade place rond‐point",
+    "svg": "steam-square.svg"
+  },
+  {
+    "name": "vapeur symbole",
+    "svg": "steam-symbol.svg"
+  },
+  {
+    "name": "vapeur",
+    "svg": "steam.svg"
+  },
+  {
+    "name": "sticker mulet",
+    "svg": "sticker-mule.svg"
+  },
+  {
+    "name": "strava",
+    "svg": "strava.svg"
+  },
+  {
+    "name": "bande raie rayure",
+    "svg": "stripe-s.svg"
+  },
+  {
+    "name": "bande raie rayure",
+    "svg": "stripe.svg"
+  },
+  {
+    "name": "studiovinari",
+    "svg": "studiovinari.svg"
+  },
+  {
+    "name": "stumbleupon cercle rond ronde",
+    "svg": "stumbleupon-circle.svg"
+  },
+  {
+    "name": "stumbleupon",
+    "svg": "stumbleupon.svg"
+  },
+  {
+    "name": "superpowers",
+    "svg": "superpowers.svg"
+  },
+  {
+    "name": "supple",
+    "svg": "supple.svg"
+  },
+  {
+    "name": "teamspeak",
+    "svg": "teamspeak.svg"
+  },
+  {
+    "name": "telegramme aeroplane avion planer plan projet platane rabot",
+    "svg": "telegram-plane.svg"
+  },
+  {
+    "name": "telegramme",
+    "svg": "telegram.svg"
+  },
+  {
+    "name": "tencent weibo",
+    "svg": "tencent-weibo.svg"
+  },
+  {
+    "name": "a aux lui rouge yeti",
+    "svg": "the-red-yeti.svg"
+  },
+  {
+    "name": "themeco",
+    "svg": "themeco.svg"
+  },
+  {
+    "name": "themeisle",
+    "svg": "themeisle.svg"
+  },
+  {
+    "name": "d'avis penser que penser reflechir peaks",
+    "svg": "think-peaks.svg"
+  },
+  {
+    "name": "commerce metier federation",
+    "svg": "trade-federation.svg"
+  },
+  {
+    "name": "trello",
+    "svg": "trello.svg"
+  },
+  {
+    "name": "tripadvisor",
+    "svg": "tripadvisor.svg"
+  },
+  {
+    "name": "tumblr droit rectangle esplanade place rond‐point",
+    "svg": "tumblr-square.svg"
+  },
+  {
+    "name": "tumblr",
+    "svg": "tumblr.svg"
+  },
+  {
+    "name": "twitch",
+    "svg": "twitch.svg"
+  },
+  {
+    "name": "gazouiller pepier droit rectangle esplanade place rond‐point",
+    "svg": "twitter-square.svg"
+  },
+  {
+    "name": "gazouiller pepier",
+    "svg": "twitter.svg"
+  },
+  {
+    "name": "typo3",
+    "svg": "typo3.svg"
+  },
+  {
+    "name": "uber",
+    "svg": "uber.svg"
+  },
+  {
+    "name": "uikit",
+    "svg": "uikit.svg"
+  },
+  {
+    "name": "uniregistry",
+    "svg": "uniregistry.svg"
+  },
+  {
+    "name": "untappd",
+    "svg": "untappd.svg"
+  },
+  {
+    "name": "usb",
+    "svg": "usb.svg"
+  },
+  {
+    "name": "ussunnah",
+    "svg": "ussunnah.svg"
+  },
+  {
+    "name": "vaadin",
+    "svg": "vaadin.svg"
+  },
+  {
+    "name": "viacoin",
+    "svg": "viacoin.svg"
+  },
+  {
+    "name": "viadeo droit rectangle esplanade place rond‐point",
+    "svg": "viadeo-square.svg"
+  },
+  {
+    "name": "viadeo",
+    "svg": "viadeo.svg"
+  },
+  {
+    "name": "viber",
+    "svg": "viber.svg"
+  },
+  {
+    "name": "vimeo droit rectangle esplanade place rond‐point",
+    "svg": "vimeo-square.svg"
+  },
+  {
+    "name": "vimeo",
+    "svg": "vimeo-v.svg"
+  },
+  {
+    "name": "vimeo",
+    "svg": "vimeo.svg"
+  },
+  {
+    "name": "vignoble vigne",
+    "svg": "vine.svg"
+  },
+  {
+    "name": "",
+    "svg": "vk.svg"
+  },
+  {
+    "name": "vnv",
+    "svg": "vnv.svg"
+  },
+  {
+    "name": "vuejs",
+    "svg": "vuejs.svg"
+  },
+  {
+    "name": "weebly",
+    "svg": "weebly.svg"
+  },
+  {
+    "name": "weibo",
+    "svg": "weibo.svg"
+  },
+  {
+    "name": "weixin",
+    "svg": "weixin.svg"
+  },
+  {
+    "name": "whatsapp droit rectangle esplanade place rond‐point",
+    "svg": "whatsapp-square.svg"
+  },
+  {
+    "name": "whatsapp",
+    "svg": "whatsapp.svg"
+  },
+  {
+    "name": "whmcs",
+    "svg": "whmcs.svg"
+  },
+  {
+    "name": "wikipedia",
+    "svg": "wikipedia-w.svg"
+  },
+  {
+    "name": "windows",
+    "svg": "windows.svg"
+  },
+  {
+    "name": "wix",
+    "svg": "wix.svg"
+  },
+  {
+    "name": "wizards l' au aux lui bord cote cote rivage",
+    "svg": "wizards-of-the-coast.svg"
+  },
+  {
+    "name": "loup paquet battalion",
+    "svg": "wolf-pack-battalion.svg"
+  },
+  {
+    "name": "wordpress pur simple",
+    "svg": "wordpress-simple.svg"
+  },
+  {
+    "name": "wordpress",
+    "svg": "wordpress.svg"
+  },
+  {
+    "name": "wpbeginner",
+    "svg": "wpbeginner.svg"
+  },
+  {
+    "name": "wpexplorer",
+    "svg": "wpexplorer.svg"
+  },
+  {
+    "name": "wpforms",
+    "svg": "wpforms.svg"
+  },
+  {
+    "name": "wpressr",
+    "svg": "wpressr.svg"
+  },
+  {
+    "name": "xbox",
+    "svg": "xbox.svg"
+  },
+  {
+    "name": "xing droit rectangle esplanade place rond‐point",
+    "svg": "xing-square.svg"
+  },
+  {
+    "name": "xing",
+    "svg": "xing.svg"
+  },
+  {
+    "name": "combinator",
+    "svg": "y-combinator.svg"
+  },
+  {
+    "name": "yahoo",
+    "svg": "yahoo.svg"
+  },
+  {
+    "name": "yandex international",
+    "svg": "yandex-international.svg"
+  },
+  {
+    "name": "yandex",
+    "svg": "yandex.svg"
+  },
+  {
+    "name": "yelp",
+    "svg": "yelp.svg"
+  },
+  {
+    "name": "yoast",
+    "svg": "yoast.svg"
+  },
+  {
+    "name": "youtube droit rectangle esplanade place rond‐point",
+    "svg": "youtube-square.svg"
+  },
+  {
+    "name": "youtube",
+    "svg": "youtube.svg"
+  },
+  {
+    "name": "zhihu",
+    "svg": "zhihu.svg"
+  },
+  {
+    "name": "abaque boulier",
+    "svg": "abacus.svg"
+  },
+  {
+    "name": "gland",
+    "svg": "acorn.svg"
+  },
+  {
+    "name": "annonce publicite reclame",
+    "svg": "ad.svg"
+  },
+  {
+    "name": "adresser adresse destination aborder adresser parole interpeller parler livre commander demander retenir",
+    "svg": "address-book.svg"
+  },
+  {
+    "name": "adresser adresse destination aborder adresser parole interpeller parler carte",
+    "svg": "address-card.svg"
+  },
+  {
+    "name": "adapter joindre rectifier redresser jugement",
+    "svg": "adjust.svg"
+  },
+  {
+    "name": "air air musique aria melodie freshener",
+    "svg": "air-freshener.svg"
+  },
+  {
+    "name": "alarmer alerter sirene timbre alarme alerte abasourdir consterner stupefier stupefaction abasourdissement abattement stupeur preoccuper effroi terreur redouter reveil reveil‐matin horloge pendule",
+    "svg": "alarm-clock.svg"
+  },
+  {
+    "name": "alicorn",
+    "svg": "alicorn.svg"
+  },
+  {
+    "name": "align center",
+    "svg": "align-center.svg"
+  },
+  {
+    "name": "align justify",
+    "svg": "align-justify.svg"
+  },
+  {
+    "name": "align gauche",
+    "svg": "align-left.svg"
+  },
+  {
+    "name": "align droit vrai raison exact juste proprement",
+    "svg": "align-right.svg"
+  },
+  {
+    "name": "allergies",
+    "svg": "allergies.svg"
+  },
+  {
+    "name": "ambulance",
+    "svg": "ambulance.svg"
+  },
+  {
+    "name": "americain americain augure preuve temoignage signal signe signer langue interpreting",
+    "svg": "american-sign-language-interpreting.svg"
+  },
+  {
+    "name": "analytics",
+    "svg": "analytics.svg"
+  },
+  {
+    "name": "ancre relacher",
+    "svg": "anchor.svg"
+  },
+  {
+    "name": "angle double redoubler duvet",
+    "svg": "angle-double-down.svg"
+  },
+  {
+    "name": "angle double redoubler gauche",
+    "svg": "angle-double-left.svg"
+  },
+  {
+    "name": "angle double redoubler droit vrai raison exact juste proprement",
+    "svg": "angle-double-right.svg"
+  },
+  {
+    "name": "angle double redoubler",
+    "svg": "angle-double-up.svg"
+  },
+  {
+    "name": "angle duvet",
+    "svg": "angle-down.svg"
+  },
+  {
+    "name": "angle gauche",
+    "svg": "angle-left.svg"
+  },
+  {
+    "name": "angle droit vrai raison exact juste proprement",
+    "svg": "angle-right.svg"
+  },
+  {
+    "name": "angle",
+    "svg": "angle-up.svg"
+  },
+  {
+    "name": "angry",
+    "svg": "angry.svg"
+  },
+  {
+    "name": "ankh",
+    "svg": "ankh.svg"
+  },
+  {
+    "name": "pomme alt",
+    "svg": "apple-alt.svg"
+  },
+  {
+    "name": "pomme crate",
+    "svg": "apple-crate.svg"
+  },
+  {
+    "name": "archive",
+    "svg": "archive.svg"
+  },
+  {
+    "name": "archway",
+    "svg": "archway.svg"
+  },
+  {
+    "name": "fleche alt cercle rond ronde duvet",
+    "svg": "arrow-alt-circle-down.svg"
+  },
+  {
+    "name": "fleche alt cercle rond ronde gauche",
+    "svg": "arrow-alt-circle-left.svg"
+  },
+  {
+    "name": "fleche alt cercle rond ronde droit vrai raison exact juste proprement",
+    "svg": "arrow-alt-circle-right.svg"
+  },
+  {
+    "name": "fleche alt cercle rond ronde",
+    "svg": "arrow-alt-circle-up.svg"
+  },
+  {
+    "name": "fleche alt duvet",
+    "svg": "arrow-alt-down.svg"
+  },
+  {
+    "name": "fleche alt partir depuis des hors fond cul croupe derriere",
+    "svg": "arrow-alt-from-bottom.svg"
+  },
+  {
+    "name": "fleche alt partir depuis des hors gauche",
+    "svg": "arrow-alt-from-left.svg"
+  },
+  {
+    "name": "fleche alt partir depuis des hors droit vrai raison exact juste proprement",
+    "svg": "arrow-alt-from-right.svg"
+  },
+  {
+    "name": "fleche alt partir depuis des hors mutiler comble faite haut sommet sum",
+    "svg": "arrow-alt-from-top.svg"
+  },
+  {
+    "name": "fleche alt gauche",
+    "svg": "arrow-alt-left.svg"
+  },
+  {
+    "name": "fleche alt droit vrai raison exact juste proprement",
+    "svg": "arrow-alt-right.svg"
+  },
+  {
+    "name": "fleche alt droit rectangle esplanade place rond‐point duvet",
+    "svg": "arrow-alt-square-down.svg"
+  },
+  {
+    "name": "fleche alt droit rectangle esplanade place rond‐point gauche",
+    "svg": "arrow-alt-square-left.svg"
+  },
+  {
+    "name": "fleche alt droit rectangle esplanade place rond‐point droit vrai raison exact juste proprement",
+    "svg": "arrow-alt-square-right.svg"
+  },
+  {
+    "name": "fleche alt droit rectangle esplanade place rond‐point",
+    "svg": "arrow-alt-square-up.svg"
+  },
+  {
+    "name": "fleche alt vers afin pour fond cul croupe derriere",
+    "svg": "arrow-alt-to-bottom.svg"
+  },
+  {
+    "name": "fleche alt vers afin pour gauche",
+    "svg": "arrow-alt-to-left.svg"
+  },
+  {
+    "name": "fleche alt vers afin pour droit vrai raison exact juste proprement",
+    "svg": "arrow-alt-to-right.svg"
+  },
+  {
+    "name": "fleche alt vers afin pour mutiler comble faite haut sommet sum",
+    "svg": "arrow-alt-to-top.svg"
+  },
+  {
+    "name": "fleche alt",
+    "svg": "arrow-alt-up.svg"
+  },
+  {
+    "name": "fleche cercle rond ronde duvet",
+    "svg": "arrow-circle-down.svg"
+  },
+  {
+    "name": "fleche cercle rond ronde gauche",
+    "svg": "arrow-circle-left.svg"
+  },
+  {
+    "name": "fleche cercle rond ronde droit vrai raison exact juste proprement",
+    "svg": "arrow-circle-right.svg"
+  },
+  {
+    "name": "fleche cercle rond ronde",
+    "svg": "arrow-circle-up.svg"
+  },
+  {
+    "name": "fleche duvet",
+    "svg": "arrow-down.svg"
+  },
+  {
+    "name": "fleche partir depuis des hors fond cul croupe derriere",
+    "svg": "arrow-from-bottom.svg"
+  },
+  {
+    "name": "fleche partir depuis des hors gauche",
+    "svg": "arrow-from-left.svg"
+  },
+  {
+    "name": "fleche partir depuis des hors droit vrai raison exact juste proprement",
+    "svg": "arrow-from-right.svg"
+  },
+  {
+    "name": "fleche partir depuis des hors mutiler comble faite haut sommet sum",
+    "svg": "arrow-from-top.svg"
+  },
+  {
+    "name": "fleche gauche",
+    "svg": "arrow-left.svg"
+  },
+  {
+    "name": "fleche droit vrai raison exact juste proprement",
+    "svg": "arrow-right.svg"
+  },
+  {
+    "name": "fleche droit rectangle esplanade place rond‐point duvet",
+    "svg": "arrow-square-down.svg"
+  },
+  {
+    "name": "fleche droit rectangle esplanade place rond‐point gauche",
+    "svg": "arrow-square-left.svg"
+  },
+  {
+    "name": "fleche droit rectangle esplanade place rond‐point droit vrai raison exact juste proprement",
+    "svg": "arrow-square-right.svg"
+  },
+  {
+    "name": "fleche droit rectangle esplanade place rond‐point",
+    "svg": "arrow-square-up.svg"
+  },
+  {
+    "name": "fleche vers afin pour fond cul croupe derriere",
+    "svg": "arrow-to-bottom.svg"
+  },
+  {
+    "name": "fleche vers afin pour gauche",
+    "svg": "arrow-to-left.svg"
+  },
+  {
+    "name": "fleche vers afin pour droit vrai raison exact juste proprement",
+    "svg": "arrow-to-right.svg"
+  },
+  {
+    "name": "fleche vers afin pour mutiler comble faite haut sommet sum",
+    "svg": "arrow-to-top.svg"
+  },
+  {
+    "name": "fleche",
+    "svg": "arrow-up.svg"
+  },
+  {
+    "name": "arrows alt",
+    "svg": "arrows-alt-h.svg"
+  },
+  {
+    "name": "arrows alt",
+    "svg": "arrows-alt-v.svg"
+  },
+  {
+    "name": "arrows alt",
+    "svg": "arrows-alt.svg"
+  },
+  {
+    "name": "arrows",
+    "svg": "arrows-h.svg"
+  },
+  {
+    "name": "arrows",
+    "svg": "arrows-v.svg"
+  },
+  {
+    "name": "arrows",
+    "svg": "arrows.svg"
+  },
+  {
+    "name": "assistive listening systems",
+    "svg": "assistive-listening-systems.svg"
+  },
+  {
+    "name": "asterisque",
+    "svg": "asterisk.svg"
+  },
+  {
+    "name": "vers pres araisonde bord pres",
+    "svg": "at.svg"
+  },
+  {
+    "name": "atlas",
+    "svg": "atlas.svg"
+  },
+  {
+    "name": "atome alt",
+    "svg": "atom-alt.svg"
+  },
+  {
+    "name": "atome",
+    "svg": "atom.svg"
+  },
+  {
+    "name": "audio description",
+    "svg": "audio-description.svg"
+  },
+  {
+    "name": "award",
+    "svg": "award.svg"
+  },
+  {
+    "name": "hache bataille combat",
+    "svg": "axe-battle.svg"
+  },
+  {
+    "name": "hache",
+    "svg": "axe.svg"
+  },
+  {
+    "name": "sac tyrolien",
+    "svg": "backpack.svg"
+  },
+  {
+    "name": "backspace",
+    "svg": "backspace.svg"
+  },
+  {
+    "name": "backward",
+    "svg": "backward.svg"
+  },
+  {
+    "name": "insigne reprimer retenir bride surveiller verifier cheque",
+    "svg": "badge-check.svg"
+  },
+  {
+    "name": "insigne dollar",
+    "svg": "badge-dollar.svg"
+  },
+  {
+    "name": "insigne pourcentage",
+    "svg": "badge-percent.svg"
+  },
+  {
+    "name": "insigne",
+    "svg": "badge.svg"
+  },
+  {
+    "name": "badger miel",
+    "svg": "badger-honey.svg"
+  },
+  {
+    "name": "reliquat solde echelle ecaille monter gauche",
+    "svg": "balance-scale-left.svg"
+  },
+  {
+    "name": "reliquat solde echelle ecaille monter droit vrai raison exact juste proprement",
+    "svg": "balance-scale-right.svg"
+  },
+  {
+    "name": "reliquat solde echelle ecaille monter",
+    "svg": "balance-scale.svg"
+  },
+  {
+    "name": "ballot reprimer retenir bride surveiller verifier cheque",
+    "svg": "ballot-check.svg"
+  },
+  {
+    "name": "ballot",
+    "svg": "ballot.svg"
+  },
+  {
+    "name": "anatheme",
+    "svg": "ban.svg"
+  },
+  {
+    "name": "bande adjoint aider assister secourir aide",
+    "svg": "band-aid.svg"
+  },
+  {
+    "name": "barcode alt",
+    "svg": "barcode-alt.svg"
+  },
+  {
+    "name": "barcode lire",
+    "svg": "barcode-read.svg"
+  },
+  {
+    "name": "barcode scan",
+    "svg": "barcode-scan.svg"
+  },
+  {
+    "name": "barcode",
+    "svg": "barcode.svg"
+  },
+  {
+    "name": "bars",
+    "svg": "bars.svg"
+  },
+  {
+    "name": "base‐ball bal globe balle sphere",
+    "svg": "baseball-ball.svg"
+  },
+  {
+    "name": "base‐ball",
+    "svg": "baseball.svg"
+  },
+  {
+    "name": "basket‐ball bal globe balle sphere",
+    "svg": "basketball-ball.svg"
+  },
+  {
+    "name": "basket‐ball hoop",
+    "svg": "basketball-hoop.svg"
+  },
+  {
+    "name": "chauve‐souris",
+    "svg": "bat.svg"
+  },
+  {
+    "name": "baignoire bain",
+    "svg": "bath.svg"
+  },
+  {
+    "name": "accu accumulator accumulateur batterie verrouiller",
+    "svg": "battery-bolt.svg"
+  },
+  {
+    "name": "accu accumulator accumulateur batterie vide vider",
+    "svg": "battery-empty.svg"
+  },
+  {
+    "name": "accu accumulator accumulateur batterie complet entier rassasie",
+    "svg": "battery-full.svg"
+  },
+  {
+    "name": "accu accumulator accumulateur batterie demi moitie",
+    "svg": "battery-half.svg"
+  },
+  {
+    "name": "accu accumulator accumulateur batterie quartier",
+    "svg": "battery-quarter.svg"
+  },
+  {
+    "name": "accu accumulator accumulateur batterie slash",
+    "svg": "battery-slash.svg"
+  },
+  {
+    "name": "accu accumulator accumulateur batterie trois quarters",
+    "svg": "battery-three-quarters.svg"
+  },
+  {
+    "name": "planche plate‐bande plate‐forme lit",
+    "svg": "bed.svg"
+  },
+  {
+    "name": "biere",
+    "svg": "beer.svg"
+  },
+  {
+    "name": "clochette sonnette cloche ecole slash",
+    "svg": "bell-school-slash.svg"
+  },
+  {
+    "name": "clochette sonnette cloche ecole",
+    "svg": "bell-school.svg"
+  },
+  {
+    "name": "clochette sonnette cloche slash",
+    "svg": "bell-slash.svg"
+  },
+  {
+    "name": "clochette sonnette cloche",
+    "svg": "bell.svg"
+  },
+  {
+    "name": "bezier curve",
+    "svg": "bezier-curve.svg"
+  },
+  {
+    "name": "bible ecriture sainte",
+    "svg": "bible.svg"
+  },
+  {
+    "name": "becane bicyclette velo",
+    "svg": "bicycle.svg"
+  },
+  {
+    "name": "jumel lunette",
+    "svg": "binoculars.svg"
+  },
+  {
+    "name": "anniversaire gateau",
+    "svg": "birthday-cake.svg"
+  },
+  {
+    "name": "couverture",
+    "svg": "blanket.svg"
+  },
+  {
+    "name": "blender phone",
+    "svg": "blender-phone.svg"
+  },
+  {
+    "name": "blender",
+    "svg": "blender.svg"
+  },
+  {
+    "name": "aveugle",
+    "svg": "blind.svg"
+  },
+  {
+    "name": "audacieux epais gros",
+    "svg": "bold.svg"
+  },
+  {
+    "name": "verrouiller",
+    "svg": "bolt.svg"
+  },
+  {
+    "name": "bombe",
+    "svg": "bomb.svg"
+  },
+  {
+    "name": "pause repos treve briser rompre violer",
+    "svg": "bone-break.svg"
+  },
+  {
+    "name": "",
+    "svg": "bone.svg"
+  },
+  {
+    "name": "bong",
+    "svg": "bong.svg"
+  },
+  {
+    "name": "livre commander demander retenir alt",
+    "svg": "book-alt.svg"
+  },
+  {
+    "name": "livre commander demander retenir dead",
+    "svg": "book-dead.svg"
+  },
+  {
+    "name": "livre commander demander retenir coeur",
+    "svg": "book-heart.svg"
+  },
+  {
+    "name": "livre commander demander retenir ouvrir",
+    "svg": "book-open.svg"
+  },
+  {
+    "name": "livre commander demander retenir lecteur",
+    "svg": "book-reader.svg"
+  },
+  {
+    "name": "livre commander demander retenir spells",
+    "svg": "book-spells.svg"
+  },
+  {
+    "name": "livre commander demander retenir",
+    "svg": "book.svg"
+  },
+  {
+    "name": "bookmark",
+    "svg": "bookmark.svg"
+  },
+  {
+    "name": "books",
+    "svg": "books.svg"
+  },
+  {
+    "name": "booth rideau",
+    "svg": "booth-curtain.svg"
+  },
+  {
+    "name": "arc fleche",
+    "svg": "bow-arrow.svg"
+  },
+  {
+    "name": "bowling bal globe balle sphere",
+    "svg": "bowling-ball.svg"
+  },
+  {
+    "name": "bowling pins",
+    "svg": "bowling-pins.svg"
+  },
+  {
+    "name": "boxer bac caisse coffre boite coffret baquet alt",
+    "svg": "box-alt.svg"
+  },
+  {
+    "name": "boxer bac caisse coffre boite coffret baquet ballot",
+    "svg": "box-ballot.svg"
+  },
+  {
+    "name": "boxer bac caisse coffre boite coffret baquet reprimer retenir bride surveiller verifier cheque",
+    "svg": "box-check.svg"
+  },
+  {
+    "name": "boxer bac caisse coffre boite coffret baquet fragile",
+    "svg": "box-fragile.svg"
+  },
+  {
+    "name": "boxer bac caisse coffre boite coffret baquet complet entier rassasie",
+    "svg": "box-full.svg"
+  },
+  {
+    "name": "boxer bac caisse coffre boite coffret baquet coeur",
+    "svg": "box-heart.svg"
+  },
+  {
+    "name": "boxer bac caisse coffre boite coffret baquet ouvrir",
+    "svg": "box-open.svg"
+  },
+  {
+    "name": "boxer bac caisse coffre boite coffret baquet",
+    "svg": "box-up.svg"
+  },
+  {
+    "name": "boxer bac caisse coffre boite coffret baquet usd",
+    "svg": "box-usd.svg"
+  },
+  {
+    "name": "boxer bac caisse coffre boite coffret baquet",
+    "svg": "box.svg"
+  },
+  {
+    "name": "boxes alt",
+    "svg": "boxes-alt.svg"
+  },
+  {
+    "name": "boxes",
+    "svg": "boxes.svg"
+  },
+  {
+    "name": "boxing gant",
+    "svg": "boxing-glove.svg"
+  },
+  {
+    "name": "braille",
+    "svg": "braille.svg"
+  },
+  {
+    "name": "cerveau cervelle",
+    "svg": "brain.svg"
+  },
+  {
+    "name": "collection consulter porte document medical",
+    "svg": "briefcase-medical.svg"
+  },
+  {
+    "name": "collection consulter porte document",
+    "svg": "briefcase.svg"
+  },
+  {
+    "name": "broadcast tour",
+    "svg": "broadcast-tower.svg"
+  },
+  {
+    "name": "balai",
+    "svg": "broom.svg"
+  },
+  {
+    "name": "browser",
+    "svg": "browser.svg"
+  },
+  {
+    "name": "brosse",
+    "svg": "brush.svg"
+  },
+  {
+    "name": "punaise insecte",
+    "svg": "bug.svg"
+  },
+  {
+    "name": "construction batiment immeuble",
+    "svg": "building.svg"
+  },
+  {
+    "name": "bullhorn",
+    "svg": "bullhorn.svg"
+  },
+  {
+    "name": "bullseye fleche",
+    "svg": "bullseye-arrow.svg"
+  },
+  {
+    "name": "bullseye pointer",
+    "svg": "bullseye-pointer.svg"
+  },
+  {
+    "name": "bullseye",
+    "svg": "bullseye.svg"
+  },
+  {
+    "name": "bruler s'allumer",
+    "svg": "burn.svg"
+  },
+  {
+    "name": "autobus alt",
+    "svg": "bus-alt.svg"
+  },
+  {
+    "name": "autobus ecole",
+    "svg": "bus-school.svg"
+  },
+  {
+    "name": "autobus",
+    "svg": "bus.svg"
+  },
+  {
+    "name": "affaire chose commerce fois heure duree temps",
+    "svg": "business-time.svg"
+  },
+  {
+    "name": "armoire filing",
+    "svg": "cabinet-filing.svg"
+  },
+  {
+    "name": "calculator alt",
+    "svg": "calculator-alt.svg"
+  },
+  {
+    "name": "calculator",
+    "svg": "calculator.svg"
+  },
+  {
+    "name": "calendrier alt",
+    "svg": "calendar-alt.svg"
+  },
+  {
+    "name": "calendrier reprimer retenir bride surveiller verifier cheque",
+    "svg": "calendar-check.svg"
+  },
+  {
+    "name": "calendrier rediger",
+    "svg": "calendar-edit.svg"
+  },
+  {
+    "name": "calendrier exclamation",
+    "svg": "calendar-exclamation.svg"
+  },
+  {
+    "name": "calendrier moins",
+    "svg": "calendar-minus.svg"
+  },
+  {
+    "name": "calendrier plus",
+    "svg": "calendar-plus.svg"
+  },
+  {
+    "name": "calendrier astral etoile star vedette",
+    "svg": "calendar-star.svg"
+  },
+  {
+    "name": "calendrier ti",
+    "svg": "calendar-times.svg"
+  },
+  {
+    "name": "calendrier",
+    "svg": "calendar.svg"
+  },
+  {
+    "name": "camera alt",
+    "svg": "camera-alt.svg"
+  },
+  {
+    "name": "camera retro",
+    "svg": "camera-retro.svg"
+  },
+  {
+    "name": "camera",
+    "svg": "camera.svg"
+  },
+  {
+    "name": "campfire",
+    "svg": "campfire.svg"
+  },
+  {
+    "name": "campground",
+    "svg": "campground.svg"
+  },
+  {
+    "name": "bougie chandelle holder",
+    "svg": "candle-holder.svg"
+  },
+  {
+    "name": "friandise mais",
+    "svg": "candy-corn.svg"
+  },
+  {
+    "name": "cannabis",
+    "svg": "cannabis.svg"
+  },
+  {
+    "name": "capsu",
+    "svg": "capsules.svg"
+  },
+  {
+    "name": "auto bagnole alt",
+    "svg": "car-alt.svg"
+  },
+  {
+    "name": "auto bagnole accu accumulator accumulateur batterie",
+    "svg": "car-battery.svg"
+  },
+  {
+    "name": "auto bagnole bosse",
+    "svg": "car-bump.svg"
+  },
+  {
+    "name": "auto bagnole crash",
+    "svg": "car-crash.svg"
+  },
+  {
+    "name": "auto bagnole garage",
+    "svg": "car-garage.svg"
+  },
+  {
+    "name": "auto bagnole mecanicien",
+    "svg": "car-mechanic.svg"
+  },
+  {
+    "name": "auto bagnole auxiliaire cote flanc parti",
+    "svg": "car-side.svg"
+  },
+  {
+    "name": "auto bagnole incliner",
+    "svg": "car-tilt.svg"
+  },
+  {
+    "name": "auto bagnole laver",
+    "svg": "car-wash.svg"
+  },
+  {
+    "name": "auto bagnole",
+    "svg": "car.svg"
+  },
+  {
+    "name": "caret cercle rond ronde duvet",
+    "svg": "caret-circle-down.svg"
+  },
+  {
+    "name": "caret cercle rond ronde gauche",
+    "svg": "caret-circle-left.svg"
+  },
+  {
+    "name": "caret cercle rond ronde droit vrai raison exact juste proprement",
+    "svg": "caret-circle-right.svg"
+  },
+  {
+    "name": "caret cercle rond ronde",
+    "svg": "caret-circle-up.svg"
+  },
+  {
+    "name": "caret duvet",
+    "svg": "caret-down.svg"
+  },
+  {
+    "name": "caret gauche",
+    "svg": "caret-left.svg"
+  },
+  {
+    "name": "caret droit vrai raison exact juste proprement",
+    "svg": "caret-right.svg"
+  },
+  {
+    "name": "caret droit rectangle esplanade place rond‐point duvet",
+    "svg": "caret-square-down.svg"
+  },
+  {
+    "name": "caret droit rectangle esplanade place rond‐point gauche",
+    "svg": "caret-square-left.svg"
+  },
+  {
+    "name": "caret droit rectangle esplanade place rond‐point droit vrai raison exact juste proprement",
+    "svg": "caret-square-right.svg"
+  },
+  {
+    "name": "caret droit rectangle esplanade place rond‐point",
+    "svg": "caret-square-up.svg"
+  },
+  {
+    "name": "caret",
+    "svg": "caret-up.svg"
+  },
+  {
+    "name": "char chariot charrette fleche duvet",
+    "svg": "cart-arrow-down.svg"
+  },
+  {
+    "name": "char chariot charrette plus",
+    "svg": "cart-plus.svg"
+  },
+  {
+    "name": "megere peau vache rosse chat",
+    "svg": "cat.svg"
+  },
+  {
+    "name": "chaudron",
+    "svg": "cauldron.svg"
+  },
+  {
+    "name": "acte document piece titre temoignage",
+    "svg": "certificate.svg"
+  },
+  {
+    "name": "chaise siege bureau emploi fonction office service",
+    "svg": "chair-office.svg"
+  },
+  {
+    "name": "chaise siege",
+    "svg": "chair.svg"
+  },
+  {
+    "name": "chalkboard institutrice instituteur",
+    "svg": "chalkboard-teacher.svg"
+  },
+  {
+    "name": "chalkboard",
+    "svg": "chalkboard.svg"
+  },
+  {
+    "name": "charging gare station",
+    "svg": "charging-station.svg"
+  },
+  {
+    "name": "chart aire",
+    "svg": "chart-area.svg"
+  },
+  {
+    "name": "chart barrer bar abreuvoir",
+    "svg": "chart-bar.svg"
+  },
+  {
+    "name": "chart ligne file rang rangee tour duvet",
+    "svg": "chart-line-down.svg"
+  },
+  {
+    "name": "chart ligne file rang rangee tour",
+    "svg": "chart-line.svg"
+  },
+  {
+    "name": "chart pate tarte alt",
+    "svg": "chart-pie-alt.svg"
+  },
+  {
+    "name": "chart pate tarte",
+    "svg": "chart-pie.svg"
+  },
+  {
+    "name": "reprimer retenir bride surveiller verifier cheque cercle rond ronde",
+    "svg": "check-circle.svg"
+  },
+  {
+    "name": "reprimer retenir bride surveiller verifier cheque double redoubler",
+    "svg": "check-double.svg"
+  },
+  {
+    "name": "reprimer retenir bride surveiller verifier cheque droit rectangle esplanade place rond‐point",
+    "svg": "check-square.svg"
+  },
+  {
+    "name": "reprimer retenir bride surveiller verifier cheque",
+    "svg": "check.svg"
+  },
+  {
+    "name": "echec eveque alt",
+    "svg": "chess-bishop-alt.svg"
+  },
+  {
+    "name": "echec eveque",
+    "svg": "chess-bishop.svg"
+  },
+  {
+    "name": "echec panneau planche",
+    "svg": "chess-board.svg"
+  },
+  {
+    "name": "echec horloge pendule alt",
+    "svg": "chess-clock-alt.svg"
+  },
+  {
+    "name": "echec horloge pendule",
+    "svg": "chess-clock.svg"
+  },
+  {
+    "name": "echec dame roi alt",
+    "svg": "chess-king-alt.svg"
+  },
+  {
+    "name": "echec dame roi",
+    "svg": "chess-king.svg"
+  },
+  {
+    "name": "echec chevalier alt",
+    "svg": "chess-knight-alt.svg"
+  },
+  {
+    "name": "echec chevalier",
+    "svg": "chess-knight.svg"
+  },
+  {
+    "name": "echec emprunter gages soldat alt",
+    "svg": "chess-pawn-alt.svg"
+  },
+  {
+    "name": "echec emprunter gages soldat",
+    "svg": "chess-pawn.svg"
+  },
+  {
+    "name": "echec dame reine alt",
+    "svg": "chess-queen-alt.svg"
+  },
+  {
+    "name": "echec dame reine",
+    "svg": "chess-queen.svg"
+  },
+  {
+    "name": "echec rook alt",
+    "svg": "chess-rook-alt.svg"
+  },
+  {
+    "name": "echec rook",
+    "svg": "chess-rook.svg"
+  },
+  {
+    "name": "echec",
+    "svg": "chess.svg"
+  },
+  {
+    "name": "chevron cercle rond ronde duvet",
+    "svg": "chevron-circle-down.svg"
+  },
+  {
+    "name": "chevron cercle rond ronde gauche",
+    "svg": "chevron-circle-left.svg"
+  },
+  {
+    "name": "chevron cercle rond ronde droit vrai raison exact juste proprement",
+    "svg": "chevron-circle-right.svg"
+  },
+  {
+    "name": "chevron cercle rond ronde",
+    "svg": "chevron-circle-up.svg"
+  },
+  {
+    "name": "chevron double redoubler duvet",
+    "svg": "chevron-double-down.svg"
+  },
+  {
+    "name": "chevron double redoubler gauche",
+    "svg": "chevron-double-left.svg"
+  },
+  {
+    "name": "chevron double redoubler droit vrai raison exact juste proprement",
+    "svg": "chevron-double-right.svg"
+  },
+  {
+    "name": "chevron double redoubler",
+    "svg": "chevron-double-up.svg"
+  },
+  {
+    "name": "chevron duvet",
+    "svg": "chevron-down.svg"
+  },
+  {
+    "name": "chevron gauche",
+    "svg": "chevron-left.svg"
+  },
+  {
+    "name": "chevron droit vrai raison exact juste proprement",
+    "svg": "chevron-right.svg"
+  },
+  {
+    "name": "chevron droit rectangle esplanade place rond‐point duvet",
+    "svg": "chevron-square-down.svg"
+  },
+  {
+    "name": "chevron droit rectangle esplanade place rond‐point gauche",
+    "svg": "chevron-square-left.svg"
+  },
+  {
+    "name": "chevron droit rectangle esplanade place rond‐point droit vrai raison exact juste proprement",
+    "svg": "chevron-square-right.svg"
+  },
+  {
+    "name": "chevron droit rectangle esplanade place rond‐point",
+    "svg": "chevron-square-up.svg"
+  },
+  {
+    "name": "chevron",
+    "svg": "chevron-up.svg"
+  },
+  {
+    "name": "enfant",
+    "svg": "child.svg"
+  },
+  {
+    "name": "eglise",
+    "svg": "church.svg"
+  },
+  {
+    "name": "cercle rond ronde encoche",
+    "svg": "circle-notch.svg"
+  },
+  {
+    "name": "cercle rond ronde",
+    "svg": "circle.svg"
+  },
+  {
+    "name": "cite ville",
+    "svg": "city.svg"
+  },
+  {
+    "name": "griffe marks",
+    "svg": "claw-marks.svg"
+  },
+  {
+    "name": "clipboard reprimer retenir bride surveiller verifier cheque",
+    "svg": "clipboard-check.svg"
+  },
+  {
+    "name": "clipboard liste reprimer retenir bride surveiller verifier cheque",
+    "svg": "clipboard-list-check.svg"
+  },
+  {
+    "name": "clipboard liste",
+    "svg": "clipboard-list.svg"
+  },
+  {
+    "name": "clipboard recette ordonnance",
+    "svg": "clipboard-prescription.svg"
+  },
+  {
+    "name": "clipboard",
+    "svg": "clipboard.svg"
+  },
+  {
+    "name": "horloge pendule",
+    "svg": "clock.svg"
+  },
+  {
+    "name": "clone",
+    "svg": "clone.svg"
+  },
+  {
+    "name": "closed captioning",
+    "svg": "closed-captioning.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage download alt",
+    "svg": "cloud-download-alt.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage download",
+    "svg": "cloud-download.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage bruine",
+    "svg": "cloud-drizzle.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage grele mixed",
+    "svg": "cloud-hail-mixed.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage grele",
+    "svg": "cloud-hail.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage meatball",
+    "svg": "cloud-meatball.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage lune pleuvoir pluie",
+    "svg": "cloud-moon-rain.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage lune",
+    "svg": "cloud-moon.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage pleuvoir pluie",
+    "svg": "cloud-rain.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage arc‐en‐ciel",
+    "svg": "cloud-rainbow.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage showers lourd",
+    "svg": "cloud-showers-heavy.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage showers",
+    "svg": "cloud-showers.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage sleet",
+    "svg": "cloud-sleet.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage neiger neige",
+    "svg": "cloud-snow.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage ensoleille soleil pleuvoir pluie",
+    "svg": "cloud-sun-rain.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage ensoleille soleil",
+    "svg": "cloud-sun.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage upload alt",
+    "svg": "cloud-upload-alt.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage upload",
+    "svg": "cloud-upload.svg"
+  },
+  {
+    "name": "brouiller confus trouble nuage",
+    "svg": "cloud.svg"
+  },
+  {
+    "name": "clouds lune",
+    "svg": "clouds-moon.svg"
+  },
+  {
+    "name": "clouds ensoleille soleil",
+    "svg": "clouds-sun.svg"
+  },
+  {
+    "name": "clouds",
+    "svg": "clouds.svg"
+  },
+  {
+    "name": "club",
+    "svg": "club.svg"
+  },
+  {
+    "name": "cocktail",
+    "svg": "cocktail.svg"
+  },
+  {
+    "name": "code branche domaine specialite filiale succursale",
+    "svg": "code-branch.svg"
+  },
+  {
+    "name": "code commit",
+    "svg": "code-commit.svg"
+  },
+  {
+    "name": "code merge",
+    "svg": "code-merge.svg"
+  },
+  {
+    "name": "code",
+    "svg": "code.svg"
+  },
+  {
+    "name": "cafe togo",
+    "svg": "coffee-togo.svg"
+  },
+  {
+    "name": "cafe",
+    "svg": "coffee.svg"
+  },
+  {
+    "name": "cercueil",
+    "svg": "coffin.svg"
+  },
+  {
+    "name": "cog",
+    "svg": "cog.svg"
+  },
+  {
+    "name": "cogs",
+    "svg": "cogs.svg"
+  },
+  {
+    "name": "coins",
+    "svg": "coins.svg"
+  },
+  {
+    "name": "columns",
+    "svg": "columns.svg"
+  },
+  {
+    "name": "comment alt reprimer retenir bride surveiller verifier cheque",
+    "svg": "comment-alt-check.svg"
+  },
+  {
+    "name": "comment alt dollar",
+    "svg": "comment-alt-dollar.svg"
+  },
+  {
+    "name": "comment alt dots",
+    "svg": "comment-alt-dots.svg"
+  },
+  {
+    "name": "comment alt rediger",
+    "svg": "comment-alt-edit.svg"
+  },
+  {
+    "name": "comment alt exclamation",
+    "svg": "comment-alt-exclamation.svg"
+  },
+  {
+    "name": "comment alt lines",
+    "svg": "comment-alt-lines.svg"
+  },
+  {
+    "name": "comment alt moins",
+    "svg": "comment-alt-minus.svg"
+  },
+  {
+    "name": "comment alt plus",
+    "svg": "comment-alt-plus.svg"
+  },
+  {
+    "name": "comment alt slash",
+    "svg": "comment-alt-slash.svg"
+  },
+  {
+    "name": "comment alt sourire",
+    "svg": "comment-alt-smile.svg"
+  },
+  {
+    "name": "comment alt ti",
+    "svg": "comment-alt-times.svg"
+  },
+  {
+    "name": "comment alt",
+    "svg": "comment-alt.svg"
+  },
+  {
+    "name": "comment reprimer retenir bride surveiller verifier cheque",
+    "svg": "comment-check.svg"
+  },
+  {
+    "name": "comment dollar",
+    "svg": "comment-dollar.svg"
+  },
+  {
+    "name": "comment dots",
+    "svg": "comment-dots.svg"
+  },
+  {
+    "name": "comment rediger",
+    "svg": "comment-edit.svg"
+  },
+  {
+    "name": "comment exclamation",
+    "svg": "comment-exclamation.svg"
+  },
+  {
+    "name": "comment lines",
+    "svg": "comment-lines.svg"
+  },
+  {
+    "name": "comment moins",
+    "svg": "comment-minus.svg"
+  },
+  {
+    "name": "comment plus",
+    "svg": "comment-plus.svg"
+  },
+  {
+    "name": "comment slash",
+    "svg": "comment-slash.svg"
+  },
+  {
+    "name": "comment sourire",
+    "svg": "comment-smile.svg"
+  },
+  {
+    "name": "comment ti",
+    "svg": "comment-times.svg"
+  },
+  {
+    "name": "comment",
+    "svg": "comment.svg"
+  },
+  {
+    "name": "comments alt dollar",
+    "svg": "comments-alt-dollar.svg"
+  },
+  {
+    "name": "comments alt",
+    "svg": "comments-alt.svg"
+  },
+  {
+    "name": "comments dollar",
+    "svg": "comments-dollar.svg"
+  },
+  {
+    "name": "comments",
+    "svg": "comments.svg"
+  },
+  {
+    "name": "compact disque",
+    "svg": "compact-disc.svg"
+  },
+  {
+    "name": "boussole slash",
+    "svg": "compass-slash.svg"
+  },
+  {
+    "name": "boussole",
+    "svg": "compass.svg"
+  },
+  {
+    "name": "compress alt",
+    "svg": "compress-alt.svg"
+  },
+  {
+    "name": "compress ample etendu large",
+    "svg": "compress-wide.svg"
+  },
+  {
+    "name": "compress",
+    "svg": "compress.svg"
+  },
+  {
+    "name": "concierge clochette sonnette cloche",
+    "svg": "concierge-bell.svg"
+  },
+  {
+    "name": "bac baquet storage",
+    "svg": "container-storage.svg"
+  },
+  {
+    "name": "conveyor ceinture alt",
+    "svg": "conveyor-belt-alt.svg"
+  },
+  {
+    "name": "conveyor ceinture",
+    "svg": "conveyor-belt.svg"
+  },
+  {
+    "name": "biscuit mordre",
+    "svg": "cookie-bite.svg"
+  },
+  {
+    "name": "biscuit",
+    "svg": "cookie.svg"
+  },
+  {
+    "name": "copier",
+    "svg": "copy.svg"
+  },
+  {
+    "name": "copyright",
+    "svg": "copyright.svg"
+  },
+  {
+    "name": "mais",
+    "svg": "corn.svg"
+  },
+  {
+    "name": "canape",
+    "svg": "couch.svg"
+  },
+  {
+    "name": "vache",
+    "svg": "cow.svg"
+  },
+  {
+    "name": "credit carte blanc formulaire",
+    "svg": "credit-card-blank.svg"
+  },
+  {
+    "name": "credit carte front",
+    "svg": "credit-card-front.svg"
+  },
+  {
+    "name": "credit carte",
+    "svg": "credit-card.svg"
+  },
+  {
+    "name": "grillon",
+    "svg": "cricket.svg"
+  },
+  {
+    "name": "crop alt",
+    "svg": "crop-alt.svg"
+  },
+  {
+    "name": "crop",
+    "svg": "crop.svg"
+  },
+  {
+    "name": "croiser croix maussade passer depasser",
+    "svg": "cross.svg"
+  },
+  {
+    "name": "crosshairs",
+    "svg": "crosshairs.svg"
+  },
+  {
+    "name": "corbeau",
+    "svg": "crow.svg"
+  },
+  {
+    "name": "couronner",
+    "svg": "crown.svg"
+  },
+  {
+    "name": "cube",
+    "svg": "cube.svg"
+  },
+  {
+    "name": "cubes",
+    "svg": "cubes.svg"
+  },
+  {
+    "name": "curling",
+    "svg": "curling.svg"
+  },
+  {
+    "name": "faucher hacher tailler couper ciseaux decouper tondre couper trancher balafre",
+    "svg": "cut.svg"
+  },
+  {
+    "name": "dagger",
+    "svg": "dagger.svg"
+  },
+  {
+    "name": "database",
+    "svg": "database.svg"
+  },
+  {
+    "name": "sourd",
+    "svg": "deaf.svg"
+  },
+  {
+    "name": "democrate",
+    "svg": "democrat.svg"
+  },
+  {
+    "name": "desktop alt",
+    "svg": "desktop-alt.svg"
+  },
+  {
+    "name": "desktop",
+    "svg": "desktop.svg"
+  },
+  {
+    "name": "dewpoint",
+    "svg": "dewpoint.svg"
+  },
+  {
+    "name": "dharmachakra",
+    "svg": "dharmachakra.svg"
+  },
+  {
+    "name": "diagno",
+    "svg": "diagnoses.svg"
+  },
+  {
+    "name": "diamant",
+    "svg": "diamond.svg"
+  },
+  {
+    "name": "dice d10",
+    "svg": "dice-d10.svg"
+  },
+  {
+    "name": "dice d12",
+    "svg": "dice-d12.svg"
+  },
+  {
+    "name": "dice d20",
+    "svg": "dice-d20.svg"
+  },
+  {
+    "name": "dice",
+    "svg": "dice-d4.svg"
+  },
+  {
+    "name": "dice",
+    "svg": "dice-d6.svg"
+  },
+  {
+    "name": "dice",
+    "svg": "dice-d8.svg"
+  },
+  {
+    "name": "dice cinq",
+    "svg": "dice-five.svg"
+  },
+  {
+    "name": "dice quatre",
+    "svg": "dice-four.svg"
+  },
+  {
+    "name": "dice quelqu'un une",
+    "svg": "dice-one.svg"
+  },
+  {
+    "name": "dice six",
+    "svg": "dice-six.svg"
+  },
+  {
+    "name": "dice trois",
+    "svg": "dice-three.svg"
+  },
+  {
+    "name": "dice deux",
+    "svg": "dice-two.svg"
+  },
+  {
+    "name": "dice",
+    "svg": "dice.svg"
+  },
+  {
+    "name": "digital tachograph",
+    "svg": "digital-tachograph.svg"
+  },
+  {
+    "name": "acte document piece titre diplome",
+    "svg": "diploma.svg"
+  },
+  {
+    "name": "instruction",
+    "svg": "directions.svg"
+  },
+  {
+    "name": "separer trier disperser dissiper diviser debiter partager",
+    "svg": "divide.svg"
+  },
+  {
+    "name": "dizzy",
+    "svg": "dizzy.svg"
+  },
+  {
+    "name": "adn",
+    "svg": "dna.svg"
+  },
+  {
+    "name": "construire fabriquer faire operer poser coiffer friser ... pas pas introduire entrer entrer dans inscrire",
+    "svg": "do-not-enter.svg"
+  },
+  {
+    "name": "chien clebard leashed",
+    "svg": "dog-leashed.svg"
+  },
+  {
+    "name": "chien clebard",
+    "svg": "dog.svg"
+  },
+  {
+    "name": "dollar augure preuve temoignage signal signe signer",
+    "svg": "dollar-sign.svg"
+  },
+  {
+    "name": "dolly vide vider",
+    "svg": "dolly-empty.svg"
+  },
+  {
+    "name": "dolly flatbed alt",
+    "svg": "dolly-flatbed-alt.svg"
+  },
+  {
+    "name": "dolly flatbed vide vider",
+    "svg": "dolly-flatbed-empty.svg"
+  },
+  {
+    "name": "dolly flatbed",
+    "svg": "dolly-flatbed.svg"
+  },
+  {
+    "name": "dolly",
+    "svg": "dolly.svg"
+  },
+  {
+    "name": "faire cadeau offrir",
+    "svg": "donate.svg"
+  },
+  {
+    "name": "porte closed",
+    "svg": "door-closed.svg"
+  },
+  {
+    "name": "porte ouvrir",
+    "svg": "door-open.svg"
+  },
+  {
+    "name": "point cercle rond ronde",
+    "svg": "dot-circle.svg"
+  },
+  {
+    "name": "colombe pigeon",
+    "svg": "dove.svg"
+  },
+  {
+    "name": "download",
+    "svg": "download.svg"
+  },
+  {
+    "name": "drafting boussole",
+    "svg": "drafting-compass.svg"
+  },
+  {
+    "name": "dragon",
+    "svg": "dragon.svg"
+  },
+  {
+    "name": "allecher appater solliciter dessiner abaisser tirer trait tirer puiser cercle rond ronde",
+    "svg": "draw-circle.svg"
+  },
+  {
+    "name": "allecher appater solliciter dessiner abaisser tirer trait tirer puiser polygon",
+    "svg": "draw-polygon.svg"
+  },
+  {
+    "name": "allecher appater solliciter dessiner abaisser tirer trait tirer puiser droit rectangle esplanade place rond‐point",
+    "svg": "draw-square.svg"
+  },
+  {
+    "name": "tambour steelpan",
+    "svg": "drum-steelpan.svg"
+  },
+  {
+    "name": "tambour",
+    "svg": "drum.svg"
+  },
+  {
+    "name": "drumstick mordre",
+    "svg": "drumstick-bite.svg"
+  },
+  {
+    "name": "drumstick",
+    "svg": "drumstick.svg"
+  },
+  {
+    "name": "canard",
+    "svg": "duck.svg"
+  },
+  {
+    "name": "dumbbell",
+    "svg": "dumbbell.svg"
+  },
+  {
+    "name": "dungeon",
+    "svg": "dungeon.svg"
+  },
+  {
+    "name": "oreille epi",
+    "svg": "ear.svg"
+  },
+  {
+    "name": "eclipse alt",
+    "svg": "eclipse-alt.svg"
+  },
+  {
+    "name": "eclipse",
+    "svg": "eclipse.svg"
+  },
+  {
+    "name": "rediger",
+    "svg": "edit.svg"
+  },
+  {
+    "name": "eject",
+    "svg": "eject.svg"
+  },
+  {
+    "name": "elephant",
+    "svg": "elephant.svg"
+  },
+  {
+    "name": "ellipsis alt",
+    "svg": "ellipsis-h-alt.svg"
+  },
+  {
+    "name": "ellipsis",
+    "svg": "ellipsis-h.svg"
+  },
+  {
+    "name": "ellipsis alt",
+    "svg": "ellipsis-v-alt.svg"
+  },
+  {
+    "name": "ellipsis",
+    "svg": "ellipsis-v.svg"
+  },
+  {
+    "name": "vide vider appareil bande collection ensemble troupe serie",
+    "svg": "empty-set.svg"
+  },
+  {
+    "name": "locomotive machine moteur recommandation sommation",
+    "svg": "engine-warning.svg"
+  },
+  {
+    "name": "enveloppe ouvrir dollar",
+    "svg": "envelope-open-dollar.svg"
+  },
+  {
+    "name": "enveloppe ouvrir texte",
+    "svg": "envelope-open-text.svg"
+  },
+  {
+    "name": "enveloppe ouvrir",
+    "svg": "envelope-open.svg"
+  },
+  {
+    "name": "enveloppe droit rectangle esplanade place rond‐point",
+    "svg": "envelope-square.svg"
+  },
+  {
+    "name": "enveloppe",
+    "svg": "envelope.svg"
+  },
+  {
+    "name": "equals",
+    "svg": "equals.svg"
+  },
+  {
+    "name": "gomme",
+    "svg": "eraser.svg"
+  },
+  {
+    "name": "euro augure preuve temoignage signal signe signer",
+    "svg": "euro-sign.svg"
+  },
+  {
+    "name": "central centrale alt",
+    "svg": "exchange-alt.svg"
+  },
+  {
+    "name": "central centrale",
+    "svg": "exchange.svg"
+  },
+  {
+    "name": "exclamation cercle rond ronde",
+    "svg": "exclamation-circle.svg"
+  },
+  {
+    "name": "exclamation droit rectangle esplanade place rond‐point",
+    "svg": "exclamation-square.svg"
+  },
+  {
+    "name": "exclamation triangle",
+    "svg": "exclamation-triangle.svg"
+  },
+  {
+    "name": "exclamation",
+    "svg": "exclamation.svg"
+  },
+  {
+    "name": "expand alt",
+    "svg": "expand-alt.svg"
+  },
+  {
+    "name": "expand arrows alt",
+    "svg": "expand-arrows-alt.svg"
+  },
+  {
+    "name": "expand arrows",
+    "svg": "expand-arrows.svg"
+  },
+  {
+    "name": "expand ample etendu large",
+    "svg": "expand-wide.svg"
+  },
+  {
+    "name": "expand",
+    "svg": "expand.svg"
+  },
+  {
+    "name": "external monter alt",
+    "svg": "external-link-alt.svg"
+  },
+  {
+    "name": "external monter droit rectangle esplanade place rond‐point alt",
+    "svg": "external-link-square-alt.svg"
+  },
+  {
+    "name": "external monter droit rectangle esplanade place rond‐point",
+    "svg": "external-link-square.svg"
+  },
+  {
+    "name": "external monter",
+    "svg": "external-link.svg"
+  },
+  {
+    "name": "oeil dropper",
+    "svg": "eye-dropper.svg"
+  },
+  {
+    "name": "oeil evil",
+    "svg": "eye-evil.svg"
+  },
+  {
+    "name": "oeil slash",
+    "svg": "eye-slash.svg"
+  },
+  {
+    "name": "oeil",
+    "svg": "eye.svg"
+  },
+  {
+    "name": "jeuner ferme prompt rapide rapidement vite backward",
+    "svg": "fast-backward.svg"
+  },
+  {
+    "name": "jeuner ferme prompt rapide rapidement vite forward",
+    "svg": "fast-forward.svg"
+  },
+  {
+    "name": "fax",
+    "svg": "fax.svg"
+  },
+  {
+    "name": "plume alt",
+    "svg": "feather-alt.svg"
+  },
+  {
+    "name": "plume",
+    "svg": "feather.svg"
+  },
+  {
+    "name": "femelle",
+    "svg": "female.svg"
+  },
+  {
+    "name": "champ hockey",
+    "svg": "field-hockey.svg"
+  },
+  {
+    "name": "fighter jet",
+    "svg": "fighter-jet.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour alt",
+    "svg": "file-alt.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour archive",
+    "svg": "file-archive.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour audio",
+    "svg": "file-audio.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour acte document piece titre temoignage",
+    "svg": "file-certificate.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour chart ligne file rang rangee tour",
+    "svg": "file-chart-line.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour chart pate tarte",
+    "svg": "file-chart-pie.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour reprimer retenir bride surveiller verifier cheque",
+    "svg": "file-check.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour code",
+    "svg": "file-code.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour contract",
+    "svg": "file-contract.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour csv",
+    "svg": "file-csv.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour download",
+    "svg": "file-download.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour rediger",
+    "svg": "file-edit.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour excel",
+    "svg": "file-excel.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour exclamation",
+    "svg": "file-exclamation.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour export",
+    "svg": "file-export.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour image figure",
+    "svg": "file-image.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour importer",
+    "svg": "file-import.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour facture dollar",
+    "svg": "file-invoice-dollar.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour facture",
+    "svg": "file-invoice.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour medical alt",
+    "svg": "file-medical-alt.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour medical",
+    "svg": "file-medical.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour moins",
+    "svg": "file-minus.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour pdf",
+    "svg": "file-pdf.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour plus",
+    "svg": "file-plus.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour powerpoint",
+    "svg": "file-powerpoint.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour recette ordonnance",
+    "svg": "file-prescription.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour signature",
+    "svg": "file-signature.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour spreadsheet",
+    "svg": "file-spreadsheet.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour ti",
+    "svg": "file-times.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour upload",
+    "svg": "file-upload.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour user",
+    "svg": "file-user.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour video",
+    "svg": "file-video.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour mot",
+    "svg": "file-word.svg"
+  },
+  {
+    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour",
+    "svg": "file.svg"
+  },
+  {
+    "name": "completer remplir goutte",
+    "svg": "fill-drip.svg"
+  },
+  {
+    "name": "completer remplir",
+    "svg": "fill.svg"
+  },
+  {
+    "name": "film pellicule alt",
+    "svg": "film-alt.svg"
+  },
+  {
+    "name": "film pellicule",
+    "svg": "film.svg"
+  },
+  {
+    "name": "filtrer",
+    "svg": "filter.svg"
+  },
+  {
+    "name": "fingerprint",
+    "svg": "fingerprint.svg"
+  },
+  {
+    "name": "partir licencier renvoyer suspendre feu incendie tirer extinguisher",
+    "svg": "fire-extinguisher.svg"
+  },
+  {
+    "name": "partir licencier renvoyer suspendre feu incendie tirer fumer fumee",
+    "svg": "fire-smoke.svg"
+  },
+  {
+    "name": "partir licencier renvoyer suspendre feu incendie tirer",
+    "svg": "fire.svg"
+  },
+  {
+    "name": "premier commencement premier lieu d'abord adjoint aider assister secourir aide",
+    "svg": "first-aid.svg"
+  },
+  {
+    "name": "pecher poisson",
+    "svg": "fish.svg"
+  },
+  {
+    "name": "poing raised",
+    "svg": "fist-raised.svg"
+  },
+  {
+    "name": "drapeau pavillon etendard alt",
+    "svg": "flag-alt.svg"
+  },
+  {
+    "name": "drapeau pavillon etendard checkered",
+    "svg": "flag-checkered.svg"
+  },
+  {
+    "name": "drapeau pavillon etendard etats‐unis",
+    "svg": "flag-usa.svg"
+  },
+  {
+    "name": "drapeau pavillon etendard",
+    "svg": "flag.svg"
+  },
+  {
+    "name": "flamber flamme",
+    "svg": "flame.svg"
+  },
+  {
+    "name": "flask poison venin",
+    "svg": "flask-poison.svg"
+  },
+  {
+    "name": "flask potion",
+    "svg": "flask-potion.svg"
+  },
+  {
+    "name": "flask",
+    "svg": "flask.svg"
+  },
+  {
+    "name": "flushed",
+    "svg": "flushed.svg"
+  },
+  {
+    "name": "brouillard",
+    "svg": "fog.svg"
+  },
+  {
+    "name": "chemise dossier cahier moins",
+    "svg": "folder-minus.svg"
+  },
+  {
+    "name": "chemise dossier cahier ouvrir",
+    "svg": "folder-open.svg"
+  },
+  {
+    "name": "chemise dossier cahier plus",
+    "svg": "folder-plus.svg"
+  },
+  {
+    "name": "chemise dossier cahier ti",
+    "svg": "folder-times.svg"
+  },
+  {
+    "name": "chemise dossier cahier",
+    "svg": "folder.svg"
+  },
+  {
+    "name": "folders",
+    "svg": "folders.svg"
+  },
+  {
+    "name": "copyright brevet",
     "svg": "00a9.svg"
   },
   {
-    "name": "recommandé augure preuve témoignage signal signe signer",
+    "name": "font",
+    "svg": "font.svg"
+  },
+  {
+    "name": "foot football ballon ballon football bal globe balle sphere",
+    "svg": "football-ball.svg"
+  },
+  {
+    "name": "foot football ballon ballon football helmet",
+    "svg": "football-helmet.svg"
+  },
+  {
+    "name": "forklift",
+    "svg": "forklift.svg"
+  },
+  {
+    "name": "forward",
+    "svg": "forward.svg"
+  },
+  {
+    "name": "fragile",
+    "svg": "fragile.svg"
+  },
+  {
+    "name": "grenouille",
+    "svg": "frog.svg"
+  },
+  {
+    "name": "frown ouvrir",
+    "svg": "frown-open.svg"
+  },
+  {
+    "name": "frown",
+    "svg": "frown.svg"
+  },
+  {
+    "name": "fonctionner fonction emploi office service",
+    "svg": "function.svg"
+  },
+  {
+    "name": "entonnoir dollar",
+    "svg": "funnel-dollar.svg"
+  },
+  {
+    "name": "futbol",
+    "svg": "futbol.svg"
+  },
+  {
+    "name": "gamepad",
+    "svg": "gamepad.svg"
+  },
+  {
+    "name": "gaz pomper pompe slash",
+    "svg": "gas-pump-slash.svg"
+  },
+  {
+    "name": "gaz pomper pompe",
+    "svg": "gas-pump.svg"
+  },
+  {
+    "name": "gavel",
+    "svg": "gavel.svg"
+  },
+  {
+    "name": "gem",
+    "svg": "gem.svg"
+  },
+  {
+    "name": "genderless",
+    "svg": "genderless.svg"
+  },
+  {
+    "name": "apparition",
+    "svg": "ghost.svg"
+  },
+  {
+    "name": "cadeau don carte",
+    "svg": "gift-card.svg"
+  },
+  {
+    "name": "cadeau don",
+    "svg": "gift.svg"
+  },
+  {
+    "name": "verre vitre martini alt",
+    "svg": "glass-martini-alt.svg"
+  },
+  {
+    "name": "verre vitre martini",
+    "svg": "glass-martini.svg"
+  },
+  {
+    "name": "lunettes alt",
+    "svg": "glasses-alt.svg"
+  },
+  {
+    "name": "lunettes",
+    "svg": "glasses.svg"
+  },
+  {
+    "name": "globe afrique",
+    "svg": "globe-africa.svg"
+  },
+  {
+    "name": "globe americas",
+    "svg": "globe-americas.svg"
+  },
+  {
+    "name": "globe asie",
+    "svg": "globe-asia.svg"
+  },
+  {
+    "name": "globe echoppe kiosque stand surgir sursauter debout dresser",
+    "svg": "globe-stand.svg"
+  },
+  {
+    "name": "globe",
+    "svg": "globe.svg"
+  },
+  {
+    "name": "golfe bal globe balle sphere",
+    "svg": "golf-ball.svg"
+  },
+  {
+    "name": "golfe club",
+    "svg": "golf-club.svg"
+  },
+  {
+    "name": "gopuram",
+    "svg": "gopuram.svg"
+  },
+  {
+    "name": "graduation casquette bonnet toque",
+    "svg": "graduation-cap.svg"
+  },
+  {
+    "name": "greater que egal",
+    "svg": "greater-than-equal.svg"
+  },
+  {
+    "name": "greater que",
+    "svg": "greater-than.svg"
+  },
+  {
+    "name": "grimace",
+    "svg": "grimace.svg"
+  },
+  {
+    "name": "grin alt",
+    "svg": "grin-alt.svg"
+  },
+  {
+    "name": "grin rayon poutre transpirer suer sueur",
+    "svg": "grin-beam-sweat.svg"
+  },
+  {
+    "name": "grin rayon poutre",
+    "svg": "grin-beam.svg"
+  },
+  {
+    "name": "grin hearts",
+    "svg": "grin-hearts.svg"
+  },
+  {
+    "name": "grin loucher tears",
+    "svg": "grin-squint-tears.svg"
+  },
+  {
+    "name": "grin loucher",
+    "svg": "grin-squint.svg"
+  },
+  {
+    "name": "grin stars",
+    "svg": "grin-stars.svg"
+  },
+  {
+    "name": "grin tears",
+    "svg": "grin-tears.svg"
+  },
+  {
+    "name": "grin langue loucher",
+    "svg": "grin-tongue-squint.svg"
+  },
+  {
+    "name": "grin langue wink",
+    "svg": "grin-tongue-wink.svg"
+  },
+  {
+    "name": "grin langue",
+    "svg": "grin-tongue.svg"
+  },
+  {
+    "name": "grin wink",
+    "svg": "grin-wink.svg"
+  },
+  {
+    "name": "grin",
+    "svg": "grin.svg"
+  },
+  {
+    "name": "agripper saisir grippe horizontal",
+    "svg": "grip-horizontal.svg"
+  },
+  {
+    "name": "agripper saisir grippe vertical",
+    "svg": "grip-vertical.svg"
+  },
+  {
+    "name": "droit rectangle esplanade place rond‐point",
+    "svg": "h-square.svg"
+  },
+  {
+    "name": "",
+    "svg": "h1.svg"
+  },
+  {
+    "name": "",
+    "svg": "h2.svg"
+  },
+  {
+    "name": "",
+    "svg": "h3.svg"
+  },
+  {
+    "name": "marteau guerre",
+    "svg": "hammer-war.svg"
+  },
+  {
+    "name": "marteau",
+    "svg": "hammer.svg"
+  },
+  {
+    "name": "hamsa",
+    "svg": "hamsa.svg"
+  },
+  {
+    "name": "ouvrier main coeur",
+    "svg": "hand-heart.svg"
+  },
+  {
+    "name": "ouvrier main holding boxer bac caisse coffre boite coffret baquet",
+    "svg": "hand-holding-box.svg"
+  },
+  {
+    "name": "ouvrier main holding coeur",
+    "svg": "hand-holding-heart.svg"
+  },
+  {
+    "name": "ouvrier main holding magie magique",
+    "svg": "hand-holding-magic.svg"
+  },
+  {
+    "name": "ouvrier main holding seedling",
+    "svg": "hand-holding-seedling.svg"
+  },
+  {
+    "name": "ouvrier main holding usd",
+    "svg": "hand-holding-usd.svg"
+  },
+  {
+    "name": "ouvrier main holding aquatique eau onde abreuver arroser",
+    "svg": "hand-holding-water.svg"
+  },
+  {
+    "name": "ouvrier main holding",
+    "svg": "hand-holding.svg"
+  },
+  {
+    "name": "ouvrier main lezard",
+    "svg": "hand-lizard.svg"
+  },
+  {
+    "name": "ouvrier main document papier tapisser",
+    "svg": "hand-paper.svg"
+  },
+  {
+    "name": "ouvrier main paix",
+    "svg": "hand-peace.svg"
+  },
+  {
+    "name": "ouvrier main bout cime pointe sommet point score duvet",
+    "svg": "hand-point-down.svg"
+  },
+  {
+    "name": "ouvrier main bout cime pointe sommet point score gauche",
+    "svg": "hand-point-left.svg"
+  },
+  {
+    "name": "ouvrier main bout cime pointe sommet point score droit vrai raison exact juste proprement",
+    "svg": "hand-point-right.svg"
+  },
+  {
+    "name": "ouvrier main bout cime pointe sommet point score",
+    "svg": "hand-point-up.svg"
+  },
+  {
+    "name": "ouvrier main pointer",
+    "svg": "hand-pointer.svg"
+  },
+  {
+    "name": "ouvrier main receiving",
+    "svg": "hand-receiving.svg"
+  },
+  {
+    "name": "ouvrier main balancer bercer roc rocher",
+    "svg": "hand-rock.svg"
+  },
+  {
+    "name": "ouvrier main ciseaux",
+    "svg": "hand-scissors.svg"
+  },
+  {
+    "name": "ouvrier main spock",
+    "svg": "hand-spock.svg"
+  },
+  {
+    "name": "hands coeur",
+    "svg": "hands-heart.svg"
+  },
+  {
+    "name": "hands helping",
+    "svg": "hands-helping.svg"
+  },
+  {
+    "name": "hands usd",
+    "svg": "hands-usd.svg"
+  },
+  {
+    "name": "hands",
+    "svg": "hands.svg"
+  },
+  {
+    "name": "poignee main alt",
+    "svg": "handshake-alt.svg"
+  },
+  {
+    "name": "poignee main",
+    "svg": "handshake.svg"
+  },
+  {
+    "name": "hanukiah",
+    "svg": "hanukiah.svg"
+  },
+  {
+    "name": "hashtag",
+    "svg": "hashtag.svg"
+  },
+  {
+    "name": "chapeau sorciere",
+    "svg": "hat-witch.svg"
+  },
+  {
+    "name": "chapeau sorcier",
+    "svg": "hat-wizard.svg"
+  },
+  {
+    "name": "haykal",
+    "svg": "haykal.svg"
+  },
+  {
+    "name": "hdd",
+    "svg": "hdd.svg"
+  },
+  {
+    "name": "guider regler tete auxiliaire cote flanc parti",
+    "svg": "head-side.svg"
+  },
+  {
+    "name": "guider regler tete",
+    "svg": "head-vr.svg"
+  },
+  {
+    "name": "intitule titre",
+    "svg": "heading.svg"
+  },
+  {
+    "name": "headphones alt",
+    "svg": "headphones-alt.svg"
+  },
+  {
+    "name": "headphones",
+    "svg": "headphones.svg"
+  },
+  {
+    "name": "headset",
+    "svg": "headset.svg"
+  },
+  {
+    "name": "coeur cercle rond ronde",
+    "svg": "heart-circle.svg"
+  },
+  {
+    "name": "coeur proportion grade rang apprecier estimer evaluer taxer",
+    "svg": "heart-rate.svg"
+  },
+  {
+    "name": "coeur droit rectangle esplanade place rond‐point",
+    "svg": "heart-square.svg"
+  },
+  {
+    "name": "coeur",
+    "svg": "heart.svg"
+  },
+  {
+    "name": "heartbeat",
+    "svg": "heartbeat.svg"
+  },
+  {
+    "name": "helicopter",
+    "svg": "helicopter.svg"
+  },
+  {
+    "name": "helmet bataille combat",
+    "svg": "helmet-battle.svg"
+  },
+  {
+    "name": "hexagon",
+    "svg": "hexagon.svg"
+  },
+  {
+    "name": "highlighter",
+    "svg": "highlighter.svg"
+  },
+  {
+    "name": "hiking",
+    "svg": "hiking.svg"
+  },
+  {
+    "name": "hippopotame",
+    "svg": "hippo.svg"
+  },
+  {
+    "name": "histoire",
+    "svg": "history.svg"
+  },
+  {
+    "name": "hockey masque",
+    "svg": "hockey-mask.svg"
+  },
+  {
+    "name": "hockey puck",
+    "svg": "hockey-puck.svg"
+  },
+  {
+    "name": "hockey sticks",
+    "svg": "hockey-sticks.svg"
+  },
+  {
+    "name": "domicile coeur",
+    "svg": "home-heart.svg"
+  },
+  {
+    "name": "domicile",
+    "svg": "home.svg"
+  },
+  {
+    "name": "apache apache couverture manteau",
+    "svg": "hood-cloak.svg"
+  },
+  {
+    "name": "cheval",
+    "svg": "horse.svg"
+  },
+  {
+    "name": "hopital alt",
+    "svg": "hospital-alt.svg"
+  },
+  {
+    "name": "hopital symbole",
+    "svg": "hospital-symbol.svg"
+  },
+  {
+    "name": "hopital",
+    "svg": "hospital.svg"
+  },
+  {
+    "name": "hot baquet bassine cuve",
+    "svg": "hot-tub.svg"
+  },
+  {
+    "name": "hotel",
+    "svg": "hotel.svg"
+  },
+  {
+    "name": "hourglass cesser finir terminer p fin terminer bout fin",
+    "svg": "hourglass-end.svg"
+  },
+  {
+    "name": "hourglass demi moitie",
+    "svg": "hourglass-half.svg"
+  },
+  {
+    "name": "hourglass activer debut sursauter p l'initiative aborder commencer debuter commencement inauguration",
+    "svg": "hourglass-start.svg"
+  },
+  {
+    "name": "hourglass",
+    "svg": "hourglass.svg"
+  },
+  {
+    "name": "maison avarie endommager degat dommage prejudice sinistre abimer deteriorer defaut vice",
+    "svg": "house-damage.svg"
+  },
+  {
+    "name": "maison afflux maree haute inonder inondation abreuver combler",
+    "svg": "house-flood.svg"
+  },
+  {
+    "name": "hryvnia",
+    "svg": "hryvnia.svg"
+  },
+  {
+    "name": "humidity",
+    "svg": "humidity.svg"
+  },
+  {
+    "name": "ouragan",
+    "svg": "hurricane.svg"
+  },
+  {
+    "name": "cursor",
+    "svg": "i-cursor.svg"
+  },
+  {
+    "name": "insigne",
+    "svg": "id-badge.svg"
+  },
+  {
+    "name": "carte alt",
+    "svg": "id-card-alt.svg"
+  },
+  {
+    "name": "carte",
+    "svg": "id-card.svg"
+  },
+  {
+    "name": "image figure",
+    "svg": "image.svg"
+  },
+  {
+    "name": "images",
+    "svg": "images.svg"
+  },
+  {
+    "name": "inbox milie dans",
+    "svg": "inbox-in.svg"
+  },
+  {
+    "name": "inbox dehors",
+    "svg": "inbox-out.svg"
+  },
+  {
+    "name": "inbox",
+    "svg": "inbox.svg"
+  },
+  {
+    "name": "indent",
+    "svg": "indent.svg"
+  },
+  {
+    "name": "application industrie alt",
+    "svg": "industry-alt.svg"
+  },
+  {
+    "name": "application industrie",
+    "svg": "industry.svg"
+  },
+  {
+    "name": "infinity",
+    "svg": "infinity.svg"
+  },
+  {
+    "name": "info cercle rond ronde",
+    "svg": "info-circle.svg"
+  },
+  {
+    "name": "info droit rectangle esplanade place rond‐point",
+    "svg": "info-square.svg"
+  },
+  {
+    "name": "info",
+    "svg": "info.svg"
+  },
+  {
+    "name": "inhaler",
+    "svg": "inhaler.svg"
+  },
+  {
+    "name": "integral",
+    "svg": "integral.svg"
+  },
+  {
+    "name": "intersection",
+    "svg": "intersection.svg"
+  },
+  {
+    "name": "recensement",
+    "svg": "inventory.svg"
+  },
+  {
+    "name": "italic",
+    "svg": "italic.svg"
+  },
+  {
+    "name": "bambin gamin lanterne",
+    "svg": "jack-o-lantern.svg"
+  },
+  {
+    "name": "jedi",
+    "svg": "jedi.svg"
+  },
+  {
+    "name": "articulation commun",
+    "svg": "joint.svg"
+  },
+  {
+    "name": "journal quotidien whills",
+    "svg": "journal-whills.svg"
+  },
+  {
+    "name": "kaaba",
+    "svg": "kaaba.svg"
+  },
+  {
+    "name": "touche touche clavier clef squelette",
+    "svg": "key-skeleton.svg"
+  },
+  {
+    "name": "touche touche clavier clef",
+    "svg": "key.svg"
+  },
+  {
+    "name": "clavier",
+    "svg": "keyboard.svg"
+  },
+  {
+    "name": "keynote",
+    "svg": "keynote.svg"
+  },
+  {
+    "name": "khanda",
+    "svg": "khanda.svg"
+  },
+  {
+    "name": "kidneys",
+    "svg": "kidneys.svg"
+  },
+  {
+    "name": "baiser embrasser rayon poutre",
+    "svg": "kiss-beam.svg"
+  },
+  {
+    "name": "baiser embrasser wink coeur",
+    "svg": "kiss-wink-heart.svg"
+  },
+  {
+    "name": "baiser embrasser",
+    "svg": "kiss.svg"
+  },
+  {
+    "name": "milan",
+    "svg": "kite.svg"
+  },
+  {
+    "name": "kiwi oiseau",
+    "svg": "kiwi-bird.svg"
+  },
+  {
+    "name": "couteau cuisine",
+    "svg": "knife-kitchen.svg"
+  },
+  {
+    "name": "lambda",
+    "svg": "lambda.svg"
+  },
+  {
+    "name": "lampe",
+    "svg": "lamp.svg"
+  },
+  {
+    "name": "landmark alt",
+    "svg": "landmark-alt.svg"
+  },
+  {
+    "name": "landmark",
+    "svg": "landmark.svg"
+  },
+  {
+    "name": "langue",
+    "svg": "language.svg"
+  },
+  {
+    "name": "laptop code",
+    "svg": "laptop-code.svg"
+  },
+  {
+    "name": "laptop",
+    "svg": "laptop.svg"
+  },
+  {
+    "name": "rire rayon poutre",
+    "svg": "laugh-beam.svg"
+  },
+  {
+    "name": "rire loucher",
+    "svg": "laugh-squint.svg"
+  },
+  {
+    "name": "rire wink",
+    "svg": "laugh-wink.svg"
+  },
+  {
+    "name": "rire",
+    "svg": "laugh.svg"
+  },
+  {
+    "name": "couche feuille placage gisement bande collection ensemble troupe groupe",
+    "svg": "layer-group.svg"
+  },
+  {
+    "name": "couche feuille placage gisement moins",
+    "svg": "layer-minus.svg"
+  },
+  {
+    "name": "couche feuille placage gisement plus",
+    "svg": "layer-plus.svg"
+  },
+  {
+    "name": "feuille coeur",
+    "svg": "leaf-heart.svg"
+  },
+  {
+    "name": "feuille erable",
+    "svg": "leaf-maple.svg"
+  },
+  {
+    "name": "feuille chene",
+    "svg": "leaf-oak.svg"
+  },
+  {
+    "name": "feuille",
+    "svg": "leaf.svg"
+  },
+  {
+    "name": "citron",
+    "svg": "lemon.svg"
+  },
+  {
+    "name": "less que egal",
+    "svg": "less-than-equal.svg"
+  },
+  {
+    "name": "less que",
+    "svg": "less-than.svg"
+  },
+  {
+    "name": "plat uni egal horizontal niveau duvet alt",
+    "svg": "level-down-alt.svg"
+  },
+  {
+    "name": "plat uni egal horizontal niveau duvet",
+    "svg": "level-down.svg"
+  },
+  {
+    "name": "plat uni egal horizontal niveau alt",
+    "svg": "level-up-alt.svg"
+  },
+  {
+    "name": "plat uni egal horizontal niveau",
+    "svg": "level-up.svg"
+  },
+  {
+    "name": "vie anneau bague sonner tinter sonner porte",
+    "svg": "life-ring.svg"
+  },
+  {
+    "name": "lightbulb dollar",
+    "svg": "lightbulb-dollar.svg"
+  },
+  {
+    "name": "lightbulb exclamation",
+    "svg": "lightbulb-exclamation.svg"
+  },
+  {
+    "name": "lightbulb avant milie dans moyen plus sujet contre",
+    "svg": "lightbulb-on.svg"
+  },
+  {
+    "name": "lightbulb slash",
+    "svg": "lightbulb-slash.svg"
+  },
+  {
+    "name": "lightbulb",
+    "svg": "lightbulb.svg"
+  },
+  {
+    "name": "monter",
+    "svg": "link.svg"
+  },
+  {
+    "name": "lips",
+    "svg": "lips.svg"
+  },
+  {
+    "name": "lire augure preuve temoignage signal signe signer",
+    "svg": "lira-sign.svg"
+  },
+  {
+    "name": "liste alt",
+    "svg": "list-alt.svg"
+  },
+  {
+    "name": "liste",
+    "svg": "list-ol.svg"
+  },
+  {
+    "name": "liste",
+    "svg": "list-ul.svg"
+  },
+  {
+    "name": "liste",
+    "svg": "list.svg"
+  },
+  {
+    "name": "destination endroit lieu localite place fleche",
+    "svg": "location-arrow.svg"
+  },
+  {
+    "name": "destination endroit lieu localite place cercle rond ronde",
+    "svg": "location-circle.svg"
+  },
+  {
+    "name": "destination endroit lieu localite place slash",
+    "svg": "location-slash.svg"
+  },
+  {
+    "name": "destination endroit lieu localite place",
+    "svg": "location.svg"
+  },
+  {
+    "name": "ecluse serrure fermer fermer cle alt",
+    "svg": "lock-alt.svg"
+  },
+  {
+    "name": "ecluse serrure fermer fermer cle ouvrir alt",
+    "svg": "lock-open-alt.svg"
+  },
+  {
+    "name": "ecluse serrure fermer fermer cle ouvrir",
+    "svg": "lock-open.svg"
+  },
+  {
+    "name": "ecluse serrure fermer fermer cle",
+    "svg": "lock.svg"
+  },
+  {
+    "name": "long longtemps longuement fleche alt duvet",
+    "svg": "long-arrow-alt-down.svg"
+  },
+  {
+    "name": "long longtemps longuement fleche alt gauche",
+    "svg": "long-arrow-alt-left.svg"
+  },
+  {
+    "name": "long longtemps longuement fleche alt droit vrai raison exact juste proprement",
+    "svg": "long-arrow-alt-right.svg"
+  },
+  {
+    "name": "long longtemps longuement fleche alt",
+    "svg": "long-arrow-alt-up.svg"
+  },
+  {
+    "name": "long longtemps longuement fleche duvet",
+    "svg": "long-arrow-down.svg"
+  },
+  {
+    "name": "long longtemps longuement fleche gauche",
+    "svg": "long-arrow-left.svg"
+  },
+  {
+    "name": "long longtemps longuement fleche droit vrai raison exact juste proprement",
+    "svg": "long-arrow-right.svg"
+  },
+  {
+    "name": "long longtemps longuement fleche",
+    "svg": "long-arrow-up.svg"
+  },
+  {
+    "name": "loveseat",
+    "svg": "loveseat.svg"
+  },
+  {
+    "name": "abject lache vision",
+    "svg": "low-vision.svg"
+  },
+  {
+    "name": "luchador",
+    "svg": "luchador.svg"
+  },
+  {
+    "name": "bagage colis char chariot charrette",
+    "svg": "luggage-cart.svg"
+  },
+  {
+    "name": "lungs",
+    "svg": "lungs.svg"
+  },
+  {
+    "name": "mace",
+    "svg": "mace.svg"
+  },
+  {
+    "name": "magie magique",
+    "svg": "magic.svg"
+  },
+  {
+    "name": "magnet",
+    "svg": "magnet.svg"
+  },
+  {
+    "name": "courrier poste ampleur grandeur importance taille",
+    "svg": "mail-bulk.svg"
+  },
+  {
+    "name": "male",
+    "svg": "male.svg"
+  },
+  {
+    "name": "mandolin",
+    "svg": "mandolin.svg"
+  },
+  {
+    "name": "carte plan marked alt",
+    "svg": "map-marked-alt.svg"
+  },
+  {
+    "name": "carte plan marked",
+    "svg": "map-marked.svg"
+  },
+  {
+    "name": "carte plan marker alt slash",
+    "svg": "map-marker-alt-slash.svg"
+  },
+  {
+    "name": "carte plan marker alt",
+    "svg": "map-marker-alt.svg"
+  },
+  {
+    "name": "carte plan marker reprimer retenir bride surveiller verifier cheque",
+    "svg": "map-marker-check.svg"
+  },
+  {
+    "name": "carte plan marker rediger",
+    "svg": "map-marker-edit.svg"
+  },
+  {
+    "name": "carte plan marker exclamation",
+    "svg": "map-marker-exclamation.svg"
+  },
+  {
+    "name": "carte plan marker moins",
+    "svg": "map-marker-minus.svg"
+  },
+  {
+    "name": "carte plan marker plus",
+    "svg": "map-marker-plus.svg"
+  },
+  {
+    "name": "carte plan marker question contester disputer",
+    "svg": "map-marker-question.svg"
+  },
+  {
+    "name": "carte plan marker slash",
+    "svg": "map-marker-slash.svg"
+  },
+  {
+    "name": "carte plan marker sourire",
+    "svg": "map-marker-smile.svg"
+  },
+  {
+    "name": "carte plan marker ti",
+    "svg": "map-marker-times.svg"
+  },
+  {
+    "name": "carte plan marker",
+    "svg": "map-marker.svg"
+  },
+  {
+    "name": "carte plan epingle",
+    "svg": "map-pin.svg"
+  },
+  {
+    "name": "carte plan signs",
+    "svg": "map-signs.svg"
+  },
+  {
+    "name": "carte plan",
+    "svg": "map.svg"
+  },
+  {
+    "name": "marker",
+    "svg": "marker.svg"
+  },
+  {
+    "name": "mars double redoubler",
+    "svg": "mars-double.svg"
+  },
+  {
+    "name": "mars apoplexie caresser caresse raie rayure",
+    "svg": "mars-stroke-h.svg"
+  },
+  {
+    "name": "mars apoplexie caresser caresse raie rayure",
+    "svg": "mars-stroke-v.svg"
+  },
+  {
+    "name": "mars apoplexie caresser caresse raie rayure",
+    "svg": "mars-stroke.svg"
+  },
+  {
+    "name": "mars",
+    "svg": "mars.svg"
+  },
+  {
+    "name": "masque",
+    "svg": "mask.svg"
+  },
+  {
+    "name": "medaille",
+    "svg": "medal.svg"
+  },
+  {
+    "name": "medkit",
+    "svg": "medkit.svg"
+  },
+  {
+    "name": "megaphone",
+    "svg": "megaphone.svg"
+  },
+  {
+    "name": "meh blanc formulaire",
+    "svg": "meh-blank.svg"
+  },
+  {
+    "name": "meh rolling eyes",
+    "svg": "meh-rolling-eyes.svg"
+  },
+  {
+    "name": "meh",
+    "svg": "meh.svg"
+  },
+  {
+    "name": "memoire",
+    "svg": "memory.svg"
+  },
+  {
+    "name": "menorah",
+    "svg": "menorah.svg"
+  },
+  {
+    "name": "mercure",
+    "svg": "mercury.svg"
+  },
+  {
+    "name": "meteor",
+    "svg": "meteor.svg"
+  },
+  {
+    "name": "microchip",
+    "svg": "microchip.svg"
+  },
+  {
+    "name": "microphone alt slash",
+    "svg": "microphone-alt-slash.svg"
+  },
+  {
+    "name": "microphone alt",
+    "svg": "microphone-alt.svg"
+  },
+  {
+    "name": "microphone slash",
+    "svg": "microphone-slash.svg"
+  },
+  {
+    "name": "microphone",
+    "svg": "microphone.svg"
+  },
+  {
+    "name": "microscope",
+    "svg": "microscope.svg"
+  },
+  {
+    "name": "esprit observer action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi",
+    "svg": "mind-share.svg"
+  },
+  {
+    "name": "moins cercle rond ronde",
+    "svg": "minus-circle.svg"
+  },
+  {
+    "name": "moins hexagon",
+    "svg": "minus-hexagon.svg"
+  },
+  {
+    "name": "moins octagon",
+    "svg": "minus-octagon.svg"
+  },
+  {
+    "name": "moins droit rectangle esplanade place rond‐point",
+    "svg": "minus-square.svg"
+  },
+  {
+    "name": "moins",
+    "svg": "minus.svg"
+  },
+  {
+    "name": "mobile mobilier alt",
+    "svg": "mobile-alt.svg"
+  },
+  {
+    "name": "mobile mobilier android alt",
+    "svg": "mobile-android-alt.svg"
+  },
+  {
+    "name": "mobile mobilier android",
+    "svg": "mobile-android.svg"
+  },
+  {
+    "name": "mobile mobilier",
+    "svg": "mobile.svg"
+  },
+  {
+    "name": "argent monnaie bec billet ticket facture addition note alt",
+    "svg": "money-bill-alt.svg"
+  },
+  {
+    "name": "argent monnaie bec billet ticket facture addition note onde vague onduler agiter brandir alt",
+    "svg": "money-bill-wave-alt.svg"
+  },
+  {
+    "name": "argent monnaie bec billet ticket facture addition note onde vague onduler agiter brandir",
+    "svg": "money-bill-wave.svg"
+  },
+  {
+    "name": "argent monnaie bec billet ticket facture addition note",
+    "svg": "money-bill.svg"
+  },
+  {
+    "name": "argent monnaie reprimer retenir bride surveiller verifier cheque alt",
+    "svg": "money-check-alt.svg"
+  },
+  {
+    "name": "argent monnaie reprimer retenir bride surveiller verifier cheque",
+    "svg": "money-check.svg"
+  },
+  {
+    "name": "monitor coeur proportion grade rang apprecier estimer evaluer taxer",
+    "svg": "monitor-heart-rate.svg"
+  },
+  {
+    "name": "singe",
+    "svg": "monkey.svg"
+  },
+  {
+    "name": "monument",
+    "svg": "monument.svg"
+  },
+  {
+    "name": "lune brouiller confus trouble nuage",
+    "svg": "moon-cloud.svg"
+  },
+  {
+    "name": "lune stars",
+    "svg": "moon-stars.svg"
+  },
+  {
+    "name": "lune",
+    "svg": "moon.svg"
+  },
+  {
+    "name": "mortar pistil",
+    "svg": "mortar-pestle.svg"
+  },
+  {
+    "name": "mosquee",
+    "svg": "mosque.svg"
+  },
+  {
+    "name": "moto velomoteur",
+    "svg": "motorcycle.svg"
+  },
+  {
+    "name": "mont montagne",
+    "svg": "mountain.svg"
+  },
+  {
+    "name": "mountains",
+    "svg": "mountains.svg"
+  },
+  {
+    "name": "souris pointer",
+    "svg": "mouse-pointer.svg"
+  },
+  {
+    "name": "musique",
+    "svg": "music.svg"
+  },
+  {
+    "name": "narwhal",
+    "svg": "narwhal.svg"
+  },
+  {
+    "name": "filet reseau wired",
+    "svg": "network-wired.svg"
+  },
+  {
+    "name": "neuter",
+    "svg": "neuter.svg"
+  },
+  {
+    "name": "gazette journal quotidien",
+    "svg": "newspaper.svg"
+  },
+  {
+    "name": "... pas pas egal",
+    "svg": "not-equal.svg"
+  },
+  {
+    "name": "notes medical",
+    "svg": "notes-medical.svg"
+  },
+  {
+    "name": "chose objet bande collection ensemble troupe groupe",
+    "svg": "object-group.svg"
+  },
+  {
+    "name": "chose objet ungroup",
+    "svg": "object-ungroup.svg"
+  },
+  {
+    "name": "octagon",
+    "svg": "octagon.svg"
+  },
+  {
+    "name": "huile can",
+    "svg": "oil-can.svg"
+  },
+  {
+    "name": "huile temp",
+    "svg": "oil-temp.svg"
+  },
+  {
+    "name": "",
+    "svg": "om.svg"
+  },
+  {
+    "name": "omega",
+    "svg": "omega.svg"
+  },
+  {
+    "name": "otter",
+    "svg": "otter.svg"
+  },
+  {
+    "name": "outdent",
+    "svg": "outdent.svg"
+  },
+  {
+    "name": "couleur peinture peindre depeindre brosse alt",
+    "svg": "paint-brush-alt.svg"
+  },
+  {
+    "name": "couleur peinture peindre depeindre brosse",
+    "svg": "paint-brush.svg"
+  },
+  {
+    "name": "couleur peinture peindre depeindre cylindre",
+    "svg": "paint-roller.svg"
+  },
+  {
+    "name": "palette",
+    "svg": "palette.svg"
+  },
+  {
+    "name": "pallet alt",
+    "svg": "pallet-alt.svg"
+  },
+  {
+    "name": "pallet",
+    "svg": "pallet.svg"
+  },
+  {
+    "name": "document papier tapisser aeroplane avion planer plan projet platane rabot",
+    "svg": "paper-plane.svg"
+  },
+  {
+    "name": "paperclip",
+    "svg": "paperclip.svg"
+  },
+  {
+    "name": "parachute boxer bac caisse coffre boite coffret baquet",
+    "svg": "parachute-box.svg"
+  },
+  {
+    "name": "alinea",
+    "svg": "paragraph.svg"
+  },
+  {
+    "name": "parking cercle rond ronde slash",
+    "svg": "parking-circle-slash.svg"
+  },
+  {
+    "name": "parking cercle rond ronde",
+    "svg": "parking-circle.svg"
+  },
+  {
+    "name": "parking slash",
+    "svg": "parking-slash.svg"
+  },
+  {
+    "name": "parking",
+    "svg": "parking.svg"
+  },
+  {
+    "name": "passeport",
+    "svg": "passport.svg"
+  },
+  {
+    "name": "pastafarianism",
+    "svg": "pastafarianism.svg"
+  },
+  {
+    "name": "agglutiner coller pate",
+    "svg": "paste.svg"
+  },
+  {
+    "name": "pause repos treve cercle rond ronde",
+    "svg": "pause-circle.svg"
+  },
+  {
+    "name": "pause repos treve",
+    "svg": "pause.svg"
+  },
+  {
+    "name": "jambe alt",
+    "svg": "paw-alt.svg"
+  },
+  {
+    "name": "jambe claws",
+    "svg": "paw-claws.svg"
+  },
+  {
+    "name": "jambe",
+    "svg": "paw.svg"
+  },
+  {
+    "name": "paix",
+    "svg": "peace.svg"
+  },
+  {
+    "name": "pegase",
+    "svg": "pegasus.svg"
+  },
+  {
+    "name": "pen alt",
+    "svg": "pen-alt.svg"
+  },
+  {
+    "name": "pen imaginer rever eveille songer",
+    "svg": "pen-fancy.svg"
+  },
+  {
+    "name": "pen nib",
+    "svg": "pen-nib.svg"
+  },
+  {
+    "name": "pen droit rectangle esplanade place rond‐point",
+    "svg": "pen-square.svg"
+  },
+  {
+    "name": "pen",
+    "svg": "pen.svg"
+  },
+  {
+    "name": "crayon alt",
+    "svg": "pencil-alt.svg"
+  },
+  {
+    "name": "crayon pinceau",
+    "svg": "pencil-paintbrush.svg"
+  },
+  {
+    "name": "crayon dominateur",
+    "svg": "pencil-ruler.svg"
+  },
+  {
+    "name": "crayon",
+    "svg": "pencil.svg"
+  },
+  {
+    "name": "pennant",
+    "svg": "pennant.svg"
+  },
+  {
+    "name": "gens peuple porter",
+    "svg": "people-carry.svg"
+  },
+  {
+    "name": "pourcentage",
+    "svg": "percent.svg"
+  },
+  {
+    "name": "pourcentage",
+    "svg": "percentage.svg"
+  },
+  {
+    "name": "personnage personne individu booth",
+    "svg": "person-booth.svg"
+  },
+  {
+    "name": "personnage personne individu porter",
+    "svg": "person-carry.svg"
+  },
+  {
+    "name": "personnage personne individu dolly vide vider",
+    "svg": "person-dolly-empty.svg"
+  },
+  {
+    "name": "personnage personne individu dolly",
+    "svg": "person-dolly.svg"
+  },
+  {
+    "name": "personnage personne individu augure preuve temoignage signal signe signer",
+    "svg": "person-sign.svg"
+  },
+  {
+    "name": "phone bureau emploi fonction office service",
+    "svg": "phone-office.svg"
+  },
+  {
+    "name": "phone plus",
+    "svg": "phone-plus.svg"
+  },
+  {
+    "name": "phone slash",
+    "svg": "phone-slash.svg"
+  },
+  {
+    "name": "phone droit rectangle esplanade place rond‐point",
+    "svg": "phone-square.svg"
+  },
+  {
+    "name": "phone volume",
+    "svg": "phone-volume.svg"
+  },
+  {
+    "name": "phone",
+    "svg": "phone.svg"
+  },
+  {
+    "name": "",
+    "svg": "pi.svg"
+  },
+  {
+    "name": "pate tarte",
+    "svg": "pie.svg"
+  },
+  {
+    "name": "cochon porc",
+    "svg": "pig.svg"
+  },
+  {
+    "name": "piggy banque",
+    "svg": "piggy-bank.svg"
+  },
+  {
+    "name": "pills",
+    "svg": "pills.svg"
+  },
+  {
+    "name": "adapter local place placer poser situer destination endroit lieu localite appliquer mettre adoration adorer",
+    "svg": "place-of-worship.svg"
+  },
+  {
+    "name": "aeroplane avion planer plan projet platane rabot alt",
+    "svg": "plane-alt.svg"
+  },
+  {
+    "name": "aeroplane avion planer plan projet platane rabot arrivage arrivee venue fourniture ravitaillement",
+    "svg": "plane-arrival.svg"
+  },
+  {
+    "name": "aeroplane avion planer plan projet platane rabot depart disparition",
+    "svg": "plane-departure.svg"
+  },
+  {
+    "name": "aeroplane avion planer plan projet platane rabot",
+    "svg": "plane.svg"
+  },
+  {
+    "name": "jouer representer piece theatre cercle rond ronde",
+    "svg": "play-circle.svg"
+  },
+  {
+    "name": "jouer representer piece theatre",
+    "svg": "play.svg"
+  },
+  {
+    "name": "bougie bougie electrique bouchon prise courant male",
+    "svg": "plug.svg"
+  },
+  {
+    "name": "plus cercle rond ronde",
+    "svg": "plus-circle.svg"
+  },
+  {
+    "name": "plus hexagon",
+    "svg": "plus-hexagon.svg"
+  },
+  {
+    "name": "plus octagon",
+    "svg": "plus-octagon.svg"
+  },
+  {
+    "name": "plus droit rectangle esplanade place rond‐point",
+    "svg": "plus-square.svg"
+  },
+  {
+    "name": "plus",
+    "svg": "plus.svg"
+  },
+  {
+    "name": "podcast",
+    "svg": "podcast.svg"
+  },
+  {
+    "name": "estrade astral etoile star vedette",
+    "svg": "podium-star.svg"
+  },
+  {
+    "name": "estrade",
+    "svg": "podium.svg"
+  },
+  {
+    "name": "poll",
+    "svg": "poll-h.svg"
+  },
+  {
+    "name": "poll gens peuple",
+    "svg": "poll-people.svg"
+  },
+  {
+    "name": "poll",
+    "svg": "poll.svg"
+  },
+  {
+    "name": "poo donner l'assaut orage tempete",
+    "svg": "poo-storm.svg"
+  },
+  {
+    "name": "poo",
+    "svg": "poo.svg"
+  },
+  {
+    "name": "poop",
+    "svg": "poop.svg"
+  },
+  {
+    "name": "portrait",
+    "svg": "portrait.svg"
+  },
+  {
+    "name": "broyer piler augure preuve temoignage signal signe signer",
+    "svg": "pound-sign.svg"
+  },
+  {
+    "name": "puissance off",
+    "svg": "power-off.svg"
+  },
+  {
+    "name": "prier",
+    "svg": "pray.svg"
+  },
+  {
+    "name": "praying hands",
+    "svg": "praying-hands.svg"
+  },
+  {
+    "name": "recette ordonnance bouteille alt",
+    "svg": "prescription-bottle-alt.svg"
+  },
+  {
+    "name": "recette ordonnance bouteille",
+    "svg": "prescription-bottle.svg"
+  },
+  {
+    "name": "recette ordonnance",
+    "svg": "prescription.svg"
+  },
+  {
+    "name": "offre proposition representation seance",
+    "svg": "presentation.svg"
+  },
+  {
+    "name": "impression imprimer slash",
+    "svg": "print-slash.svg"
+  },
+  {
+    "name": "impression imprimer",
+    "svg": "print.svg"
+  },
+  {
+    "name": "procedures",
+    "svg": "procedures.svg"
+  },
+  {
+    "name": "projeter une image projet figure plan projet",
+    "svg": "project-diagram.svg"
+  },
+  {
+    "name": "potiron",
+    "svg": "pumpkin.svg"
+  },
+  {
+    "name": "enigme puzzle abasourdir confondre troubler consterner stupefier contingent part partie portion fragment morceau pan piece",
+    "svg": "puzzle-piece.svg"
+  },
+  {
+    "name": "qrcode",
+    "svg": "qrcode.svg"
+  },
+  {
+    "name": "question contester disputer cercle rond ronde",
+    "svg": "question-circle.svg"
+  },
+  {
+    "name": "question contester disputer droit rectangle esplanade place rond‐point",
+    "svg": "question-square.svg"
+  },
+  {
+    "name": "question contester disputer",
+    "svg": "question.svg"
+  },
+  {
+    "name": "quidditch",
+    "svg": "quidditch.svg"
+  },
+  {
+    "name": "citer rapporter propos guillemet gauche",
+    "svg": "quote-left.svg"
+  },
+  {
+    "name": "citer rapporter propos guillemet droit vrai raison exact juste proprement",
+    "svg": "quote-right.svg"
+  },
+  {
+    "name": "quran",
+    "svg": "quran.svg"
+  },
+  {
+    "name": "lapin jeuner ferme prompt rapide rapidement vite",
+    "svg": "rabbit-fast.svg"
+  },
+  {
+    "name": "lapin",
+    "svg": "rabbit.svg"
+  },
+  {
+    "name": "racquet",
+    "svg": "racquet.svg"
+  },
+  {
+    "name": "arc‐en‐ciel",
+    "svg": "rainbow.svg"
+  },
+  {
+    "name": "raindrops",
+    "svg": "raindrops.svg"
+  },
+  {
+    "name": "belier",
+    "svg": "ram.svg"
+  },
+  {
+    "name": "ramp loading",
+    "svg": "ramp-loading.svg"
+  },
+  {
+    "name": "accidentel",
+    "svg": "random.svg"
+  },
+  {
+    "name": "quittance recu accuse reception acquit",
+    "svg": "receipt.svg"
+  },
+  {
+    "name": "rectangle paysage",
+    "svg": "rectangle-landscape.svg"
+  },
+  {
+    "name": "rectangle portrait",
+    "svg": "rectangle-portrait.svg"
+  },
+  {
+    "name": "rectangle ample etendu large",
+    "svg": "rectangle-wide.svg"
+  },
+  {
+    "name": "recycle",
+    "svg": "recycle.svg"
+  },
+  {
+    "name": "redo alt",
+    "svg": "redo-alt.svg"
+  },
+  {
+    "name": "redo",
+    "svg": "redo.svg"
+  },
+  {
+    "name": "recommande",
+    "svg": "registered.svg"
+  },
+  {
+    "name": "redire repeter alt",
+    "svg": "repeat-1-alt.svg"
+  },
+  {
+    "name": "redire repeter",
+    "svg": "repeat-1.svg"
+  },
+  {
+    "name": "redire repeter alt",
+    "svg": "repeat-alt.svg"
+  },
+  {
+    "name": "redire repeter",
+    "svg": "repeat.svg"
+  },
+  {
+    "name": "correspondre respondre reponse tout toute espece toute sorte toutes fois tout monde",
+    "svg": "reply-all.svg"
+  },
+  {
+    "name": "correspondre respondre reponse",
+    "svg": "reply.svg"
+  },
+  {
+    "name": "republican",
+    "svg": "republican.svg"
+  },
+  {
+    "name": "retweet alt",
+    "svg": "retweet-alt.svg"
+  },
+  {
+    "name": "retweet",
+    "svg": "retweet.svg"
+  },
+  {
+    "name": "ruban",
+    "svg": "ribbon.svg"
+  },
+  {
+    "name": "anneau bague sonner tinter sonner porte",
+    "svg": "ring.svg"
+  },
+  {
+    "name": "chemin route voie",
+    "svg": "road.svg"
+  },
+  {
+    "name": "robot",
+    "svg": "robot.svg"
+  },
+  {
+    "name": "fusee",
+    "svg": "rocket.svg"
+  },
+  {
+    "name": "chemin route voie itineraire chaussee route",
+    "svg": "route-highway.svg"
+  },
+  {
+    "name": "chemin route voie itineraire interstate",
+    "svg": "route-interstate.svg"
+  },
+  {
+    "name": "chemin route voie itineraire",
+    "svg": "route.svg"
+  },
+  {
+    "name": "rss droit rectangle esplanade place rond‐point",
+    "svg": "rss-square.svg"
+  },
+  {
+    "name": "rss",
+    "svg": "rss.svg"
+  },
+  {
+    "name": "ruble augure preuve temoignage signal signe signer",
+    "svg": "ruble-sign.svg"
+  },
+  {
+    "name": "dominateur combined",
+    "svg": "ruler-combined.svg"
+  },
+  {
+    "name": "dominateur horizontal",
+    "svg": "ruler-horizontal.svg"
+  },
+  {
+    "name": "dominateur triangle",
+    "svg": "ruler-triangle.svg"
+  },
+  {
+    "name": "dominateur vertical",
+    "svg": "ruler-vertical.svg"
+  },
+  {
+    "name": "dominateur",
+    "svg": "ruler.svg"
+  },
+  {
+    "name": "running",
+    "svg": "running.svg"
+  },
+  {
+    "name": "rupee augure preuve temoignage signal signe signer",
+    "svg": "rupee-sign.svg"
+  },
+  {
+    "name": "afflige desole peine triste maussade sombre cri pleurer",
+    "svg": "sad-cry.svg"
+  },
+  {
+    "name": "afflige desole peine triste maussade sombre larme pleur dechirer",
+    "svg": "sad-tear.svg"
+  },
+  {
+    "name": "preserver sauver economiser epargner",
+    "svg": "save.svg"
+  },
+  {
+    "name": "scalpel chemin piste sentier",
+    "svg": "scalpel-path.svg"
+  },
+  {
+    "name": "scalpel",
+    "svg": "scalpel.svg"
+  },
+  {
+    "name": "scanner clavier",
+    "svg": "scanner-keyboard.svg"
+  },
+  {
+    "name": "scanner touchscreen",
+    "svg": "scanner-touchscreen.svg"
+  },
+  {
+    "name": "scanner",
+    "svg": "scanner.svg"
+  },
+  {
+    "name": "scarecrow",
+    "svg": "scarecrow.svg"
+  },
+  {
+    "name": "ecole",
+    "svg": "school.svg"
+  },
+  {
+    "name": "tournevis",
+    "svg": "screwdriver.svg"
+  },
+  {
+    "name": "scroll vieux olda ancien",
+    "svg": "scroll-old.svg"
+  },
+  {
+    "name": "scroll",
+    "svg": "scroll.svg"
+  },
+  {
+    "name": "scrubber",
+    "svg": "scrubber.svg"
+  },
+  {
+    "name": "faux",
+    "svg": "scythe.svg"
+  },
+  {
+    "name": "recherche dollar",
+    "svg": "search-dollar.svg"
+  },
+  {
+    "name": "recherche destination endroit lieu localite place",
+    "svg": "search-location.svg"
+  },
+  {
+    "name": "recherche moins",
+    "svg": "search-minus.svg"
+  },
+  {
+    "name": "recherche plus",
+    "svg": "search-plus.svg"
+  },
+  {
+    "name": "recherche",
+    "svg": "search.svg"
+  },
+  {
+    "name": "seedling",
+    "svg": "seedling.svg"
+  },
+  {
+    "name": "server",
+    "svg": "server.svg"
+  },
+  {
+    "name": "shapes",
+    "svg": "shapes.svg"
+  },
+  {
+    "name": "action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi tout toute espece toute sorte toutes fois tout monde",
+    "svg": "share-all.svg"
+  },
+  {
+    "name": "action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi alt droit rectangle esplanade place rond‐point",
+    "svg": "share-alt-square.svg"
+  },
+  {
+    "name": "action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi alt",
+    "svg": "share-alt.svg"
+  },
+  {
+    "name": "action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi droit rectangle esplanade place rond‐point",
+    "svg": "share-square.svg"
+  },
+  {
+    "name": "action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi",
+    "svg": "share.svg"
+  },
+  {
+    "name": "mouton",
+    "svg": "sheep.svg"
+  },
+  {
+    "name": "shekel augure preuve temoignage signal signe signer",
+    "svg": "shekel-sign.svg"
+  },
+  {
+    "name": "enseigne alt",
+    "svg": "shield-alt.svg"
+  },
+  {
+    "name": "enseigne reprimer retenir bride surveiller verifier cheque",
+    "svg": "shield-check.svg"
+  },
+  {
+    "name": "enseigne croiser croix maussade passer depasser",
+    "svg": "shield-cross.svg"
+  },
+  {
+    "name": "enseigne",
+    "svg": "shield.svg"
+  },
+  {
+    "name": "expedier bateau navire",
+    "svg": "ship.svg"
+  },
+  {
+    "name": "shipping jeuner ferme prompt rapide rapidement vite",
+    "svg": "shipping-fast.svg"
+  },
+  {
+    "name": "shipping timed",
+    "svg": "shipping-timed.svg"
+  },
+  {
+    "name": "chaussure soulier prints",
+    "svg": "shoe-prints.svg"
+  },
+  {
+    "name": "shopping bag",
+    "svg": "shopping-bag.svg"
+  },
+  {
+    "name": "shopping corbeille panier",
+    "svg": "shopping-basket.svg"
+  },
+  {
+    "name": "shopping char chariot charrette",
+    "svg": "shopping-cart.svg"
+  },
+  {
+    "name": "pelleter pelle",
+    "svg": "shovel.svg"
+  },
+  {
+    "name": "douche",
+    "svg": "shower.svg"
+  },
+  {
+    "name": "shredder",
+    "svg": "shredder.svg"
+  },
+  {
+    "name": "shuttle van",
+    "svg": "shuttle-van.svg"
+  },
+  {
+    "name": "shuttlecock",
+    "svg": "shuttlecock.svg"
+  },
+  {
+    "name": "sigma",
+    "svg": "sigma.svg"
+  },
+  {
+    "name": "augure preuve temoignage signal signe signer milie dans alt",
+    "svg": "sign-in-alt.svg"
+  },
+  {
+    "name": "augure preuve temoignage signal signe signer milie dans",
+    "svg": "sign-in.svg"
+  },
+  {
+    "name": "augure preuve temoignage signal signe signer langue",
+    "svg": "sign-language.svg"
+  },
+  {
+    "name": "augure preuve temoignage signal signe signer dehors alt",
+    "svg": "sign-out-alt.svg"
+  },
+  {
+    "name": "augure preuve temoignage signal signe signer dehors",
+    "svg": "sign-out.svg"
+  },
+  {
+    "name": "augure preuve temoignage signal signe signer",
+    "svg": "sign.svg"
+  },
+  {
+    "name": "signaler signal signe temoignage",
+    "svg": "signal-1.svg"
+  },
+  {
+    "name": "signaler signal signe temoignage",
+    "svg": "signal-2.svg"
+  },
+  {
+    "name": "signaler signal signe temoignage",
+    "svg": "signal-3.svg"
+  },
+  {
+    "name": "signaler signal signe temoignage",
+    "svg": "signal-4.svg"
+  },
+  {
+    "name": "signaler signal signe temoignage alt",
+    "svg": "signal-alt-1.svg"
+  },
+  {
+    "name": "signaler signal signe temoignage alt",
+    "svg": "signal-alt-2.svg"
+  },
+  {
+    "name": "signaler signal signe temoignage alt",
+    "svg": "signal-alt-3.svg"
+  },
+  {
+    "name": "signaler signal signe temoignage alt slash",
+    "svg": "signal-alt-slash.svg"
+  },
+  {
+    "name": "signaler signal signe temoignage alt",
+    "svg": "signal-alt.svg"
+  },
+  {
+    "name": "signaler signal signe temoignage slash",
+    "svg": "signal-slash.svg"
+  },
+  {
+    "name": "signaler signal signe temoignage",
+    "svg": "signal.svg"
+  },
+  {
+    "name": "signature",
+    "svg": "signature.svg"
+  },
+  {
+    "name": "sitemap",
+    "svg": "sitemap.svg"
+  },
+  {
+    "name": "squelette",
+    "svg": "skeleton.svg"
+  },
+  {
+    "name": "crane crossbones",
+    "svg": "skull-crossbones.svg"
+  },
+  {
+    "name": "crane",
+    "svg": "skull.svg"
+  },
+  {
+    "name": "slash",
+    "svg": "slash.svg"
+  },
+  {
+    "name": "sliders droit rectangle esplanade place rond‐point",
+    "svg": "sliders-h-square.svg"
+  },
+  {
+    "name": "sliders",
+    "svg": "sliders-h.svg"
+  },
+  {
+    "name": "sliders droit rectangle esplanade place rond‐point",
+    "svg": "sliders-v-square.svg"
+  },
+  {
+    "name": "sliders",
+    "svg": "sliders-v.svg"
+  },
+  {
+    "name": "sourire rayon poutre",
+    "svg": "smile-beam.svg"
+  },
+  {
+    "name": "sourire plus",
+    "svg": "smile-plus.svg"
+  },
+  {
+    "name": "sourire wink",
+    "svg": "smile-wink.svg"
+  },
+  {
+    "name": "sourire",
+    "svg": "smile.svg"
+  },
+  {
+    "name": "smog",
+    "svg": "smog.svg"
+  },
+  {
+    "name": "fumer fumee",
+    "svg": "smoke.svg"
+  },
+  {
+    "name": "smoking anatheme",
+    "svg": "smoking-ban.svg"
+  },
+  {
+    "name": "smoking",
+    "svg": "smoking.svg"
+  },
+  {
+    "name": "serpent",
+    "svg": "snake.svg"
+  },
+  {
+    "name": "neiger neige blowing",
+    "svg": "snow-blowing.svg"
+  },
+  {
+    "name": "flocon neige",
+    "svg": "snowflake.svg"
+  },
+  {
+    "name": "socks",
+    "svg": "socks.svg"
+  },
+  {
+    "name": "solar lambris panneau",
+    "svg": "solar-panel.svg"
+  },
+  {
+    "name": "acabit espece genre sort alpha duvet",
+    "svg": "sort-alpha-down.svg"
+  },
+  {
+    "name": "acabit espece genre sort alpha",
+    "svg": "sort-alpha-up.svg"
+  },
+  {
+    "name": "acabit espece genre sort nombre montant somme duvet",
+    "svg": "sort-amount-down.svg"
+  },
+  {
+    "name": "acabit espece genre sort nombre montant somme",
+    "svg": "sort-amount-up.svg"
+  },
+  {
+    "name": "acabit espece genre sort duvet",
+    "svg": "sort-down.svg"
+  },
+  {
+    "name": "acabit espece genre sort numeric duvet",
+    "svg": "sort-numeric-down.svg"
+  },
+  {
+    "name": "acabit espece genre sort numeric",
+    "svg": "sort-numeric-up.svg"
+  },
+  {
+    "name": "acabit espece genre sort",
+    "svg": "sort-up.svg"
+  },
+  {
+    "name": "acabit espece genre sort",
+    "svg": "sort.svg"
+  },
+  {
+    "name": "spa",
+    "svg": "spa.svg"
+  },
+  {
+    "name": "espace shuttle",
+    "svg": "space-shuttle.svg"
+  },
+  {
+    "name": "creuser beche",
+    "svg": "spade.svg"
+  },
+  {
+    "name": "araignee brun noir veuve",
+    "svg": "spider-black-widow.svg"
+  },
+  {
+    "name": "araignee web",
+    "svg": "spider-web.svg"
+  },
+  {
+    "name": "araignee",
+    "svg": "spider.svg"
+  },
+  {
+    "name": "spinner tiers",
+    "svg": "spinner-third.svg"
+  },
+  {
+    "name": "spinner",
+    "svg": "spinner.svg"
+  },
+  {
+    "name": "splotch",
+    "svg": "splotch.svg"
+  },
+  {
+    "name": "spray can",
+    "svg": "spray-can.svg"
+  },
+  {
+    "name": "droit rectangle esplanade place rond‐point complet entier rassasie",
+    "svg": "square-full.svg"
+  },
+  {
+    "name": "droit rectangle esplanade place rond‐point racine alt",
+    "svg": "square-root-alt.svg"
+  },
+  {
+    "name": "droit rectangle esplanade place rond‐point racine",
+    "svg": "square-root.svg"
+  },
+  {
+    "name": "droit rectangle esplanade place rond‐point",
+    "svg": "square.svg"
+  },
+  {
+    "name": "ecureuil",
+    "svg": "squirrel.svg"
+  },
+  {
+    "name": "staff",
+    "svg": "staff.svg"
+  },
+  {
+    "name": "timbre timbre‐poste estampiller",
+    "svg": "stamp.svg"
+  },
+  {
+    "name": "astral etoile star vedette crescent",
+    "svg": "star-and-crescent.svg"
+  },
+  {
+    "name": "astral etoile star vedette exclamation",
+    "svg": "star-exclamation.svg"
+  },
+  {
+    "name": "astral etoile star vedette demi moitie alt",
+    "svg": "star-half-alt.svg"
+  },
+  {
+    "name": "astral etoile star vedette demi moitie",
+    "svg": "star-half.svg"
+  },
+  {
+    "name": "astral etoile star vedette david",
+    "svg": "star-of-david.svg"
+  },
+  {
+    "name": "astral etoile star vedette vie",
+    "svg": "star-of-life.svg"
+  },
+  {
+    "name": "astral etoile star vedette",
+    "svg": "star.svg"
+  },
+  {
+    "name": "stars",
+    "svg": "stars.svg"
+  },
+  {
+    "name": "direction roue",
+    "svg": "steering-wheel.svg"
+  },
+  {
+    "name": "faire cent pas pas marche backward",
+    "svg": "step-backward.svg"
+  },
+  {
+    "name": "faire cent pas pas marche forward",
+    "svg": "step-forward.svg"
+  },
+  {
+    "name": "stethoscope",
+    "svg": "stethoscope.svg"
+  },
+  {
+    "name": "sticky billet ticket noter note",
+    "svg": "sticky-note.svg"
+  },
+  {
+    "name": "estomac",
+    "svg": "stomach.svg"
+  },
+  {
+    "name": "halte s'arreter gare station cesser arreter faire cesser interrompre terminer cercle rond ronde",
+    "svg": "stop-circle.svg"
+  },
+  {
+    "name": "halte s'arreter gare station cesser arreter faire cesser interrompre terminer",
+    "svg": "stop.svg"
+  },
+  {
+    "name": "stopwatch",
+    "svg": "stopwatch.svg"
+  },
+  {
+    "name": "boutique magasin enlever oter alt",
+    "svg": "store-alt.svg"
+  },
+  {
+    "name": "boutique magasin enlever oter",
+    "svg": "store.svg"
+  },
+  {
+    "name": "courant ruisseau",
+    "svg": "stream.svg"
+  },
+  {
+    "name": "rue air allure apparence aspect spectacle contempler panorama vue regarder",
+    "svg": "street-view.svg"
+  },
+  {
+    "name": "strikethrough",
+    "svg": "strikethrough.svg"
+  },
+  {
+    "name": "stroopwafel",
+    "svg": "stroopwafel.svg"
+  },
+  {
+    "name": "subscript",
+    "svg": "subscript.svg"
+  },
+  {
+    "name": "metro",
+    "svg": "subway.svg"
+  },
+  {
+    "name": "valise rolling",
+    "svg": "suitcase-rolling.svg"
+  },
+  {
+    "name": "valise",
+    "svg": "suitcase.svg"
+  },
+  {
+    "name": "ensoleille soleil brouiller confus trouble nuage",
+    "svg": "sun-cloud.svg"
+  },
+  {
+    "name": "ensoleille soleil poussiere",
+    "svg": "sun-dust.svg"
+  },
+  {
+    "name": "ensoleille soleil chicaner",
+    "svg": "sun-haze.svg"
+  },
+  {
+    "name": "ensoleille soleil",
+    "svg": "sun.svg"
+  },
+  {
+    "name": "sunrise",
+    "svg": "sunrise.svg"
+  },
+  {
+    "name": "sunset",
+    "svg": "sunset.svg"
+  },
+  {
+    "name": "superscript",
+    "svg": "superscript.svg"
+  },
+  {
+    "name": "surp surprise",
+    "svg": "surprise.svg"
+  },
+  {
+    "name": "swatchbook",
+    "svg": "swatchbook.svg"
+  },
+  {
+    "name": "swimmer",
+    "svg": "swimmer.svg"
+  },
+  {
+    "name": "swimming s'accoupler piscine",
+    "svg": "swimming-pool.svg"
+  },
+  {
+    "name": "sword",
+    "svg": "sword.svg"
+  },
+  {
+    "name": "swords",
+    "svg": "swords.svg"
+  },
+  {
+    "name": "synagogue",
+    "svg": "synagogue.svg"
+  },
+  {
+    "name": "sync alt",
+    "svg": "sync-alt.svg"
+  },
+  {
+    "name": "sync",
+    "svg": "sync.svg"
+  },
+  {
+    "name": "syringe",
+    "svg": "syringe.svg"
+  },
+  {
+    "name": "liste tableau table tennis",
+    "svg": "table-tennis.svg"
+  },
+  {
+    "name": "liste tableau table",
+    "svg": "table.svg"
+  },
+  {
+    "name": "liste tableau alt",
+    "svg": "tablet-alt.svg"
+  },
+  {
+    "name": "liste tableau android alt",
+    "svg": "tablet-android-alt.svg"
+  },
+  {
+    "name": "liste tableau android",
+    "svg": "tablet-android.svg"
+  },
+  {
+    "name": "liste tableau rugged",
+    "svg": "tablet-rugged.svg"
+  },
+  {
+    "name": "liste tableau",
+    "svg": "tablet.svg"
+  },
+  {
+    "name": "tablets",
+    "svg": "tablets.svg"
+  },
+  {
+    "name": "tachometer alt intermediaire moyenne centre milieu",
+    "svg": "tachometer-alt-average.svg"
+  },
+  {
+    "name": "tachometer alt jeuner ferme prompt rapide rapidement vite",
+    "svg": "tachometer-alt-fast.svg"
+  },
+  {
+    "name": "tachometer alt fastest",
+    "svg": "tachometer-alt-fastest.svg"
+  },
+  {
+    "name": "tachometer alt lent",
+    "svg": "tachometer-alt-slow.svg"
+  },
+  {
+    "name": "tachometer alt slowest",
+    "svg": "tachometer-alt-slowest.svg"
+  },
+  {
+    "name": "tachometer alt",
+    "svg": "tachometer-alt.svg"
+  },
+  {
+    "name": "tachometer intermediaire moyenne centre milieu",
+    "svg": "tachometer-average.svg"
+  },
+  {
+    "name": "tachometer jeuner ferme prompt rapide rapidement vite",
+    "svg": "tachometer-fast.svg"
+  },
+  {
+    "name": "tachometer fastest",
+    "svg": "tachometer-fastest.svg"
+  },
+  {
+    "name": "tachometer lent",
+    "svg": "tachometer-slow.svg"
+  },
+  {
+    "name": "tachometer slowest",
+    "svg": "tachometer-slowest.svg"
+  },
+  {
+    "name": "tachometer",
+    "svg": "tachometer.svg"
+  },
+  {
+    "name": "tag",
+    "svg": "tag.svg"
+  },
+  {
+    "name": "tags",
+    "svg": "tags.svg"
+  },
+  {
+    "name": "tally",
+    "svg": "tally.svg"
+  },
+  {
+    "name": "bande bandeau",
+    "svg": "tape.svg"
+  },
+  {
+    "name": "tasks",
+    "svg": "tasks.svg"
+  },
+  {
+    "name": "taxi",
+    "svg": "taxi.svg"
+  },
+  {
+    "name": "teeth ouvrir",
+    "svg": "teeth-open.svg"
+  },
+  {
+    "name": "teeth",
+    "svg": "teeth.svg"
+  },
+  {
+    "name": "temperature froid",
+    "svg": "temperature-frigid.svg"
+  },
+  {
+    "name": "temperature haut",
+    "svg": "temperature-high.svg"
+  },
+  {
+    "name": "temperature hot",
+    "svg": "temperature-hot.svg"
+  },
+  {
+    "name": "temperature abject lache",
+    "svg": "temperature-low.svg"
+  },
+  {
+    "name": "tennis bal globe balle sphere",
+    "svg": "tennis-ball.svg"
+  },
+  {
+    "name": "terminal",
+    "svg": "terminal.svg"
+  },
+  {
+    "name": "texte altitude hauteur",
+    "svg": "text-height.svg"
+  },
+  {
+    "name": "texte ampleur largeur mesure largeur",
+    "svg": "text-width.svg"
+  },
+  {
+    "name": "grand",
+    "svg": "th-large.svg"
+  },
+  {
+    "name": "liste",
+    "svg": "th-list.svg"
+  },
+  {
+    "name": "",
+    "svg": "th.svg"
+  },
+  {
+    "name": "theater masks",
+    "svg": "theater-masks.svg"
+  },
+  {
+    "name": "thermometre vide vider",
+    "svg": "thermometer-empty.svg"
+  },
+  {
+    "name": "thermometre complet entier rassasie",
+    "svg": "thermometer-full.svg"
+  },
+  {
+    "name": "thermometre demi moitie",
+    "svg": "thermometer-half.svg"
+  },
+  {
+    "name": "thermometre quartier",
+    "svg": "thermometer-quarter.svg"
+  },
+  {
+    "name": "thermometre trois quarters",
+    "svg": "thermometer-three-quarters.svg"
+  },
+  {
+    "name": "thermometre",
+    "svg": "thermometer.svg"
+  },
+  {
+    "name": "theta",
+    "svg": "theta.svg"
+  },
+  {
+    "name": "thumbs duvet",
+    "svg": "thumbs-down.svg"
+  },
+  {
+    "name": "thumbs",
+    "svg": "thumbs-up.svg"
+  },
+  {
+    "name": "thumbtack",
+    "svg": "thumbtack.svg"
+  },
+  {
+    "name": "thunderstorm lune",
+    "svg": "thunderstorm-moon.svg"
+  },
+  {
+    "name": "thunderstorm ensoleille soleil",
+    "svg": "thunderstorm-sun.svg"
+  },
+  {
+    "name": "thunderstorm",
+    "svg": "thunderstorm.svg"
+  },
+  {
+    "name": "billet ticket alt",
+    "svg": "ticket-alt.svg"
+  },
+  {
+    "name": "billet ticket",
+    "svg": "ticket.svg"
+  },
+  {
+    "name": "tilde",
+    "svg": "tilde.svg"
+  },
+  {
+    "name": "ti cercle rond ronde",
+    "svg": "times-circle.svg"
+  },
+  {
+    "name": "ti hexagon",
+    "svg": "times-hexagon.svg"
+  },
+  {
+    "name": "ti octagon",
+    "svg": "times-octagon.svg"
+  },
+  {
+    "name": "ti droit rectangle esplanade place rond‐point",
+    "svg": "times-square.svg"
+  },
+  {
+    "name": "ti",
+    "svg": "times.svg"
+  },
+  {
+    "name": "nuance teinte teindre slash",
+    "svg": "tint-slash.svg"
+  },
+  {
+    "name": "nuance teinte teindre",
+    "svg": "tint.svg"
+  },
+  {
+    "name": "tire appartement plat uni aplati",
+    "svg": "tire-flat.svg"
+  },
+  {
+    "name": "tire impulsion instance instan vive sollicitation pression oppression recommandation sommation",
+    "svg": "tire-pressure-warning.svg"
+  },
+  {
+    "name": "tire rugged",
+    "svg": "tire-rugged.svg"
+  },
+  {
+    "name": "tire",
+    "svg": "tire.svg"
+  },
+  {
+    "name": "fatigue las",
+    "svg": "tired.svg"
+  },
+  {
+    "name": "toggle off",
+    "svg": "toggle-off.svg"
+  },
+  {
+    "name": "toggle avant milie dans moyen plus sujet contre",
+    "svg": "toggle-on.svg"
+  },
+  {
+    "name": "cabinet toilette document papier tapisser alt",
+    "svg": "toilet-paper-alt.svg"
+  },
+  {
+    "name": "cabinet toilette document papier tapisser",
+    "svg": "toilet-paper.svg"
+  },
+  {
+    "name": "tombstone alt",
+    "svg": "tombstone-alt.svg"
+  },
+  {
+    "name": "tombstone",
+    "svg": "tombstone.svg"
+  },
+  {
+    "name": "toolbox",
+    "svg": "toolbox.svg"
+  },
+  {
+    "name": "dent",
+    "svg": "tooth.svg"
+  },
+  {
+    "name": "toothbrush",
+    "svg": "toothbrush.svg"
+  },
+  {
+    "name": "torah",
+    "svg": "torah.svg"
+  },
+  {
+    "name": "torii gate",
+    "svg": "torii-gate.svg"
+  },
+  {
+    "name": "tornado",
+    "svg": "tornado.svg"
+  },
+  {
+    "name": "tracteur",
+    "svg": "tractor.svg"
+  },
+  {
+    "name": "trademark",
+    "svg": "trademark.svg"
+  },
+  {
+    "name": "circulation trafic pomme pin",
+    "svg": "traffic-cone.svg"
+  },
+  {
+    "name": "circulation trafic allumer enflammer clair lumineux lumiere faible leger aller deplacer aller vehicule",
+    "svg": "traffic-light-go.svg"
+  },
+  {
+    "name": "circulation trafic allumer enflammer clair lumineux lumiere faible leger lent",
+    "svg": "traffic-light-slow.svg"
+  },
+  {
+    "name": "circulation trafic allumer enflammer clair lumineux lumiere faible leger halte s'arreter gare station cesser arreter faire cesser interrompre terminer",
+    "svg": "traffic-light-stop.svg"
+  },
+  {
+    "name": "circulation trafic allumer enflammer clair lumineux lumiere faible leger",
+    "svg": "traffic-light.svg"
+  },
+  {
+    "name": "clique cortege escorte suite dresser train entrainer rame",
+    "svg": "train.svg"
+  },
+  {
+    "name": "transgender alt",
+    "svg": "transgender-alt.svg"
+  },
+  {
+    "name": "transgender",
+    "svg": "transgender.svg"
+  },
+  {
+    "name": "trash alt",
+    "svg": "trash-alt.svg"
+  },
+  {
+    "name": "trash",
+    "svg": "trash.svg"
+  },
+  {
+    "name": "cassette tresor poitrine sein bac caisse coffre commode",
+    "svg": "treasure-chest.svg"
+  },
+  {
+    "name": "arbre alt",
+    "svg": "tree-alt.svg"
+  },
+  {
+    "name": "arbre",
+    "svg": "tree.svg"
+  },
+  {
+    "name": "trees",
+    "svg": "trees.svg"
+  },
+  {
+    "name": "triangle",
+    "svg": "triangle.svg"
+  },
+  {
+    "name": "trophy alt",
+    "svg": "trophy-alt.svg"
+  },
+  {
+    "name": "trophy",
+    "svg": "trophy.svg"
+  },
+  {
+    "name": "camion poids lourd bac baquet",
+    "svg": "truck-container.svg"
+  },
+  {
+    "name": "camion poids lourd canape",
+    "svg": "truck-couch.svg"
+  },
+  {
+    "name": "camion poids lourd loading",
+    "svg": "truck-loading.svg"
+  },
+  {
+    "name": "camion poids lourd clebard monstre",
+    "svg": "truck-monster.svg"
+  },
+  {
+    "name": "camion poids lourd attendrissant",
+    "svg": "truck-moving.svg"
+  },
+  {
+    "name": "camion poids lourd pickup",
+    "svg": "truck-pickup.svg"
+  },
+  {
+    "name": "camion poids lourd ramp",
+    "svg": "truck-ramp.svg"
+  },
+  {
+    "name": "camion poids lourd",
+    "svg": "truck.svg"
+  },
+  {
+    "name": "tshirt",
+    "svg": "tshirt.svg"
+  },
+  {
+    "name": "tty",
+    "svg": "tty.svg"
+  },
+  {
+    "name": "turquie",
+    "svg": "turkey.svg"
+  },
+  {
+    "name": "turtle",
+    "svg": "turtle.svg"
+  },
+  {
+    "name": "television retro",
+    "svg": "tv-retro.svg"
+  },
+  {
+    "name": "television",
+    "svg": "tv.svg"
+  },
+  {
+    "name": "parapluie plage",
+    "svg": "umbrella-beach.svg"
+  },
+  {
+    "name": "parapluie",
+    "svg": "umbrella.svg"
+  },
+  {
+    "name": "underline",
+    "svg": "underline.svg"
+  },
+  {
+    "name": "undo alt",
+    "svg": "undo-alt.svg"
+  },
+  {
+    "name": "undo",
+    "svg": "undo.svg"
+  },
+  {
+    "name": "unicorn",
+    "svg": "unicorn.svg"
+  },
+  {
+    "name": "union",
+    "svg": "union.svg"
+  },
+  {
+    "name": "universal acces assaut attaque abord entree impulsion incitation",
+    "svg": "universal-access.svg"
+  },
+  {
+    "name": "universite",
+    "svg": "university.svg"
+  },
+  {
+    "name": "unlink",
+    "svg": "unlink.svg"
+  },
+  {
+    "name": "ouvrir alt",
+    "svg": "unlock-alt.svg"
+  },
+  {
+    "name": "ouvrir",
+    "svg": "unlock.svg"
+  },
+  {
+    "name": "upload",
+    "svg": "upload.svg"
+  },
+  {
+    "name": "usd cercle rond ronde",
+    "svg": "usd-circle.svg"
+  },
+  {
+    "name": "usd droit rectangle esplanade place rond‐point",
+    "svg": "usd-square.svg"
+  },
+  {
+    "name": "user alt slash",
+    "svg": "user-alt-slash.svg"
+  },
+  {
+    "name": "user alt",
+    "svg": "user-alt.svg"
+  },
+  {
+    "name": "user astronaute",
+    "svg": "user-astronaut.svg"
+  },
+  {
+    "name": "user chart",
+    "svg": "user-chart.svg"
+  },
+  {
+    "name": "user reprimer retenir bride surveiller verifier cheque",
+    "svg": "user-check.svg"
+  },
+  {
+    "name": "user cercle rond ronde",
+    "svg": "user-circle.svg"
+  },
+  {
+    "name": "user horloge pendule",
+    "svg": "user-clock.svg"
+  },
+  {
+    "name": "user cog",
+    "svg": "user-cog.svg"
+  },
+  {
+    "name": "user couronner",
+    "svg": "user-crown.svg"
+  },
+  {
+    "name": "user rediger",
+    "svg": "user-edit.svg"
+  },
+  {
+    "name": "user friends",
+    "svg": "user-friends.svg"
+  },
+  {
+    "name": "user graduate",
+    "svg": "user-graduate.svg"
+  },
+  {
+    "name": "user injured",
+    "svg": "user-injured.svg"
+  },
+  {
+    "name": "user ecluse serrure fermer fermer cle",
+    "svg": "user-lock.svg"
+  },
+  {
+    "name": "user",
+    "svg": "user-md.svg"
+  },
+  {
+    "name": "user moins",
+    "svg": "user-minus.svg"
+  },
+  {
+    "name": "user ninja",
+    "svg": "user-ninja.svg"
+  },
+  {
+    "name": "user plus",
+    "svg": "user-plus.svg"
+  },
+  {
+    "name": "user arcane secret",
+    "svg": "user-secret.svg"
+  },
+  {
+    "name": "user enseigne",
+    "svg": "user-shield.svg"
+  },
+  {
+    "name": "user slash",
+    "svg": "user-slash.svg"
+  },
+  {
+    "name": "user tag",
+    "svg": "user-tag.svg"
+  },
+  {
+    "name": "user attacher lier cravate nouer relier lien",
+    "svg": "user-tie.svg"
+  },
+  {
+    "name": "user ti",
+    "svg": "user-times.svg"
+  },
+  {
+    "name": "user",
+    "svg": "user.svg"
+  },
+  {
+    "name": "users classe cours lecon",
+    "svg": "users-class.svg"
+  },
+  {
+    "name": "users cog",
+    "svg": "users-cog.svg"
+  },
+  {
+    "name": "users couronner",
+    "svg": "users-crown.svg"
+  },
+  {
+    "name": "users",
+    "svg": "users.svg"
+  },
+  {
+    "name": "utensil fourchette",
+    "svg": "utensil-fork.svg"
+  },
+  {
+    "name": "utensil couteau",
+    "svg": "utensil-knife.svg"
+  },
+  {
+    "name": "utensil cuiller cuillere",
+    "svg": "utensil-spoon.svg"
+  },
+  {
+    "name": "utensils alt",
+    "svg": "utensils-alt.svg"
+  },
+  {
+    "name": "utensils",
+    "svg": "utensils.svg"
+  },
+  {
+    "name": "merite valeur absolu pur complet ineluctable illimite immense",
+    "svg": "value-absolute.svg"
+  },
+  {
+    "name": "vector droit rectangle esplanade place rond‐point",
+    "svg": "vector-square.svg"
+  },
+  {
+    "name": "venus double redoubler",
+    "svg": "venus-double.svg"
+  },
+  {
+    "name": "venus mars",
+    "svg": "venus-mars.svg"
+  },
+  {
+    "name": "venus",
+    "svg": "venus.svg"
+  },
+  {
+    "name": "vial",
+    "svg": "vial.svg"
+  },
+  {
+    "name": "vials",
+    "svg": "vials.svg"
+  },
+  {
+    "name": "video plus",
+    "svg": "video-plus.svg"
+  },
+  {
+    "name": "video slash",
+    "svg": "video-slash.svg"
+  },
+  {
+    "name": "video",
+    "svg": "video.svg"
+  },
+  {
+    "name": "vihara",
+    "svg": "vihara.svg"
+  },
+  {
+    "name": "volcan",
+    "svg": "volcano.svg"
+  },
+  {
+    "name": "volleyball bal globe balle sphere",
+    "svg": "volleyball-ball.svg"
+  },
+  {
+    "name": "volume duvet",
+    "svg": "volume-down.svg"
+  },
+  {
+    "name": "volume muet",
+    "svg": "volume-mute.svg"
+  },
+  {
+    "name": "volume off",
+    "svg": "volume-off.svg"
+  },
+  {
+    "name": "volume slash",
+    "svg": "volume-slash.svg"
+  },
+  {
+    "name": "volume",
+    "svg": "volume-up.svg"
+  },
+  {
+    "name": "volume",
+    "svg": "volume.svg"
+  },
+  {
+    "name": "vote nay",
+    "svg": "vote-nay.svg"
+  },
+  {
+    "name": "vote yea",
+    "svg": "vote-yea.svg"
+  },
+  {
+    "name": "carton",
+    "svg": "vr-cardboard.svg"
+  },
+  {
+    "name": "walking",
+    "svg": "walking.svg"
+  },
+  {
+    "name": "porte‐monnaie sacoche",
+    "svg": "wallet.svg"
+  },
+  {
+    "name": "badine baguette magie magique",
+    "svg": "wand-magic.svg"
+  },
+  {
+    "name": "badine baguette",
+    "svg": "wand.svg"
+  },
+  {
+    "name": "warehouse alt",
+    "svg": "warehouse-alt.svg"
+  },
+  {
+    "name": "warehouse",
+    "svg": "warehouse.svg"
+  },
+  {
+    "name": "montre horloge pendule regarder assister spectateur regarder spectacle fitness",
+    "svg": "watch-fitness.svg"
+  },
+  {
+    "name": "montre horloge pendule regarder assister spectateur regarder spectacle",
+    "svg": "watch.svg"
+  },
+  {
+    "name": "aquatique eau onde abreuver arroser abaisser baisser",
+    "svg": "water-lower.svg"
+  },
+  {
+    "name": "aquatique eau onde abreuver arroser surgir sursauter soulever",
+    "svg": "water-rise.svg"
+  },
+  {
+    "name": "aquatique eau onde abreuver arroser",
+    "svg": "water.svg"
+  },
+  {
+    "name": "balance poids hanging",
+    "svg": "weight-hanging.svg"
+  },
+  {
+    "name": "balance poids",
+    "svg": "weight.svg"
+  },
+  {
+    "name": "baleine",
+    "svg": "whale.svg"
+  },
+  {
+    "name": "froment",
+    "svg": "wheat.svg"
+  },
+  {
+    "name": "wheelchair",
+    "svg": "wheelchair.svg"
+  },
+  {
+    "name": "siffler sifflet",
+    "svg": "whistle.svg"
+  },
+  {
+    "name": "wifi",
+    "svg": "wifi-1.svg"
+  },
+  {
+    "name": "wifi",
+    "svg": "wifi-2.svg"
+  },
+  {
+    "name": "wifi slash",
+    "svg": "wifi-slash.svg"
+  },
+  {
+    "name": "wifi",
+    "svg": "wifi.svg"
+  },
+  {
+    "name": "vent emmailloter enrouler recommandation sommation",
+    "svg": "wind-warning.svg"
+  },
+  {
+    "name": "vent emmailloter enrouler",
+    "svg": "wind.svg"
+  },
+  {
+    "name": "fen guichet alt",
+    "svg": "window-alt.svg"
+  },
+  {
+    "name": "fen guichet fermer intime prochaine proche pres aupres",
+    "svg": "window-close.svg"
+  },
+  {
+    "name": "fen guichet maximize",
+    "svg": "window-maximize.svg"
+  },
+  {
+    "name": "fen guichet minimize",
+    "svg": "window-minimize.svg"
+  },
+  {
+    "name": "fen guichet restore",
+    "svg": "window-restore.svg"
+  },
+  {
+    "name": "fen guichet",
+    "svg": "window.svg"
+  },
+  {
+    "name": "windsock",
+    "svg": "windsock.svg"
+  },
+  {
+    "name": "vin bouteille",
+    "svg": "wine-bottle.svg"
+  },
+  {
+    "name": "vin verre vitre alt",
+    "svg": "wine-glass-alt.svg"
+  },
+  {
+    "name": "vin verre vitre",
+    "svg": "wine-glass.svg"
+  },
+  {
+    "name": "won augure preuve temoignage signal signe signer",
+    "svg": "won-sign.svg"
+  },
+  {
+    "name": "clef",
+    "svg": "wrench.svg"
+  },
+  {
+    "name": "rayon bande raie rayure",
+    "svg": "x-ray.svg"
+  },
+  {
+    "name": "yen augure preuve temoignage signal signe signer",
+    "svg": "yen-sign.svg"
+  },
+  {
+    "name": "yin yang",
+    "svg": "yin-yang.svg"
+  },
+  {
+    "name": "reserved reserve copyright",
     "svg": "00ae.svg"
   },
   {
-    "name": "double redoubler exclamation marquer cachet marque mark signal signe témoignage estampiller",
+    "name": "double exclamation",
     "svg": "203c.svg"
   },
   {
-    "name": "exclamation question contester disputer marquer cachet marque mark signal signe témoignage estampiller",
+    "name": "exclamation question contester disputer signe",
     "svg": "2049.svg"
   },
   {
-    "name": "commerce métier marquer cachet marque mark signal signe témoignage estampiller augure preuve témoignage signal signe signer",
+    "name": "commerce metier signe",
     "svg": "2122.svg"
   },
   {
@@ -24,35 +7156,35 @@
     "svg": "2139.svg"
   },
   {
-    "name": "gauche droit vrai raison exact juste proprement flêche",
+    "name": "gauche droit vrai raison exact juste proprement fleche",
     "svg": "2194.svg"
   },
   {
-    "name": "duvet flêche",
+    "name": "duvet fleche",
     "svg": "2195.svg"
   },
   {
-    "name": "nord occident ouest flêche",
+    "name": "nord occident ouest fleche",
     "svg": "2196.svg"
   },
   {
-    "name": "nord est orient flêche",
+    "name": "nord est orient fleche",
     "svg": "2197.svg"
   },
   {
-    "name": "austral sud est orient flêche",
+    "name": "austral sud est orient fleche",
     "svg": "2198.svg"
   },
   {
-    "name": "austral sud occident ouest flêche",
+    "name": "austral sud occident ouest fleche",
     "svg": "2199.svg"
   },
   {
-    "name": "leftwards flêche moyen bord     près agrafe hameçon crochet accrocher",
+    "name": "leftwards fleche moyen bord près agrafe hameçon crochet accrocher",
     "svg": "21a9.svg"
   },
   {
-    "name": "rightwards flêche moyen bord     près agrafe hameçon crochet accrocher",
+    "name": "rightwards fleche moyen bord près agrafe hameçon crochet accrocher",
     "svg": "21aa.svg"
   },
   {
@@ -60,7 +7192,7 @@
     "svg": "231a.svg"
   },
   {
-    "name": "hourglass",
+    "name": "sablier",
     "svg": "231b.svg"
   },
   {
@@ -68,7 +7200,7 @@
     "svg": "2328.svg"
   },
   {
-    "name": "brun noir right-pointing double redoubler triangle",
+    "name": "avance rapide suivant fleche droit",
     "svg": "23e9.svg"
   },
   {
@@ -84,15 +7216,15 @@
     "svg": "23ec.svg"
   },
   {
-    "name": "brun noir right-pointing double redoubler triangle moyen bord     près vertical barrer bar abreuvoir",
+    "name": "brun noir right-pointing double redoubler triangle moyen bord près vertical barrer bar abreuvoir",
     "svg": "23ed.svg"
   },
   {
-    "name": "brun noir left-pointing double redoubler triangle moyen bord     près vertical barrer bar abreuvoir",
+    "name": "brun noir left-pointing double redoubler triangle moyen bord près vertical barrer bar abreuvoir",
     "svg": "23ee.svg"
   },
   {
-    "name": "brun noir right-pointing triangle moyen bord     près double redoubler vertical barrer bar abreuvoir",
+    "name": "brun noir right-pointing triangle moyen bord près double redoubler vertical barrer bar abreuvoir",
     "svg": "23ef.svg"
   },
   {
@@ -100,7 +7232,7 @@
     "svg": "23f0.svg"
   },
   {
-    "name": "stopwatch",
+    "name": "chronometre",
     "svg": "23f1.svg"
   },
   {
@@ -108,7 +7240,7 @@
     "svg": "23f2.svg"
   },
   {
-    "name": "hourglass moyen bord     près flowing arène sable",
+    "name": "sablier moyen bord près flowing arène sable",
     "svg": "23f3.svg"
   },
   {
@@ -160,7 +7292,7 @@
     "svg": "25fe.svg"
   },
   {
-    "name": "brun noir ensoleillé soleil moyen bord     près rays",
+    "name": "brun noir ensoleillé soleil moyen bord près rays",
     "svg": "2600.svg"
   },
   {
@@ -184,11 +7316,11 @@
     "svg": "260e.svg"
   },
   {
-    "name": "ballot boxer bac caisse coffre boîte coffret baquet moyen bord     près réprimer retenir bride surveiller vérifier chèque",
+    "name": "ballot boxer bac caisse coffre boîte coffret baquet moyen bord près réprimer retenir bride surveiller vérifier chèque",
     "svg": "2611.svg"
   },
   {
-    "name": "parapluie moyen bord     près pleuvoir pluie drops",
+    "name": "parapluie moyen bord près pleuvoir pluie drops",
     "svg": "2614.svg"
   },
   {
@@ -208,11 +7340,11 @@
     "svg": "2620.svg"
   },
   {
-    "name": "radioactive augure preuve témoignage signal signe signer",
+    "name": "radioactif signe",
     "svg": "2622.svg"
   },
   {
-    "name": "biohazard augure preuve témoignage signal signe signer",
+    "name": "biohazard signe",
     "svg": "2623.svg"
   },
   {
@@ -240,7 +7372,7 @@
     "svg": "2639.svg"
   },
   {
-    "name": "blanc smiling affronter face figure visage",
+    "name": "blanc sourire  affronter face figure visage",
     "svg": "263a.svg"
   },
   {
@@ -352,11 +7484,11 @@
     "svg": "269c.svg"
   },
   {
-    "name": "recommandation sommation augure preuve témoignage signal signe signer",
+    "name": "recommandation sommation signe",
     "svg": "26a0.svg"
   },
   {
-    "name": "haut tension augure preuve témoignage signal signe signer",
+    "name": "haut tension signe",
     "svg": "26a1.svg"
   },
   {
@@ -404,7 +7536,7 @@
     "svg": "26cf.svg"
   },
   {
-    "name": "helmet moyen bord     près blanc croiser croix maussade passer dépasser",
+    "name": "helmet moyen bord près blanc croiser croix maussade passer dépasser",
     "svg": "26d1.svg"
   },
   {
@@ -468,7 +7600,7 @@
     "svg": "2702.svg"
   },
   {
-    "name": "blanc lourd réprimer retenir bride surveiller vérifier chèque marquer cachet marque mark signal signe témoignage estampiller",
+    "name": "blanc lourd réprimer retenir bride surveiller vérifier chèque signe",
     "svg": "2705.svg"
   },
   {
@@ -504,7 +7636,7 @@
     "svg": "2712.svg"
   },
   {
-    "name": "lourd réprimer retenir bride surveiller vérifier chèque marquer cachet marque mark signal signe témoignage estampiller",
+    "name": "lourd réprimer retenir bride surveiller vérifier chèque signe",
     "svg": "2714.svg"
   },
   {
@@ -540,31 +7672,31 @@
     "svg": "2747.svg"
   },
   {
-    "name": "croiser croix maussade passer dépasser marquer cachet marque mark signal signe témoignage estampiller",
+    "name": "croiser croix maussade passer dépasser signe",
     "svg": "274c.svg"
   },
   {
-    "name": "negative squared croiser croix maussade passer dépasser marquer cachet marque mark signal signe témoignage estampiller",
+    "name": "negative squared croiser croix maussade passer dépasser signe",
     "svg": "274e.svg"
   },
   {
-    "name": "brun noir question contester disputer marquer cachet marque mark signal signe témoignage estampiller ornament parure décorer orner parer ornement",
+    "name": "brun noir question contester disputer signe ornament parure décorer orner parer ornement",
     "svg": "2753.svg"
   },
   {
-    "name": "blanc question contester disputer marquer cachet marque mark signal signe témoignage estampiller ornament parure décorer orner parer ornement",
+    "name": "blanc question contester disputer signe ornament parure décorer orner parer ornement",
     "svg": "2754.svg"
   },
   {
-    "name": "blanc exclamation marquer cachet marque mark signal signe témoignage estampiller ornament parure décorer orner parer ornement",
+    "name": "blanc exclamation signe ornament parure décorer orner parer ornement",
     "svg": "2755.svg"
   },
   {
-    "name": "lourd exclamation marquer cachet marque mark signal signe témoignage estampiller symbole",
+    "name": "lourd exclamation signe symbole",
     "svg": "2757.svg"
   },
   {
-    "name": "lourd cœur exclamation marquer cachet marque mark signal signe témoignage estampiller ornament parure décorer orner parer ornement",
+    "name": "lourd cœur exclamation signe ornament parure décorer orner parer ornement",
     "svg": "2763.svg"
   },
   {
@@ -572,19 +7704,19 @@
     "svg": "2764.svg"
   },
   {
-    "name": "lourd plus augure preuve témoignage signal signe signer",
+    "name": "lourd plus signe",
     "svg": "2795.svg"
   },
   {
-    "name": "lourd moins augure preuve témoignage signal signe signer",
+    "name": "lourd moins signe",
     "svg": "2796.svg"
   },
   {
-    "name": "lourd division augure preuve témoignage signal signe signer",
+    "name": "lourd division signe",
     "svg": "2797.svg"
   },
   {
-    "name": "brun noir rightwards flêche",
+    "name": "brun noir rightwards fleche",
     "svg": "27a1.svg"
   },
   {
@@ -596,23 +7728,23 @@
     "svg": "27bf.svg"
   },
   {
-    "name": "flêche pointing rightwards après ensuite alors curving upwards",
+    "name": "fleche pointing rightwards après ensuite alors curving upwards",
     "svg": "2934.svg"
   },
   {
-    "name": "flêche pointing rightwards après ensuite alors curving downwards",
+    "name": "fleche pointing rightwards après ensuite alors curving downwards",
     "svg": "2935.svg"
   },
   {
-    "name": "leftwards brun noir flêche",
+    "name": "leftwards brun noir fleche",
     "svg": "2b05.svg"
   },
   {
-    "name": "upwards brun noir flêche",
+    "name": "upwards brun noir fleche",
     "svg": "2b06.svg"
   },
   {
-    "name": "downwards brun noir flêche",
+    "name": "downwards brun noir fleche",
     "svg": "2b07.svg"
   },
   {
@@ -636,7 +7768,7 @@
     "svg": "3030.svg"
   },
   {
-    "name": "part partie contingent portion rôle alternation marquer cachet marque mark signal signe témoignage estampiller",
+    "name": "part partie contingent portion rôle alternation signe",
     "svg": "303d.svg"
   },
   {
@@ -708,7 +7840,7 @@
     "svg": "1f198.svg"
   },
   {
-    "name": "squared moyen bord     près exclamation marquer cachet marque mark signal signe témoignage estampiller",
+    "name": "squared moyen bord près exclamation signe",
     "svg": "1f199.svg"
   },
   {
@@ -788,7 +7920,7 @@
     "svg": "1f302.svg"
   },
   {
-    "name": "nuit moyen bord     près stars",
+    "name": "nuit moyen bord près stars",
     "svg": "1f303.svg"
   },
   {
@@ -840,7 +7972,7 @@
     "svg": "1f30f.svg"
   },
   {
-    "name": "globe moyen bord     près meridians",
+    "name": "globe moyen bord près meridians",
     "svg": "1f310.svg"
   },
   {
@@ -880,23 +8012,23 @@
     "svg": "1f319.svg"
   },
   {
-    "name": "nouveau lune moyen bord     près affronter face figure visage",
+    "name": "nouveau lune moyen bord près affronter face figure visage",
     "svg": "1f31a.svg"
   },
   {
-    "name": "premier commencement premier lieu d'abord quartier lune moyen bord     près affronter face figure visage",
+    "name": "premier commencement premier lieu d'abord quartier lune moyen bord près affronter face figure visage",
     "svg": "1f31b.svg"
   },
   {
-    "name": "précédent continuer durer dernier passé quartier lune moyen bord     près affronter face figure visage",
+    "name": "précédent continuer durer dernier passé quartier lune moyen bord près affronter face figure visage",
     "svg": "1f31c.svg"
   },
   {
-    "name": "complet entier rassasié lune moyen bord     près affronter face figure visage",
+    "name": "complet entier rassasié lune moyen bord près affronter face figure visage",
     "svg": "1f31d.svg"
   },
   {
-    "name": "ensoleillé soleil moyen bord     près affronter face figure visage",
+    "name": "ensoleillé soleil moyen bord près affronter face figure visage",
     "svg": "1f31e.svg"
   },
   {
@@ -912,7 +8044,7 @@
     "svg": "1f321.svg"
   },
   {
-    "name": "blanc ensoleillé soleil moyen bord     près petit brouiller   confus   trouble nuage",
+    "name": "blanc ensoleillé soleil moyen bord près petit brouiller   confus   trouble nuage",
     "svg": "1f324.svg"
   },
   {
@@ -920,23 +8052,23 @@
     "svg": "1f325.svg"
   },
   {
-    "name": "blanc ensoleillé soleil derrière arrière après cul croupe brouiller confus trouble nuage  moyen  bord     près pleuvoir pluie",
+    "name": "blanc ensoleillé soleil derrière arrière après cul croupe brouiller confus trouble nuage  moyen  bord près pleuvoir pluie",
     "svg": "1f326.svg"
   },
   {
-    "name": "brouiller confus trouble nuage  moyen  bord     près pleuvoir pluie",
+    "name": "brouiller confus trouble nuage  moyen  bord près pleuvoir pluie",
     "svg": "1f327.svg"
   },
   {
-    "name": "brouiller confus trouble nuage  moyen  bord     près neiger neige",
+    "name": "brouiller confus trouble nuage  moyen  bord près neiger neige",
     "svg": "1f328.svg"
   },
   {
-    "name": "brouiller confus trouble nuage  moyen  bord     près éclair foudre",
+    "name": "brouiller confus trouble nuage  moyen  bord près éclair foudre",
     "svg": "1f329.svg"
   },
   {
-    "name": "brouiller confus trouble nuage  moyen  bord     près tornado",
+    "name": "brouiller confus trouble nuage  moyen  bord près tornado",
     "svg": "1f32a.svg"
   },
   {
@@ -1172,7 +8304,7 @@
     "svg": "1f364.svg"
   },
   {
-    "name": "pêcher poisson gâteau moyen bord     près tourbilloner dessiner dessin plan projet esquisse",
+    "name": "pêcher poisson gâteau moyen bord près tourbilloner dessiner dessin plan projet esquisse",
     "svg": "1f365.svg"
   },
   {
@@ -1268,11 +8400,11 @@
     "svg": "1f37c.svg"
   },
   {
-    "name": "fourchette couteau moyen bord     près met plat plaque assiette",
+    "name": "fourchette couteau moyen bord près met plat plaque assiette",
     "svg": "1f37d.svg"
   },
   {
-    "name": "bouteille moyen bord     près popping liège bouchon liège",
+    "name": "bouteille moyen bord près popping liège bouchon liège",
     "svg": "1f37e.svg"
   },
   {
@@ -1504,7 +8636,7 @@
     "svg": "1f3bc.svg"
   },
   {
-    "name": "running chemise moyen bord     près sash",
+    "name": "running chemise moyen bord près sash",
     "svg": "1f3bd.svg"
   },
   {
@@ -1584,7 +8716,7 @@
     "svg": "1f3d5.svg"
   },
   {
-    "name": "plage moyen bord     près parapluie",
+    "name": "plage moyen bord près parapluie",
     "svg": "1f3d6.svg"
   },
   {
@@ -1628,7 +8760,7 @@
     "svg": "1f3e0.svg"
   },
   {
-    "name": "maison moyen bord     près jardin",
+    "name": "maison moyen bord près jardin",
     "svg": "1f3e1.svg"
   },
   {
@@ -1712,7 +8844,7 @@
     "svg": "1f3f8.svg"
   },
   {
-    "name": "arc flêche",
+    "name": "arc fleche",
     "svg": "1f3f9.svg"
   },
   {
@@ -2036,31 +9168,31 @@
     "svg": "1f449.svg"
   },
   {
-    "name": "fisted ouvrier main augure preuve témoignage signal signe signer",
+    "name": "fisted ouvrier main signe",
     "svg": "1f44a.svg"
   },
   {
-    "name": "waving ouvrier main augure preuve témoignage signal signe signer",
+    "name": "waving ouvrier main signe",
     "svg": "1f44b.svg"
   },
   {
-    "name": "ouvrier main augure preuve témoignage signal signe signer",
+    "name": "ouvrier main signe",
     "svg": "1f44c.svg"
   },
   {
-    "name": "thumbs augure preuve témoignage signal signe signer",
+    "name": "thumbs signe",
     "svg": "1f44d.svg"
   },
   {
-    "name": "thumbs duvet augure preuve témoignage signal signe signer",
+    "name": "thumbs duvet signe",
     "svg": "1f44e.svg"
   },
   {
-    "name": "clapping hands augure preuve témoignage signal signe signer",
+    "name": "clapping hands signe",
     "svg": "1f44f.svg"
   },
   {
-    "name": "ouvrir hands augure preuve témoignage signal signe signer",
+    "name": "ouvrir hands signe",
     "svg": "1f450.svg"
   },
   {
@@ -2180,11 +9312,11 @@
     "svg": "1f46d.svg"
   },
   {
-    "name": "accordée fiancée moyen bord     près voiler voile",
+    "name": "accordée fiancée moyen bord près voiler voile",
     "svg": "1f470.svg"
   },
   {
-    "name": "humain homme mâle moyen bord     près gua mao",
+    "name": "humain homme mâle moyen bord près gua mao",
     "svg": "1f472.svg"
   },
   {
@@ -2260,7 +9392,7 @@
     "svg": "1f48a.svg"
   },
   {
-    "name": "baiser embrasser marquer cachet marque mark signal signe témoignage estampiller",
+    "name": "baiser embrasser signe",
     "svg": "1f48b.svg"
   },
   {
@@ -2284,7 +9416,7 @@
     "svg": "1f490.svg"
   },
   {
-    "name": "couple époux mari femme coupler accoupler apparier moyen bord     près cœur",
+    "name": "couple époux mari femme coupler accoupler apparier moyen bord près cœur",
     "svg": "1f491.svg"
   },
   {
@@ -2312,7 +9444,7 @@
     "svg": "1f497.svg"
   },
   {
-    "name": "cœur moyen bord     près flêche",
+    "name": "cœur moyen bord près fleche",
     "svg": "1f498.svg"
   },
   {
@@ -2332,7 +9464,7 @@
     "svg": "1f49c.svg"
   },
   {
-    "name": "cœur moyen bord     près ruban",
+    "name": "cœur moyen bord près ruban",
     "svg": "1f49d.svg"
   },
   {
@@ -2344,7 +9476,7 @@
     "svg": "1f49f.svg"
   },
   {
-    "name": "diamant former forme moyen bord     près au milie dans  quelqu'un àraisonde  une point milie dans  intérieur interne milieu dedans",
+    "name": "diamant former forme moyen bord près au milie dans  quelqu'un àraisonde  une point milie dans  intérieur interne milieu dedans",
     "svg": "1f4a0.svg"
   },
   {
@@ -2416,7 +9548,7 @@
     "svg": "1f4b1.svg"
   },
   {
-    "name": "lourd dollar augure preuve témoignage signal signe signer",
+    "name": "lourd dollar signe",
     "svg": "1f4b2.svg"
   },
   {
@@ -2424,27 +9556,27 @@
     "svg": "1f4b3.svg"
   },
   {
-    "name": "banknote moyen bord     près yen augure preuve témoignage signal signe signer",
+    "name": "banknote moyen bord près yen signe",
     "svg": "1f4b4.svg"
   },
   {
-    "name": "banknote moyen bord     près dollar augure preuve témoignage signal signe signer",
+    "name": "banknote moyen bord près dollar signe",
     "svg": "1f4b5.svg"
   },
   {
-    "name": "banknote moyen bord     près euro augure preuve témoignage signal signe signer",
+    "name": "banknote moyen bord près euro signe",
     "svg": "1f4b6.svg"
   },
   {
-    "name": "banknote moyen bord     près broyer piler augure preuve témoignage signal signe signer",
+    "name": "banknote moyen bord près broyer piler signe",
     "svg": "1f4b7.svg"
   },
   {
-    "name": "argent monnaie moyen bord     près wings",
+    "name": "argent monnaie moyen bord près wings",
     "svg": "1f4b8.svg"
   },
   {
-    "name": "chart moyen bord     près upwards trend yen augure preuve témoignage signal signe signer",
+    "name": "chart moyen bord près upwards trend yen signe",
     "svg": "1f4b9.svg"
   },
   {
@@ -2484,7 +9616,7 @@
     "svg": "1f4c2.svg"
   },
   {
-    "name": "page moyen bord     près coiffer friser battre faire tournoyer",
+    "name": "page moyen bord près coiffer friser battre faire tournoyer",
     "svg": "1f4c3.svg"
   },
   {
@@ -2504,11 +9636,11 @@
     "svg": "1f4c7.svg"
   },
   {
-    "name": "chart moyen bord     près upwards trend",
+    "name": "chart moyen bord près upwards trend",
     "svg": "1f4c8.svg"
   },
   {
-    "name": "chart moyen bord     près downwards trend",
+    "name": "chart moyen bord près downwards trend",
     "svg": "1f4c9.svg"
   },
   {
@@ -2552,7 +9684,7 @@
     "svg": "1f4d3.svg"
   },
   {
-    "name": "cahier moyen bord     près decorative couvrir recouvrir couverture revêtir tapisser abattre parcourir",
+    "name": "cahier moyen bord près decorative couvrir recouvrir couverture revêtir tapisser abattre parcourir",
     "svg": "1f4d4.svg"
   },
   {
@@ -2636,23 +9768,23 @@
     "svg": "1f4e8.svg"
   },
   {
-    "name": "enveloppe moyen bord     près downwards flêche au‐dessus dessus haut",
+    "name": "enveloppe moyen bord près downwards fleche au‐dessus dessus haut",
     "svg": "1f4e9.svg"
   },
   {
-    "name": "closed boîte aux lettres moyen bord     près lowered drapeau pavillon étendard",
+    "name": "closed boîte aux lettres moyen bord près lowered drapeau pavillon étendard",
     "svg": "1f4ea.svg"
   },
   {
-    "name": "closed boîte aux lettres moyen bord     près raised drapeau pavillon étendard",
+    "name": "closed boîte aux lettres moyen bord près raised drapeau pavillon étendard",
     "svg": "1f4eb.svg"
   },
   {
-    "name": "ouvrir boîte aux lettres moyen bord     près raised drapeau pavillon étendard",
+    "name": "ouvrir boîte aux lettres moyen bord près raised drapeau pavillon étendard",
     "svg": "1f4ec.svg"
   },
   {
-    "name": "ouvrir boîte aux lettres moyen bord     près lowered drapeau pavillon étendard",
+    "name": "ouvrir boîte aux lettres moyen bord près lowered drapeau pavillon étendard",
     "svg": "1f4ed.svg"
   },
   {
@@ -2672,7 +9804,7 @@
     "svg": "1f4f1.svg"
   },
   {
-    "name": "mobile mobilier phone moyen bord     près rightwards flêche vers près àraisonde  bord     près gauche",
+    "name": "mobile mobilier phone moyen bord près rightwards fleche vers près àraisonde  bord près gauche",
     "svg": "1f4f2.svg"
   },
   {
@@ -2688,7 +9820,7 @@
     "svg": "1f4f5.svg"
   },
   {
-    "name": "antenne moyen bord     près bars",
+    "name": "antenne moyen bord près bars",
     "svg": "1f4f6.svg"
   },
   {
@@ -2696,7 +9828,7 @@
     "svg": "1f4f7.svg"
   },
   {
-    "name": "caméra moyen bord     près flash",
+    "name": "caméra moyen bord près flash",
     "svg": "1f4f8.svg"
   },
   {
@@ -2732,7 +9864,7 @@
     "svg": "1f501.svg"
   },
   {
-    "name": "clockwise rightwards leftwards ouvrir cercle rond ronde arrows moyen bord     près circled quelqu'un une recouvrir revêtir tapisser",
+    "name": "clockwise rightwards leftwards ouvrir cercle rond ronde arrows moyen bord près circled quelqu'un une recouvrir revêtir tapisser",
     "svg": "1f502.svg"
   },
   {
@@ -2752,7 +9884,7 @@
     "svg": "1f506.svg"
   },
   {
-    "name": "speaker moyen bord     près cancellation apoplexie caresser caresse raie rayure",
+    "name": "speaker moyen bord près cancellation apoplexie caresser caresse raie rayure",
     "svg": "1f507.svg"
   },
   {
@@ -2760,11 +9892,11 @@
     "svg": "1f508.svg"
   },
   {
-    "name": "speaker moyen bord     près quelqu'un une sonner résonner son onde vague onduler agiter brandir",
+    "name": "speaker moyen bord près quelqu'un une sonner résonner son onde vague onduler agiter brandir",
     "svg": "1f509.svg"
   },
   {
-    "name": "speaker moyen bord     près trois sonner résonner son waves",
+    "name": "speaker moyen bord près trois sonner résonner son waves",
     "svg": "1f50a.svg"
   },
   {
@@ -2784,11 +9916,11 @@
     "svg": "1f50e.svg"
   },
   {
-    "name": "écluse serrure fermer fermer clé moyen bord     près encre pen",
+    "name": "écluse serrure fermer fermer clé moyen bord près encre pen",
     "svg": "1f50f.svg"
   },
   {
-    "name": "closed écluse serrure fermer fermer clé moyen bord     près touche touche clavier clef",
+    "name": "closed écluse serrure fermer fermer clé moyen bord près touche touche clavier clef",
     "svg": "1f510.svg"
   },
   {
@@ -2808,7 +9940,7 @@
     "svg": "1f514.svg"
   },
   {
-    "name": "clochette sonnette cloche moyen bord     près cancellation apoplexie caresser caresse raie rayure",
+    "name": "clochette sonnette cloche moyen bord près cancellation apoplexie caresser caresse raie rayure",
     "svg": "1f515.svg"
   },
   {
@@ -2824,23 +9956,23 @@
     "svg": "1f518.svg"
   },
   {
-    "name": "dos moyen bord     près leftwards flêche au‐dessus dessus haut",
+    "name": "dos moyen bord près leftwards fleche au‐dessus dessus haut",
     "svg": "1f519.svg"
   },
   {
-    "name": "cesser finir terminer p fin terminer bout fin moyen  bord     près leftwards flêche au‐dessus dessus haut",
+    "name": "cesser finir terminer p fin terminer bout fin moyen  bord près leftwards fleche au‐dessus dessus haut",
     "svg": "1f51a.svg"
   },
   {
-    "name": "avant milie dans moyen plus sujet contre   moyen  bord     près exclamation marquer cachet marque mark signal signe témoignage estampiller  moyen  bord     près gauche droit vrai  raison exact juste proprement flêche au‐dessus dessus haut",
+    "name": "avant milie dans moyen plus sujet contre   moyen  bord près exclamation signe  moyen  bord près gauche droit vrai  raison exact juste proprement fleche au‐dessus dessus haut",
     "svg": "1f51b.svg"
   },
   {
-    "name": "bientôt tout l'heure moyen bord     près rightwards flêche au‐dessus dessus haut",
+    "name": "bientôt tout l'heure moyen bord près rightwards fleche au‐dessus dessus haut",
     "svg": "1f51c.svg"
   },
   {
-    "name": "mutiler comble faîte haut sommet sum moyen bord     près upwards flêche au‐dessus dessus haut",
+    "name": "mutiler comble faîte haut sommet sum moyen bord près upwards fleche au‐dessus dessus haut",
     "svg": "1f51d.svg"
   },
   {
@@ -2912,7 +10044,7 @@
     "svg": "1f52e.svg"
   },
   {
-    "name": "six pointu astral étoile star vedette moyen bord     près intermédiaire centre milieu point",
+    "name": "six pointu astral étoile star vedette moyen bord près intermédiaire centre milieu point",
     "svg": "1f52f.svg"
   },
   {
@@ -2992,7 +10124,7 @@
     "svg": "1f54d.svg"
   },
   {
-    "name": "menorah moyen bord     près neuf branches",
+    "name": "menorah moyen bord près neuf branches",
     "svg": "1f54e.svg"
   },
   {
@@ -3144,15 +10276,15 @@
     "svg": "1f58d.svg"
   },
   {
-    "name": "raised ouvrier main moyen bord     près fingers splayed",
+    "name": "raised ouvrier main moyen bord près fingers splayed",
     "svg": "1f590.svg"
   },
   {
-    "name": "inverse ouvrier main moyen bord     près intermédiaire centre milieu doigt tâter extended",
+    "name": "inverse ouvrier main moyen bord près intermédiaire centre milieu doigt tâter extended",
     "svg": "1f595.svg"
   },
   {
-    "name": "raised ouvrier main moyen bord     près part partie contingent portion rôle milieu entre  intermédiaire centre milieu anneau bague sonner tinter sonner porte fingers",
+    "name": "raised ouvrier main moyen bord près part partie contingent portion rôle milieu entre  intermédiaire centre milieu anneau bague sonner tinter sonner porte fingers",
     "svg": "1f596.svg"
   },
   {
@@ -3172,7 +10304,7 @@
     "svg": "1f5b2.svg"
   },
   {
-    "name": "cadre moyen bord     près image figure",
+    "name": "cadre moyen bord près image figure",
     "svg": "1f5bc.svg"
   },
   {
@@ -3228,7 +10360,7 @@
     "svg": "1f5ef.svg"
   },
   {
-    "name": "ballot boxer bac caisse coffre boîte coffret baquet moyen bord     près ballot",
+    "name": "ballot boxer bac caisse coffre boîte coffret baquet moyen bord près ballot",
     "svg": "1f5f3.svg"
   },
   {
@@ -3260,35 +10392,35 @@
     "svg": "1f600.svg"
   },
   {
-    "name": "grinning affronter face figure visage moyen bord     près smiling eyes",
+    "name": "grinning affronter face figure visage moyen bord près sourire eyes",
     "svg": "1f601.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près tears allégresse joie",
+    "name": "affronter face figure visage moyen bord près tears allégresse joie",
     "svg": "1f602.svg"
   },
   {
-    "name": "smiling affronter face figure visage moyen bord     près ouvrir bouche embouchure",
+    "name": "sourire affronter face figure visage moyen bord près ouvrir bouche embouchure",
     "svg": "1f603.svg"
   },
   {
-    "name": "smiling affronter face figure visage moyen bord     près ouvrir bouche embouchure smiling eyes",
+    "name": "sourire affronter face figure visage moyen bord près ouvrir bouche embouchure sourire eyes",
     "svg": "1f604.svg"
   },
   {
-    "name": "smiling affronter face figure visage moyen bord     près ouvrir bouche embouchure froid rhume transpirer suer sueur",
+    "name": "sourire affronter face figure visage moyen bord près ouvrir bouche embouchure froid rhume transpirer suer sueur",
     "svg": "1f605.svg"
   },
   {
-    "name": "smiling affronter face figure visage moyen bord     près ouvrir bouche embouchure tightly-closed eyes",
+    "name": "sourire affronter face figure visage moyen bord près ouvrir bouche embouchure tightly-closed eyes",
     "svg": "1f606.svg"
   },
   {
-    "name": "smiling affronter face figure visage moyen bord     près auréole",
+    "name": "sourire affronter face figure visage moyen bord près auréole",
     "svg": "1f607.svg"
   },
   {
-    "name": "smiling affronter face figure visage moyen bord     près horns",
+    "name": "sourire affronter face figure visage moyen bord près horns",
     "svg": "1f608.svg"
   },
   {
@@ -3296,7 +10428,7 @@
     "svg": "1f609.svg"
   },
   {
-    "name": "smiling affronter face figure visage moyen bord     près smiling eyes",
+    "name": "sourire affronter face figure visage moyen bord près sourire eyes",
     "svg": "1f60a.svg"
   },
   {
@@ -3308,11 +10440,11 @@
     "svg": "1f60c.svg"
   },
   {
-    "name": "smiling affronter face figure visage moyen bord     près heart-shaped eyes",
+    "name": "sourire affronter face figure visage moyen bord près heart-shaped eyes",
     "svg": "1f60d.svg"
   },
   {
-    "name": "smiling affronter face figure visage moyen bord     près sunglas",
+    "name": "sourire affronter face figure visage moyen bord près sunglas",
     "svg": "1f60e.svg"
   },
   {
@@ -3332,7 +10464,7 @@
     "svg": "1f612.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près froid rhume transpirer suer sueur",
+    "name": "affronter face figure visage moyen bord près froid rhume transpirer suer sueur",
     "svg": "1f613.svg"
   },
   {
@@ -3356,23 +10488,23 @@
     "svg": "1f618.svg"
   },
   {
-    "name": "kissing affronter face figure visage moyen bord     près smiling eyes",
+    "name": "kissing affronter face figure visage moyen bord près sourire eyes",
     "svg": "1f619.svg"
   },
   {
-    "name": "kissing affronter face figure visage moyen bord     près closed eyes",
+    "name": "kissing affronter face figure visage moyen bord près closed eyes",
     "svg": "1f61a.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près stuck-out langue",
+    "name": "affronter face figure visage moyen bord près stuck-out langue",
     "svg": "1f61b.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près stuck-out langue winking œil",
+    "name": "affronter face figure visage moyen bord près stuck-out langue winking œil",
     "svg": "1f61c.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près stuck-out langue tightly-closed eyes",
+    "name": "affronter face figure visage moyen bord près stuck-out langue tightly-closed eyes",
     "svg": "1f61d.svg"
   },
   {
@@ -3400,7 +10532,7 @@
     "svg": "1f623.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près avoir l'air paraître air allure apparence aspect spectacle voici voilà regarder regard vue triomphe",
+    "name": "affronter face figure visage moyen bord près avoir l'air paraître air allure apparence aspect spectacle voici voilà regarder regard vue triomphe",
     "svg": "1f624.svg"
   },
   {
@@ -3408,7 +10540,7 @@
     "svg": "1f625.svg"
   },
   {
-    "name": "frowning affronter face figure visage moyen bord     près ouvrir bouche embouchure",
+    "name": "frowning affronter face figure visage moyen bord près ouvrir bouche embouchure",
     "svg": "1f626.svg"
   },
   {
@@ -3440,7 +10572,7 @@
     "svg": "1f62d.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près ouvrir bouche embouchure",
+    "name": "affronter face figure visage moyen bord près ouvrir bouche embouchure",
     "svg": "1f62e.svg"
   },
   {
@@ -3448,7 +10580,7 @@
     "svg": "1f62f.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près ouvrir bouche embouchure froid rhume transpirer suer sueur",
+    "name": "affronter face figure visage moyen bord près ouvrir bouche embouchure froid rhume transpirer suer sueur",
     "svg": "1f630.svg"
   },
   {
@@ -3476,31 +10608,31 @@
     "svg": "1f636.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près medical masque",
+    "name": "affronter face figure visage moyen bord près medical masque",
     "svg": "1f637.svg"
   },
   {
-    "name": "grinning mégère peau vache rosse chat affronter face figure visage moyen bord     près smiling eyes",
+    "name": "grinning mégère peau vache rosse chat affronter face figure visage moyen bord près sourire eyes",
     "svg": "1f638.svg"
   },
   {
-    "name": "mégère peau vache rosse chat affronter face figure visage moyen bord     près tears allégresse joie",
+    "name": "mégère peau vache rosse chat affronter face figure visage moyen bord près tears allégresse joie",
     "svg": "1f639.svg"
   },
   {
-    "name": "smiling mégère peau vache rosse chat affronter face figure visage moyen bord     près ouvrir bouche embouchure",
+    "name": "sourire mégère peau vache rosse chat affronter face figure visage moyen bord près ouvrir bouche embouchure",
     "svg": "1f63a.svg"
   },
   {
-    "name": "smiling mégère peau vache rosse chat affronter face figure visage moyen bord     près heart-shaped eyes",
+    "name": "sourire mégère peau vache rosse chat affronter face figure visage moyen bord près heart-shaped eyes",
     "svg": "1f63b.svg"
   },
   {
-    "name": "mégère peau vache rosse chat affronter face figure visage moyen bord     près wry sourire",
+    "name": "mégère peau vache rosse chat affronter face figure visage moyen bord près wry sourire ",
     "svg": "1f63c.svg"
   },
   {
-    "name": "kissing mégère peau vache rosse chat affronter face figure visage moyen bord     près closed eyes",
+    "name": "kissing mégère peau vache rosse chat affronter face figure visage moyen bord près closed eyes",
     "svg": "1f63d.svg"
   },
   {
@@ -3520,7 +10652,7 @@
     "svg": "1f641.svg"
   },
   {
-    "name": "slightly smiling affronter face figure visage",
+    "name": "slightly sourire affronter face figure visage",
     "svg": "1f642.svg"
   },
   {
@@ -3528,7 +10660,7 @@
     "svg": "1f643.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près rolling eyes",
+    "name": "affronter face figure visage moyen bord près rolling eyes",
     "svg": "1f644.svg"
   },
   {
@@ -3548,7 +10680,7 @@
     "svg": "1f64c.svg"
   },
   {
-    "name": "personnage personne individu moyen bord     près folded hands",
+    "name": "personnage personne individu moyen bord près folded hands",
     "svg": "1f64f.svg"
   },
   {
@@ -3572,7 +10704,7 @@
     "svg": "1f684.svg"
   },
   {
-    "name": "high-speed clique cortège escorte suite dresser train entraîner rame moyen bord     près balle balle fusil projectile nez",
+    "name": "high-speed clique cortège escorte suite dresser train entraîner rame moyen bord près balle balle fusil projectile nez",
     "svg": "1f685.svg"
   },
   {
@@ -3704,7 +10836,7 @@
     "svg": "1f6a6.svg"
   },
   {
-    "name": "construction augure preuve témoignage signal signe signer",
+    "name": "construction signe",
     "svg": "1f6a7.svg"
   },
   {
@@ -3720,7 +10852,7 @@
     "svg": "1f6aa.svg"
   },
   {
-    "name": "non inscription présentation augure preuve témoignage signal signe signer",
+    "name": "non inscription présentation signe",
     "svg": "1f6ab.svg"
   },
   {
@@ -3892,7 +11024,7 @@
     "svg": "1f911.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près thermomètre",
+    "name": "affronter face figure visage moyen bord près thermomètre",
     "svg": "1f912.svg"
   },
   {
@@ -3904,7 +11036,7 @@
     "svg": "1f914.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord     près head-bandage",
+    "name": "affronter face figure visage moyen bord près head-bandage",
     "svg": "1f915.svg"
   },
   {
@@ -3916,7 +11048,7 @@
     "svg": "1f917.svg"
   },
   {
-    "name": "augure preuve témoignage signal signe signer l' au aux lui horns",
+    "name": "signe l' au aux lui horns",
     "svg": "1f918.svg"
   },
   {

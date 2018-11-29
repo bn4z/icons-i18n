@@ -1,0 +1,18 @@
+{
+    "emoji": ["face"],
+    "voiture": ["auto"],
+    "terre": ["monde"],
+    "animal": ["souris", "vache", "tigre", "lapin", "chat", "dragon", "cheval", "singe", "chien", "cochon", "grenouille", "hamster", "loup", "ours", "panda"],
+    "droite": ["droit"],
+    "heure": ["montre, chronometre", "sablier", "horloge"],
+    "minute": ["montre, chronometre", "sablier", "horloge"],
+    "seconde": ["montre, chronometre", "sablier", "horloge"],
+    "temps": ["montre, chronometre", "sablier", "horloge"],
+    "chrono": ["montre, chronometre", "sablier", "horloge"],
+    "lol": ["sourire"],
+    "mdr": ["sourire"],
+    "content": ["sourire"],
+    "rire": ["sourire"],
+    "joyeux": ["sourire"],
+    "heureux": ["sourire"]
+}

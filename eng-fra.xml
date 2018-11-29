@@ -1,3 +1,5 @@
+<!-- This file has beed downloaded manually to test xml parsing code without downloading the file each time -->
+
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>

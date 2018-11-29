@@ -8,12 +8,15 @@
   "license": "MIT",
   "scripts": {
     "test": "jest",
-    "full-run": "node ./import-icons & node create-json-dictionary & node translate-icons"
+    "full-run": "node ./import-fa-icons & node ./import-noto-icons & node create-json-dictionary & node translate-icons"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-pro": "^5.5.0",
+    "accent-folding": "^1.0.3",
     "memorystream": "^0.3.1",
     "mnasyrov-emoji-data": "^0.2.1",
     "noto-emoji": "https://github.com/googlei18n/noto-emoji",
+    "remove-accents-diacritics": "^1.0.2",
     "xml2js": "^0.4.19"
   },
   "devDependencies": {

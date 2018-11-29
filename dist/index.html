@@ -6,13 +6,46 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>icons-i18n test page</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body{
+            background-color: #444;
+            padding: 2em;
+            color: #fff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+        }
+        input{
+            font-size: 2em;
+            background-color: transparent;
+            border: none;
+            border-bottom: 3px solid orangered;
+            text-align: center;
+            color: orange;
+            transition: border .2s;
+            margin-bottom: 2em;
+        }
+        input:focus{
+            border-bottom-color: orange;
+        }
+        img{
+            margin: 1em;
+            width: 128px;
+            height: 128px;
+            transition: transform .2s;
+        }
+        img:hover{
+            transform: scale(2)
+        }
+    
+    </style>
     <script type="text/javascript">
         var iconList = []
+        var synonyms = {}
 
-        function loadJSON(callback) {
+        function loadJSON(file, callback) {
             var xobj = new XMLHttpRequest();
             xobj.overrideMimeType("application/json");
-            xobj.open('GET', 'icons.fra.json', true);
+            xobj.open('GET', file, true);
             xobj.onreadystatechange = function () {
                 if (xobj.readyState == 4 && xobj.status == "200") {
                     callback(xobj.responseText);
@@ -22,10 +55,16 @@
         }
 
         function init() {
-            loadJSON(function (response) {
+            loadJSON('icons.fra.json', function (response) {
                 iconList = JSON.parse(response);
                 updateView()
             });
+
+            loadJSON('synonyms.fra.json', function (response) {
+                synonyms = JSON.parse(response);
+                console.log("### syn", synonyms)
+            });
+
         }
 
         function updateView() {
@@ -36,19 +75,39 @@
                 return
             }
             var maxItemsToDisplay = 100;
-            const filteredList = iconList.filter(i => i.name.split(' ').indexOf(input.value) > -1)
+            const filteredList = iconList.filter(i => matchIcons(i, input.value))
             if (filteredList.length === 0) {
                 return
             }
+            console.log("### filteredList", filteredList)
             for (k = 0; k < Math.min(filteredList.length, maxItemsToDisplay); k++) {
                 var img = document.createElement('img');
                 img.src = 'svg/' + filteredList[k].svg
-                img.style.width = '48px'
-                img.style.height = '48px'
+                img.title = filteredList[k].svg + ' - ' + filteredList[k].name
                 container.appendChild(img)
             }
         }
+
+        const matchIcons = (iconItem, query) => {
+            const words = iconItem.name.split(' ')
+            //query is in name
+            if (words.indexOf(query) > -1) return true
+            const syn = synonyms[query]
+            if (syn) {
+                let found = false;
+                words.forEach(word => {
+                    //one of the synonym of the query is in name
+                    if (syn.indexOf(word) > -1) {
+                        console.log("###", syn, word)
+                        found = true
+                    }
+                })
+                if (found) return true
+            }
+            return false
+        }
     </script>
+
 </head>
 
 <body onload="init()">
