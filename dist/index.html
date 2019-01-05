@@ -62,7 +62,6 @@
 
             loadJSON('synonyms.fra.json', function (response) {
                 synonyms = JSON.parse(response);
-                console.log("### syn", synonyms)
             });
 
         }
@@ -79,7 +78,6 @@
             if (filteredList.length === 0) {
                 return
             }
-            console.log("### filteredList", filteredList)
             for (k = 0; k < Math.min(filteredList.length, maxItemsToDisplay); k++) {
                 var img = document.createElement('img');
                 img.src = 'svg/' + filteredList[k].svg
@@ -98,7 +96,6 @@
                 words.forEach(word => {
                     //one of the synonym of the query is in name
                     if (syn.indexOf(word) > -1) {
-                        console.log("###", syn, word)
                         found = true
                     }
                 })

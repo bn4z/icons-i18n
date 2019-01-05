@@ -1,10 +1,9 @@
-[
-  {
+[{
     "name": "500px",
     "svg": "500px.svg"
   },
   {
-    "name": "abordable accessible sensible icon",
+    "name": "accessible icon",
     "svg": "accessible-icon.svg"
   },
   {
@@ -60,7 +59,7 @@
     "svg": "angrycreative.svg"
   },
   {
-    "name": "anguleux",
+    "name": "angular google",
     "svg": "angular.svg"
   },
   {
@@ -80,7 +79,7 @@
     "svg": "apple-pay.svg"
   },
   {
-    "name": "apple pomme",
+    "name": "apple pomme mac iphone ibook imac macbook",
     "svg": "apple.svg"
   },
   {
@@ -104,7 +103,7 @@
     "svg": "aviato.svg"
   },
   {
-    "name": "aws",
+    "name": "aws amazon cloud",
     "svg": "aws.svg"
   },
   {
@@ -124,11 +123,11 @@
     "svg": "bimobject.svg"
   },
   {
-    "name": "bitbucket",
+    "name": "bitbucket git",
     "svg": "bitbucket.svg"
   },
   {
-    "name": "bitcoin",
+    "name": "bitcoin crypto argent banque",
     "svg": "bitcoin.svg"
   },
   {
@@ -140,7 +139,7 @@
     "svg": "black-tie.svg"
   },
   {
-    "name": "blackberry mure",
+    "name": "blackberry telephone smartphone",
     "svg": "blackberry.svg"
   },
   {
@@ -152,11 +151,11 @@
     "svg": "blogger.svg"
   },
   {
-    "name": "bluetooth",
+    "name": "bluetooth reseau",
     "svg": "bluetooth-b.svg"
   },
   {
-    "name": "bluetooth",
+    "name": "bluetooth reseau",
     "svg": "bluetooth.svg"
   },
   {
@@ -216,7 +215,7 @@
     "svg": "centercode.svg"
   },
   {
-    "name": "chrome google navigateur browser",
+    "name": "chrome google navigateur",
     "svg": "chrome.svg"
   },
   {
@@ -252,59 +251,59 @@
     "svg": "cpanel.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-by.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-nc-eu.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-nc-jp.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-nc.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-nd.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-pd-alt.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-pd.svg"
   },
   {
-    "name": "creative commons remix",
+    "name": "creative commons open remix",
     "svg": "creative-commons-remix.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-sa.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-sampling-plus.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-sampling.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-share.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons-zero.svg"
   },
   {
-    "name": "creative commons",
+    "name": "creative commons open",
     "svg": "creative-commons.svg"
   },
   {
@@ -312,11 +311,11 @@
     "svg": "critical-role.svg"
   },
   {
-    "name": "css3 alt",
+    "name": "css html dev",
     "svg": "css3-alt.svg"
   },
   {
-    "name": "css3",
+    "name": "css html dev",
     "svg": "css3.svg"
   },
   {
@@ -324,11 +323,11 @@
     "svg": "cuttlefish.svg"
   },
   {
-    "name": "d plus loin apres ensuite au‐dela outre",
+    "name": "dndbeyond dongeons dragons",
     "svg": "d-and-d-beyond.svg"
   },
   {
-    "name": "d",
+    "name": "dnd dongeons dragons",
     "svg": "d-and-d.svg"
   },
   {
@@ -336,7 +335,7 @@
     "svg": "dashcube.svg"
   },
   {
-    "name": "savoureux",
+    "name": "delicious",
     "svg": "delicious.svg"
   },
   {
@@ -384,19 +383,19 @@
     "svg": "draft2digital.svg"
   },
   {
-    "name": "dribbble droit rectangle esplanade place rond‐point",
+    "name": "dribbble dribble ballon basket",
     "svg": "dribbble-square.svg"
   },
   {
-    "name": "dribbble",
+    "name": "dribbble dribble ballon basket",
     "svg": "dribbble.svg"
   },
   {
-    "name": "dropbox",
+    "name": "dropbox cloud stockage hdd",
     "svg": "dropbox.svg"
   },
   {
-    "name": "drupal",
+    "name": "drupal cms",
     "svg": "drupal.svg"
   },
   {
@@ -408,11 +407,11 @@
     "svg": "earlybirds.svg"
   },
   {
-    "name": "ebay",
+    "name": "ebay enchere paypal",
     "svg": "ebay.svg"
   },
   {
-    "name": "bord lisiere",
+    "name": "edge navigateur microsoft",
     "svg": "edge.svg"
   },
   {
@@ -460,7 +459,7 @@
     "svg": "facebook-messenger.svg"
   },
   {
-    "name": "facebook droit rectangle esplanade place rond‐point",
+    "name": "facebook",
     "svg": "facebook-square.svg"
   },
   {
@@ -468,19 +467,19 @@
     "svg": "facebook.svg"
   },
   {
-    "name": "fantaisie fuite ga",
+    "name": "fantasy",
     "svg": "fantasy-flight-games.svg"
   },
   {
-    "name": "firefox",
+    "name": "firefox navigateur open",
     "svg": "firefox.svg"
   },
   {
-    "name": "premier commencement premier lieu d'abord commander demander retenir commande ordre enjoindre ordonner sommer enchainement succession suite alt",
+    "name": "first order",
     "svg": "first-order-alt.svg"
   },
   {
-    "name": "premier commencement premier lieu d'abord commander demander retenir commande ordre enjoindre ordonner sommer enchainement succession suite",
+    "name": "first order",
     "svg": "first-order.svg"
   },
   {
@@ -488,7 +487,7 @@
     "svg": "firstdraft.svg"
   },
   {
-    "name": "flickr",
+    "name": "flickr photo",
     "svg": "flickr.svg"
   },
   {
@@ -496,19 +495,19 @@
     "svg": "flipboard.svg"
   },
   {
-    "name": "voler mouche",
+    "name": "fly",
     "svg": "fly.svg"
   },
   {
-    "name": "font awesome alt",
+    "name": "font awesome",
     "svg": "font-awesome-alt.svg"
   },
   {
-    "name": "font awesome drapeau pavillon etendard",
+    "name": "font awesome drapeau",
     "svg": "font-awesome-flag.svg"
   },
   {
-    "name": "font awesome logo complet entier rassasie",
+    "name": "font awesome",
     "svg": "font-awesome-logo-full.svg"
   },
   {
@@ -524,7 +523,7 @@
     "svg": "fonticons.svg"
   },
   {
-    "name": "fort awesome alt",
+    "name": "fort awesome",
     "svg": "fort-awesome-alt.svg"
   },
   {
@@ -560,19 +559,19 @@
     "svg": "galactic-senate.svg"
   },
   {
-    "name": "acquerir arriver aboutir atteindre parvenir remporter obtenir procurer faire hente devenir p accueillir recevoir poche",
+    "name": "pocket getpocket",
     "svg": "get-pocket.svg"
   },
   {
-    "name": "cercle rond ronde",
+    "name": "gg",
     "svg": "gg-circle.svg"
   },
   {
-    "name": "",
+    "name": "gg",
     "svg": "gg.svg"
   },
   {
-    "name": "git droit rectangle esplanade place rond‐point",
+    "name": "git",
     "svg": "git-square.svg"
   },
   {
@@ -580,11 +579,11 @@
     "svg": "git.svg"
   },
   {
-    "name": "github alt",
+    "name": "github",
     "svg": "github-alt.svg"
   },
   {
-    "name": "github droit rectangle esplanade place rond‐point",
+    "name": "github",
     "svg": "github-square.svg"
   },
   {
@@ -604,11 +603,11 @@
     "svg": "gitter.svg"
   },
   {
-    "name": "planer glisser",
+    "name": "glide",
     "svg": "glide-g.svg"
   },
   {
-    "name": "planer glisser",
+    "name": "glide",
     "svg": "glide.svg"
   },
   {
@@ -624,11 +623,11 @@
     "svg": "goodreads.svg"
   },
   {
-    "name": "google amener faire avancer pourchasser poursuivre pousser actionner prise",
+    "name": "google drive stockage cloud hdd",
     "svg": "google-drive.svg"
   },
   {
-    "name": "google jouer representer piece theatre",
+    "name": "google play jeu app store",
     "svg": "google-play.svg"
   },
   {
@@ -636,7 +635,7 @@
     "svg": "google-plus-g.svg"
   },
   {
-    "name": "google plus droit rectangle esplanade place rond‐point",
+    "name": "google plus",
     "svg": "google-plus-square.svg"
   },
   {
@@ -644,11 +643,11 @@
     "svg": "google-plus.svg"
   },
   {
-    "name": "google porte‐monnaie sacoche",
+    "name": "google porte monnaie wallet",
     "svg": "google-wallet.svg"
   },
   {
-    "name": "google",
+    "name": "google gmail",
     "svg": "google.svg"
   },
   {
@@ -672,11 +671,11 @@
     "svg": "gulp.svg"
   },
   {
-    "name": "hacker actualites droit rectangle esplanade place rond‐point",
+    "name": "hacker news",
     "svg": "hacker-news-square.svg"
   },
   {
-    "name": "hacker actualites",
+    "name": "hacker news",
     "svg": "hacker-news.svg"
   },
   {
@@ -688,7 +687,7 @@
     "svg": "hips.svg"
   },
   {
-    "name": "embaucher louer milie dans quelqu'un araisonde une adjoint",
+    "name": "hire helper",
     "svg": "hire-a-helper.svg"
   },
   {
@@ -724,7 +723,7 @@
     "svg": "instagram.svg"
   },
   {
-    "name": "internet explorer",
+    "name": "internet explorer navigateur microsoft",
     "svg": "internet-explorer.svg"
   },
   {
@@ -732,7 +731,7 @@
     "svg": "ioxhost.svg"
   },
   {
-    "name": "itunes billet ticket noter note",
+    "name": "itunes note",
     "svg": "itunes-note.svg"
   },
   {
@@ -744,7 +743,7 @@
     "svg": "java.svg"
   },
   {
-    "name": "jedi commander demander retenir commande ordre enjoindre ordonner sommer enchainement succession suite",
+    "name": "jedi order",
     "svg": "jedi-order.svg"
   },
   {
@@ -760,15 +759,15 @@
     "svg": "joomla.svg"
   },
   {
-    "name": "droit rectangle esplanade place rond‐point",
+    "name": "javascript",
     "svg": "js-square.svg"
   },
   {
-    "name": "",
+    "name": "javascript",
     "svg": "js.svg"
   },
   {
-    "name": "jsfiddle",
+    "name": "jsfiddle javascript",
     "svg": "jsfiddle.svg"
   },
   {
@@ -800,7 +799,7 @@
     "svg": "laravel.svg"
   },
   {
-    "name": "lastfm droit rectangle esplanade place rond‐point",
+    "name": "lastfm",
     "svg": "lastfm-square.svg"
   },
   {
@@ -812,15 +811,15 @@
     "svg": "leanpub.svg"
   },
   {
-    "name": "less",
+    "name": "less css dev web",
     "svg": "less.svg"
   },
   {
-    "name": "ligne file rang rangee tour",
+    "name": "line",
     "svg": "line.svg"
   },
   {
-    "name": "linkedin milie dans",
+    "name": "linkedin",
     "svg": "linkedin-in.svg"
   },
   {
@@ -892,7 +891,7 @@
     "svg": "microsoft.svg"
   },
   {
-    "name": "melanger meler retourner",
+    "name": "mix",
     "svg": "mix.svg"
   },
   {
@@ -924,15 +923,15 @@
     "svg": "nimblr.svg"
   },
   {
-    "name": "nintendo badine baguette allumer tourner interrupteur",
+    "name": "nintendo switch console",
     "svg": "nintendo-switch.svg"
   },
   {
-    "name": "noeud",
+    "name": "node nodejs javascript",
     "svg": "node-js.svg"
   },
   {
-    "name": "noeud",
+    "name": "node nodejs javascript",
     "svg": "node.svg"
   },
   {
@@ -948,7 +947,7 @@
     "svg": "nutritionix.svg"
   },
   {
-    "name": "odnoklassniki droit rectangle esplanade place rond‐point",
+    "name": "odnoklassniki",
     "svg": "odnoklassniki-square.svg"
   },
   {
@@ -956,7 +955,7 @@
     "svg": "odnoklassniki.svg"
   },
   {
-    "name": "vieux olda ancien republique",
+    "name": "old republic",
     "svg": "old-republic.svg"
   },
   {
@@ -968,11 +967,11 @@
     "svg": "openid.svg"
   },
   {
-    "name": "opera",
+    "name": "opera navigateur",
     "svg": "opera.svg"
   },
   {
-    "name": "optin clebard monstre",
+    "name": "optin monster",
     "svg": "optin-monster.svg"
   },
   {
@@ -996,7 +995,7 @@
     "svg": "patreon.svg"
   },
   {
-    "name": "paypal",
+    "name": "paypal paiement banque",
     "svg": "paypal.svg"
   },
   {
@@ -1012,7 +1011,7 @@
     "svg": "phabricator.svg"
   },
   {
-    "name": "phenix cadre",
+    "name": "phenix framework",
     "svg": "phoenix-framework.svg"
   },
   {
@@ -1020,15 +1019,15 @@
     "svg": "phoenix-squadron.svg"
   },
   {
-    "name": "php",
+    "name": "php code dev web",
     "svg": "php.svg"
   },
   {
-    "name": "pied piper alt",
+    "name": "pied piper",
     "svg": "pied-piper-alt.svg"
   },
   {
-    "name": "pied piper chapeau",
+    "name": "pied piper",
     "svg": "pied-piper-hat.svg"
   },
   {
@@ -1044,7 +1043,7 @@
     "svg": "pinterest-p.svg"
   },
   {
-    "name": "pinterest droit rectangle esplanade place rond‐point",
+    "name": "pinterest",
     "svg": "pinterest-square.svg"
   },
   {
@@ -1052,11 +1051,11 @@
     "svg": "pinterest.svg"
   },
   {
-    "name": "playstation",
+    "name": "playstation console jeux video",
     "svg": "playstation.svg"
   },
   {
-    "name": "product chasser",
+    "name": "product hunt",
     "svg": "product-hunt.svg"
   },
   {
@@ -1064,11 +1063,11 @@
     "svg": "pushed.svg"
   },
   {
-    "name": "python",
+    "name": "python code dev",
     "svg": "python.svg"
   },
   {
-    "name": "",
+    "name": "qq",
     "svg": "qq.svg"
   },
   {
@@ -1080,7 +1079,7 @@
     "svg": "quora.svg"
   },
   {
-    "name": "projeter une image projet",
+    "name": "project rproject",
     "svg": "r-project.svg"
   },
   {
@@ -1088,7 +1087,7 @@
     "svg": "ravelry.svg"
   },
   {
-    "name": "react",
+    "name": "react dev web",
     "svg": "react.svg"
   },
   {
@@ -1104,15 +1103,15 @@
     "svg": "rebel.svg"
   },
   {
-    "name": "rouge fleuve riviere",
+    "name": "red river",
     "svg": "red-river.svg"
   },
   {
-    "name": "reddit abject abominable hideux horrible odieux etranger contradictoire oppose",
+    "name": "reddit alien",
     "svg": "reddit-alien.svg"
   },
   {
-    "name": "reddit droit rectangle esplanade place rond‐point",
+    "name": "reddit",
     "svg": "reddit-square.svg"
   },
   {
@@ -1152,7 +1151,7 @@
     "svg": "safari.svg"
   },
   {
-    "name": "sass",
+    "name": "sass scss dev web css",
     "svg": "sass.svg"
   },
   {
@@ -1220,11 +1219,11 @@
     "svg": "slideshare.svg"
   },
   {
-    "name": "snapchat apparition",
+    "name": "snapchat ghost",
     "svg": "snapchat-ghost.svg"
   },
   {
-    "name": "snapchat droit rectangle esplanade place rond‐point",
+    "name": "snapchat",
     "svg": "snapchat-square.svg"
   },
   {
@@ -1248,11 +1247,11 @@
     "svg": "squarespace.svg"
   },
   {
-    "name": "accumuler entasser ramasser rassembler tas central centrale",
+    "name": "stack exchange",
     "svg": "stack-exchange.svg"
   },
   {
-    "name": "accumuler entasser ramasser rassembler tas deborder",
+    "name": "stack overflow",
     "svg": "stack-overflow.svg"
   },
   {
@@ -1260,19 +1259,19 @@
     "svg": "staylinked.svg"
   },
   {
-    "name": "vapeur droit rectangle esplanade place rond‐point",
+    "name": "steam jeux video",
     "svg": "steam-square.svg"
   },
   {
-    "name": "vapeur symbole",
+    "name": "steam jeux video",
     "svg": "steam-symbol.svg"
   },
   {
-    "name": "vapeur",
+    "name": "steam jeux video",
     "svg": "steam.svg"
   },
   {
-    "name": "sticker mulet",
+    "name": "sticker mule",
     "svg": "sticker-mule.svg"
   },
   {
@@ -1280,11 +1279,11 @@
     "svg": "strava.svg"
   },
   {
-    "name": "bande raie rayure",
+    "name": "stripe",
     "svg": "stripe-s.svg"
   },
   {
-    "name": "bande raie rayure",
+    "name": "stripe",
     "svg": "stripe.svg"
   },
   {
@@ -1292,7 +1291,7 @@
     "svg": "studiovinari.svg"
   },
   {
-    "name": "stumbleupon cercle rond ronde",
+    "name": "stumbleupon",
     "svg": "stumbleupon-circle.svg"
   },
   {
@@ -1312,7 +1311,7 @@
     "svg": "teamspeak.svg"
   },
   {
-    "name": "telegramme aeroplane avion planer plan projet platane rabot",
+    "name": "telegramme",
     "svg": "telegram-plane.svg"
   },
   {
@@ -1324,7 +1323,7 @@
     "svg": "tencent-weibo.svg"
   },
   {
-    "name": "a aux lui rouge yeti",
+    "name": "the red yeti",
     "svg": "the-red-yeti.svg"
   },
   {
@@ -1336,11 +1335,11 @@
     "svg": "themeisle.svg"
   },
   {
-    "name": "d'avis penser que penser reflechir peaks",
+    "name": "think peaks",
     "svg": "think-peaks.svg"
   },
   {
-    "name": "commerce metier federation",
+    "name": "trade federation",
     "svg": "trade-federation.svg"
   },
   {
@@ -1352,7 +1351,7 @@
     "svg": "tripadvisor.svg"
   },
   {
-    "name": "tumblr droit rectangle esplanade place rond‐point",
+    "name": "tumblr",
     "svg": "tumblr-square.svg"
   },
   {
@@ -1364,11 +1363,11 @@
     "svg": "twitch.svg"
   },
   {
-    "name": "gazouiller pepier droit rectangle esplanade place rond‐point",
+    "name": "twitter",
     "svg": "twitter-square.svg"
   },
   {
-    "name": "gazouiller pepier",
+    "name": "twitter",
     "svg": "twitter.svg"
   },
   {
@@ -1408,7 +1407,7 @@
     "svg": "viacoin.svg"
   },
   {
-    "name": "viadeo droit rectangle esplanade place rond‐point",
+    "name": "viadeo",
     "svg": "viadeo-square.svg"
   },
   {
@@ -1436,7 +1435,7 @@
     "svg": "vine.svg"
   },
   {
-    "name": "",
+    "name": "vk",
     "svg": "vk.svg"
   },
   {
@@ -1460,7 +1459,7 @@
     "svg": "weixin.svg"
   },
   {
-    "name": "whatsapp droit rectangle esplanade place rond‐point",
+    "name": "whatsapp",
     "svg": "whatsapp-square.svg"
   },
   {
@@ -1476,7 +1475,7 @@
     "svg": "wikipedia-w.svg"
   },
   {
-    "name": "windows",
+    "name": "windows microsoft",
     "svg": "windows.svg"
   },
   {
@@ -1484,15 +1483,15 @@
     "svg": "wix.svg"
   },
   {
-    "name": "wizards l' au aux lui bord cote cote rivage",
+    "name": "wizards coast",
     "svg": "wizards-of-the-coast.svg"
   },
   {
-    "name": "loup paquet battalion",
+    "name": "wolf pack battalion",
     "svg": "wolf-pack-battalion.svg"
   },
   {
-    "name": "wordpress pur simple",
+    "name": "wordpress",
     "svg": "wordpress-simple.svg"
   },
   {
@@ -1520,7 +1519,7 @@
     "svg": "xbox.svg"
   },
   {
-    "name": "xing droit rectangle esplanade place rond‐point",
+    "name": "xing",
     "svg": "xing-square.svg"
   },
   {
@@ -1536,7 +1535,7 @@
     "svg": "yahoo.svg"
   },
   {
-    "name": "yandex international",
+    "name": "yandex",
     "svg": "yandex-international.svg"
   },
   {
@@ -1552,7 +1551,7 @@
     "svg": "yoast.svg"
   },
   {
-    "name": "youtube droit rectangle esplanade place rond‐point",
+    "name": "youtube",
     "svg": "youtube-square.svg"
   },
   {
@@ -1564,7 +1563,7 @@
     "svg": "zhihu.svg"
   },
   {
-    "name": "abaque boulier",
+    "name": "abacus",
     "svg": "abacus.svg"
   },
   {
@@ -1576,47 +1575,47 @@
     "svg": "ad.svg"
   },
   {
-    "name": "adresser adresse destination aborder adresser parole interpeller parler livre commander demander retenir",
+    "name": "carnet adresse agenda",
     "svg": "address-book.svg"
   },
   {
-    "name": "adresser adresse destination aborder adresser parole interpeller parler carte",
+    "name": "carnet adresse agenda carte",
     "svg": "address-card.svg"
   },
   {
-    "name": "adapter joindre rectifier redresser jugement",
+    "name": "adapter contraste reglage",
     "svg": "adjust.svg"
   },
   {
-    "name": "air air musique aria melodie freshener",
+    "name": "sapin parfum voiture",
     "svg": "air-freshener.svg"
   },
   {
-    "name": "alarmer alerter sirene timbre alarme alerte abasourdir consterner stupefier stupefaction abasourdissement abattement stupeur preoccuper effroi terreur redouter reveil reveil‐matin horloge pendule",
+    "name": "alarme horloge reveil",
     "svg": "alarm-clock.svg"
   },
   {
-    "name": "alicorn",
+    "name": "licorne cheval",
     "svg": "alicorn.svg"
   },
   {
-    "name": "align center",
+    "name": "aligner centre centrer",
     "svg": "align-center.svg"
   },
   {
-    "name": "align justify",
+    "name": "aligner justifier",
     "svg": "align-justify.svg"
   },
   {
-    "name": "align gauche",
+    "name": "aligner gauche",
     "svg": "align-left.svg"
   },
   {
-    "name": "align droit vrai raison exact juste proprement",
+    "name": "aligner droit",
     "svg": "align-right.svg"
   },
   {
-    "name": "allergies",
+    "name": "allergie maladie",
     "svg": "allergies.svg"
   },
   {
@@ -1624,187 +1623,187 @@
     "svg": "ambulance.svg"
   },
   {
-    "name": "americain americain augure preuve temoignage signal signe signer langue interpreting",
+    "name": "americain langage signe",
     "svg": "american-sign-language-interpreting.svg"
   },
   {
-    "name": "analytics",
+    "name": "graphique",
     "svg": "analytics.svg"
   },
   {
-    "name": "ancre relacher",
+    "name": "ancre",
     "svg": "anchor.svg"
   },
   {
-    "name": "angle double redoubler duvet",
+    "name": "chevron double bas",
     "svg": "angle-double-down.svg"
   },
   {
-    "name": "angle double redoubler gauche",
+    "name": "chevron double gauche",
     "svg": "angle-double-left.svg"
   },
   {
-    "name": "angle double redoubler droit vrai raison exact juste proprement",
+    "name": "chevron double droit",
     "svg": "angle-double-right.svg"
   },
   {
-    "name": "angle double redoubler",
+    "name": "chevron double haut",
     "svg": "angle-double-up.svg"
   },
   {
-    "name": "angle duvet",
+    "name": "chevron bas",
     "svg": "angle-down.svg"
   },
   {
-    "name": "angle gauche",
+    "name": "chevron gauche",
     "svg": "angle-left.svg"
   },
   {
-    "name": "angle droit vrai raison exact juste proprement",
+    "name": "chevron droit",
     "svg": "angle-right.svg"
   },
   {
-    "name": "angle",
+    "name": "chevron haut",
     "svg": "angle-up.svg"
   },
   {
-    "name": "angry",
+    "name": "colere face",
     "svg": "angry.svg"
   },
   {
-    "name": "ankh",
+    "name": "ankh croix",
     "svg": "ankh.svg"
   },
   {
-    "name": "pomme alt",
+    "name": "pomme",
     "svg": "apple-alt.svg"
   },
   {
-    "name": "pomme crate",
+    "name": "pomme cagette",
     "svg": "apple-crate.svg"
   },
   {
-    "name": "archive",
+    "name": "archive zip rar tar",
     "svg": "archive.svg"
   },
   {
-    "name": "archway",
+    "name": "arche",
     "svg": "archway.svg"
   },
   {
-    "name": "fleche alt cercle rond ronde duvet",
+    "name": "fleche bas",
     "svg": "arrow-alt-circle-down.svg"
   },
   {
-    "name": "fleche alt cercle rond ronde gauche",
+    "name": "fleche gauche",
     "svg": "arrow-alt-circle-left.svg"
   },
   {
-    "name": "fleche alt cercle rond ronde droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "arrow-alt-circle-right.svg"
   },
   {
-    "name": "fleche alt cercle rond ronde",
+    "name": "fleche haut",
     "svg": "arrow-alt-circle-up.svg"
   },
   {
-    "name": "fleche alt duvet",
+    "name": "fleche bas",
     "svg": "arrow-alt-down.svg"
   },
   {
-    "name": "fleche alt partir depuis des hors fond cul croupe derriere",
+    "name": "fleche bas",
     "svg": "arrow-alt-from-bottom.svg"
   },
   {
-    "name": "fleche alt partir depuis des hors gauche",
+    "name": "fleche gauche",
     "svg": "arrow-alt-from-left.svg"
   },
   {
-    "name": "fleche alt partir depuis des hors droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "arrow-alt-from-right.svg"
   },
   {
-    "name": "fleche alt partir depuis des hors mutiler comble faite haut sommet sum",
+    "name": "fleche haut",
     "svg": "arrow-alt-from-top.svg"
   },
   {
-    "name": "fleche alt gauche",
+    "name": "fleche gauche",
     "svg": "arrow-alt-left.svg"
   },
   {
-    "name": "fleche alt droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "arrow-alt-right.svg"
   },
   {
-    "name": "fleche alt droit rectangle esplanade place rond‐point duvet",
+    "name": "fleche droit bas",
     "svg": "arrow-alt-square-down.svg"
   },
   {
-    "name": "fleche alt droit rectangle esplanade place rond‐point gauche",
+    "name": "fleche droit gauche",
     "svg": "arrow-alt-square-left.svg"
   },
   {
-    "name": "fleche alt droit rectangle esplanade place rond‐point droit vrai raison exact juste proprement",
+    "name": "fleche droit droit",
     "svg": "arrow-alt-square-right.svg"
   },
   {
-    "name": "fleche alt droit rectangle esplanade place rond‐point",
+    "name": "fleche haut",
     "svg": "arrow-alt-square-up.svg"
   },
   {
-    "name": "fleche alt vers afin pour fond cul croupe derriere",
+    "name": "fleche bas",
     "svg": "arrow-alt-to-bottom.svg"
   },
   {
-    "name": "fleche alt vers afin pour gauche",
+    "name": "fleche gauche",
     "svg": "arrow-alt-to-left.svg"
   },
   {
-    "name": "fleche alt vers afin pour droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "arrow-alt-to-right.svg"
   },
   {
-    "name": "fleche alt vers afin pour mutiler comble faite haut sommet sum",
+    "name": "fleche haut",
     "svg": "arrow-alt-to-top.svg"
   },
   {
-    "name": "fleche alt",
+    "name": "fleche haut",
     "svg": "arrow-alt-up.svg"
   },
   {
-    "name": "fleche cercle rond ronde duvet",
+    "name": "fleche bas",
     "svg": "arrow-circle-down.svg"
   },
   {
-    "name": "fleche cercle rond ronde gauche",
+    "name": "fleche gauche",
     "svg": "arrow-circle-left.svg"
   },
   {
-    "name": "fleche cercle rond ronde droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "arrow-circle-right.svg"
   },
   {
-    "name": "fleche cercle rond ronde",
+    "name": "fleche haut",
     "svg": "arrow-circle-up.svg"
   },
   {
-    "name": "fleche duvet",
+    "name": "fleche bas",
     "svg": "arrow-down.svg"
   },
   {
-    "name": "fleche partir depuis des hors fond cul croupe derriere",
+    "name": "fleche bas",
     "svg": "arrow-from-bottom.svg"
   },
   {
-    "name": "fleche partir depuis des hors gauche",
+    "name": "fleche gauche",
     "svg": "arrow-from-left.svg"
   },
   {
-    "name": "fleche partir depuis des hors droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "arrow-from-right.svg"
   },
   {
-    "name": "fleche partir depuis des hors mutiler comble faite haut sommet sum",
+    "name": "fleche haut",
     "svg": "arrow-from-top.svg"
   },
   {
@@ -1812,71 +1811,71 @@
     "svg": "arrow-left.svg"
   },
   {
-    "name": "fleche droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "arrow-right.svg"
   },
   {
-    "name": "fleche droit rectangle esplanade place rond‐point duvet",
+    "name": "fleche bas",
     "svg": "arrow-square-down.svg"
   },
   {
-    "name": "fleche droit rectangle esplanade place rond‐point gauche",
+    "name": "fleche gauche",
     "svg": "arrow-square-left.svg"
   },
   {
-    "name": "fleche droit rectangle esplanade place rond‐point droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "arrow-square-right.svg"
   },
   {
-    "name": "fleche droit rectangle esplanade place rond‐point",
+    "name": "fleche haut",
     "svg": "arrow-square-up.svg"
   },
   {
-    "name": "fleche vers afin pour fond cul croupe derriere",
+    "name": "fleche bas",
     "svg": "arrow-to-bottom.svg"
   },
   {
-    "name": "fleche vers afin pour gauche",
+    "name": "fleche gauche",
     "svg": "arrow-to-left.svg"
   },
   {
-    "name": "fleche vers afin pour droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "arrow-to-right.svg"
   },
   {
-    "name": "fleche vers afin pour mutiler comble faite haut sommet sum",
+    "name": "fleche haut",
     "svg": "arrow-to-top.svg"
   },
   {
-    "name": "fleche",
+    "name": "fleche haut",
     "svg": "arrow-up.svg"
   },
   {
-    "name": "arrows alt",
+    "name": "fleches",
     "svg": "arrows-alt-h.svg"
   },
   {
-    "name": "arrows alt",
+    "name": "fleches",
     "svg": "arrows-alt-v.svg"
   },
   {
-    "name": "arrows alt",
+    "name": "fleches",
     "svg": "arrows-alt.svg"
   },
   {
-    "name": "arrows",
+    "name": "fleches",
     "svg": "arrows-h.svg"
   },
   {
-    "name": "arrows",
+    "name": "fleches",
     "svg": "arrows-v.svg"
   },
   {
-    "name": "arrows",
+    "name": "fleches",
     "svg": "arrows.svg"
   },
   {
-    "name": "assistive listening systems",
+    "name": "assistance auditive auditif",
     "svg": "assistive-listening-systems.svg"
   },
   {
@@ -1884,19 +1883,19 @@
     "svg": "asterisk.svg"
   },
   {
-    "name": "vers pres araisonde bord pres",
+    "name": "arobase",
     "svg": "at.svg"
   },
   {
-    "name": "atlas",
+    "name": "atlas livre globe geographie",
     "svg": "atlas.svg"
   },
   {
-    "name": "atome alt",
+    "name": "atome physique",
     "svg": "atom-alt.svg"
   },
   {
-    "name": "atome",
+    "name": "atome physique",
     "svg": "atom.svg"
   },
   {
@@ -1904,7 +1903,7 @@
     "svg": "audio-description.svg"
   },
   {
-    "name": "award",
+    "name": "award diplome recompense",
     "svg": "award.svg"
   },
   {
@@ -1916,103 +1915,103 @@
     "svg": "axe.svg"
   },
   {
-    "name": "sac tyrolien",
+    "name": "sac dos voyage",
     "svg": "backpack.svg"
   },
   {
-    "name": "backspace",
+    "name": "effacer retour",
     "svg": "backspace.svg"
   },
   {
-    "name": "backward",
+    "name": "fleche retour rembobiner",
     "svg": "backward.svg"
   },
   {
-    "name": "insigne reprimer retenir bride surveiller verifier cheque",
+    "name": "insigne badge verifier ok",
     "svg": "badge-check.svg"
   },
   {
-    "name": "insigne dollar",
+    "name": "insigne badge dollar",
     "svg": "badge-dollar.svg"
   },
   {
-    "name": "insigne pourcentage",
+    "name": "insigne badge pourcentage",
     "svg": "badge-percent.svg"
   },
   {
-    "name": "insigne",
+    "name": "insigne badge",
     "svg": "badge.svg"
   },
   {
-    "name": "badger miel",
+    "name": "blaireau miel",
     "svg": "badger-honey.svg"
   },
   {
-    "name": "reliquat solde echelle ecaille monter gauche",
+    "name": "balance poid peser",
     "svg": "balance-scale-left.svg"
   },
   {
-    "name": "reliquat solde echelle ecaille monter droit vrai raison exact juste proprement",
+    "name": "balance poid peser",
     "svg": "balance-scale-right.svg"
   },
   {
-    "name": "reliquat solde echelle ecaille monter",
+    "name": "balance poid peser egale",
     "svg": "balance-scale.svg"
   },
   {
-    "name": "ballot reprimer retenir bride surveiller verifier cheque",
+    "name": "liste verifier control",
     "svg": "ballot-check.svg"
   },
   {
-    "name": "ballot",
+    "name": "liste",
     "svg": "ballot.svg"
   },
   {
-    "name": "anatheme",
+    "name": "interdit banni defendu",
     "svg": "ban.svg"
   },
   {
-    "name": "bande adjoint aider assister secourir aide",
+    "name": "pansement soin",
     "svg": "band-aid.svg"
   },
   {
-    "name": "barcode alt",
+    "name": "code bar scan",
     "svg": "barcode-alt.svg"
   },
   {
-    "name": "barcode lire",
+    "name": "code bar scan",
     "svg": "barcode-read.svg"
   },
   {
-    "name": "barcode scan",
+    "name": "code bar scan",
     "svg": "barcode-scan.svg"
   },
   {
-    "name": "barcode",
+    "name": "code bar scan",
     "svg": "barcode.svg"
   },
   {
-    "name": "bars",
+    "name": "bars menu",
     "svg": "bars.svg"
   },
   {
-    "name": "base‐ball bal globe balle sphere",
+    "name": "baseball",
     "svg": "baseball-ball.svg"
   },
   {
-    "name": "base‐ball",
+    "name": "baseball",
     "svg": "baseball.svg"
   },
   {
-    "name": "basket‐ball bal globe balle sphere",
+    "name": "basketball",
     "svg": "basketball-ball.svg"
   },
   {
-    "name": "basket‐ball hoop",
+    "name": "basketball",
     "svg": "basketball-hoop.svg"
   },
   {
-    "name": "chauve‐souris",
+    "name": "chauve souris",
     "svg": "bat.svg"
   },
   {
@@ -2020,35 +2019,35 @@
     "svg": "bath.svg"
   },
   {
-    "name": "accu accumulator accumulateur batterie verrouiller",
+    "name": "accumulateur batterie charger eclair",
     "svg": "battery-bolt.svg"
   },
   {
-    "name": "accu accumulator accumulateur batterie vide vider",
+    "name": "accumulateur batterie vide",
     "svg": "battery-empty.svg"
   },
   {
-    "name": "accu accumulator accumulateur batterie complet entier rassasie",
+    "name": "accumulateur batterie complet charge",
     "svg": "battery-full.svg"
   },
   {
-    "name": "accu accumulator accumulateur batterie demi moitie",
+    "name": "accumulateur batterie moitie",
     "svg": "battery-half.svg"
   },
   {
-    "name": "accu accumulator accumulateur batterie quartier",
+    "name": "accumulateur batterie quart",
     "svg": "battery-quarter.svg"
   },
   {
-    "name": "accu accumulator accumulateur batterie slash",
+    "name": "accumulateur batterie vide",
     "svg": "battery-slash.svg"
   },
   {
-    "name": "accu accumulator accumulateur batterie trois quarters",
+    "name": "accumulateur batterie trois quarts",
     "svg": "battery-three-quarters.svg"
   },
   {
-    "name": "planche plate‐bande plate‐forme lit",
+    "name": "lit",
     "svg": "bed.svg"
   },
   {
@@ -2056,15 +2055,15 @@
     "svg": "beer.svg"
   },
   {
-    "name": "clochette sonnette cloche ecole slash",
+    "name": "clochette sonnette ecole",
     "svg": "bell-school-slash.svg"
   },
   {
-    "name": "clochette sonnette cloche ecole",
+    "name": "clochette sonnette ecole",
     "svg": "bell-school.svg"
   },
   {
-    "name": "clochette sonnette cloche slash",
+    "name": "clochette sonnette ecole",
     "svg": "bell-slash.svg"
   },
   {
@@ -2072,7 +2071,7 @@
     "svg": "bell.svg"
   },
   {
-    "name": "bezier curve",
+    "name": "bezier courbe dessin vectoriel",
     "svg": "bezier-curve.svg"
   },
   {
@@ -2080,11 +2079,11 @@
     "svg": "bible.svg"
   },
   {
-    "name": "becane bicyclette velo",
+    "name": "velo becane bicyclette",
     "svg": "bicycle.svg"
   },
   {
-    "name": "jumel lunette",
+    "name": "jumelles lunettes",
     "svg": "binoculars.svg"
   },
   {
@@ -2096,79 +2095,79 @@
     "svg": "blanket.svg"
   },
   {
-    "name": "blender phone",
+    "name": "mixeur blender telephone",
     "svg": "blender-phone.svg"
   },
   {
-    "name": "blender",
+    "name": "mixeur blender",
     "svg": "blender.svg"
   },
   {
-    "name": "aveugle",
+    "name": "aveugle handicap",
     "svg": "blind.svg"
   },
   {
-    "name": "audacieux epais gros",
+    "name": "gras bold",
     "svg": "bold.svg"
   },
   {
-    "name": "verrouiller",
+    "name": "eclair",
     "svg": "bolt.svg"
   },
   {
-    "name": "bombe",
+    "name": "bombe virus exploser explosion",
     "svg": "bomb.svg"
   },
   {
-    "name": "pause repos treve briser rompre violer",
+    "name": "os fracture casser squelette",
     "svg": "bone-break.svg"
   },
   {
-    "name": "",
+    "name": "os squelette",
     "svg": "bone.svg"
   },
   {
-    "name": "bong",
+    "name": "bang drogue chimie",
     "svg": "bong.svg"
   },
   {
-    "name": "livre commander demander retenir alt",
+    "name": "livre lire lecture",
     "svg": "book-alt.svg"
   },
   {
-    "name": "livre commander demander retenir dead",
+    "name": "livre lire lecture mort",
     "svg": "book-dead.svg"
   },
   {
-    "name": "livre commander demander retenir coeur",
+    "name": "livre lire lecture coeur amour rose",
     "svg": "book-heart.svg"
   },
   {
-    "name": "livre commander demander retenir ouvrir",
+    "name": "livre lire lecture ouvert",
     "svg": "book-open.svg"
   },
   {
-    "name": "livre commander demander retenir lecteur",
+    "name": "livre lire lecture lecteur",
     "svg": "book-reader.svg"
   },
   {
-    "name": "livre commander demander retenir spells",
+    "name": "livre lire lecture magie sort magique",
     "svg": "book-spells.svg"
   },
   {
-    "name": "livre commander demander retenir",
+    "name": "livre lire lecture",
     "svg": "book.svg"
   },
   {
-    "name": "bookmark",
+    "name": "bookmark marque page",
     "svg": "bookmark.svg"
   },
   {
-    "name": "books",
+    "name": "livres",
     "svg": "books.svg"
   },
   {
-    "name": "booth rideau",
+    "name": "rideau election vote isoloir",
     "svg": "booth-curtain.svg"
   },
   {
@@ -2176,7 +2175,7 @@
     "svg": "bow-arrow.svg"
   },
   {
-    "name": "bowling bal globe balle sphere",
+    "name": "bowling boule balle",
     "svg": "bowling-ball.svg"
   },
   {
@@ -2184,59 +2183,59 @@
     "svg": "bowling-pins.svg"
   },
   {
-    "name": "boxer bac caisse coffre boite coffret baquet alt",
+    "name": "boite",
     "svg": "box-alt.svg"
   },
   {
-    "name": "boxer bac caisse coffre boite coffret baquet ballot",
+    "name": "boite bulletin",
     "svg": "box-ballot.svg"
   },
   {
-    "name": "boxer bac caisse coffre boite coffret baquet reprimer retenir bride surveiller verifier cheque",
+    "name": "boite verifier ok",
     "svg": "box-check.svg"
   },
   {
-    "name": "boxer bac caisse coffre boite coffret baquet fragile",
+    "name": "boite fragile verre casse",
     "svg": "box-fragile.svg"
   },
   {
-    "name": "boxer bac caisse coffre boite coffret baquet complet entier rassasie",
+    "name": "boite pleine",
     "svg": "box-full.svg"
   },
   {
-    "name": "boxer bac caisse coffre boite coffret baquet coeur",
+    "name": "boite coeur",
     "svg": "box-heart.svg"
   },
   {
-    "name": "boxer bac caisse coffre boite coffret baquet ouvrir",
+    "name": "boite ouverte",
     "svg": "box-open.svg"
   },
   {
-    "name": "boxer bac caisse coffre boite coffret baquet",
+    "name": "boite haut",
     "svg": "box-up.svg"
   },
   {
-    "name": "boxer bac caisse coffre boite coffret baquet usd",
+    "name": "boite dollar",
     "svg": "box-usd.svg"
   },
   {
-    "name": "boxer bac caisse coffre boite coffret baquet",
+    "name": "boite",
     "svg": "box.svg"
   },
   {
-    "name": "boxes alt",
+    "name": "boite",
     "svg": "boxes-alt.svg"
   },
   {
-    "name": "boxes",
+    "name": "boites",
     "svg": "boxes.svg"
   },
   {
-    "name": "boxing gant",
+    "name": "gants boxe",
     "svg": "boxing-glove.svg"
   },
   {
-    "name": "braille",
+    "name": "braille aveugle handicap",
     "svg": "braille.svg"
   },
   {
@@ -2244,15 +2243,15 @@
     "svg": "brain.svg"
   },
   {
-    "name": "collection consulter porte document medical",
+    "name": "porte document medical",
     "svg": "briefcase-medical.svg"
   },
   {
-    "name": "collection consulter porte document",
+    "name": "porte document",
     "svg": "briefcase.svg"
   },
   {
-    "name": "broadcast tour",
+    "name": "emission signal broadcast tour 3g 4g gsm",
     "svg": "broadcast-tower.svg"
   },
   {
@@ -2260,99 +2259,99 @@
     "svg": "broom.svg"
   },
   {
-    "name": "browser",
+    "name": "navigateur",
     "svg": "browser.svg"
   },
   {
-    "name": "brosse",
+    "name": "pinceau",
     "svg": "brush.svg"
   },
   {
-    "name": "punaise insecte",
+    "name": "punaise insecte bug bogue",
     "svg": "bug.svg"
   },
   {
-    "name": "construction batiment immeuble",
+    "name": "construction immeuble",
     "svg": "building.svg"
   },
   {
-    "name": "bullhorn",
+    "name": "megaphone son volume fort",
     "svg": "bullhorn.svg"
   },
   {
-    "name": "bullseye fleche",
+    "name": "cible fleche",
     "svg": "bullseye-arrow.svg"
   },
   {
-    "name": "bullseye pointer",
+    "name": "cible pointer curseur",
     "svg": "bullseye-pointer.svg"
   },
   {
-    "name": "bullseye",
+    "name": "cible",
     "svg": "bullseye.svg"
   },
   {
-    "name": "bruler s'allumer",
+    "name": "bruler allumer feu flamme",
     "svg": "burn.svg"
   },
   {
-    "name": "autobus alt",
+    "name": "bus autobus",
     "svg": "bus-alt.svg"
   },
   {
-    "name": "autobus ecole",
+    "name": "bus autobus ecole",
     "svg": "bus-school.svg"
   },
   {
-    "name": "autobus",
+    "name": "bus autobus",
     "svg": "bus.svg"
   },
   {
-    "name": "affaire chose commerce fois heure duree temps",
+    "name": "business affaire temps",
     "svg": "business-time.svg"
   },
   {
-    "name": "armoire filing",
+    "name": "armoire commode tiroir",
     "svg": "cabinet-filing.svg"
   },
   {
-    "name": "calculator alt",
+    "name": "calculatrice",
     "svg": "calculator-alt.svg"
   },
   {
-    "name": "calculator",
+    "name": "calculatrice",
     "svg": "calculator.svg"
   },
   {
-    "name": "calendrier alt",
+    "name": "calendrier",
     "svg": "calendar-alt.svg"
   },
   {
-    "name": "calendrier reprimer retenir bride surveiller verifier cheque",
+    "name": "calendrier",
     "svg": "calendar-check.svg"
   },
   {
-    "name": "calendrier rediger",
+    "name": "calendrier",
     "svg": "calendar-edit.svg"
   },
   {
-    "name": "calendrier exclamation",
+    "name": "calendrier",
     "svg": "calendar-exclamation.svg"
   },
   {
-    "name": "calendrier moins",
+    "name": "calendrier",
     "svg": "calendar-minus.svg"
   },
   {
-    "name": "calendrier plus",
+    "name": "calendrier",
     "svg": "calendar-plus.svg"
   },
   {
-    "name": "calendrier astral etoile star vedette",
+    "name": "calendrier",
     "svg": "calendar-star.svg"
   },
   {
-    "name": "calendrier ti",
+    "name": "calendrier",
     "svg": "calendar-times.svg"
   },
   {
@@ -2360,7 +2359,7 @@
     "svg": "calendar.svg"
   },
   {
-    "name": "camera alt",
+    "name": "photo apn",
     "svg": "camera-alt.svg"
   },
   {
@@ -2372,15 +2371,15 @@
     "svg": "camera.svg"
   },
   {
-    "name": "campfire",
+    "name": "feu camp",
     "svg": "campfire.svg"
   },
   {
-    "name": "campground",
+    "name": "tente camping",
     "svg": "campground.svg"
   },
   {
-    "name": "bougie chandelle holder",
+    "name": "bougie chandelle",
     "svg": "candle-holder.svg"
   },
   {
@@ -2388,111 +2387,111 @@
     "svg": "candy-corn.svg"
   },
   {
-    "name": "cannabis",
+    "name": "cannabis drogue reggae",
     "svg": "cannabis.svg"
   },
   {
-    "name": "capsu",
+    "name": "capsule medicament drogue",
     "svg": "capsules.svg"
   },
   {
-    "name": "auto bagnole alt",
+    "name": "auto",
     "svg": "car-alt.svg"
   },
   {
-    "name": "auto bagnole accu accumulator accumulateur batterie",
+    "name": "auto accumulateur batterie",
     "svg": "car-battery.svg"
   },
   {
-    "name": "auto bagnole bosse",
+    "name": "auto bosse",
     "svg": "car-bump.svg"
   },
   {
-    "name": "auto bagnole crash",
+    "name": "auto crash accident",
     "svg": "car-crash.svg"
   },
   {
-    "name": "auto bagnole garage",
+    "name": "auto garage",
     "svg": "car-garage.svg"
   },
   {
-    "name": "auto bagnole mecanicien",
+    "name": "auto mecanicien",
     "svg": "car-mechanic.svg"
   },
   {
-    "name": "auto bagnole auxiliaire cote flanc parti",
+    "name": "auto",
     "svg": "car-side.svg"
   },
   {
-    "name": "auto bagnole incliner",
+    "name": "auto incliner pencher",
     "svg": "car-tilt.svg"
   },
   {
-    "name": "auto bagnole laver",
+    "name": "auto laver lavage",
     "svg": "car-wash.svg"
   },
   {
-    "name": "auto bagnole",
+    "name": "auto",
     "svg": "car.svg"
   },
   {
-    "name": "caret cercle rond ronde duvet",
+    "name": "fleche bas",
     "svg": "caret-circle-down.svg"
   },
   {
-    "name": "caret cercle rond ronde gauche",
+    "name": "fleche gauche",
     "svg": "caret-circle-left.svg"
   },
   {
-    "name": "caret cercle rond ronde droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "caret-circle-right.svg"
   },
   {
-    "name": "caret cercle rond ronde",
+    "name": "fleche cercle rond ronde",
     "svg": "caret-circle-up.svg"
   },
   {
-    "name": "caret duvet",
+    "name": "fleche bas",
     "svg": "caret-down.svg"
   },
   {
-    "name": "caret gauche",
+    "name": "fleche gauche",
     "svg": "caret-left.svg"
   },
   {
-    "name": "caret droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "caret-right.svg"
   },
   {
-    "name": "caret droit rectangle esplanade place rond‐point duvet",
+    "name": "fleche bas",
     "svg": "caret-square-down.svg"
   },
   {
-    "name": "caret droit rectangle esplanade place rond‐point gauche",
+    "name": "fleche gauche",
     "svg": "caret-square-left.svg"
   },
   {
-    "name": "caret droit rectangle esplanade place rond‐point droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "caret-square-right.svg"
   },
   {
-    "name": "caret droit rectangle esplanade place rond‐point",
+    "name": "fleche haut",
     "svg": "caret-square-up.svg"
   },
   {
-    "name": "caret",
+    "name": "fleche",
     "svg": "caret-up.svg"
   },
   {
-    "name": "char chariot charrette fleche duvet",
+    "name": "chariot caddie",
     "svg": "cart-arrow-down.svg"
   },
   {
-    "name": "char chariot charrette plus",
+    "name": "chariot caddie",
     "svg": "cart-plus.svg"
   },
   {
-    "name": "megere peau vache rosse chat",
+    "name": "chatte",
     "svg": "cat.svg"
   },
   {
@@ -2500,11 +2499,11 @@
     "svg": "cauldron.svg"
   },
   {
-    "name": "acte document piece titre temoignage",
+    "name": "certificat",
     "svg": "certificate.svg"
   },
   {
-    "name": "chaise siege bureau emploi fonction office service",
+    "name": "chaise siege bureau",
     "svg": "chair-office.svg"
   },
   {
@@ -2512,103 +2511,103 @@
     "svg": "chair.svg"
   },
   {
-    "name": "chalkboard institutrice instituteur",
+    "name": "tableau institutrice instituteur",
     "svg": "chalkboard-teacher.svg"
   },
   {
-    "name": "chalkboard",
+    "name": "tableau",
     "svg": "chalkboard.svg"
   },
   {
-    "name": "charging gare station",
+    "name": "charge electric electrique gare station",
     "svg": "charging-station.svg"
   },
   {
-    "name": "chart aire",
+    "name": "graphique aire",
     "svg": "chart-area.svg"
   },
   {
-    "name": "chart barrer bar abreuvoir",
+    "name": "graphique barre",
     "svg": "chart-bar.svg"
   },
   {
-    "name": "chart ligne file rang rangee tour duvet",
+    "name": "graphique ligne",
     "svg": "chart-line-down.svg"
   },
   {
-    "name": "chart ligne file rang rangee tour",
+    "name": "graphique ligne",
     "svg": "chart-line.svg"
   },
   {
-    "name": "chart pate tarte alt",
+    "name": "graphique camembert part",
     "svg": "chart-pie-alt.svg"
   },
   {
-    "name": "chart pate tarte",
+    "name": "graphique camembert part",
     "svg": "chart-pie.svg"
   },
   {
-    "name": "reprimer retenir bride surveiller verifier cheque cercle rond ronde",
+    "name": "verifier",
     "svg": "check-circle.svg"
   },
   {
-    "name": "reprimer retenir bride surveiller verifier cheque double redoubler",
+    "name": "verifier",
     "svg": "check-double.svg"
   },
   {
-    "name": "reprimer retenir bride surveiller verifier cheque droit rectangle esplanade place rond‐point",
+    "name": "verifier",
     "svg": "check-square.svg"
   },
   {
-    "name": "reprimer retenir bride surveiller verifier cheque",
+    "name": "verifier",
     "svg": "check.svg"
   },
   {
-    "name": "echec eveque alt",
+    "name": "echec fou",
     "svg": "chess-bishop-alt.svg"
   },
   {
-    "name": "echec eveque",
+    "name": "echec fou",
     "svg": "chess-bishop.svg"
   },
   {
-    "name": "echec panneau planche",
+    "name": "echec plateau",
     "svg": "chess-board.svg"
   },
   {
-    "name": "echec horloge pendule alt",
+    "name": "echec horloge",
     "svg": "chess-clock-alt.svg"
   },
   {
-    "name": "echec horloge pendule",
+    "name": "echec horloge",
     "svg": "chess-clock.svg"
   },
   {
-    "name": "echec dame roi alt",
+    "name": "echec roi",
     "svg": "chess-king-alt.svg"
   },
   {
-    "name": "echec dame roi",
+    "name": "echec roi",
     "svg": "chess-king.svg"
   },
   {
-    "name": "echec chevalier alt",
+    "name": "echec chevalier cavalier",
     "svg": "chess-knight-alt.svg"
   },
   {
-    "name": "echec chevalier",
+    "name": "echec chevalier cavalier",
     "svg": "chess-knight.svg"
   },
   {
-    "name": "echec emprunter gages soldat alt",
+    "name": "echec pion",
     "svg": "chess-pawn-alt.svg"
   },
   {
-    "name": "echec emprunter gages soldat",
+    "name": "echec pion",
     "svg": "chess-pawn.svg"
   },
   {
-    "name": "echec dame reine alt",
+    "name": "echec dame reine",
     "svg": "chess-queen-alt.svg"
   },
   {
@@ -2616,11 +2615,11 @@
     "svg": "chess-queen.svg"
   },
   {
-    "name": "echec rook alt",
+    "name": "echec tour",
     "svg": "chess-rook-alt.svg"
   },
   {
-    "name": "echec rook",
+    "name": "echec tour",
     "svg": "chess-rook.svg"
   },
   {
@@ -2628,39 +2627,39 @@
     "svg": "chess.svg"
   },
   {
-    "name": "chevron cercle rond ronde duvet",
+    "name": "chevron bas",
     "svg": "chevron-circle-down.svg"
   },
   {
-    "name": "chevron cercle rond ronde gauche",
+    "name": "chevron gauche",
     "svg": "chevron-circle-left.svg"
   },
   {
-    "name": "chevron cercle rond ronde droit vrai raison exact juste proprement",
+    "name": "chevron droit",
     "svg": "chevron-circle-right.svg"
   },
   {
-    "name": "chevron cercle rond ronde",
+    "name": "chevron haut",
     "svg": "chevron-circle-up.svg"
   },
   {
-    "name": "chevron double redoubler duvet",
+    "name": "chevron bas",
     "svg": "chevron-double-down.svg"
   },
   {
-    "name": "chevron double redoubler gauche",
+    "name": "chevron gauche",
     "svg": "chevron-double-left.svg"
   },
   {
-    "name": "chevron double redoubler droit vrai raison exact juste proprement",
+    "name": "chevron droit",
     "svg": "chevron-double-right.svg"
   },
   {
-    "name": "chevron double redoubler",
+    "name": "chevron haut",
     "svg": "chevron-double-up.svg"
   },
   {
-    "name": "chevron duvet",
+    "name": "chevron bas",
     "svg": "chevron-down.svg"
   },
   {
@@ -2668,31 +2667,31 @@
     "svg": "chevron-left.svg"
   },
   {
-    "name": "chevron droit vrai raison exact juste proprement",
+    "name": "chevron droit",
     "svg": "chevron-right.svg"
   },
   {
-    "name": "chevron droit rectangle esplanade place rond‐point duvet",
+    "name": "chevron bas",
     "svg": "chevron-square-down.svg"
   },
   {
-    "name": "chevron droit rectangle esplanade place rond‐point gauche",
+    "name": "chevron gauche",
     "svg": "chevron-square-left.svg"
   },
   {
-    "name": "chevron droit rectangle esplanade place rond‐point droit vrai raison exact juste proprement",
+    "name": "chevron droit",
     "svg": "chevron-square-right.svg"
   },
   {
-    "name": "chevron droit rectangle esplanade place rond‐point",
+    "name": "chevron haut",
     "svg": "chevron-square-up.svg"
   },
   {
-    "name": "chevron",
+    "name": "chevron haut",
     "svg": "chevron-up.svg"
   },
   {
-    "name": "enfant",
+    "name": "enfants",
     "svg": "child.svg"
   },
   {
@@ -2700,7 +2699,7 @@
     "svg": "church.svg"
   },
   {
-    "name": "cercle rond ronde encoche",
+    "name": "anneau boucle",
     "svg": "circle-notch.svg"
   },
   {
@@ -2712,23 +2711,23 @@
     "svg": "city.svg"
   },
   {
-    "name": "griffe marks",
+    "name": "griffe plaie griffure",
     "svg": "claw-marks.svg"
   },
   {
-    "name": "clipboard reprimer retenir bride surveiller verifier cheque",
+    "name": "clipboard",
     "svg": "clipboard-check.svg"
   },
   {
-    "name": "clipboard liste reprimer retenir bride surveiller verifier cheque",
+    "name": "clipboard",
     "svg": "clipboard-list-check.svg"
   },
   {
-    "name": "clipboard liste",
+    "name": "clipboard",
     "svg": "clipboard-list.svg"
   },
   {
-    "name": "clipboard recette ordonnance",
+    "name": "clipboard",
     "svg": "clipboard-prescription.svg"
   },
   {
@@ -2740,103 +2739,103 @@
     "svg": "clock.svg"
   },
   {
-    "name": "clone",
+    "name": "clone copier dupliquer",
     "svg": "clone.svg"
   },
   {
-    "name": "closed captioning",
+    "name": "cc sous titre caption",
     "svg": "closed-captioning.svg"
   },
   {
-    "name": "brouiller confus trouble nuage download alt",
+    "name": "cloud",
     "svg": "cloud-download-alt.svg"
   },
   {
-    "name": "brouiller confus trouble nuage download",
+    "name": "cloud telecharger telechargement download",
     "svg": "cloud-download.svg"
   },
   {
-    "name": "brouiller confus trouble nuage bruine",
+    "name": "cloud",
     "svg": "cloud-drizzle.svg"
   },
   {
-    "name": "brouiller confus trouble nuage grele mixed",
+    "name": "cloud grele pluie",
     "svg": "cloud-hail-mixed.svg"
   },
   {
-    "name": "brouiller confus trouble nuage grele",
+    "name": "cloud grele",
     "svg": "cloud-hail.svg"
   },
   {
-    "name": "brouiller confus trouble nuage meatball",
+    "name": "cloud neige meatball",
     "svg": "cloud-meatball.svg"
   },
   {
-    "name": "brouiller confus trouble nuage lune pleuvoir pluie",
+    "name": "cloud lune pluie",
     "svg": "cloud-moon-rain.svg"
   },
   {
-    "name": "brouiller confus trouble nuage lune",
+    "name": "cloud lune",
     "svg": "cloud-moon.svg"
   },
   {
-    "name": "brouiller confus trouble nuage pleuvoir pluie",
+    "name": "cloud pluie",
     "svg": "cloud-rain.svg"
   },
   {
-    "name": "brouiller confus trouble nuage arc‐en‐ciel",
+    "name": "cloud arc‐en‐ciel",
     "svg": "cloud-rainbow.svg"
   },
   {
-    "name": "brouiller confus trouble nuage showers lourd",
+    "name": "cloud pluie averse",
     "svg": "cloud-showers-heavy.svg"
   },
   {
-    "name": "brouiller confus trouble nuage showers",
+    "name": "cloud pluie averse",
     "svg": "cloud-showers.svg"
   },
   {
-    "name": "brouiller confus trouble nuage sleet",
+    "name": "cloud neige fondue",
     "svg": "cloud-sleet.svg"
   },
   {
-    "name": "brouiller confus trouble nuage neiger neige",
+    "name": "cloud neige",
     "svg": "cloud-snow.svg"
   },
   {
-    "name": "brouiller confus trouble nuage ensoleille soleil pleuvoir pluie",
+    "name": "cloud soleil pluie",
     "svg": "cloud-sun-rain.svg"
   },
   {
-    "name": "brouiller confus trouble nuage ensoleille soleil",
+    "name": "cloud soleil",
     "svg": "cloud-sun.svg"
   },
   {
-    "name": "brouiller confus trouble nuage upload alt",
+    "name": "cloud upload",
     "svg": "cloud-upload-alt.svg"
   },
   {
-    "name": "brouiller confus trouble nuage upload",
+    "name": "cloud upload",
     "svg": "cloud-upload.svg"
   },
   {
-    "name": "brouiller confus trouble nuage",
+    "name": "cloud",
     "svg": "cloud.svg"
   },
   {
-    "name": "clouds lune",
+    "name": "cloud lune",
     "svg": "clouds-moon.svg"
   },
   {
-    "name": "clouds ensoleille soleil",
+    "name": "cloud soleil",
     "svg": "clouds-sun.svg"
   },
   {
-    "name": "clouds",
+    "name": "cloud",
     "svg": "clouds.svg"
   },
   {
-    "name": "club",
+    "name": "trefle pocker",
     "svg": "club.svg"
   },
   {
@@ -2844,15 +2843,15 @@
     "svg": "cocktail.svg"
   },
   {
-    "name": "code branche domaine specialite filiale succursale",
+    "name": "code git branche",
     "svg": "code-branch.svg"
   },
   {
-    "name": "code commit",
+    "name": "code git commit",
     "svg": "code-commit.svg"
   },
   {
-    "name": "code merge",
+    "name": "code git merge",
     "svg": "code-merge.svg"
   },
   {
@@ -2860,7 +2859,7 @@
     "svg": "code.svg"
   },
   {
-    "name": "cafe togo",
+    "name": "cafe",
     "svg": "coffee-togo.svg"
   },
   {
@@ -2868,143 +2867,143 @@
     "svg": "coffee.svg"
   },
   {
-    "name": "cercueil",
+    "name": "cercueil mort vampire",
     "svg": "coffin.svg"
   },
   {
-    "name": "cog",
+    "name": "engrenages parametres options settings",
     "svg": "cog.svg"
   },
   {
-    "name": "cogs",
+    "name": "engrenages parametres options settings",
     "svg": "cogs.svg"
   },
   {
-    "name": "coins",
+    "name": "pieces",
     "svg": "coins.svg"
   },
   {
-    "name": "columns",
+    "name": "colonnes",
     "svg": "columns.svg"
   },
   {
-    "name": "comment alt reprimer retenir bride surveiller verifier cheque",
+    "name": "bulle verifier",
     "svg": "comment-alt-check.svg"
   },
   {
-    "name": "comment alt dollar",
+    "name": "bulle dollar",
     "svg": "comment-alt-dollar.svg"
   },
   {
-    "name": "comment alt dots",
+    "name": "bulle points",
     "svg": "comment-alt-dots.svg"
   },
   {
-    "name": "comment alt rediger",
+    "name": "bulle editer",
     "svg": "comment-alt-edit.svg"
   },
   {
-    "name": "comment alt exclamation",
+    "name": "bulle exclamation",
     "svg": "comment-alt-exclamation.svg"
   },
   {
-    "name": "comment alt lines",
+    "name": "bulle lignes",
     "svg": "comment-alt-lines.svg"
   },
   {
-    "name": "comment alt moins",
+    "name": "bulle moins",
     "svg": "comment-alt-minus.svg"
   },
   {
-    "name": "comment alt plus",
+    "name": "bulle plus",
     "svg": "comment-alt-plus.svg"
   },
   {
-    "name": "comment alt slash",
+    "name": "bulle barree",
     "svg": "comment-alt-slash.svg"
   },
   {
-    "name": "comment alt sourire",
+    "name": "bulle sourire",
     "svg": "comment-alt-smile.svg"
   },
   {
-    "name": "comment alt ti",
+    "name": "bulle multiplier",
     "svg": "comment-alt-times.svg"
   },
   {
-    "name": "comment alt",
+    "name": "bulle",
     "svg": "comment-alt.svg"
   },
   {
-    "name": "comment reprimer retenir bride surveiller verifier cheque",
+    "name": "bulle verifier",
     "svg": "comment-check.svg"
   },
   {
-    "name": "comment dollar",
+    "name": "bulle dollar",
     "svg": "comment-dollar.svg"
   },
   {
-    "name": "comment dots",
+    "name": "bulle points",
     "svg": "comment-dots.svg"
   },
   {
-    "name": "comment rediger",
+    "name": "bulle editer",
     "svg": "comment-edit.svg"
   },
   {
-    "name": "comment exclamation",
+    "name": "bulle exclamation",
     "svg": "comment-exclamation.svg"
   },
   {
-    "name": "comment lines",
+    "name": "bulle lignes",
     "svg": "comment-lines.svg"
   },
   {
-    "name": "comment moins",
+    "name": "bulle moins",
     "svg": "comment-minus.svg"
   },
   {
-    "name": "comment plus",
+    "name": "bulle plus",
     "svg": "comment-plus.svg"
   },
   {
-    "name": "comment slash",
+    "name": "bulle barree",
     "svg": "comment-slash.svg"
   },
   {
-    "name": "comment sourire",
+    "name": "bulle sourire",
     "svg": "comment-smile.svg"
   },
   {
-    "name": "comment ti",
+    "name": "bulle multiplier",
     "svg": "comment-times.svg"
   },
   {
-    "name": "comment",
+    "name": "bulle",
     "svg": "comment.svg"
   },
   {
-    "name": "comments alt dollar",
+    "name": "bulle dollar",
     "svg": "comments-alt-dollar.svg"
   },
   {
-    "name": "comments alt",
+    "name": "bulle",
     "svg": "comments-alt.svg"
   },
   {
-    "name": "comments dollar",
+    "name": "bulle dollar",
     "svg": "comments-dollar.svg"
   },
   {
-    "name": "comments",
+    "name": "bulle",
     "svg": "comments.svg"
   },
   {
-    "name": "compact disque",
+    "name": "cd dvd bluray compact disque",
     "svg": "compact-disc.svg"
   },
   {
-    "name": "boussole slash",
+    "name": "boussole barree",
     "svg": "compass-slash.svg"
   },
   {
@@ -3012,35 +3011,35 @@
     "svg": "compass.svg"
   },
   {
-    "name": "compress alt",
+    "name": "fleche compresser",
     "svg": "compress-alt.svg"
   },
   {
-    "name": "compress ample etendu large",
+    "name": "compresser",
     "svg": "compress-wide.svg"
   },
   {
-    "name": "compress",
+    "name": "compresser",
     "svg": "compress.svg"
   },
   {
-    "name": "concierge clochette sonnette cloche",
+    "name": "cloche",
     "svg": "concierge-bell.svg"
   },
   {
-    "name": "bac baquet storage",
+    "name": "boite bac cagette",
     "svg": "container-storage.svg"
   },
   {
-    "name": "conveyor ceinture alt",
+    "name": "tapis roulant boite",
     "svg": "conveyor-belt-alt.svg"
   },
   {
-    "name": "conveyor ceinture",
+    "name": "tapis roulant boite",
     "svg": "conveyor-belt.svg"
   },
   {
-    "name": "biscuit mordre",
+    "name": "biscuit",
     "svg": "cookie-bite.svg"
   },
   {
@@ -3052,7 +3051,7 @@
     "svg": "copy.svg"
   },
   {
-    "name": "copyright",
+    "name": "copyright droit auteur",
     "svg": "copyright.svg"
   },
   {
@@ -3068,11 +3067,11 @@
     "svg": "cow.svg"
   },
   {
-    "name": "credit carte blanc formulaire",
+    "name": "credit carte",
     "svg": "credit-card-blank.svg"
   },
   {
-    "name": "credit carte front",
+    "name": "credit carte",
     "svg": "credit-card-front.svg"
   },
   {
@@ -3080,23 +3079,23 @@
     "svg": "credit-card.svg"
   },
   {
-    "name": "grillon",
+    "name": "cricket balle",
     "svg": "cricket.svg"
   },
   {
-    "name": "crop alt",
+    "name": "crop tronquer rogner",
     "svg": "crop-alt.svg"
   },
   {
-    "name": "crop",
+    "name": "crop tronquer rogner",
     "svg": "crop.svg"
   },
   {
-    "name": "croiser croix maussade passer depasser",
+    "name": "croix",
     "svg": "cross.svg"
   },
   {
-    "name": "crosshairs",
+    "name": "viseur",
     "svg": "crosshairs.svg"
   },
   {
@@ -3104,7 +3103,7 @@
     "svg": "crow.svg"
   },
   {
-    "name": "couronner",
+    "name": "couronne",
     "svg": "crown.svg"
   },
   {
@@ -3120,19 +3119,19 @@
     "svg": "curling.svg"
   },
   {
-    "name": "faucher hacher tailler couper ciseaux decouper tondre couper trancher balafre",
+    "name": "couper ciseaux",
     "svg": "cut.svg"
   },
   {
-    "name": "dagger",
+    "name": "dague epee couteau",
     "svg": "dagger.svg"
   },
   {
-    "name": "database",
+    "name": "database base donnees",
     "svg": "database.svg"
   },
   {
-    "name": "sourd",
+    "name": "sourd handicap",
     "svg": "deaf.svg"
   },
   {
@@ -3140,155 +3139,155 @@
     "svg": "democrat.svg"
   },
   {
-    "name": "desktop alt",
+    "name": "ordinateur desktop bureau",
     "svg": "desktop-alt.svg"
   },
   {
-    "name": "desktop",
+    "name": "ordinateur desktop bureau",
     "svg": "desktop.svg"
   },
   {
-    "name": "dewpoint",
+    "name": "goutte rosee",
     "svg": "dewpoint.svg"
   },
   {
-    "name": "dharmachakra",
+    "name": "dharmachakra bouddhiste",
     "svg": "dharmachakra.svg"
   },
   {
-    "name": "diagno",
+    "name": "maladie diagnostique",
     "svg": "diagnoses.svg"
   },
   {
-    "name": "diamant",
+    "name": "diamant pocker",
     "svg": "diamond.svg"
   },
   {
-    "name": "dice d10",
+    "name": "de 10 dix",
     "svg": "dice-d10.svg"
   },
   {
-    "name": "dice d12",
+    "name": "de 12 douze",
     "svg": "dice-d12.svg"
   },
   {
-    "name": "dice d20",
+    "name": "de 20 vingt",
     "svg": "dice-d20.svg"
   },
   {
-    "name": "dice",
+    "name": "de 4 quatre",
     "svg": "dice-d4.svg"
   },
   {
-    "name": "dice",
+    "name": "de 6 six",
     "svg": "dice-d6.svg"
   },
   {
-    "name": "dice",
+    "name": "de 8 huit",
     "svg": "dice-d8.svg"
   },
   {
-    "name": "dice cinq",
+    "name": "de 5 cinq",
     "svg": "dice-five.svg"
   },
   {
-    "name": "dice quatre",
+    "name": "de 4 quatre",
     "svg": "dice-four.svg"
   },
   {
-    "name": "dice quelqu'un une",
+    "name": "de 1 un",
     "svg": "dice-one.svg"
   },
   {
-    "name": "dice six",
+    "name": "de 6 six",
     "svg": "dice-six.svg"
   },
   {
-    "name": "dice trois",
+    "name": "de 3 trois",
     "svg": "dice-three.svg"
   },
   {
-    "name": "dice deux",
+    "name": "de 2 deux",
     "svg": "dice-two.svg"
   },
   {
-    "name": "dice",
+    "name": "de",
     "svg": "dice.svg"
   },
   {
-    "name": "digital tachograph",
+    "name": "tachograph",
     "svg": "digital-tachograph.svg"
   },
   {
-    "name": "acte document piece titre diplome",
+    "name": "diplome",
     "svg": "diploma.svg"
   },
   {
-    "name": "instruction",
+    "name": "direction fleche",
     "svg": "directions.svg"
   },
   {
-    "name": "separer trier disperser dissiper diviser debiter partager",
+    "name": "division diviser",
     "svg": "divide.svg"
   },
   {
-    "name": "dizzy",
+    "name": "face etourdi",
     "svg": "dizzy.svg"
   },
   {
-    "name": "adn",
+    "name": "adn -adn-",
     "svg": "dna.svg"
   },
   {
-    "name": "construire fabriquer faire operer poser coiffer friser ... pas pas introduire entrer entrer dans inscrire",
+    "name": "panneau interdit",
     "svg": "do-not-enter.svg"
   },
   {
-    "name": "chien clebard leashed",
+    "name": "chien laisse",
     "svg": "dog-leashed.svg"
   },
   {
-    "name": "chien clebard",
+    "name": "chien",
     "svg": "dog.svg"
   },
   {
-    "name": "dollar augure preuve temoignage signal signe signer",
+    "name": "dollar",
     "svg": "dollar-sign.svg"
   },
   {
-    "name": "dolly vide vider",
+    "name": "diable",
     "svg": "dolly-empty.svg"
   },
   {
-    "name": "dolly flatbed alt",
+    "name": "charriot boite",
     "svg": "dolly-flatbed-alt.svg"
   },
   {
-    "name": "dolly flatbed vide vider",
+    "name": "charriot",
     "svg": "dolly-flatbed-empty.svg"
   },
   {
-    "name": "dolly flatbed",
+    "name": "charriot boite",
     "svg": "dolly-flatbed.svg"
   },
   {
-    "name": "dolly",
+    "name": "diable",
     "svg": "dolly.svg"
   },
   {
-    "name": "faire cadeau offrir",
+    "name": "dons donner dollar",
     "svg": "donate.svg"
   },
   {
-    "name": "porte closed",
+    "name": "porte fermee",
     "svg": "door-closed.svg"
   },
   {
-    "name": "porte ouvrir",
+    "name": "porte ouvrir ouverte",
     "svg": "door-open.svg"
   },
   {
-    "name": "point cercle rond ronde",
+    "name": "point cercle",
     "svg": "dot-circle.svg"
   },
   {
@@ -3300,7 +3299,7 @@
     "svg": "download.svg"
   },
   {
-    "name": "drafting boussole",
+    "name": "compas",
     "svg": "drafting-compass.svg"
   },
   {
@@ -3308,19 +3307,19 @@
     "svg": "dragon.svg"
   },
   {
-    "name": "allecher appater solliciter dessiner abaisser tirer trait tirer puiser cercle rond ronde",
+    "name": "cercle rond",
     "svg": "draw-circle.svg"
   },
   {
-    "name": "allecher appater solliciter dessiner abaisser tirer trait tirer puiser polygon",
+    "name": "polygon",
     "svg": "draw-polygon.svg"
   },
   {
-    "name": "allecher appater solliciter dessiner abaisser tirer trait tirer puiser droit rectangle esplanade place rond‐point",
+    "name": "carre",
     "svg": "draw-square.svg"
   },
   {
-    "name": "tambour steelpan",
+    "name": "tambour",
     "svg": "drum-steelpan.svg"
   },
   {
@@ -3328,11 +3327,11 @@
     "svg": "drum.svg"
   },
   {
-    "name": "drumstick mordre",
+    "name": "poulet",
     "svg": "drumstick-bite.svg"
   },
   {
-    "name": "drumstick",
+    "name": "poulet",
     "svg": "drumstick.svg"
   },
   {
@@ -3340,19 +3339,19 @@
     "svg": "duck.svg"
   },
   {
-    "name": "dumbbell",
+    "name": "halteres musculation",
     "svg": "dumbbell.svg"
   },
   {
-    "name": "dungeon",
+    "name": "dongeon",
     "svg": "dungeon.svg"
   },
   {
-    "name": "oreille epi",
+    "name": "oreille",
     "svg": "ear.svg"
   },
   {
-    "name": "eclipse alt",
+    "name": "eclipse",
     "svg": "eclipse-alt.svg"
   },
   {
@@ -3360,11 +3359,11 @@
     "svg": "eclipse.svg"
   },
   {
-    "name": "rediger",
+    "name": "rediger editer",
     "svg": "edit.svg"
   },
   {
-    "name": "eject",
+    "name": "ejecter",
     "svg": "eject.svg"
   },
   {
@@ -3372,7 +3371,7 @@
     "svg": "elephant.svg"
   },
   {
-    "name": "ellipsis alt",
+    "name": "ellipsis",
     "svg": "ellipsis-h-alt.svg"
   },
   {
@@ -3380,7 +3379,7 @@
     "svg": "ellipsis-h.svg"
   },
   {
-    "name": "ellipsis alt",
+    "name": "ellipsis",
     "svg": "ellipsis-v-alt.svg"
   },
   {
@@ -3388,27 +3387,27 @@
     "svg": "ellipsis-v.svg"
   },
   {
-    "name": "vide vider appareil bande collection ensemble troupe serie",
+    "name": "vider",
     "svg": "empty-set.svg"
   },
   {
-    "name": "locomotive machine moteur recommandation sommation",
+    "name": "attention",
     "svg": "engine-warning.svg"
   },
   {
-    "name": "enveloppe ouvrir dollar",
+    "name": "enveloppe ouverte dollar",
     "svg": "envelope-open-dollar.svg"
   },
   {
-    "name": "enveloppe ouvrir texte",
+    "name": "enveloppe ouverte texte",
     "svg": "envelope-open-text.svg"
   },
   {
-    "name": "enveloppe ouvrir",
+    "name": "enveloppe ouverte",
     "svg": "envelope-open.svg"
   },
   {
-    "name": "enveloppe droit rectangle esplanade place rond‐point",
+    "name": "enveloppe",
     "svg": "envelope-square.svg"
   },
   {
@@ -3416,7 +3415,7 @@
     "svg": "envelope.svg"
   },
   {
-    "name": "equals",
+    "name": "egal",
     "svg": "equals.svg"
   },
   {
@@ -3424,27 +3423,27 @@
     "svg": "eraser.svg"
   },
   {
-    "name": "euro augure preuve temoignage signal signe signer",
+    "name": "euro",
     "svg": "euro-sign.svg"
   },
   {
-    "name": "central centrale alt",
+    "name": "echange fleche",
     "svg": "exchange-alt.svg"
   },
   {
-    "name": "central centrale",
+    "name": "echange fleche",
     "svg": "exchange.svg"
   },
   {
-    "name": "exclamation cercle rond ronde",
+    "name": "exclamation",
     "svg": "exclamation-circle.svg"
   },
   {
-    "name": "exclamation droit rectangle esplanade place rond‐point",
+    "name": "exclamation",
     "svg": "exclamation-square.svg"
   },
   {
-    "name": "exclamation triangle",
+    "name": "exclamation triangle attention",
     "svg": "exclamation-triangle.svg"
   },
   {
@@ -3452,51 +3451,51 @@
     "svg": "exclamation.svg"
   },
   {
-    "name": "expand alt",
+    "name": "etendre",
     "svg": "expand-alt.svg"
   },
   {
-    "name": "expand arrows alt",
+    "name": "etendre",
     "svg": "expand-arrows-alt.svg"
   },
   {
-    "name": "expand arrows",
+    "name": "etendre",
     "svg": "expand-arrows.svg"
   },
   {
-    "name": "expand ample etendu large",
+    "name": "etendre",
     "svg": "expand-wide.svg"
   },
   {
-    "name": "expand",
+    "name": "etendre",
     "svg": "expand.svg"
   },
   {
-    "name": "external monter alt",
+    "name": "lien externe",
     "svg": "external-link-alt.svg"
   },
   {
-    "name": "external monter droit rectangle esplanade place rond‐point alt",
+    "name": "lien externe",
     "svg": "external-link-square-alt.svg"
   },
   {
-    "name": "external monter droit rectangle esplanade place rond‐point",
+    "name": "lien externe",
     "svg": "external-link-square.svg"
   },
   {
-    "name": "external monter",
+    "name": "lien externe",
     "svg": "external-link.svg"
   },
   {
-    "name": "oeil dropper",
+    "name": "pipette",
     "svg": "eye-dropper.svg"
   },
   {
-    "name": "oeil evil",
+    "name": "oeil mechant",
     "svg": "eye-evil.svg"
   },
   {
-    "name": "oeil slash",
+    "name": "oeil barre",
     "svg": "eye-slash.svg"
   },
   {
@@ -3504,11 +3503,11 @@
     "svg": "eye.svg"
   },
   {
-    "name": "jeuner ferme prompt rapide rapidement vite backward",
+    "name": "fleche retour rapide",
     "svg": "fast-backward.svg"
   },
   {
-    "name": "jeuner ferme prompt rapide rapidement vite forward",
+    "name": "fleche avance rapide",
     "svg": "fast-forward.svg"
   },
   {
@@ -3516,7 +3515,7 @@
     "svg": "fax.svg"
   },
   {
-    "name": "plume alt",
+    "name": "plume",
     "svg": "feather-alt.svg"
   },
   {
@@ -3524,163 +3523,163 @@
     "svg": "feather.svg"
   },
   {
-    "name": "femelle",
+    "name": "femme dame",
     "svg": "female.svg"
   },
   {
-    "name": "champ hockey",
+    "name": "hockey",
     "svg": "field-hockey.svg"
   },
   {
-    "name": "fighter jet",
+    "name": "jet avion chasse",
     "svg": "fighter-jet.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour alt",
+    "name": "fichier",
     "svg": "file-alt.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour archive",
+    "name": "fichier archive",
     "svg": "file-archive.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour audio",
+    "name": "fichier audio",
     "svg": "file-audio.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour acte document piece titre temoignage",
+    "name": "fichier certificat",
     "svg": "file-certificate.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour chart ligne file rang rangee tour",
+    "name": "fichier graphique",
     "svg": "file-chart-line.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour chart pate tarte",
+    "name": "fichier graphique",
     "svg": "file-chart-pie.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour reprimer retenir bride surveiller verifier cheque",
+    "name": "fichier verifier",
     "svg": "file-check.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour code",
+    "name": "fichier code",
     "svg": "file-code.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour contract",
+    "name": "fichier contrat signature",
     "svg": "file-contract.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour csv",
+    "name": "fichier csv",
     "svg": "file-csv.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour download",
+    "name": "fichier download",
     "svg": "file-download.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour rediger",
+    "name": "fichier rediger",
     "svg": "file-edit.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour excel",
+    "name": "fichier excel",
     "svg": "file-excel.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour exclamation",
+    "name": "fichier exclamation",
     "svg": "file-exclamation.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour export",
+    "name": "fichier export",
     "svg": "file-export.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour image figure",
+    "name": "fichier image",
     "svg": "file-image.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour importer",
+    "name": "fichier importer",
     "svg": "file-import.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour facture dollar",
+    "name": "fichier facture dollar",
     "svg": "file-invoice-dollar.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour facture",
+    "name": "fichier facture",
     "svg": "file-invoice.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour medical alt",
+    "name": "fichier medical",
     "svg": "file-medical-alt.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour medical",
+    "name": "fichier medical",
     "svg": "file-medical.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour moins",
+    "name": "fichier moins",
     "svg": "file-minus.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour pdf",
+    "name": "fichier pdf",
     "svg": "file-pdf.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour plus",
+    "name": "fichier plus",
     "svg": "file-plus.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour powerpoint",
+    "name": "fichier powerpoint",
     "svg": "file-powerpoint.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour recette ordonnance",
+    "name": "fichier ordonnance",
     "svg": "file-prescription.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour signature",
+    "name": "fichier signature",
     "svg": "file-signature.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour spreadsheet",
+    "name": "fichier calcul",
     "svg": "file-spreadsheet.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour ti",
+    "name": "fichier multiplier",
     "svg": "file-times.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour upload",
+    "name": "fichier upload",
     "svg": "file-upload.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour user",
+    "name": "fichier utilisateur",
     "svg": "file-user.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour video",
+    "name": "fichier video",
     "svg": "file-video.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour mot",
+    "name": "fichier word",
     "svg": "file-word.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangee tour",
+    "name": "fichier",
     "svg": "file.svg"
   },
   {
-    "name": "completer remplir goutte",
+    "name": "remplir goutte",
     "svg": "fill-drip.svg"
   },
   {
-    "name": "completer remplir",
+    "name": "remplir",
     "svg": "fill.svg"
   },
   {
-    "name": "film pellicule alt",
+    "name": "film pellicule",
     "svg": "film-alt.svg"
   },
   {
@@ -3688,27 +3687,27 @@
     "svg": "film.svg"
   },
   {
-    "name": "filtrer",
+    "name": "entonnoir",
     "svg": "filter.svg"
   },
   {
-    "name": "fingerprint",
+    "name": "empreinte digitale",
     "svg": "fingerprint.svg"
   },
   {
-    "name": "partir licencier renvoyer suspendre feu incendie tirer extinguisher",
+    "name": "extincteur feu",
     "svg": "fire-extinguisher.svg"
   },
   {
-    "name": "partir licencier renvoyer suspendre feu incendie tirer fumer fumee",
+    "name": "fumee feu",
     "svg": "fire-smoke.svg"
   },
   {
-    "name": "partir licencier renvoyer suspendre feu incendie tirer",
+    "name": "feu",
     "svg": "fire.svg"
   },
   {
-    "name": "premier commencement premier lieu d'abord adjoint aider assister secourir aide",
+    "name": "secourir",
     "svg": "first-aid.svg"
   },
   {
@@ -3716,71 +3715,71 @@
     "svg": "fish.svg"
   },
   {
-    "name": "poing raised",
+    "name": "poing leve",
     "svg": "fist-raised.svg"
   },
   {
-    "name": "drapeau pavillon etendard alt",
+    "name": "drapeau",
     "svg": "flag-alt.svg"
   },
   {
-    "name": "drapeau pavillon etendard checkered",
+    "name": "drapeau",
     "svg": "flag-checkered.svg"
   },
   {
-    "name": "drapeau pavillon etendard etats‐unis",
+    "name": "drapeau usa",
     "svg": "flag-usa.svg"
   },
   {
-    "name": "drapeau pavillon etendard",
+    "name": "drapeau",
     "svg": "flag.svg"
   },
   {
-    "name": "flamber flamme",
+    "name": "flamber flamme feu",
     "svg": "flame.svg"
   },
   {
-    "name": "flask poison venin",
+    "name": "fiole poison venin",
     "svg": "flask-poison.svg"
   },
   {
-    "name": "flask potion",
+    "name": "fiole",
     "svg": "flask-potion.svg"
   },
   {
-    "name": "flask",
+    "name": "fiole",
     "svg": "flask.svg"
   },
   {
-    "name": "flushed",
+    "name": "face chaud",
     "svg": "flushed.svg"
   },
   {
-    "name": "brouillard",
+    "name": "brouillard nuage",
     "svg": "fog.svg"
   },
   {
-    "name": "chemise dossier cahier moins",
+    "name": "dossier moins",
     "svg": "folder-minus.svg"
   },
   {
-    "name": "chemise dossier cahier ouvrir",
+    "name": "dossier ouvert",
     "svg": "folder-open.svg"
   },
   {
-    "name": "chemise dossier cahier plus",
+    "name": "dossier plus",
     "svg": "folder-plus.svg"
   },
   {
-    "name": "chemise dossier cahier ti",
+    "name": "dossier multiplier",
     "svg": "folder-times.svg"
   },
   {
-    "name": "chemise dossier cahier",
+    "name": "dossier",
     "svg": "folder.svg"
   },
   {
-    "name": "folders",
+    "name": "dossiers",
     "svg": "folders.svg"
   },
   {
@@ -3788,27 +3787,27 @@
     "svg": "00a9.svg"
   },
   {
-    "name": "font",
+    "name": "police font",
     "svg": "font.svg"
   },
   {
-    "name": "foot football ballon ballon football bal globe balle sphere",
+    "name": "rugby ballon",
     "svg": "football-ball.svg"
   },
   {
-    "name": "foot football ballon ballon football helmet",
+    "name": "football casque",
     "svg": "football-helmet.svg"
   },
   {
-    "name": "forklift",
+    "name": "charriot elevateur",
     "svg": "forklift.svg"
   },
   {
-    "name": "forward",
+    "name": "avance rapide fleche",
     "svg": "forward.svg"
   },
   {
-    "name": "fragile",
+    "name": "fragile verre",
     "svg": "fragile.svg"
   },
   {
@@ -3816,15 +3815,15 @@
     "svg": "frog.svg"
   },
   {
-    "name": "frown ouvrir",
+    "name": "face fronce",
     "svg": "frown-open.svg"
   },
   {
-    "name": "frown",
+    "name": "face fronce",
     "svg": "frown.svg"
   },
   {
-    "name": "fonctionner fonction emploi office service",
+    "name": "fonction",
     "svg": "function.svg"
   },
   {
@@ -3832,7 +3831,7 @@
     "svg": "funnel-dollar.svg"
   },
   {
-    "name": "futbol",
+    "name": "football",
     "svg": "futbol.svg"
   },
   {
@@ -3840,31 +3839,31 @@
     "svg": "gamepad.svg"
   },
   {
-    "name": "gaz pomper pompe slash",
+    "name": "essence gazole fuel station pompe",
     "svg": "gas-pump-slash.svg"
   },
   {
-    "name": "gaz pomper pompe",
+    "name": "essence gazole fuel station pompe",
     "svg": "gas-pump.svg"
   },
   {
-    "name": "gavel",
+    "name": "marteau",
     "svg": "gavel.svg"
   },
   {
-    "name": "gem",
+    "name": "pierre diamant precieuse",
     "svg": "gem.svg"
   },
   {
-    "name": "genderless",
+    "name": "genre",
     "svg": "genderless.svg"
   },
   {
-    "name": "apparition",
+    "name": "fantome",
     "svg": "ghost.svg"
   },
   {
-    "name": "cadeau don carte",
+    "name": "cadeau carte",
     "svg": "gift-card.svg"
   },
   {
@@ -3872,15 +3871,15 @@
     "svg": "gift.svg"
   },
   {
-    "name": "verre vitre martini alt",
+    "name": "verre martini",
     "svg": "glass-martini-alt.svg"
   },
   {
-    "name": "verre vitre martini",
+    "name": "verre martini",
     "svg": "glass-martini.svg"
   },
   {
-    "name": "lunettes alt",
+    "name": "lunettes",
     "svg": "glasses-alt.svg"
   },
   {
@@ -3892,7 +3891,7 @@
     "svg": "globe-africa.svg"
   },
   {
-    "name": "globe americas",
+    "name": "globe amerique",
     "svg": "globe-americas.svg"
   },
   {
@@ -3900,7 +3899,7 @@
     "svg": "globe-asia.svg"
   },
   {
-    "name": "globe echoppe kiosque stand surgir sursauter debout dresser",
+    "name": "globe mappemonde",
     "svg": "globe-stand.svg"
   },
   {
@@ -3908,11 +3907,11 @@
     "svg": "globe.svg"
   },
   {
-    "name": "golfe bal globe balle sphere",
+    "name": "golf balle",
     "svg": "golf-ball.svg"
   },
   {
-    "name": "golfe club",
+    "name": "golf club",
     "svg": "golf-club.svg"
   },
   {
@@ -3920,95 +3919,95 @@
     "svg": "gopuram.svg"
   },
   {
-    "name": "graduation casquette bonnet toque",
+    "name": "exament graduat chapeau",
     "svg": "graduation-cap.svg"
   },
   {
-    "name": "greater que egal",
+    "name": "superieur egal",
     "svg": "greater-than-equal.svg"
   },
   {
-    "name": "greater que",
+    "name": "superieur",
     "svg": "greater-than.svg"
   },
   {
-    "name": "grimace",
+    "name": "face grimace",
     "svg": "grimace.svg"
   },
   {
-    "name": "grin alt",
+    "name": "sourire",
     "svg": "grin-alt.svg"
   },
   {
-    "name": "grin rayon poutre transpirer suer sueur",
+    "name": "sourire transpirer sueur",
     "svg": "grin-beam-sweat.svg"
   },
   {
-    "name": "grin rayon poutre",
+    "name": "sourire",
     "svg": "grin-beam.svg"
   },
   {
-    "name": "grin hearts",
+    "name": "sourire coeur",
     "svg": "grin-hearts.svg"
   },
   {
-    "name": "grin loucher tears",
+    "name": "sourire larme pleure mdr",
     "svg": "grin-squint-tears.svg"
   },
   {
-    "name": "grin loucher",
+    "name": "sourire mdr",
     "svg": "grin-squint.svg"
   },
   {
-    "name": "grin stars",
+    "name": "sourire etoile",
     "svg": "grin-stars.svg"
   },
   {
-    "name": "grin tears",
+    "name": "sourire larme",
     "svg": "grin-tears.svg"
   },
   {
-    "name": "grin langue loucher",
+    "name": "sourire langue",
     "svg": "grin-tongue-squint.svg"
   },
   {
-    "name": "grin langue wink",
+    "name": "sourire langue",
     "svg": "grin-tongue-wink.svg"
   },
   {
-    "name": "grin langue",
+    "name": "sourire langue",
     "svg": "grin-tongue.svg"
   },
   {
-    "name": "grin wink",
+    "name": "sourire clin oeil",
     "svg": "grin-wink.svg"
   },
   {
-    "name": "grin",
+    "name": "sourire",
     "svg": "grin.svg"
   },
   {
-    "name": "agripper saisir grippe horizontal",
+    "name": "agripper saisir",
     "svg": "grip-horizontal.svg"
   },
   {
-    "name": "agripper saisir grippe vertical",
+    "name": "agripper saisir",
     "svg": "grip-vertical.svg"
   },
   {
-    "name": "droit rectangle esplanade place rond‐point",
+    "name": "h hopital",
     "svg": "h-square.svg"
   },
   {
-    "name": "",
+    "name": "h1",
     "svg": "h1.svg"
   },
   {
-    "name": "",
+    "name": "h2",
     "svg": "h2.svg"
   },
   {
-    "name": "",
+    "name": "h3",
     "svg": "h3.svg"
   },
   {
@@ -4024,103 +4023,103 @@
     "svg": "hamsa.svg"
   },
   {
-    "name": "ouvrier main coeur",
+    "name": "main coeur",
     "svg": "hand-heart.svg"
   },
   {
-    "name": "ouvrier main holding boxer bac caisse coffre boite coffret baquet",
+    "name": "main boite",
     "svg": "hand-holding-box.svg"
   },
   {
-    "name": "ouvrier main holding coeur",
+    "name": "main coeur",
     "svg": "hand-holding-heart.svg"
   },
   {
-    "name": "ouvrier main holding magie magique",
+    "name": "main magie magique",
     "svg": "hand-holding-magic.svg"
   },
   {
-    "name": "ouvrier main holding seedling",
+    "name": "main pousse fleur",
     "svg": "hand-holding-seedling.svg"
   },
   {
-    "name": "ouvrier main holding usd",
+    "name": "main dollar",
     "svg": "hand-holding-usd.svg"
   },
   {
-    "name": "ouvrier main holding aquatique eau onde abreuver arroser",
+    "name": "main goutte",
     "svg": "hand-holding-water.svg"
   },
   {
-    "name": "ouvrier main holding",
+    "name": "main",
     "svg": "hand-holding.svg"
   },
   {
-    "name": "ouvrier main lezard",
+    "name": "main lezard",
     "svg": "hand-lizard.svg"
   },
   {
-    "name": "ouvrier main document papier tapisser",
+    "name": "main papier",
     "svg": "hand-paper.svg"
   },
   {
-    "name": "ouvrier main paix",
+    "name": "main paix",
     "svg": "hand-peace.svg"
   },
   {
-    "name": "ouvrier main bout cime pointe sommet point score duvet",
+    "name": "main bas",
     "svg": "hand-point-down.svg"
   },
   {
-    "name": "ouvrier main bout cime pointe sommet point score gauche",
+    "name": "main gauche",
     "svg": "hand-point-left.svg"
   },
   {
-    "name": "ouvrier main bout cime pointe sommet point score droit vrai raison exact juste proprement",
+    "name": "main droit",
     "svg": "hand-point-right.svg"
   },
   {
-    "name": "ouvrier main bout cime pointe sommet point score",
+    "name": "main haut",
     "svg": "hand-point-up.svg"
   },
   {
-    "name": "ouvrier main pointer",
+    "name": "main pointer",
     "svg": "hand-pointer.svg"
   },
   {
-    "name": "ouvrier main receiving",
+    "name": "main recevoir",
     "svg": "hand-receiving.svg"
   },
   {
-    "name": "ouvrier main balancer bercer roc rocher",
+    "name": "main balancer bercer roc rocher",
     "svg": "hand-rock.svg"
   },
   {
-    "name": "ouvrier main ciseaux",
+    "name": "main ciseaux",
     "svg": "hand-scissors.svg"
   },
   {
-    "name": "ouvrier main spock",
+    "name": "main spock",
     "svg": "hand-spock.svg"
   },
   {
-    "name": "hands coeur",
+    "name": "mains coeur",
     "svg": "hands-heart.svg"
   },
   {
-    "name": "hands helping",
+    "name": "mains aide",
     "svg": "hands-helping.svg"
   },
   {
-    "name": "hands usd",
+    "name": "mains usd",
     "svg": "hands-usd.svg"
   },
   {
-    "name": "hands",
+    "name": "mains",
     "svg": "hands.svg"
   },
   {
-    "name": "poignee main alt",
+    "name": "poignee main",
     "svg": "handshake-alt.svg"
   },
   {
@@ -4128,11 +4127,11 @@
     "svg": "handshake.svg"
   },
   {
-    "name": "hanukiah",
+    "name": "hanouka",
     "svg": "hanukiah.svg"
   },
   {
-    "name": "hashtag",
+    "name": "diese label etiquette hashtag",
     "svg": "hashtag.svg"
   },
   {
@@ -4144,31 +4143,31 @@
     "svg": "hat-wizard.svg"
   },
   {
-    "name": "haykal",
+    "name": "foin",
     "svg": "haykal.svg"
   },
   {
-    "name": "hdd",
+    "name": "hdd disque stockage",
     "svg": "hdd.svg"
   },
   {
-    "name": "guider regler tete auxiliaire cote flanc parti",
+    "name": "tete",
     "svg": "head-side.svg"
   },
   {
-    "name": "guider regler tete",
+    "name": "tete casque vr realite virtuelle",
     "svg": "head-vr.svg"
   },
   {
-    "name": "intitule titre",
+    "name": "titre h",
     "svg": "heading.svg"
   },
   {
-    "name": "headphones alt",
+    "name": "casque audio",
     "svg": "headphones-alt.svg"
   },
   {
-    "name": "headphones",
+    "name": "casque audio micro",
     "svg": "headphones.svg"
   },
   {
@@ -4176,43 +4175,43 @@
     "svg": "headset.svg"
   },
   {
-    "name": "coeur cercle rond ronde",
+    "name": "coeur",
     "svg": "heart-circle.svg"
   },
   {
-    "name": "coeur proportion grade rang apprecier estimer evaluer taxer",
+    "name": "rythme cardiaque signal",
     "svg": "heart-rate.svg"
   },
   {
-    "name": "coeur droit rectangle esplanade place rond‐point",
+    "name": "coeur",
     "svg": "heart-square.svg"
   },
   {
-    "name": "coeur",
+    "name": "coeur pocker",
     "svg": "heart.svg"
   },
   {
-    "name": "heartbeat",
+    "name": "rythme cardiaque",
     "svg": "heartbeat.svg"
   },
   {
-    "name": "helicopter",
+    "name": "helicoptere",
     "svg": "helicopter.svg"
   },
   {
-    "name": "helmet bataille combat",
+    "name": "casque bataille combat",
     "svg": "helmet-battle.svg"
   },
   {
-    "name": "hexagon",
+    "name": "hexagone",
     "svg": "hexagon.svg"
   },
   {
-    "name": "highlighter",
+    "name": "marqueur",
     "svg": "highlighter.svg"
   },
   {
-    "name": "hiking",
+    "name": "randonnee",
     "svg": "hiking.svg"
   },
   {
@@ -4220,7 +4219,7 @@
     "svg": "hippo.svg"
   },
   {
-    "name": "histoire",
+    "name": "historique",
     "svg": "history.svg"
   },
   {
@@ -4228,23 +4227,23 @@
     "svg": "hockey-mask.svg"
   },
   {
-    "name": "hockey puck",
+    "name": "hockey pallet",
     "svg": "hockey-puck.svg"
   },
   {
-    "name": "hockey sticks",
+    "name": "hockey cross",
     "svg": "hockey-sticks.svg"
   },
   {
-    "name": "domicile coeur",
+    "name": "maison coeur",
     "svg": "home-heart.svg"
   },
   {
-    "name": "domicile",
+    "name": "maison",
     "svg": "home.svg"
   },
   {
-    "name": "apache apache couverture manteau",
+    "name": "capuche",
     "svg": "hood-cloak.svg"
   },
   {
@@ -4252,7 +4251,7 @@
     "svg": "horse.svg"
   },
   {
-    "name": "hopital alt",
+    "name": "hopital",
     "svg": "hospital-alt.svg"
   },
   {
@@ -4264,35 +4263,35 @@
     "svg": "hospital.svg"
   },
   {
-    "name": "hot baquet bassine cuve",
+    "name": "bain chaud",
     "svg": "hot-tub.svg"
   },
   {
-    "name": "hotel",
+    "name": "hotel motel",
     "svg": "hotel.svg"
   },
   {
-    "name": "hourglass cesser finir terminer p fin terminer bout fin",
+    "name": "sablier fin",
     "svg": "hourglass-end.svg"
   },
   {
-    "name": "hourglass demi moitie",
+    "name": "sablier demi moitie",
     "svg": "hourglass-half.svg"
   },
   {
-    "name": "hourglass activer debut sursauter p l'initiative aborder commencer debuter commencement inauguration",
+    "name": "sablier debut",
     "svg": "hourglass-start.svg"
   },
   {
-    "name": "hourglass",
+    "name": "sablier",
     "svg": "hourglass.svg"
   },
   {
-    "name": "maison avarie endommager degat dommage prejudice sinistre abimer deteriorer defaut vice",
+    "name": "maison cassee",
     "svg": "house-damage.svg"
   },
   {
-    "name": "maison afflux maree haute inonder inondation abreuver combler",
+    "name": "maison inondation",
     "svg": "house-flood.svg"
   },
   {
@@ -4300,7 +4299,7 @@
     "svg": "hryvnia.svg"
   },
   {
-    "name": "humidity",
+    "name": "humidite",
     "svg": "humidity.svg"
   },
   {
@@ -4308,7 +4307,7 @@
     "svg": "hurricane.svg"
   },
   {
-    "name": "cursor",
+    "name": "curseur texte",
     "svg": "i-cursor.svg"
   },
   {
@@ -4316,19 +4315,19 @@
     "svg": "id-badge.svg"
   },
   {
-    "name": "carte alt",
+    "name": "carte identite",
     "svg": "id-card-alt.svg"
   },
   {
-    "name": "carte",
+    "name": "carte identite",
     "svg": "id-card.svg"
   },
   {
-    "name": "image figure",
+    "name": "image photo",
     "svg": "image.svg"
   },
   {
-    "name": "images",
+    "name": "images photos",
     "svg": "images.svg"
   },
   {
@@ -4336,47 +4335,47 @@
     "svg": "inbox-in.svg"
   },
   {
-    "name": "inbox dehors",
+    "name": "boite reception inbox",
     "svg": "inbox-out.svg"
   },
   {
-    "name": "inbox",
+    "name": "boite reception inbox",
     "svg": "inbox.svg"
   },
   {
-    "name": "indent",
+    "name": "indenter indentation",
     "svg": "indent.svg"
   },
   {
-    "name": "application industrie alt",
+    "name": "usine industrie",
     "svg": "industry-alt.svg"
   },
   {
-    "name": "application industrie",
+    "name": "usine industrie",
     "svg": "industry.svg"
   },
   {
-    "name": "infinity",
+    "name": "infini",
     "svg": "infinity.svg"
   },
   {
-    "name": "info cercle rond ronde",
+    "name": "information",
     "svg": "info-circle.svg"
   },
   {
-    "name": "info droit rectangle esplanade place rond‐point",
+    "name": "information",
     "svg": "info-square.svg"
   },
   {
-    "name": "info",
+    "name": "information",
     "svg": "info.svg"
   },
   {
-    "name": "inhaler",
+    "name": "inhalateur allergie",
     "svg": "inhaler.svg"
   },
   {
-    "name": "integral",
+    "name": "integrale",
     "svg": "integral.svg"
   },
   {
@@ -4384,7 +4383,7 @@
     "svg": "intersection.svg"
   },
   {
-    "name": "recensement",
+    "name": "inventaire",
     "svg": "inventory.svg"
   },
   {
@@ -4392,19 +4391,19 @@
     "svg": "italic.svg"
   },
   {
-    "name": "bambin gamin lanterne",
+    "name": "citrouille lanterne halloween",
     "svg": "jack-o-lantern.svg"
   },
   {
-    "name": "jedi",
+    "name": "jedi starwars",
     "svg": "jedi.svg"
   },
   {
-    "name": "articulation commun",
+    "name": "joint shit drogue",
     "svg": "joint.svg"
   },
   {
-    "name": "journal quotidien whills",
+    "name": "journal jedi starwars",
     "svg": "journal-whills.svg"
   },
   {
@@ -4412,11 +4411,11 @@
     "svg": "kaaba.svg"
   },
   {
-    "name": "touche touche clavier clef squelette",
+    "name": "clef",
     "svg": "key-skeleton.svg"
   },
   {
-    "name": "touche touche clavier clef",
+    "name": "clef",
     "svg": "key.svg"
   },
   {
@@ -4424,7 +4423,7 @@
     "svg": "keyboard.svg"
   },
   {
-    "name": "keynote",
+    "name": "keynote apple",
     "svg": "keynote.svg"
   },
   {
@@ -4432,23 +4431,23 @@
     "svg": "khanda.svg"
   },
   {
-    "name": "kidneys",
+    "name": "reins rognons",
     "svg": "kidneys.svg"
   },
   {
-    "name": "baiser embrasser rayon poutre",
+    "name": "embrasser bisous",
     "svg": "kiss-beam.svg"
   },
   {
-    "name": "baiser embrasser wink coeur",
+    "name": "embrasser bisous clin oeil coeur",
     "svg": "kiss-wink-heart.svg"
   },
   {
-    "name": "baiser embrasser",
+    "name": "embrasser bisous",
     "svg": "kiss.svg"
   },
   {
-    "name": "milan",
+    "name": "cerf volant",
     "svg": "kite.svg"
   },
   {
@@ -4464,55 +4463,55 @@
     "svg": "lambda.svg"
   },
   {
-    "name": "lampe",
+    "name": "lampe lumiere luminaire",
     "svg": "lamp.svg"
   },
   {
-    "name": "landmark alt",
+    "name": "monument",
     "svg": "landmark-alt.svg"
   },
   {
-    "name": "landmark",
+    "name": "monument",
     "svg": "landmark.svg"
   },
   {
-    "name": "langue",
+    "name": "langue langage",
     "svg": "language.svg"
   },
   {
-    "name": "laptop code",
+    "name": "ordinateur portable laptop code",
     "svg": "laptop-code.svg"
   },
   {
-    "name": "laptop",
+    "name": "ordinateur portable laptop",
     "svg": "laptop.svg"
   },
   {
-    "name": "rire rayon poutre",
+    "name": "face rire",
     "svg": "laugh-beam.svg"
   },
   {
-    "name": "rire loucher",
+    "name": "face rire loucher",
     "svg": "laugh-squint.svg"
   },
   {
-    "name": "rire wink",
+    "name": "face rire clin oeil",
     "svg": "laugh-wink.svg"
   },
   {
-    "name": "rire",
+    "name": "face rire",
     "svg": "laugh.svg"
   },
   {
-    "name": "couche feuille placage gisement bande collection ensemble troupe groupe",
+    "name": "couches feuilles groupe",
     "svg": "layer-group.svg"
   },
   {
-    "name": "couche feuille placage gisement moins",
+    "name": "couches feuilles groupe moins",
     "svg": "layer-minus.svg"
   },
   {
-    "name": "couche feuille placage gisement plus",
+    "name": "couches feuilles groupe plus",
     "svg": "layer-plus.svg"
   },
   {
@@ -4536,67 +4535,67 @@
     "svg": "lemon.svg"
   },
   {
-    "name": "less que egal",
+    "name": "moins egal",
     "svg": "less-than-equal.svg"
   },
   {
-    "name": "less que",
+    "name": "moins",
     "svg": "less-than.svg"
   },
   {
-    "name": "plat uni egal horizontal niveau duvet alt",
+    "name": "fleche bas descendre",
     "svg": "level-down-alt.svg"
   },
   {
-    "name": "plat uni egal horizontal niveau duvet",
+    "name": "fleche bas descendre",
     "svg": "level-down.svg"
   },
   {
-    "name": "plat uni egal horizontal niveau alt",
+    "name": "fleche haut monter",
     "svg": "level-up-alt.svg"
   },
   {
-    "name": "plat uni egal horizontal niveau",
+    "name": "fleche haut monter",
     "svg": "level-up.svg"
   },
   {
-    "name": "vie anneau bague sonner tinter sonner porte",
+    "name": "bouee sauvetage secourir",
     "svg": "life-ring.svg"
   },
   {
-    "name": "lightbulb dollar",
+    "name": "ampoule dollar",
     "svg": "lightbulb-dollar.svg"
   },
   {
-    "name": "lightbulb exclamation",
+    "name": "ampoule exclamation",
     "svg": "lightbulb-exclamation.svg"
   },
   {
-    "name": "lightbulb avant milie dans moyen plus sujet contre",
+    "name": "ampoule allumer idee",
     "svg": "lightbulb-on.svg"
   },
   {
-    "name": "lightbulb slash",
+    "name": "ampoule barree",
     "svg": "lightbulb-slash.svg"
   },
   {
-    "name": "lightbulb",
+    "name": "ampoule idee",
     "svg": "lightbulb.svg"
   },
   {
-    "name": "monter",
+    "name": "lien chaine maillon",
     "svg": "link.svg"
   },
   {
-    "name": "lips",
+    "name": "levres",
     "svg": "lips.svg"
   },
   {
-    "name": "lire augure preuve temoignage signal signe signer",
+    "name": "lire italie",
     "svg": "lira-sign.svg"
   },
   {
-    "name": "liste alt",
+    "name": "liste",
     "svg": "list-alt.svg"
   },
   {
@@ -4612,91 +4611,91 @@
     "svg": "list.svg"
   },
   {
-    "name": "destination endroit lieu localite place fleche",
+    "name": "direction fleche",
     "svg": "location-arrow.svg"
   },
   {
-    "name": "destination endroit lieu localite place cercle rond ronde",
+    "name": "direction fleche",
     "svg": "location-circle.svg"
   },
   {
-    "name": "destination endroit lieu localite place slash",
+    "name": "direction fleche barree",
     "svg": "location-slash.svg"
   },
   {
-    "name": "destination endroit lieu localite place",
+    "name": "direction fleche",
     "svg": "location.svg"
   },
   {
-    "name": "ecluse serrure fermer fermer cle alt",
+    "name": "verrou serrure fermer clef",
     "svg": "lock-alt.svg"
   },
   {
-    "name": "ecluse serrure fermer fermer cle ouvrir alt",
+    "name": "verrou serrure ouvrir clef",
     "svg": "lock-open-alt.svg"
   },
   {
-    "name": "ecluse serrure fermer fermer cle ouvrir",
+    "name": "verrou serrure ouvrir clef",
     "svg": "lock-open.svg"
   },
   {
-    "name": "ecluse serrure fermer fermer cle",
+    "name": "verrou serrure fermer clef",
     "svg": "lock.svg"
   },
   {
-    "name": "long longtemps longuement fleche alt duvet",
+    "name": "fleche bas",
     "svg": "long-arrow-alt-down.svg"
   },
   {
-    "name": "long longtemps longuement fleche alt gauche",
+    "name": "fleche gauche",
     "svg": "long-arrow-alt-left.svg"
   },
   {
-    "name": "long longtemps longuement fleche alt droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "long-arrow-alt-right.svg"
   },
   {
-    "name": "long longtemps longuement fleche alt",
+    "name": "fleche haut",
     "svg": "long-arrow-alt-up.svg"
   },
   {
-    "name": "long longtemps longuement fleche duvet",
+    "name": "fleche bas",
     "svg": "long-arrow-down.svg"
   },
   {
-    "name": "long longtemps longuement fleche gauche",
+    "name": "fleche gauche",
     "svg": "long-arrow-left.svg"
   },
   {
-    "name": "long longtemps longuement fleche droit vrai raison exact juste proprement",
+    "name": "fleche droit",
     "svg": "long-arrow-right.svg"
   },
   {
-    "name": "long longtemps longuement fleche",
+    "name": "fleche haut",
     "svg": "long-arrow-up.svg"
   },
   {
-    "name": "loveseat",
+    "name": "fauteuil",
     "svg": "loveseat.svg"
   },
   {
-    "name": "abject lache vision",
+    "name": "vue vision handicap",
     "svg": "low-vision.svg"
   },
   {
-    "name": "luchador",
+    "name": "luchador lutte masque",
     "svg": "luchador.svg"
   },
   {
-    "name": "bagage colis char chariot charrette",
+    "name": "bagage colis chariot caddie",
     "svg": "luggage-cart.svg"
   },
   {
-    "name": "lungs",
+    "name": "poumons respiration air",
     "svg": "lungs.svg"
   },
   {
-    "name": "mace",
+    "name": "masse",
     "svg": "mace.svg"
   },
   {
@@ -4704,15 +4703,15 @@
     "svg": "magic.svg"
   },
   {
-    "name": "magnet",
+    "name": "aimant magnetique",
     "svg": "magnet.svg"
   },
   {
-    "name": "courrier poste ampleur grandeur importance taille",
+    "name": "courrier poste enveloppe",
     "svg": "mail-bulk.svg"
   },
   {
-    "name": "male",
+    "name": "male homme masculin",
     "svg": "male.svg"
   },
   {
@@ -4720,95 +4719,95 @@
     "svg": "mandolin.svg"
   },
   {
-    "name": "carte plan marked alt",
+    "name": "carte plan localisation gps",
     "svg": "map-marked-alt.svg"
   },
   {
-    "name": "carte plan marked",
+    "name": "carte plan localisation gps",
     "svg": "map-marked.svg"
   },
   {
-    "name": "carte plan marker alt slash",
+    "name": "carte plan localisation gps barree",
     "svg": "map-marker-alt-slash.svg"
   },
   {
-    "name": "carte plan marker alt",
+    "name": "carte plan localisation gps",
     "svg": "map-marker-alt.svg"
   },
   {
-    "name": "carte plan marker reprimer retenir bride surveiller verifier cheque",
+    "name": "carte plan localisation gps",
     "svg": "map-marker-check.svg"
   },
   {
-    "name": "carte plan marker rediger",
+    "name": "carte plan localisation gps",
     "svg": "map-marker-edit.svg"
   },
   {
-    "name": "carte plan marker exclamation",
+    "name": "carte plan localisation gps",
     "svg": "map-marker-exclamation.svg"
   },
   {
-    "name": "carte plan marker moins",
+    "name": "carte plan localisation gps",
     "svg": "map-marker-minus.svg"
   },
   {
-    "name": "carte plan marker plus",
+    "name": "carte plan localisation gps",
     "svg": "map-marker-plus.svg"
   },
   {
-    "name": "carte plan marker question contester disputer",
+    "name": "carte plan localisation gps",
     "svg": "map-marker-question.svg"
   },
   {
-    "name": "carte plan marker slash",
+    "name": "carte plan localisation gps barree",
     "svg": "map-marker-slash.svg"
   },
   {
-    "name": "carte plan marker sourire",
+    "name": "carte plan localisation gps",
     "svg": "map-marker-smile.svg"
   },
   {
-    "name": "carte plan marker ti",
+    "name": "carte plan localisation gps",
     "svg": "map-marker-times.svg"
   },
   {
-    "name": "carte plan marker",
+    "name": "carte plan localisation gps",
     "svg": "map-marker.svg"
   },
   {
-    "name": "carte plan epingle",
+    "name": "carte plan localisation gps pin",
     "svg": "map-pin.svg"
   },
   {
-    "name": "carte plan signs",
+    "name": "carte plan panneau direction",
     "svg": "map-signs.svg"
   },
   {
-    "name": "carte plan",
+    "name": "carte plan localisation gps",
     "svg": "map.svg"
   },
   {
-    "name": "marker",
+    "name": "stylo feutre",
     "svg": "marker.svg"
   },
   {
-    "name": "mars double redoubler",
+    "name": "mars homme",
     "svg": "mars-double.svg"
   },
   {
-    "name": "mars apoplexie caresser caresse raie rayure",
+    "name": "mars homme",
     "svg": "mars-stroke-h.svg"
   },
   {
-    "name": "mars apoplexie caresser caresse raie rayure",
+    "name": "mars homme",
     "svg": "mars-stroke-v.svg"
   },
   {
-    "name": "mars apoplexie caresser caresse raie rayure",
+    "name": "mars homme",
     "svg": "mars-stroke.svg"
   },
   {
-    "name": "mars",
+    "name": "mars homme",
     "svg": "mars.svg"
   },
   {
@@ -4816,11 +4815,11 @@
     "svg": "mask.svg"
   },
   {
-    "name": "medaille",
+    "name": "medaille honneur decoration",
     "svg": "medal.svg"
   },
   {
-    "name": "medkit",
+    "name": "medical kit",
     "svg": "medkit.svg"
   },
   {
@@ -4828,19 +4827,19 @@
     "svg": "megaphone.svg"
   },
   {
-    "name": "meh blanc formulaire",
+    "name": "face meh surpris omg",
     "svg": "meh-blank.svg"
   },
   {
-    "name": "meh rolling eyes",
+    "name": "face meh surpris omg",
     "svg": "meh-rolling-eyes.svg"
   },
   {
-    "name": "meh",
+    "name": "face meh surpris omg",
     "svg": "meh.svg"
   },
   {
-    "name": "memoire",
+    "name": "memoire ram barette",
     "svg": "memory.svg"
   },
   {
@@ -4852,23 +4851,23 @@
     "svg": "mercury.svg"
   },
   {
-    "name": "meteor",
+    "name": "meteorite",
     "svg": "meteor.svg"
   },
   {
-    "name": "microchip",
+    "name": "micro processeur",
     "svg": "microchip.svg"
   },
   {
-    "name": "microphone alt slash",
+    "name": "microphone barree",
     "svg": "microphone-alt-slash.svg"
   },
   {
-    "name": "microphone alt",
+    "name": "microphone",
     "svg": "microphone-alt.svg"
   },
   {
-    "name": "microphone slash",
+    "name": "microphone barree",
     "svg": "microphone-slash.svg"
   },
   {
@@ -4880,23 +4879,23 @@
     "svg": "microscope.svg"
   },
   {
-    "name": "esprit observer action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi",
+    "name": "esprit partage idee",
     "svg": "mind-share.svg"
   },
   {
-    "name": "moins cercle rond ronde",
+    "name": "moins",
     "svg": "minus-circle.svg"
   },
   {
-    "name": "moins hexagon",
+    "name": "moins hexagone",
     "svg": "minus-hexagon.svg"
   },
   {
-    "name": "moins octagon",
+    "name": "moins octogone",
     "svg": "minus-octagon.svg"
   },
   {
-    "name": "moins droit rectangle esplanade place rond‐point",
+    "name": "moins",
     "svg": "minus-square.svg"
   },
   {
@@ -4904,47 +4903,47 @@
     "svg": "minus.svg"
   },
   {
-    "name": "mobile mobilier alt",
+    "name": "mobile smartphone",
     "svg": "mobile-alt.svg"
   },
   {
-    "name": "mobile mobilier android alt",
+    "name": "mobile smartphone android",
     "svg": "mobile-android-alt.svg"
   },
   {
-    "name": "mobile mobilier android",
+    "name": "mobile smartphone android",
     "svg": "mobile-android.svg"
   },
   {
-    "name": "mobile mobilier",
+    "name": "mobile smartphone",
     "svg": "mobile.svg"
   },
   {
-    "name": "argent monnaie bec billet ticket facture addition note alt",
+    "name": "billet",
     "svg": "money-bill-alt.svg"
   },
   {
-    "name": "argent monnaie bec billet ticket facture addition note onde vague onduler agiter brandir alt",
+    "name": "billet",
     "svg": "money-bill-wave-alt.svg"
   },
   {
-    "name": "argent monnaie bec billet ticket facture addition note onde vague onduler agiter brandir",
+    "name": "billet",
     "svg": "money-bill-wave.svg"
   },
   {
-    "name": "argent monnaie bec billet ticket facture addition note",
+    "name": "billet",
     "svg": "money-bill.svg"
   },
   {
-    "name": "argent monnaie reprimer retenir bride surveiller verifier cheque alt",
+    "name": "billet",
     "svg": "money-check-alt.svg"
   },
   {
-    "name": "argent monnaie reprimer retenir bride surveiller verifier cheque",
+    "name": "billet",
     "svg": "money-check.svg"
   },
   {
-    "name": "monitor coeur proportion grade rang apprecier estimer evaluer taxer",
+    "name": "monitoring moniteur coeur battement cardiaque surveillance",
     "svg": "monitor-heart-rate.svg"
   },
   {
@@ -4956,11 +4955,11 @@
     "svg": "monument.svg"
   },
   {
-    "name": "lune brouiller confus trouble nuage",
+    "name": "lune nuage",
     "svg": "moon-cloud.svg"
   },
   {
-    "name": "lune stars",
+    "name": "lune etoile",
     "svg": "moon-stars.svg"
   },
   {
@@ -4968,7 +4967,7 @@
     "svg": "moon.svg"
   },
   {
-    "name": "mortar pistil",
+    "name": "pilon",
     "svg": "mortar-pestle.svg"
   },
   {
@@ -4984,11 +4983,11 @@
     "svg": "mountain.svg"
   },
   {
-    "name": "mountains",
+    "name": "mont montagne",
     "svg": "mountains.svg"
   },
   {
-    "name": "souris pointer",
+    "name": "souris curseur",
     "svg": "mouse-pointer.svg"
   },
   {
@@ -4996,23 +4995,23 @@
     "svg": "music.svg"
   },
   {
-    "name": "narwhal",
+    "name": "narval",
     "svg": "narwhal.svg"
   },
   {
-    "name": "filet reseau wired",
+    "name": "reseau",
     "svg": "network-wired.svg"
   },
   {
-    "name": "neuter",
+    "name": "neutre",
     "svg": "neuter.svg"
   },
   {
-    "name": "gazette journal quotidien",
+    "name": "gazette journal quotidien magazine",
     "svg": "newspaper.svg"
   },
   {
-    "name": "... pas pas egal",
+    "name": "egal different",
     "svg": "not-equal.svg"
   },
   {
@@ -5020,27 +5019,27 @@
     "svg": "notes-medical.svg"
   },
   {
-    "name": "chose objet bande collection ensemble troupe groupe",
+    "name": "grouper",
     "svg": "object-group.svg"
   },
   {
-    "name": "chose objet ungroup",
+    "name": "degrouper",
     "svg": "object-ungroup.svg"
   },
   {
-    "name": "octagon",
+    "name": "octogone",
     "svg": "octagon.svg"
   },
   {
-    "name": "huile can",
+    "name": "huile bidon",
     "svg": "oil-can.svg"
   },
   {
-    "name": "huile temp",
+    "name": "huile temperature",
     "svg": "oil-temp.svg"
   },
   {
-    "name": "",
+    "name": "om",
     "svg": "om.svg"
   },
   {
@@ -5048,23 +5047,23 @@
     "svg": "omega.svg"
   },
   {
-    "name": "otter",
+    "name": "loutre",
     "svg": "otter.svg"
   },
   {
-    "name": "outdent",
+    "name": "indenter",
     "svg": "outdent.svg"
   },
   {
-    "name": "couleur peinture peindre depeindre brosse alt",
+    "name": "pinceau",
     "svg": "paint-brush-alt.svg"
   },
   {
-    "name": "couleur peinture peindre depeindre brosse",
+    "name": "pinceau",
     "svg": "paint-brush.svg"
   },
   {
-    "name": "couleur peinture peindre depeindre cylindre",
+    "name": "rouleau pinceau",
     "svg": "paint-roller.svg"
   },
   {
@@ -5072,7 +5071,7 @@
     "svg": "palette.svg"
   },
   {
-    "name": "pallet alt",
+    "name": "pallet",
     "svg": "pallet-alt.svg"
   },
   {
@@ -5080,31 +5079,31 @@
     "svg": "pallet.svg"
   },
   {
-    "name": "document papier tapisser aeroplane avion planer plan projet platane rabot",
+    "name": "avion papier",
     "svg": "paper-plane.svg"
   },
   {
-    "name": "paperclip",
+    "name": "trombonne",
     "svg": "paperclip.svg"
   },
   {
-    "name": "parachute boxer bac caisse coffre boite coffret baquet",
+    "name": "parachute boite",
     "svg": "parachute-box.svg"
   },
   {
-    "name": "alinea",
+    "name": "paragraphe",
     "svg": "paragraph.svg"
   },
   {
-    "name": "parking cercle rond ronde slash",
+    "name": "parking",
     "svg": "parking-circle-slash.svg"
   },
   {
-    "name": "parking cercle rond ronde",
+    "name": "parking",
     "svg": "parking-circle.svg"
   },
   {
-    "name": "parking slash",
+    "name": "parking",
     "svg": "parking-slash.svg"
   },
   {
@@ -5116,35 +5115,35 @@
     "svg": "passport.svg"
   },
   {
-    "name": "pastafarianism",
+    "name": "pastafarisme",
     "svg": "pastafarianism.svg"
   },
   {
-    "name": "agglutiner coller pate",
+    "name": "coller",
     "svg": "paste.svg"
   },
   {
-    "name": "pause repos treve cercle rond ronde",
+    "name": "pause",
     "svg": "pause-circle.svg"
   },
   {
-    "name": "pause repos treve",
+    "name": "pause",
     "svg": "pause.svg"
   },
   {
-    "name": "jambe alt",
+    "name": "patte",
     "svg": "paw-alt.svg"
   },
   {
-    "name": "jambe claws",
+    "name": "patte",
     "svg": "paw-claws.svg"
   },
   {
-    "name": "jambe",
+    "name": "patte",
     "svg": "paw.svg"
   },
   {
-    "name": "paix",
+    "name": "paix peace",
     "svg": "peace.svg"
   },
   {
@@ -5152,27 +5151,27 @@
     "svg": "pegasus.svg"
   },
   {
-    "name": "pen alt",
+    "name": "stylo",
     "svg": "pen-alt.svg"
   },
   {
-    "name": "pen imaginer rever eveille songer",
+    "name": "stylo plume",
     "svg": "pen-fancy.svg"
   },
   {
-    "name": "pen nib",
+    "name": "stylo plume",
     "svg": "pen-nib.svg"
   },
   {
-    "name": "pen droit rectangle esplanade place rond‐point",
+    "name": "stylo",
     "svg": "pen-square.svg"
   },
   {
-    "name": "pen",
+    "name": "stylo crayon",
     "svg": "pen.svg"
   },
   {
-    "name": "crayon alt",
+    "name": "crayon",
     "svg": "pencil-alt.svg"
   },
   {
@@ -5180,7 +5179,7 @@
     "svg": "pencil-paintbrush.svg"
   },
   {
-    "name": "crayon dominateur",
+    "name": "crayon regle",
     "svg": "pencil-ruler.svg"
   },
   {
@@ -5188,11 +5187,11 @@
     "svg": "pencil.svg"
   },
   {
-    "name": "pennant",
+    "name": "drapeau fanion",
     "svg": "pennant.svg"
   },
   {
-    "name": "gens peuple porter",
+    "name": "personnes porter",
     "svg": "people-carry.svg"
   },
   {
@@ -5204,51 +5203,51 @@
     "svg": "percentage.svg"
   },
   {
-    "name": "personnage personne individu booth",
+    "name": "personne individu isoloire",
     "svg": "person-booth.svg"
   },
   {
-    "name": "personnage personne individu porter",
+    "name": "personne individu porter",
     "svg": "person-carry.svg"
   },
   {
-    "name": "personnage personne individu dolly vide vider",
+    "name": "personne diable",
     "svg": "person-dolly-empty.svg"
   },
   {
-    "name": "personnage personne individu dolly",
+    "name": "personne diable",
     "svg": "person-dolly.svg"
   },
   {
-    "name": "personnage personne individu augure preuve temoignage signal signe signer",
+    "name": "personne manifestation panneau",
     "svg": "person-sign.svg"
   },
   {
-    "name": "phone bureau emploi fonction office service",
+    "name": "telephone",
     "svg": "phone-office.svg"
   },
   {
-    "name": "phone plus",
+    "name": "telephone",
     "svg": "phone-plus.svg"
   },
   {
-    "name": "phone slash",
+    "name": "telephone",
     "svg": "phone-slash.svg"
   },
   {
-    "name": "phone droit rectangle esplanade place rond‐point",
+    "name": "telephone",
     "svg": "phone-square.svg"
   },
   {
-    "name": "phone volume",
+    "name": "telephone volume",
     "svg": "phone-volume.svg"
   },
   {
-    "name": "phone",
+    "name": "telephone",
     "svg": "phone.svg"
   },
   {
-    "name": "",
+    "name": "pi",
     "svg": "pi.svg"
   },
   {
@@ -5260,59 +5259,59 @@
     "svg": "pig.svg"
   },
   {
-    "name": "piggy banque",
+    "name": "cochon tirelire",
     "svg": "piggy-bank.svg"
   },
   {
-    "name": "pills",
+    "name": "pilules medicaments drogue",
     "svg": "pills.svg"
   },
   {
-    "name": "adapter local place placer poser situer destination endroit lieu localite appliquer mettre adoration adorer",
+    "name": "culte prieres",
     "svg": "place-of-worship.svg"
   },
   {
-    "name": "aeroplane avion planer plan projet platane rabot alt",
+    "name": "avion",
     "svg": "plane-alt.svg"
   },
   {
-    "name": "aeroplane avion planer plan projet platane rabot arrivage arrivee venue fourniture ravitaillement",
+    "name": "avion",
     "svg": "plane-arrival.svg"
   },
   {
-    "name": "aeroplane avion planer plan projet platane rabot depart disparition",
+    "name": "avion vol depart decollage",
     "svg": "plane-departure.svg"
   },
   {
-    "name": "aeroplane avion planer plan projet platane rabot",
+    "name": "avion",
     "svg": "plane.svg"
   },
   {
-    "name": "jouer representer piece theatre cercle rond ronde",
+    "name": "jouer play musique",
     "svg": "play-circle.svg"
   },
   {
-    "name": "jouer representer piece theatre",
+    "name": "jouer play musique",
     "svg": "play.svg"
   },
   {
-    "name": "bougie bougie electrique bouchon prise courant male",
+    "name": "prise courant brancher",
     "svg": "plug.svg"
   },
   {
-    "name": "plus cercle rond ronde",
+    "name": "plus",
     "svg": "plus-circle.svg"
   },
   {
-    "name": "plus hexagon",
+    "name": "plus",
     "svg": "plus-hexagon.svg"
   },
   {
-    "name": "plus octagon",
+    "name": "plus",
     "svg": "plus-octagon.svg"
   },
   {
-    "name": "plus droit rectangle esplanade place rond‐point",
+    "name": "plus",
     "svg": "plus-square.svg"
   },
   {
@@ -5320,39 +5319,39 @@
     "svg": "plus.svg"
   },
   {
-    "name": "podcast",
+    "name": "podcast radio emission",
     "svg": "podcast.svg"
   },
   {
-    "name": "estrade astral etoile star vedette",
+    "name": "pupitre",
     "svg": "podium-star.svg"
   },
   {
-    "name": "estrade",
+    "name": "pupitre",
     "svg": "podium.svg"
   },
   {
-    "name": "poll",
+    "name": "sondage",
     "svg": "poll-h.svg"
   },
   {
-    "name": "poll gens peuple",
+    "name": "sondage",
     "svg": "poll-people.svg"
   },
   {
-    "name": "poll",
+    "name": "sondage",
     "svg": "poll.svg"
   },
   {
-    "name": "poo donner l'assaut orage tempete",
+    "name": "caca merde crotte",
     "svg": "poo-storm.svg"
   },
   {
-    "name": "poo",
+    "name": "caca merde crotte",
     "svg": "poo.svg"
   },
   {
-    "name": "poop",
+    "name": "caca merde crotte",
     "svg": "poop.svg"
   },
   {
@@ -5360,39 +5359,39 @@
     "svg": "portrait.svg"
   },
   {
-    "name": "broyer piler augure preuve temoignage signal signe signer",
+    "name": "livre sterling pound",
     "svg": "pound-sign.svg"
   },
   {
-    "name": "puissance off",
+    "name": "eteindre off",
     "svg": "power-off.svg"
   },
   {
-    "name": "prier",
+    "name": "priere",
     "svg": "pray.svg"
   },
   {
-    "name": "praying hands",
+    "name": "priere main",
     "svg": "praying-hands.svg"
   },
   {
-    "name": "recette ordonnance bouteille alt",
+    "name": "medicament",
     "svg": "prescription-bottle-alt.svg"
   },
   {
-    "name": "recette ordonnance bouteille",
+    "name": "medicament",
     "svg": "prescription-bottle.svg"
   },
   {
-    "name": "recette ordonnance",
+    "name": "ordonnance",
     "svg": "prescription.svg"
   },
   {
-    "name": "offre proposition representation seance",
+    "name": "presentation",
     "svg": "presentation.svg"
   },
   {
-    "name": "impression imprimer slash",
+    "name": "impression imprimer",
     "svg": "print-slash.svg"
   },
   {
@@ -5400,19 +5399,19 @@
     "svg": "print.svg"
   },
   {
-    "name": "procedures",
+    "name": "hopital surveillance cardiaque",
     "svg": "procedures.svg"
   },
   {
-    "name": "projeter une image projet figure plan projet",
+    "name": "projet diagramme",
     "svg": "project-diagram.svg"
   },
   {
-    "name": "potiron",
+    "name": "citrouille courge potiron",
     "svg": "pumpkin.svg"
   },
   {
-    "name": "enigme puzzle abasourdir confondre troubler consterner stupefier contingent part partie portion fragment morceau pan piece",
+    "name": "puzzle piece",
     "svg": "puzzle-piece.svg"
   },
   {
@@ -5420,35 +5419,35 @@
     "svg": "qrcode.svg"
   },
   {
-    "name": "question contester disputer cercle rond ronde",
+    "name": "question",
     "svg": "question-circle.svg"
   },
   {
-    "name": "question contester disputer droit rectangle esplanade place rond‐point",
+    "name": "question",
     "svg": "question-square.svg"
   },
   {
-    "name": "question contester disputer",
+    "name": "question",
     "svg": "question.svg"
   },
   {
-    "name": "quidditch",
+    "name": "quidditch potter",
     "svg": "quidditch.svg"
   },
   {
-    "name": "citer rapporter propos guillemet gauche",
+    "name": "citer citation rapporter propos guillemet",
     "svg": "quote-left.svg"
   },
   {
-    "name": "citer rapporter propos guillemet droit vrai raison exact juste proprement",
+    "name": "citer citation rapporter propos guillemet",
     "svg": "quote-right.svg"
   },
   {
-    "name": "quran",
+    "name": "coran islam",
     "svg": "quran.svg"
   },
   {
-    "name": "lapin jeuner ferme prompt rapide rapidement vite",
+    "name": "lapin rapide",
     "svg": "rabbit-fast.svg"
   },
   {
@@ -5456,15 +5455,15 @@
     "svg": "rabbit.svg"
   },
   {
-    "name": "racquet",
+    "name": "tennis raquette",
     "svg": "racquet.svg"
   },
   {
-    "name": "arc‐en‐ciel",
+    "name": "arc ciel rainbow",
     "svg": "rainbow.svg"
   },
   {
-    "name": "raindrops",
+    "name": "goutte pluie eau",
     "svg": "raindrops.svg"
   },
   {
@@ -5472,35 +5471,35 @@
     "svg": "ram.svg"
   },
   {
-    "name": "ramp loading",
+    "name": "rampe chargement",
     "svg": "ramp-loading.svg"
   },
   {
-    "name": "accidentel",
+    "name": "random hasard",
     "svg": "random.svg"
   },
   {
-    "name": "quittance recu accuse reception acquit",
+    "name": "quittance recu ticket",
     "svg": "receipt.svg"
   },
   {
-    "name": "rectangle paysage",
+    "name": "paysage",
     "svg": "rectangle-landscape.svg"
   },
   {
-    "name": "rectangle portrait",
+    "name": "portrait",
     "svg": "rectangle-portrait.svg"
   },
   {
-    "name": "rectangle ample etendu large",
+    "name": "paysage large",
     "svg": "rectangle-wide.svg"
   },
   {
-    "name": "recycle",
+    "name": "recycler recyclage ecologie",
     "svg": "recycle.svg"
   },
   {
-    "name": "redo alt",
+    "name": "redo",
     "svg": "redo-alt.svg"
   },
   {
@@ -5508,43 +5507,43 @@
     "svg": "redo.svg"
   },
   {
-    "name": "recommande",
+    "name": "registered droit auteur",
     "svg": "registered.svg"
   },
   {
-    "name": "redire repeter alt",
+    "name": "repeter",
     "svg": "repeat-1-alt.svg"
   },
   {
-    "name": "redire repeter",
+    "name": "repeter",
     "svg": "repeat-1.svg"
   },
   {
-    "name": "redire repeter alt",
+    "name": "repeter",
     "svg": "repeat-alt.svg"
   },
   {
-    "name": "redire repeter",
+    "name": "repeter",
     "svg": "repeat.svg"
   },
   {
-    "name": "correspondre respondre reponse tout toute espece toute sorte toutes fois tout monde",
+    "name": "repondre reponse email",
     "svg": "reply-all.svg"
   },
   {
-    "name": "correspondre respondre reponse",
+    "name": "repondre reponse email",
     "svg": "reply.svg"
   },
   {
-    "name": "republican",
+    "name": "republicain",
     "svg": "republican.svg"
   },
   {
-    "name": "retweet alt",
+    "name": "retweeter tweeter",
     "svg": "retweet-alt.svg"
   },
   {
-    "name": "retweet",
+    "name": "retweeter tweeter",
     "svg": "retweet.svg"
   },
   {
@@ -5552,71 +5551,71 @@
     "svg": "ribbon.svg"
   },
   {
-    "name": "anneau bague sonner tinter sonner porte",
+    "name": "anneau bague marriage",
     "svg": "ring.svg"
   },
   {
-    "name": "chemin route voie",
+    "name": "chemin route voie rue",
     "svg": "road.svg"
   },
   {
-    "name": "robot",
+    "name": "robot droid face",
     "svg": "robot.svg"
   },
   {
-    "name": "fusee",
+    "name": "fusee espace",
     "svg": "rocket.svg"
   },
   {
-    "name": "chemin route voie itineraire chaussee route",
+    "name": "highway",
     "svg": "route-highway.svg"
   },
   {
-    "name": "chemin route voie itineraire interstate",
+    "name": "interstate",
     "svg": "route-interstate.svg"
   },
   {
-    "name": "chemin route voie itineraire",
+    "name": "itineraire gps",
     "svg": "route.svg"
   },
   {
-    "name": "rss droit rectangle esplanade place rond‐point",
+    "name": "rss blog",
     "svg": "rss-square.svg"
   },
   {
-    "name": "rss",
+    "name": "rss blog",
     "svg": "rss.svg"
   },
   {
-    "name": "ruble augure preuve temoignage signal signe signer",
+    "name": "rouble",
     "svg": "ruble-sign.svg"
   },
   {
-    "name": "dominateur combined",
+    "name": "regle equerre",
     "svg": "ruler-combined.svg"
   },
   {
-    "name": "dominateur horizontal",
+    "name": "regle",
     "svg": "ruler-horizontal.svg"
   },
   {
-    "name": "dominateur triangle",
+    "name": "regle equerre",
     "svg": "ruler-triangle.svg"
   },
   {
-    "name": "dominateur vertical",
+    "name": "regle",
     "svg": "ruler-vertical.svg"
   },
   {
-    "name": "dominateur",
+    "name": "regle",
     "svg": "ruler.svg"
   },
   {
-    "name": "running",
+    "name": "course running",
     "svg": "running.svg"
   },
   {
-    "name": "rupee augure preuve temoignage signal signe signer",
+    "name": "roupie",
     "svg": "rupee-sign.svg"
   },
   {
@@ -5624,15 +5623,15 @@
     "svg": "sad-cry.svg"
   },
   {
-    "name": "afflige desole peine triste maussade sombre larme pleur dechirer",
+    "name": "face pleure",
     "svg": "sad-tear.svg"
   },
   {
-    "name": "preserver sauver economiser epargner",
+    "name": "disquette sauvegarder",
     "svg": "save.svg"
   },
   {
-    "name": "scalpel chemin piste sentier",
+    "name": "scalpel couper",
     "svg": "scalpel-path.svg"
   },
   {
@@ -5640,23 +5639,23 @@
     "svg": "scalpel.svg"
   },
   {
-    "name": "scanner clavier",
+    "name": "scanner code bar",
     "svg": "scanner-keyboard.svg"
   },
   {
-    "name": "scanner touchscreen",
+    "name": "scanner code bar",
     "svg": "scanner-touchscreen.svg"
   },
   {
-    "name": "scanner",
+    "name": "scanner code bar",
     "svg": "scanner.svg"
   },
   {
-    "name": "scarecrow",
+    "name": "epouvantail",
     "svg": "scarecrow.svg"
   },
   {
-    "name": "ecole",
+    "name": "ecole -ecole-",
     "svg": "school.svg"
   },
   {
@@ -5664,11 +5663,11 @@
     "svg": "screwdriver.svg"
   },
   {
-    "name": "scroll vieux olda ancien",
+    "name": "parchemin feuille",
     "svg": "scroll-old.svg"
   },
   {
-    "name": "scroll",
+    "name": "parchemin feuille",
     "svg": "scroll.svg"
   },
   {
@@ -5676,59 +5675,59 @@
     "svg": "scrubber.svg"
   },
   {
-    "name": "faux",
+    "name": "faux mort",
     "svg": "scythe.svg"
   },
   {
-    "name": "recherche dollar",
+    "name": "loupe",
     "svg": "search-dollar.svg"
   },
   {
-    "name": "recherche destination endroit lieu localite place",
+    "name": "loupe",
     "svg": "search-location.svg"
   },
   {
-    "name": "recherche moins",
+    "name": "loupe",
     "svg": "search-minus.svg"
   },
   {
-    "name": "recherche plus",
+    "name": "loupe",
     "svg": "search-plus.svg"
   },
   {
-    "name": "recherche",
+    "name": "loupe",
     "svg": "search.svg"
   },
   {
-    "name": "seedling",
+    "name": "pousser planter",
     "svg": "seedling.svg"
   },
   {
-    "name": "server",
+    "name": "serveur",
     "svg": "server.svg"
   },
   {
-    "name": "shapes",
+    "name": "formes geometrique",
     "svg": "shapes.svg"
   },
   {
-    "name": "action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi tout toute espece toute sorte toutes fois tout monde",
+    "name": "partager",
     "svg": "share-all.svg"
   },
   {
-    "name": "action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi alt droit rectangle esplanade place rond‐point",
+    "name": "partager",
     "svg": "share-alt-square.svg"
   },
   {
-    "name": "action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi alt",
+    "name": "partager",
     "svg": "share-alt.svg"
   },
   {
-    "name": "action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi droit rectangle esplanade place rond‐point",
+    "name": "partager",
     "svg": "share-square.svg"
   },
   {
-    "name": "action debiter diviser partager part partie participer p part contingent portion ration parti aux benefi participation aux benefi",
+    "name": "partager",
     "svg": "share.svg"
   },
   {
@@ -5736,55 +5735,55 @@
     "svg": "sheep.svg"
   },
   {
-    "name": "shekel augure preuve temoignage signal signe signer",
+    "name": "shekel",
     "svg": "shekel-sign.svg"
   },
   {
-    "name": "enseigne alt",
+    "name": "bouclier",
     "svg": "shield-alt.svg"
   },
   {
-    "name": "enseigne reprimer retenir bride surveiller verifier cheque",
+    "name": "bouclier",
     "svg": "shield-check.svg"
   },
   {
-    "name": "enseigne croiser croix maussade passer depasser",
+    "name": "bouclier",
     "svg": "shield-cross.svg"
   },
   {
-    "name": "enseigne",
+    "name": "bouclier",
     "svg": "shield.svg"
   },
   {
-    "name": "expedier bateau navire",
+    "name": "bateau navire",
     "svg": "ship.svg"
   },
   {
-    "name": "shipping jeuner ferme prompt rapide rapidement vite",
+    "name": "livrer livraison rapide",
     "svg": "shipping-fast.svg"
   },
   {
-    "name": "shipping timed",
+    "name": "livrer livraison",
     "svg": "shipping-timed.svg"
   },
   {
-    "name": "chaussure soulier prints",
+    "name": "chaussures pas marche",
     "svg": "shoe-prints.svg"
   },
   {
-    "name": "shopping bag",
+    "name": "achat sac",
     "svg": "shopping-bag.svg"
   },
   {
-    "name": "shopping corbeille panier",
+    "name": "achat panier",
     "svg": "shopping-basket.svg"
   },
   {
-    "name": "shopping char chariot charrette",
+    "name": "achat chariot caddie",
     "svg": "shopping-cart.svg"
   },
   {
-    "name": "pelleter pelle",
+    "name": "pelle",
     "svg": "shovel.svg"
   },
   {
@@ -5792,15 +5791,15 @@
     "svg": "shower.svg"
   },
   {
-    "name": "shredder",
+    "name": "destructeur documents",
     "svg": "shredder.svg"
   },
   {
-    "name": "shuttle van",
+    "name": "camionnette van",
     "svg": "shuttle-van.svg"
   },
   {
-    "name": "shuttlecock",
+    "name": "volant",
     "svg": "shuttlecock.svg"
   },
   {
@@ -5808,71 +5807,71 @@
     "svg": "sigma.svg"
   },
   {
-    "name": "augure preuve temoignage signal signe signer milie dans alt",
+    "name": "connexion signin",
     "svg": "sign-in-alt.svg"
   },
   {
-    "name": "augure preuve temoignage signal signe signer milie dans",
+    "name": "connexion signin",
     "svg": "sign-in.svg"
   },
   {
-    "name": "augure preuve temoignage signal signe signer langue",
+    "name": "langage signes sourd handicap",
     "svg": "sign-language.svg"
   },
   {
-    "name": "augure preuve temoignage signal signe signer dehors alt",
+    "name": "deconnexion signout",
     "svg": "sign-out-alt.svg"
   },
   {
-    "name": "augure preuve temoignage signal signe signer dehors",
+    "name": "deconnexion signout",
     "svg": "sign-out.svg"
   },
   {
-    "name": "augure preuve temoignage signal signe signer",
+    "name": "panneau signe pancarte ecritaux",
     "svg": "sign.svg"
   },
   {
-    "name": "signaler signal signe temoignage",
+    "name": "signal 1",
     "svg": "signal-1.svg"
   },
   {
-    "name": "signaler signal signe temoignage",
+    "name": "signal 2",
     "svg": "signal-2.svg"
   },
   {
-    "name": "signaler signal signe temoignage",
+    "name": "signal 3",
     "svg": "signal-3.svg"
   },
   {
-    "name": "signaler signal signe temoignage",
+    "name": "signal 4",
     "svg": "signal-4.svg"
   },
   {
-    "name": "signaler signal signe temoignage alt",
+    "name": "signal 1",
     "svg": "signal-alt-1.svg"
   },
   {
-    "name": "signaler signal signe temoignage alt",
+    "name": "signal 2",
     "svg": "signal-alt-2.svg"
   },
   {
-    "name": "signaler signal signe temoignage alt",
+    "name": "signal 3",
     "svg": "signal-alt-3.svg"
   },
   {
-    "name": "signaler signal signe temoignage alt slash",
+    "name": "signal",
     "svg": "signal-alt-slash.svg"
   },
   {
-    "name": "signaler signal signe temoignage alt",
+    "name": "signal",
     "svg": "signal-alt.svg"
   },
   {
-    "name": "signaler signal signe temoignage slash",
+    "name": "signal",
     "svg": "signal-slash.svg"
   },
   {
-    "name": "signaler signal signe temoignage",
+    "name": "signal",
     "svg": "signal.svg"
   },
   {
@@ -5880,7 +5879,7 @@
     "svg": "signature.svg"
   },
   {
-    "name": "sitemap",
+    "name": "sitemap diagramme",
     "svg": "sitemap.svg"
   },
   {
@@ -5888,19 +5887,19 @@
     "svg": "skeleton.svg"
   },
   {
-    "name": "crane crossbones",
+    "name": "crane face danger",
     "svg": "skull-crossbones.svg"
   },
   {
-    "name": "crane",
+    "name": "crane face",
     "svg": "skull.svg"
   },
   {
-    "name": "slash",
+    "name": "barree",
     "svg": "slash.svg"
   },
   {
-    "name": "sliders droit rectangle esplanade place rond‐point",
+    "name": "sliders",
     "svg": "sliders-h-square.svg"
   },
   {
@@ -5908,7 +5907,7 @@
     "svg": "sliders-h.svg"
   },
   {
-    "name": "sliders droit rectangle esplanade place rond‐point",
+    "name": "sliders",
     "svg": "sliders-v-square.svg"
   },
   {
@@ -5916,23 +5915,23 @@
     "svg": "sliders-v.svg"
   },
   {
-    "name": "sourire rayon poutre",
+    "name": "face sourire",
     "svg": "smile-beam.svg"
   },
   {
-    "name": "sourire plus",
+    "name": "face sourire",
     "svg": "smile-plus.svg"
   },
   {
-    "name": "sourire wink",
+    "name": "face sourire clin oeil",
     "svg": "smile-wink.svg"
   },
   {
-    "name": "sourire",
+    "name": "face sourire",
     "svg": "smile.svg"
   },
   {
-    "name": "smog",
+    "name": "brouillard pollution",
     "svg": "smog.svg"
   },
   {
@@ -5940,11 +5939,11 @@
     "svg": "smoke.svg"
   },
   {
-    "name": "smoking anatheme",
+    "name": "fumer cigarette clope tabac",
     "svg": "smoking-ban.svg"
   },
   {
-    "name": "smoking",
+    "name": "fumer cigarette clope tabac",
     "svg": "smoking.svg"
   },
   {
@@ -5952,7 +5951,7 @@
     "svg": "snake.svg"
   },
   {
-    "name": "neiger neige blowing",
+    "name": "neiger neige tempete",
     "svg": "snow-blowing.svg"
   },
   {
@@ -5960,67 +5959,67 @@
     "svg": "snowflake.svg"
   },
   {
-    "name": "socks",
+    "name": "chaussettes",
     "svg": "socks.svg"
   },
   {
-    "name": "solar lambris panneau",
+    "name": "solair panneau electricite",
     "svg": "solar-panel.svg"
   },
   {
-    "name": "acabit espece genre sort alpha duvet",
+    "name": "tri alphabetique",
     "svg": "sort-alpha-down.svg"
   },
   {
-    "name": "acabit espece genre sort alpha",
+    "name": "tri alphabetique",
     "svg": "sort-alpha-up.svg"
   },
   {
-    "name": "acabit espece genre sort nombre montant somme duvet",
+    "name": "tri",
     "svg": "sort-amount-down.svg"
   },
   {
-    "name": "acabit espece genre sort nombre montant somme",
+    "name": "tri",
     "svg": "sort-amount-up.svg"
   },
   {
-    "name": "acabit espece genre sort duvet",
+    "name": "tri fleche bas",
     "svg": "sort-down.svg"
   },
   {
-    "name": "acabit espece genre sort numeric duvet",
+    "name": "tri",
     "svg": "sort-numeric-down.svg"
   },
   {
-    "name": "acabit espece genre sort numeric",
+    "name": "tri",
     "svg": "sort-numeric-up.svg"
   },
   {
-    "name": "acabit espece genre sort",
+    "name": "tri fleche haut",
     "svg": "sort-up.svg"
   },
   {
-    "name": "acabit espece genre sort",
+    "name": "tri",
     "svg": "sort.svg"
   },
   {
-    "name": "spa",
+    "name": "spa thermal",
     "svg": "spa.svg"
   },
   {
-    "name": "espace shuttle",
+    "name": "espace navette spatiale shuttle",
     "svg": "space-shuttle.svg"
   },
   {
-    "name": "creuser beche",
+    "name": "pic pocker",
     "svg": "spade.svg"
   },
   {
-    "name": "araignee brun noir veuve",
+    "name": "araignee",
     "svg": "spider-black-widow.svg"
   },
   {
-    "name": "araignee web",
+    "name": "araignee toile",
     "svg": "spider-web.svg"
   },
   {
@@ -6028,7 +6027,7 @@
     "svg": "spider.svg"
   },
   {
-    "name": "spinner tiers",
+    "name": "spinner",
     "svg": "spinner-third.svg"
   },
   {
@@ -6036,27 +6035,27 @@
     "svg": "spinner.svg"
   },
   {
-    "name": "splotch",
+    "name": "tache",
     "svg": "splotch.svg"
   },
   {
-    "name": "spray can",
+    "name": "aerosol vaporisateur parfum deodorant spray",
     "svg": "spray-can.svg"
   },
   {
-    "name": "droit rectangle esplanade place rond‐point complet entier rassasie",
+    "name": "carre",
     "svg": "square-full.svg"
   },
   {
-    "name": "droit rectangle esplanade place rond‐point racine alt",
+    "name": "racine",
     "svg": "square-root-alt.svg"
   },
   {
-    "name": "droit rectangle esplanade place rond‐point racine",
+    "name": "racine",
     "svg": "square-root.svg"
   },
   {
-    "name": "droit rectangle esplanade place rond‐point",
+    "name": "carre",
     "svg": "square.svg"
   },
   {
@@ -6064,55 +6063,55 @@
     "svg": "squirrel.svg"
   },
   {
-    "name": "staff",
+    "name": "baton",
     "svg": "staff.svg"
   },
   {
-    "name": "timbre timbre‐poste estampiller",
+    "name": "tamponner",
     "svg": "stamp.svg"
   },
   {
-    "name": "astral etoile star vedette crescent",
+    "name": "etoile croissant -etocro-",
     "svg": "star-and-crescent.svg"
   },
   {
-    "name": "astral etoile star vedette exclamation",
+    "name": "etoile",
     "svg": "star-exclamation.svg"
   },
   {
-    "name": "astral etoile star vedette demi moitie alt",
+    "name": "etoile",
     "svg": "star-half-alt.svg"
   },
   {
-    "name": "astral etoile star vedette demi moitie",
+    "name": "etoile",
     "svg": "star-half.svg"
   },
   {
-    "name": "astral etoile star vedette david",
+    "name": "etoile david",
     "svg": "star-of-david.svg"
   },
   {
-    "name": "astral etoile star vedette vie",
+    "name": "etoile fleur vie",
     "svg": "star-of-life.svg"
   },
   {
-    "name": "astral etoile star vedette",
+    "name": "etoile",
     "svg": "star.svg"
   },
   {
-    "name": "stars",
+    "name": "etoiles",
     "svg": "stars.svg"
   },
   {
-    "name": "direction roue",
+    "name": "volant",
     "svg": "steering-wheel.svg"
   },
   {
-    "name": "faire cent pas pas marche backward",
+    "name": "fleche arriere retour",
     "svg": "step-backward.svg"
   },
   {
-    "name": "faire cent pas pas marche forward",
+    "name": "fleche avant suivant",
     "svg": "step-forward.svg"
   },
   {
@@ -6120,7 +6119,7 @@
     "svg": "stethoscope.svg"
   },
   {
-    "name": "sticky billet ticket noter note",
+    "name": "note message memo postit",
     "svg": "sticky-note.svg"
   },
   {
@@ -6128,43 +6127,43 @@
     "svg": "stomach.svg"
   },
   {
-    "name": "halte s'arreter gare station cesser arreter faire cesser interrompre terminer cercle rond ronde",
+    "name": "stop",
     "svg": "stop-circle.svg"
   },
   {
-    "name": "halte s'arreter gare station cesser arreter faire cesser interrompre terminer",
+    "name": "stop",
     "svg": "stop.svg"
   },
   {
-    "name": "stopwatch",
+    "name": "chronometre",
     "svg": "stopwatch.svg"
   },
   {
-    "name": "boutique magasin enlever oter alt",
+    "name": "boutique magasin",
     "svg": "store-alt.svg"
   },
   {
-    "name": "boutique magasin enlever oter",
+    "name": "boutique magasin",
     "svg": "store.svg"
   },
   {
-    "name": "courant ruisseau",
+    "name": "fil",
     "svg": "stream.svg"
   },
   {
-    "name": "rue air allure apparence aspect spectacle contempler panorama vue regarder",
+    "name": "streetview",
     "svg": "street-view.svg"
   },
   {
-    "name": "strikethrough",
+    "name": "barre",
     "svg": "strikethrough.svg"
   },
   {
-    "name": "stroopwafel",
+    "name": "gaufre stroopwafel",
     "svg": "stroopwafel.svg"
   },
   {
-    "name": "subscript",
+    "name": "indice subscript",
     "svg": "subscript.svg"
   },
   {
@@ -6172,7 +6171,7 @@
     "svg": "subway.svg"
   },
   {
-    "name": "valise rolling",
+    "name": "valise",
     "svg": "suitcase-rolling.svg"
   },
   {
@@ -6180,55 +6179,55 @@
     "svg": "suitcase.svg"
   },
   {
-    "name": "ensoleille soleil brouiller confus trouble nuage",
+    "name": "soleil nuage",
     "svg": "sun-cloud.svg"
   },
   {
-    "name": "ensoleille soleil poussiere",
+    "name": "soleil poussiere",
     "svg": "sun-dust.svg"
   },
   {
-    "name": "ensoleille soleil chicaner",
+    "name": "ensoleille brouillard",
     "svg": "sun-haze.svg"
   },
   {
-    "name": "ensoleille soleil",
+    "name": "soleil",
     "svg": "sun.svg"
   },
   {
-    "name": "sunrise",
+    "name": "leve soleil reveil",
     "svg": "sunrise.svg"
   },
   {
-    "name": "sunset",
+    "name": "couche soleil",
     "svg": "sunset.svg"
   },
   {
-    "name": "superscript",
+    "name": "exposant superscript",
     "svg": "superscript.svg"
   },
   {
-    "name": "surp surprise",
+    "name": "face surprise",
     "svg": "surprise.svg"
   },
   {
-    "name": "swatchbook",
+    "name": "nuancier",
     "svg": "swatchbook.svg"
   },
   {
-    "name": "swimmer",
+    "name": "natation nageur nageuse",
     "svg": "swimmer.svg"
   },
   {
-    "name": "swimming s'accoupler piscine",
+    "name": "piscine",
     "svg": "swimming-pool.svg"
   },
   {
-    "name": "sword",
+    "name": "epee",
     "svg": "sword.svg"
   },
   {
-    "name": "swords",
+    "name": "epees",
     "svg": "swords.svg"
   },
   {
@@ -6236,91 +6235,91 @@
     "svg": "synagogue.svg"
   },
   {
-    "name": "sync alt",
+    "name": "sync",
     "svg": "sync-alt.svg"
   },
   {
-    "name": "sync",
+    "name": "synchroniser synchronisation",
     "svg": "sync.svg"
   },
   {
-    "name": "syringe",
+    "name": "seringue sang drogue",
     "svg": "syringe.svg"
   },
   {
-    "name": "liste tableau table tennis",
+    "name": "tennis ping pong pingpong",
     "svg": "table-tennis.svg"
   },
   {
-    "name": "liste tableau table",
+    "name": "tableau tableur",
     "svg": "table.svg"
   },
   {
-    "name": "liste tableau alt",
+    "name": "tablette ipad",
     "svg": "tablet-alt.svg"
   },
   {
-    "name": "liste tableau android alt",
+    "name": "tablette android",
     "svg": "tablet-android-alt.svg"
   },
   {
-    "name": "liste tableau android",
+    "name": "tablette android",
     "svg": "tablet-android.svg"
   },
   {
-    "name": "liste tableau rugged",
+    "name": "tablette",
     "svg": "tablet-rugged.svg"
   },
   {
-    "name": "liste tableau",
+    "name": "tablette ipad",
     "svg": "tablet.svg"
   },
   {
-    "name": "tablets",
+    "name": "???",
     "svg": "tablets.svg"
   },
   {
-    "name": "tachometer alt intermediaire moyenne centre milieu",
+    "name": "tachymetre",
     "svg": "tachometer-alt-average.svg"
   },
   {
-    "name": "tachometer alt jeuner ferme prompt rapide rapidement vite",
+    "name": "tachymetre",
     "svg": "tachometer-alt-fast.svg"
   },
   {
-    "name": "tachometer alt fastest",
+    "name": "tachymetre",
     "svg": "tachometer-alt-fastest.svg"
   },
   {
-    "name": "tachometer alt lent",
+    "name": "tachymetre",
     "svg": "tachometer-alt-slow.svg"
   },
   {
-    "name": "tachometer alt slowest",
+    "name": "tachymetre",
     "svg": "tachometer-alt-slowest.svg"
   },
   {
-    "name": "tachometer alt",
+    "name": "tachymetre",
     "svg": "tachometer-alt.svg"
   },
   {
-    "name": "tachometer intermediaire moyenne centre milieu",
+    "name": "tachymetre",
     "svg": "tachometer-average.svg"
   },
   {
-    "name": "tachometer jeuner ferme prompt rapide rapidement vite",
+    "name": "tachymetre",
     "svg": "tachometer-fast.svg"
   },
   {
-    "name": "tachometer fastest",
+    "name": "tachymetre",
     "svg": "tachometer-fastest.svg"
   },
   {
-    "name": "tachometer lent",
+    "name": "tachymetre",
     "svg": "tachometer-slow.svg"
   },
   {
-    "name": "tachometer slowest",
+    "name": "tachymetre",
     "svg": "tachometer-slowest.svg"
   },
   {
@@ -6328,23 +6327,23 @@
     "svg": "tachometer.svg"
   },
   {
-    "name": "tag",
+    "name": "etiquette",
     "svg": "tag.svg"
   },
   {
-    "name": "tags",
+    "name": "etiquettes",
     "svg": "tags.svg"
   },
   {
-    "name": "tally",
+    "name": "compte compter",
     "svg": "tally.svg"
   },
   {
-    "name": "bande bandeau",
+    "name": "scotch rouleau",
     "svg": "tape.svg"
   },
   {
-    "name": "tasks",
+    "name": "taches",
     "svg": "tasks.svg"
   },
   {
@@ -6352,11 +6351,11 @@
     "svg": "taxi.svg"
   },
   {
-    "name": "teeth ouvrir",
+    "name": "dents dentiste",
     "svg": "teeth-open.svg"
   },
   {
-    "name": "teeth",
+    "name": "dents dentiste",
     "svg": "teeth.svg"
   },
   {
@@ -6364,71 +6363,71 @@
     "svg": "temperature-frigid.svg"
   },
   {
-    "name": "temperature haut",
+    "name": "temperature chaud",
     "svg": "temperature-high.svg"
   },
   {
-    "name": "temperature hot",
+    "name": "temperature chaud",
     "svg": "temperature-hot.svg"
   },
   {
-    "name": "temperature abject lache",
+    "name": "temperature froid",
     "svg": "temperature-low.svg"
   },
   {
-    "name": "tennis bal globe balle sphere",
+    "name": "tennis balle",
     "svg": "tennis-ball.svg"
   },
   {
-    "name": "terminal",
+    "name": "terminal commande",
     "svg": "terminal.svg"
   },
   {
-    "name": "texte altitude hauteur",
+    "name": "texte hauteur",
     "svg": "text-height.svg"
   },
   {
-    "name": "texte ampleur largeur mesure largeur",
+    "name": "texte largeur",
     "svg": "text-width.svg"
   },
   {
-    "name": "grand",
+    "name": "tableau tableur",
     "svg": "th-large.svg"
   },
   {
-    "name": "liste",
+    "name": "tableau tableur",
     "svg": "th-list.svg"
   },
   {
-    "name": "",
+    "name": "tableau tableur",
     "svg": "th.svg"
   },
   {
-    "name": "theater masks",
+    "name": "face theatre opera masque",
     "svg": "theater-masks.svg"
   },
   {
-    "name": "thermometre vide vider",
+    "name": "thermometre",
     "svg": "thermometer-empty.svg"
   },
   {
-    "name": "thermometre complet entier rassasie",
+    "name": "thermometre",
     "svg": "thermometer-full.svg"
   },
   {
-    "name": "thermometre demi moitie",
+    "name": "thermometre",
     "svg": "thermometer-half.svg"
   },
   {
-    "name": "thermometre quartier",
+    "name": "thermometre",
     "svg": "thermometer-quarter.svg"
   },
   {
-    "name": "thermometre trois quarters",
+    "name": "thermometre",
     "svg": "thermometer-three-quarters.svg"
   },
   {
-    "name": "thermometre",
+    "name": "thermometre -thermo-",
     "svg": "thermometer.svg"
   },
   {
@@ -6436,31 +6435,31 @@
     "svg": "theta.svg"
   },
   {
-    "name": "thumbs duvet",
+    "name": "pousse vert ok jaime aime",
     "svg": "thumbs-down.svg"
   },
   {
-    "name": "thumbs",
+    "name": "pousse rouge ko",
     "svg": "thumbs-up.svg"
   },
   {
-    "name": "thumbtack",
+    "name": "punaise epingle",
     "svg": "thumbtack.svg"
   },
   {
-    "name": "thunderstorm lune",
+    "name": "orage lune",
     "svg": "thunderstorm-moon.svg"
   },
   {
-    "name": "thunderstorm ensoleille soleil",
+    "name": "orage soleil",
     "svg": "thunderstorm-sun.svg"
   },
   {
-    "name": "thunderstorm",
+    "name": "orage",
     "svg": "thunderstorm.svg"
   },
   {
-    "name": "billet ticket alt",
+    "name": "billet ticket",
     "svg": "ticket-alt.svg"
   },
   {
@@ -6472,79 +6471,79 @@
     "svg": "tilde.svg"
   },
   {
-    "name": "ti cercle rond ronde",
+    "name": "multiplier",
     "svg": "times-circle.svg"
   },
   {
-    "name": "ti hexagon",
+    "name": "multiplier",
     "svg": "times-hexagon.svg"
   },
   {
-    "name": "ti octagon",
+    "name": "multiplier",
     "svg": "times-octagon.svg"
   },
   {
-    "name": "ti droit rectangle esplanade place rond‐point",
+    "name": "multiplier",
     "svg": "times-square.svg"
   },
   {
-    "name": "ti",
+    "name": "multiplier",
     "svg": "times.svg"
   },
   {
-    "name": "nuance teinte teindre slash",
+    "name": "goutte",
     "svg": "tint-slash.svg"
   },
   {
-    "name": "nuance teinte teindre",
+    "name": "goutte",
     "svg": "tint.svg"
   },
   {
-    "name": "tire appartement plat uni aplati",
+    "name": "pneu creve crevaison",
     "svg": "tire-flat.svg"
   },
   {
-    "name": "tire impulsion instance instan vive sollicitation pression oppression recommandation sommation",
+    "name": "pneu",
     "svg": "tire-pressure-warning.svg"
   },
   {
-    "name": "tire rugged",
+    "name": "pneu",
     "svg": "tire-rugged.svg"
   },
   {
-    "name": "tire",
+    "name": "pneu",
     "svg": "tire.svg"
   },
   {
-    "name": "fatigue las",
+    "name": "face fatigue las",
     "svg": "tired.svg"
   },
   {
-    "name": "toggle off",
+    "name": "interrupteur toggle off",
     "svg": "toggle-off.svg"
   },
   {
-    "name": "toggle avant milie dans moyen plus sujet contre",
+    "name": "interrupteur toggle on",
     "svg": "toggle-on.svg"
   },
   {
-    "name": "cabinet toilette document papier tapisser alt",
+    "name": "papier toilette pq cul hygienique",
     "svg": "toilet-paper-alt.svg"
   },
   {
-    "name": "cabinet toilette document papier tapisser",
+    "name": "papier toilette pq cul hygienique",
     "svg": "toilet-paper.svg"
   },
   {
-    "name": "tombstone alt",
+    "name": "pierre tombale mort dece",
     "svg": "tombstone-alt.svg"
   },
   {
-    "name": "tombstone",
+    "name": "pierre tombale mort dece",
     "svg": "tombstone.svg"
   },
   {
-    "name": "toolbox",
+    "name": "boite outil",
     "svg": "toolbox.svg"
   },
   {
@@ -6552,7 +6551,7 @@
     "svg": "tooth.svg"
   },
   {
-    "name": "toothbrush",
+    "name": "dentifrice",
     "svg": "toothbrush.svg"
   },
   {
@@ -6560,11 +6559,11 @@
     "svg": "torah.svg"
   },
   {
-    "name": "torii gate",
+    "name": "torii porte",
     "svg": "torii-gate.svg"
   },
   {
-    "name": "tornado",
+    "name": "tornade ouragan",
     "svg": "tornado.svg"
   },
   {
@@ -6572,63 +6571,63 @@
     "svg": "tractor.svg"
   },
   {
-    "name": "trademark",
+    "name": "trademark droit",
     "svg": "trademark.svg"
   },
   {
-    "name": "circulation trafic pomme pin",
+    "name": "circulation trafic cone",
     "svg": "traffic-cone.svg"
   },
   {
-    "name": "circulation trafic allumer enflammer clair lumineux lumiere faible leger aller deplacer aller vehicule",
+    "name": "feu tricolor circulation",
     "svg": "traffic-light-go.svg"
   },
   {
-    "name": "circulation trafic allumer enflammer clair lumineux lumiere faible leger lent",
+    "name": "feu tricolor circulation",
     "svg": "traffic-light-slow.svg"
   },
   {
-    "name": "circulation trafic allumer enflammer clair lumineux lumiere faible leger halte s'arreter gare station cesser arreter faire cesser interrompre terminer",
+    "name": "feu tricolor circulation",
     "svg": "traffic-light-stop.svg"
   },
   {
-    "name": "circulation trafic allumer enflammer clair lumineux lumiere faible leger",
+    "name": "feu tricolor circulation",
     "svg": "traffic-light.svg"
   },
   {
-    "name": "clique cortege escorte suite dresser train entrainer rame",
+    "name": "train sncf rail",
     "svg": "train.svg"
   },
   {
-    "name": "transgender alt",
+    "name": "trans genre lgbt",
     "svg": "transgender-alt.svg"
   },
   {
-    "name": "transgender",
+    "name": "trans genre lgbt",
     "svg": "transgender.svg"
   },
   {
-    "name": "trash alt",
+    "name": "poubelle ordure recyclage",
     "svg": "trash-alt.svg"
   },
   {
-    "name": "trash",
+    "name": "poubelle ordure recyclage",
     "svg": "trash.svg"
   },
   {
-    "name": "cassette tresor poitrine sein bac caisse coffre commode",
+    "name": "coffre tresor",
     "svg": "treasure-chest.svg"
   },
   {
-    "name": "arbre alt",
+    "name": "arbre",
     "svg": "tree-alt.svg"
   },
   {
-    "name": "arbre",
+    "name": "arbre sapin",
     "svg": "tree.svg"
   },
   {
-    "name": "trees",
+    "name": "arbres",
     "svg": "trees.svg"
   },
   {
@@ -6636,43 +6635,43 @@
     "svg": "triangle.svg"
   },
   {
-    "name": "trophy alt",
+    "name": "trophe coupe vainqueur",
     "svg": "trophy-alt.svg"
   },
   {
-    "name": "trophy",
+    "name": "trophe coupe vainqueur",
     "svg": "trophy.svg"
   },
   {
-    "name": "camion poids lourd bac baquet",
+    "name": "camion container",
     "svg": "truck-container.svg"
   },
   {
-    "name": "camion poids lourd canape",
+    "name": "camion canape",
     "svg": "truck-couch.svg"
   },
   {
-    "name": "camion poids lourd loading",
+    "name": "camion chargement",
     "svg": "truck-loading.svg"
   },
   {
-    "name": "camion poids lourd clebard monstre",
+    "name": "monster truck voiture",
     "svg": "truck-monster.svg"
   },
   {
-    "name": "camion poids lourd attendrissant",
+    "name": "camion",
     "svg": "truck-moving.svg"
   },
   {
-    "name": "camion poids lourd pickup",
+    "name": "voiture pickup",
     "svg": "truck-pickup.svg"
   },
   {
-    "name": "camion poids lourd ramp",
+    "name": "camion rampe",
     "svg": "truck-ramp.svg"
   },
   {
-    "name": "camion poids lourd",
+    "name": "camion",
     "svg": "truck.svg"
   },
   {
@@ -6680,23 +6679,23 @@
     "svg": "tshirt.svg"
   },
   {
-    "name": "tty",
+    "name": "minitel modem",
     "svg": "tty.svg"
   },
   {
-    "name": "turquie",
+    "name": "dinde",
     "svg": "turkey.svg"
   },
   {
-    "name": "turtle",
+    "name": "tortue",
     "svg": "turtle.svg"
   },
   {
-    "name": "television retro",
+    "name": "television tv retro",
     "svg": "tv-retro.svg"
   },
   {
-    "name": "television",
+    "name": "television tv",
     "svg": "tv.svg"
   },
   {
@@ -6708,11 +6707,11 @@
     "svg": "umbrella.svg"
   },
   {
-    "name": "underline",
+    "name": "souligne",
     "svg": "underline.svg"
   },
   {
-    "name": "undo alt",
+    "name": "undo",
     "svg": "undo-alt.svg"
   },
   {
@@ -6720,7 +6719,7 @@
     "svg": "undo.svg"
   },
   {
-    "name": "unicorn",
+    "name": "licorne",
     "svg": "unicorn.svg"
   },
   {
@@ -6728,7 +6727,7 @@
     "svg": "union.svg"
   },
   {
-    "name": "universal acces assaut attaque abord entree impulsion incitation",
+    "name": "acces universel",
     "svg": "universal-access.svg"
   },
   {
@@ -6736,11 +6735,11 @@
     "svg": "university.svg"
   },
   {
-    "name": "unlink",
+    "name": "delier defaire",
     "svg": "unlink.svg"
   },
   {
-    "name": "ouvrir alt",
+    "name": "ouvrir",
     "svg": "unlock-alt.svg"
   },
   {
@@ -6752,127 +6751,127 @@
     "svg": "upload.svg"
   },
   {
-    "name": "usd cercle rond ronde",
+    "name": "usd dollar",
     "svg": "usd-circle.svg"
   },
   {
-    "name": "usd droit rectangle esplanade place rond‐point",
+    "name": "usd dollar",
     "svg": "usd-square.svg"
   },
   {
-    "name": "user alt slash",
+    "name": "personne",
     "svg": "user-alt-slash.svg"
   },
   {
-    "name": "user alt",
+    "name": "personne",
     "svg": "user-alt.svg"
   },
   {
-    "name": "user astronaute",
+    "name": "personne astronaute",
     "svg": "user-astronaut.svg"
   },
   {
-    "name": "user chart",
+    "name": "personne graphique",
     "svg": "user-chart.svg"
   },
   {
-    "name": "user reprimer retenir bride surveiller verifier cheque",
+    "name": "personne",
     "svg": "user-check.svg"
   },
   {
-    "name": "user cercle rond ronde",
+    "name": "personne",
     "svg": "user-circle.svg"
   },
   {
-    "name": "user horloge pendule",
+    "name": "personne",
     "svg": "user-clock.svg"
   },
   {
-    "name": "user cog",
+    "name": "personne",
     "svg": "user-cog.svg"
   },
   {
-    "name": "user couronner",
+    "name": "personne roi",
     "svg": "user-crown.svg"
   },
   {
-    "name": "user rediger",
+    "name": "personne",
     "svg": "user-edit.svg"
   },
   {
-    "name": "user friends",
+    "name": "personne amis groupe",
     "svg": "user-friends.svg"
   },
   {
-    "name": "user graduate",
+    "name": "personne diplome",
     "svg": "user-graduate.svg"
   },
   {
-    "name": "user injured",
+    "name": "personne accident blessure",
     "svg": "user-injured.svg"
   },
   {
-    "name": "user ecluse serrure fermer fermer cle",
+    "name": "personne prison enferme",
     "svg": "user-lock.svg"
   },
   {
-    "name": "user",
+    "name": "personne",
     "svg": "user-md.svg"
   },
   {
-    "name": "user moins",
+    "name": "personne",
     "svg": "user-minus.svg"
   },
   {
-    "name": "user ninja",
+    "name": "personne ninja",
     "svg": "user-ninja.svg"
   },
   {
-    "name": "user plus",
+    "name": "personne",
     "svg": "user-plus.svg"
   },
   {
-    "name": "user arcane secret",
+    "name": "personne secret espion agent dgse cia kgb voleur",
     "svg": "user-secret.svg"
   },
   {
-    "name": "user enseigne",
+    "name": "personne",
     "svg": "user-shield.svg"
   },
   {
-    "name": "user slash",
+    "name": "personne",
     "svg": "user-slash.svg"
   },
   {
-    "name": "user tag",
+    "name": "personne etiquette",
     "svg": "user-tag.svg"
   },
   {
-    "name": "user attacher lier cravate nouer relier lien",
+    "name": "personne cravate costume",
     "svg": "user-tie.svg"
   },
   {
-    "name": "user ti",
+    "name": "personne",
     "svg": "user-times.svg"
   },
   {
-    "name": "user",
+    "name": "personne",
     "svg": "user.svg"
   },
   {
-    "name": "users classe cours lecon",
+    "name": "personnes etudiants classe lecon",
     "svg": "users-class.svg"
   },
   {
-    "name": "users cog",
+    "name": "personnes",
     "svg": "users-cog.svg"
   },
   {
-    "name": "users couronner",
+    "name": "personnes roi cour",
     "svg": "users-crown.svg"
   },
   {
-    "name": "users",
+    "name": "personnes groupe",
     "svg": "users.svg"
   },
   {
@@ -6884,11 +6883,11 @@
     "svg": "utensil-knife.svg"
   },
   {
-    "name": "utensil cuiller cuillere",
+    "name": "utensil cuillere",
     "svg": "utensil-spoon.svg"
   },
   {
-    "name": "utensils alt",
+    "name": "utensils",
     "svg": "utensils-alt.svg"
   },
   {
@@ -6896,39 +6895,39 @@
     "svg": "utensils.svg"
   },
   {
-    "name": "merite valeur absolu pur complet ineluctable illimite immense",
+    "name": "valeur absolue",
     "svg": "value-absolute.svg"
   },
   {
-    "name": "vector droit rectangle esplanade place rond‐point",
+    "name": "vecteur carre",
     "svg": "vector-square.svg"
   },
   {
-    "name": "venus double redoubler",
+    "name": "venus femme",
     "svg": "venus-double.svg"
   },
   {
-    "name": "venus mars",
+    "name": "venus mars homme femme",
     "svg": "venus-mars.svg"
   },
   {
-    "name": "venus",
+    "name": "venus femme",
     "svg": "venus.svg"
   },
   {
-    "name": "vial",
+    "name": "fiole",
     "svg": "vial.svg"
   },
   {
-    "name": "vials",
+    "name": "fioles",
     "svg": "vials.svg"
   },
   {
-    "name": "video plus",
+    "name": "video",
     "svg": "video-plus.svg"
   },
   {
-    "name": "video slash",
+    "name": "video",
     "svg": "video-slash.svg"
   },
   {
@@ -6944,11 +6943,11 @@
     "svg": "volcano.svg"
   },
   {
-    "name": "volleyball bal globe balle sphere",
+    "name": "volleyball balle",
     "svg": "volleyball-ball.svg"
   },
   {
-    "name": "volume duvet",
+    "name": "volume bas",
     "svg": "volume-down.svg"
   },
   {
@@ -6960,11 +6959,11 @@
     "svg": "volume-off.svg"
   },
   {
-    "name": "volume slash",
+    "name": "volume",
     "svg": "volume-slash.svg"
   },
   {
-    "name": "volume",
+    "name": "volume haut",
     "svg": "volume-up.svg"
   },
   {
@@ -6972,63 +6971,63 @@
     "svg": "volume.svg"
   },
   {
-    "name": "vote nay",
+    "name": "vote non",
     "svg": "vote-nay.svg"
   },
   {
-    "name": "vote yea",
+    "name": "vote oui",
     "svg": "vote-yea.svg"
   },
   {
-    "name": "carton",
+    "name": "vr cardboard",
     "svg": "vr-cardboard.svg"
   },
   {
-    "name": "walking",
+    "name": "marche",
     "svg": "walking.svg"
   },
   {
-    "name": "porte‐monnaie sacoche",
+    "name": "porte monnaie sacoche",
     "svg": "wallet.svg"
   },
   {
-    "name": "badine baguette magie magique",
+    "name": "baguette magie magique",
     "svg": "wand-magic.svg"
   },
   {
-    "name": "badine baguette",
+    "name": "baguette",
     "svg": "wand.svg"
   },
   {
-    "name": "warehouse alt",
+    "name": "entrepot",
     "svg": "warehouse-alt.svg"
   },
   {
-    "name": "warehouse",
+    "name": "entrepot",
     "svg": "warehouse.svg"
   },
   {
-    "name": "montre horloge pendule regarder assister spectateur regarder spectacle fitness",
+    "name": "montre fitness coeur",
     "svg": "watch-fitness.svg"
   },
   {
-    "name": "montre horloge pendule regarder assister spectateur regarder spectacle",
+    "name": "montre",
     "svg": "watch.svg"
   },
   {
-    "name": "aquatique eau onde abreuver arroser abaisser baisser",
+    "name": "eau decrue",
     "svg": "water-lower.svg"
   },
   {
-    "name": "aquatique eau onde abreuver arroser surgir sursauter soulever",
+    "name": "eau crue",
     "svg": "water-rise.svg"
   },
   {
-    "name": "aquatique eau onde abreuver arroser",
+    "name": "eau mer lac vagues",
     "svg": "water.svg"
   },
   {
-    "name": "balance poids hanging",
+    "name": "balance poids",
     "svg": "weight-hanging.svg"
   },
   {
@@ -7040,15 +7039,15 @@
     "svg": "whale.svg"
   },
   {
-    "name": "froment",
+    "name": "ble froment",
     "svg": "wheat.svg"
   },
   {
-    "name": "wheelchair",
+    "name": "fauteuil roulant handicap",
     "svg": "wheelchair.svg"
   },
   {
-    "name": "siffler sifflet",
+    "name": "sifflet siffler arbitre",
     "svg": "whistle.svg"
   },
   {
@@ -7060,7 +7059,7 @@
     "svg": "wifi-2.svg"
   },
   {
-    "name": "wifi slash",
+    "name": "wifi barree",
     "svg": "wifi-slash.svg"
   },
   {
@@ -7068,39 +7067,39 @@
     "svg": "wifi.svg"
   },
   {
-    "name": "vent emmailloter enrouler recommandation sommation",
+    "name": "vent souffle",
     "svg": "wind-warning.svg"
   },
   {
-    "name": "vent emmailloter enrouler",
+    "name": "vent souffle",
     "svg": "wind.svg"
   },
   {
-    "name": "fen guichet alt",
+    "name": "fenetre",
     "svg": "window-alt.svg"
   },
   {
-    "name": "fen guichet fermer intime prochaine proche pres aupres",
+    "name": "fenetre",
     "svg": "window-close.svg"
   },
   {
-    "name": "fen guichet maximize",
+    "name": "fenetre",
     "svg": "window-maximize.svg"
   },
   {
-    "name": "fen guichet minimize",
+    "name": "fenetre",
     "svg": "window-minimize.svg"
   },
   {
-    "name": "fen guichet restore",
+    "name": "fenetre",
     "svg": "window-restore.svg"
   },
   {
-    "name": "fen guichet",
+    "name": "fenetre",
     "svg": "window.svg"
   },
   {
-    "name": "windsock",
+    "name": "manche vent",
     "svg": "windsock.svg"
   },
   {
@@ -7108,15 +7107,15 @@
     "svg": "wine-bottle.svg"
   },
   {
-    "name": "vin verre vitre alt",
+    "name": "vin verre",
     "svg": "wine-glass-alt.svg"
   },
   {
-    "name": "vin verre vitre",
+    "name": "vin verre",
     "svg": "wine-glass.svg"
   },
   {
-    "name": "won augure preuve temoignage signal signe signer",
+    "name": "won",
     "svg": "won-sign.svg"
   },
   {
@@ -7124,11 +7123,11 @@
     "svg": "wrench.svg"
   },
   {
-    "name": "rayon bande raie rayure",
+    "name": "rayon radiologie",
     "svg": "x-ray.svg"
   },
   {
-    "name": "yen augure preuve temoignage signal signe signer",
+    "name": "yen",
     "svg": "yen-sign.svg"
   },
   {
@@ -7136,59 +7135,59 @@
     "svg": "yin-yang.svg"
   },
   {
-    "name": "reserved reserve copyright",
+    "name": "reserve copyright",
     "svg": "00ae.svg"
   },
   {
-    "name": "double exclamation",
+    "name": "exclamation",
     "svg": "203c.svg"
   },
   {
-    "name": "exclamation question contester disputer signe",
+    "name": "exclamation question",
     "svg": "2049.svg"
   },
   {
-    "name": "commerce metier signe",
+    "name": "tm marque",
     "svg": "2122.svg"
   },
   {
-    "name": "faire‐part renseignement fontaine source",
+    "name": "information",
     "svg": "2139.svg"
   },
   {
-    "name": "gauche droit vrai raison exact juste proprement fleche",
+    "name": "gauche droit fleche",
     "svg": "2194.svg"
   },
   {
-    "name": "duvet fleche",
+    "name": "haut bas fleche",
     "svg": "2195.svg"
   },
   {
-    "name": "nord occident ouest fleche",
+    "name": "nord ouest fleche",
     "svg": "2196.svg"
   },
   {
-    "name": "nord est orient fleche",
+    "name": "nord est fleche",
     "svg": "2197.svg"
   },
   {
-    "name": "austral sud est orient fleche",
+    "name": "sud est fleche",
     "svg": "2198.svg"
   },
   {
-    "name": "austral sud occident ouest fleche",
+    "name": "sud ouest fleche",
     "svg": "2199.svg"
   },
   {
-    "name": "leftwards fleche moyen bord près agrafe hameçon crochet accrocher",
+    "name": "fleche gauche",
     "svg": "21a9.svg"
   },
   {
-    "name": "rightwards fleche moyen bord près agrafe hameçon crochet accrocher",
+    "name": "fleche droite",
     "svg": "21aa.svg"
   },
   {
-    "name": "montre horloge pendule regarder assister spectateur regarder spectacle",
+    "name": "montre horloge pendule",
     "svg": "231a.svg"
   },
   {
@@ -7200,27 +7199,27 @@
     "svg": "2328.svg"
   },
   {
-    "name": "avance rapide suivant fleche droit",
+    "name": "avance suivant fleche droit",
     "svg": "23e9.svg"
   },
   {
-    "name": "brun noir left-pointing double redoubler triangle",
+    "name": "retour precedent fleche gauche",
     "svg": "23ea.svg"
   },
   {
-    "name": "brun noir up-pointing double redoubler triangle",
+    "name": "fleche haut",
     "svg": "23eb.svg"
   },
   {
-    "name": "brun noir down-pointing double redoubler triangle",
+    "name": "fleche bas",
     "svg": "23ec.svg"
   },
   {
-    "name": "brun noir right-pointing double redoubler triangle moyen bord près vertical barrer bar abreuvoir",
+    "name": "brun noir right-pointing  moyen bord près vertical barrer bar abreuvoir",
     "svg": "23ed.svg"
   },
   {
-    "name": "brun noir left-pointing double redoubler triangle moyen bord près vertical barrer bar abreuvoir",
+    "name": "brun noir left-pointing  moyen bord près vertical barrer bar abreuvoir",
     "svg": "23ee.svg"
   },
   {
@@ -7248,11 +7247,11 @@
     "svg": "23f8.svg"
   },
   {
-    "name": "brun noir droit rectangle esplanade place rond‐point durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que halte s'arrêter gare station cesser arrêter faire cesser interrompre terminer",
+    "name": "brun noir droit durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que halte s'arrêter gare station cesser arrêter faire cesser interrompre terminer",
     "svg": "23f9.svg"
   },
   {
-    "name": "brun noir cercle rond ronde durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que disque compte‐rendu rapport relation enregistrer record",
+    "name": "brun noir durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que disque compte‐rendu rapport relation enregistrer record",
     "svg": "23fa.svg"
   },
   {
@@ -8144,11 +8143,11 @@
     "svg": "1f33c.svg"
   },
   {
-    "name": "oreille épi maïs",
+    "name": "epi maïs",
     "svg": "1f33d.svg"
   },
   {
-    "name": "oreille épi riz",
+    "name": "epi riz",
     "svg": "1f33e.svg"
   },
   {
@@ -8376,11 +8375,11 @@
     "svg": "1f376.svg"
   },
   {
-    "name": "vin verre vitre",
+    "name": "vin verre",
     "svg": "1f377.svg"
   },
   {
-    "name": "cocktail verre vitre",
+    "name": "cocktail verre",
     "svg": "1f378.svg"
   },
   {
@@ -8684,11 +8683,11 @@
     "svg": "1f3cd.svg"
   },
   {
-    "name": "racing auto bagnole",
+    "name": "racing auto",
     "svg": "1f3ce.svg"
   },
   {
-    "name": "grillon chauve‐souris bal globe balle sphère",
+    "name": "cricket balle",
     "svg": "1f3cf.svg"
   },
   {
@@ -9164,7 +9163,7 @@
     "svg": "1f448.svg"
   },
   {
-    "name": "blanc droit vrai raison exact juste proprement pointing backhand liste tableau",
+    "name": "blanc droit pointing backhand liste tableau",
     "svg": "1f449.svg"
   },
   {
@@ -9196,7 +9195,7 @@
     "svg": "1f450.svg"
   },
   {
-    "name": "couronner",
+    "name": "couronne",
     "svg": "1f451.svg"
   },
   {
@@ -9860,19 +9859,19 @@
     "svg": "1f500.svg"
   },
   {
-    "name": "clockwise rightwards leftwards ouvrir cercle rond ronde arrows",
+    "name": "clockwise rightwards leftwards ouvrir arrows",
     "svg": "1f501.svg"
   },
   {
-    "name": "clockwise rightwards leftwards ouvrir cercle rond ronde arrows moyen bord près circled quelqu'un une recouvrir revêtir tapisser",
+    "name": "clockwise rightwards leftwards ouvrir arrows moyen bord près circled quelqu'un une recouvrir revêtir tapisser",
     "svg": "1f502.svg"
   },
   {
-    "name": "clockwise downwards upwards ouvrir cercle rond ronde arrows",
+    "name": "clockwise downwards upwards ouvrir arrows",
     "svg": "1f503.svg"
   },
   {
-    "name": "anticlockwise downwards upwards ouvrir cercle rond ronde arrows",
+    "name": "anticlockwise downwards upwards ouvrir arrows",
     "svg": "1f504.svg"
   },
   {
@@ -9908,11 +9907,11 @@
     "svg": "1f50c.svg"
   },
   {
-    "name": "left-pointing magnifying verre vitre",
+    "name": "left-pointing magnifying verre",
     "svg": "1f50d.svg"
   },
   {
-    "name": "right-pointing magnifying verre vitre",
+    "name": "right-pointing magnifying verre",
     "svg": "1f50e.svg"
   },
   {
@@ -10056,11 +10055,11 @@
     "svg": "1f531.svg"
   },
   {
-    "name": "brun noir droit rectangle esplanade place rond‐point bouton",
+    "name": "brun noir droit bouton",
     "svg": "1f532.svg"
   },
   {
-    "name": "blanc droit rectangle esplanade place rond‐point bouton",
+    "name": "blanc droit bouton",
     "svg": "1f533.svg"
   },
   {
@@ -10356,7 +10355,7 @@
     "svg": "1f5e8.svg"
   },
   {
-    "name": "droit vrai raison exact juste proprement anger bulle vésicule vessie",
+    "name": "droit anger bulle vésicule vessie",
     "svg": "1f5ef.svg"
   },
   {
@@ -10676,11 +10675,11 @@
     "svg": "1f64a.svg"
   },
   {
-    "name": "personnage personne individu raising deux l'un l'autre l'une l'autre toutes hands milie dans  fête",
+    "name": "personne individu raising deux l'un l'autre l'une l'autre toutes hands milie dans  fête",
     "svg": "1f64c.svg"
   },
   {
-    "name": "personnage personne individu moyen bord près folded hands",
+    "name": "personne individu moyen bord près folded hands",
     "svg": "1f64f.svg"
   },
   {
@@ -10696,7 +10695,7 @@
     "svg": "1f682.svg"
   },
   {
-    "name": "chemin fer auto bagnole",
+    "name": "chemin fer auto",
     "svg": "1f683.svg"
   },
   {
@@ -10728,7 +10727,7 @@
     "svg": "1f68a.svg"
   },
   {
-    "name": "tramway auto bagnole",
+    "name": "tramway auto",
     "svg": "1f68b.svg"
   },
   {
@@ -10760,11 +10759,11 @@
     "svg": "1f692.svg"
   },
   {
-    "name": "police auto bagnole",
+    "name": "police auto",
     "svg": "1f693.svg"
   },
   {
-    "name": "oncoming police auto bagnole",
+    "name": "oncoming police auto",
     "svg": "1f694.svg"
   },
   {
