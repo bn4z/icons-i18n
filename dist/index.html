@@ -1,116 +1,125 @@
 <!DOCTYPE html>
 <html>
-
-<head>
+  <head>
     <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>icons-i18n test page</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <style>
-        body{
-            background-color: #444;
-            padding: 2em;
-            color: #fff;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            text-align: center;
-        }
-        input{
-            font-size: 2em;
-            background-color: transparent;
-            border: none;
-            border-bottom: 3px solid orangered;
-            text-align: center;
-            color: orange;
-            transition: border .2s;
-            margin-bottom: 2em;
-        }
-        input:focus{
-            border-bottom-color: orange;
-        }
-        img{
-            margin: 1em;
-            width: 128px;
-            height: 128px;
-            transition: transform .2s;
-        }
-        img:hover{
-            transform: scale(2)
-        }
-    
+      body {
+        background-color: #444;
+        padding: 2em;
+        color: #fff;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+      }
+
+      input {
+        font-size: 2em;
+        background-color: transparent;
+        border: none;
+        border-bottom: 3px solid orangered;
+        text-align: center;
+        color: orange;
+        transition: border 0.2s;
+        margin-bottom: 2em;
+      }
+
+      input:focus {
+        border-bottom-color: orange;
+      }
+
+      img {
+        margin: 1em;
+        width: 96px;
+        height: 96px;
+        max-width: 10%;
+        transition: transform 0.2s;
+      }
+
+      img:hover {
+        transform: scale(1.5);
+      }
     </style>
     <script type="text/javascript">
-        var iconList = []
-        var synonyms = {}
+      var iconList = []
+      var synonyms = {}
 
-        function loadJSON(file, callback) {
-            var xobj = new XMLHttpRequest();
-            xobj.overrideMimeType("application/json");
-            xobj.open('GET', file, true);
-            xobj.onreadystatechange = function () {
-                if (xobj.readyState == 4 && xobj.status == "200") {
-                    callback(xobj.responseText);
-                }
-            };
-            xobj.send(null);
+      var searchWorker = new Worker('search.worker.js')
+
+      searchWorker.onmessage = function(e) {
+        if (!e.data.type) {
+          return
+        }
+        if (e.data.type === 'clear') {
+          clearView()
         }
 
-        function init() {
-            loadJSON('icons.fra.json', function (response) {
-                iconList = JSON.parse(response);
-                updateView()
-            });
+        if (e.data.type === 'add') {
+          updateView(e.data.payload)
+        }
+      }
 
-            loadJSON('synonyms.fra.json', function (response) {
-                synonyms = JSON.parse(response);
-            });
+      function loadJSON(file, callback) {
+        var xobj = new XMLHttpRequest()
+        xobj.overrideMimeType('application/json')
+        xobj.open('GET', file, true)
+        xobj.onreadystatechange = function() {
+          if (xobj.readyState == 4 && xobj.status == '200') {
+            callback(xobj.responseText)
+          }
+        }
+        xobj.send(null)
+      }
 
+      function init() {
+        loadJSON('icons.fra.json', function(response) {
+          iconList = JSON.parse(response)
+          updateView()
+        })
+
+        loadJSON('synonyms.fra.json', function(response) {
+          synonyms = JSON.parse(response)
+        })
+      }
+
+      function search() {
+        var input = document.getElementById('input')
+        if (!input.value || input.value.length < 2) {
+          clearView()
+          return
         }
 
-        function updateView() {
-            var container = document.getElementById('iconList')
-            var input = document.getElementById('input')
-            container.innerHTML = ''
-            if (input.value === '') {
-                return
-            }
-            var maxItemsToDisplay = 100;
-            const filteredList = iconList.filter(i => matchIcons(i, input.value))
-            if (filteredList.length === 0) {
-                return
-            }
-            for (k = 0; k < Math.min(filteredList.length, maxItemsToDisplay); k++) {
-                var img = document.createElement('img');
-                img.src = 'svg/' + filteredList[k].svg
-                img.title = filteredList[k].svg + ' - ' + filteredList[k].name
-                container.appendChild(img)
-            }
-        }
+        searchWorker.postMessage({
+          query: input.value,
+          iconList: iconList,
+          synonyms: synonyms
+        })
+      }
 
-        const matchIcons = (iconItem, query) => {
-            const words = iconItem.name.split(' ')
-            //query is in name
-            if (words.indexOf(query) > -1) return true
-            const syn = synonyms[query]
-            if (syn) {
-                let found = false;
-                words.forEach(word => {
-                    //one of the synonym of the query is in name
-                    if (syn.indexOf(word) > -1) {
-                        found = true
-                    }
-                })
-                if (found) return true
-            }
-            return false
+      function clearView() {
+        var container = document.getElementById('iconList')
+        container.innerHTML = ''
+      }
+
+      function updateView(iconArray) {
+        if (!iconArray) {
+          return
         }
+        var container = document.getElementById('iconList')
+        for (let k = 0; k < iconArray.length; k++) {
+          const img = document.createElement('img')
+          img.src = iconArray[k].src
+          img.title = iconArray[k].title
+          container.appendChild(img)
+        }
+      }
     </script>
+  </head>
 
-</head>
-
-<body onload="init()">
+  <body onload="init()">
     <h1>icons-i18n test page</h1>
-    <input id="input" type="text" onkeyup="updateView()">
+    <input id="input" type="text" onkeyup="search()" />
     <div id="iconList"></div>
-</body>
-
+  </body>
 </html>
