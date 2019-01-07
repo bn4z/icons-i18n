@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "500px",
     "svg": "500px.svg"
   },
@@ -5275,7 +5276,7 @@
     "svg": "plane-alt.svg"
   },
   {
-    "name": "avion",
+    "name": "avion atterrissage",
     "svg": "plane-arrival.svg"
   },
   {
