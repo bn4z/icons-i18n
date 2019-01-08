@@ -2,7 +2,6 @@ const fs = require('fs')
 const path = require('path')
 
 const LOCAL_SVG_FOLDER = './dist/svg'
-const FA_IDENTIFICATION_STRING = 'Font Awesome'
 
 const updateIcon = (filePath, fileName) => {
   if (!filePath || !fileName) {
@@ -14,7 +13,7 @@ const updateIcon = (filePath, fileName) => {
   return new Promise((resolve, reject) => {
     fs.readFile(file, 'utf-8', function (err, data) {
       if (!err) {
-        if (isFaIcon(data) && canBeUpdate(data)) {
+        if (isFaIcon(data)) {
           const newData = updateFaContent(data)
           fs.writeFile(file, newData, 'utf-8', err => {
             if (err) {
@@ -37,18 +36,13 @@ const updateIcon = (filePath, fileName) => {
 }
 
 const isFaIcon = svgContent => {
-  const regex = /Font Awesome/gm
-  return regex.test(svgContent)
-}
-
-const canBeUpdate = svgContent => {
-  const regex = /<path d="/gm
+  const regex = /<svg [^>]* 512"[^>]*><path d=""/gm
   return regex.test(svgContent)
 }
 
 const updateFaContent = svgContent => {
-  const regex = /<path d=/gm
-  const subst = `<path fill="#fff" d=`
+  const regex = /><path d="/gm
+  const subst = `><path fill="#fff" d="`
   return svgContent.replace(regex, subst)
 }
 
