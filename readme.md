@@ -4,6 +4,10 @@
 
 These tools where primarily created for another project where a list of icons with french keywords is needed. The code can be easily adapted to support other languages.
 
+## Demo
+
+![alt text](https://raw.githubusercontent.com/bn4z/icons-i18n/master/demo.gif)
+
 ## Scripts
 
 The project consists of five node.js scripts
