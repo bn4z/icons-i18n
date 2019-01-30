@@ -1324,7 +1324,7 @@
     "svg": "tencent-weibo.svg"
   },
   {
-    "name": "the red yeti",
+    "name": "red yeti",
     "svg": "the-red-yeti.svg"
   },
   {
@@ -2868,7 +2868,7 @@
     "svg": "coffee.svg"
   },
   {
-    "name": "cercueil mort vampire",
+    "name": "cercueil vampire",
     "svg": "coffin.svg"
   },
   {
@@ -5496,7 +5496,7 @@
     "svg": "rectangle-wide.svg"
   },
   {
-    "name": "recycler recyclage ecologie",
+    "name": "recycler recyclage",
     "svg": "recycle.svg"
   },
   {
@@ -5676,7 +5676,7 @@
     "svg": "scrubber.svg"
   },
   {
-    "name": "faux mort",
+    "name": "faux",
     "svg": "scythe.svg"
   },
   {
@@ -6536,11 +6536,11 @@
     "svg": "toilet-paper.svg"
   },
   {
-    "name": "pierre tombale mort dece",
+    "name": "pierre tombe tombale dece",
     "svg": "tombstone-alt.svg"
   },
   {
-    "name": "pierre tombale mort dece",
+    "name": "pierre tombe tombale dece",
     "svg": "tombstone.svg"
   },
   {
@@ -7216,19 +7216,19 @@
     "svg": "23ec.svg"
   },
   {
-    "name": "brun noir right-pointing  moyen bord près vertical barrer bar abreuvoir",
+    "name": "fleche droit suivant",
     "svg": "23ed.svg"
   },
   {
-    "name": "brun noir left-pointing  moyen bord près vertical barrer bar abreuvoir",
+    "name": "fleche gauche precedent",
     "svg": "23ee.svg"
   },
   {
-    "name": "brun noir right-pointing triangle moyen bord près double redoubler vertical barrer bar abreuvoir",
+    "name": "fleche droit play pause",
     "svg": "23ef.svg"
   },
   {
-    "name": "alarmer alerter sirène timbre alarme alerte abasourdir consterner stupéfier stupéfaction abasourdissement abattement stupeur préoccuper effroi terreur redouter réveil réveil‐matin horloge pendule",
+    "name": "alarme reveil horloge pendule",
     "svg": "23f0.svg"
   },
   {
@@ -7236,35 +7236,35 @@
     "svg": "23f1.svg"
   },
   {
-    "name": "timer horloge pendule",
+    "name": "chronometre horloge pendule",
     "svg": "23f2.svg"
   },
   {
-    "name": "sablier moyen bord près flowing arène sable",
+    "name": "sablier",
     "svg": "23f3.svg"
   },
   {
-    "name": "double redoubler vertical barrer bar abreuvoir",
+    "name": "pause",
     "svg": "23f8.svg"
   },
   {
-    "name": "brun noir droit durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que halte s'arrêter gare station cesser arrêter faire cesser interrompre terminer",
+    "name": "stop arret",
     "svg": "23f9.svg"
   },
   {
-    "name": "brun noir durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que disque compte‐rendu rapport relation enregistrer record",
+    "name": "enregistrer record",
     "svg": "23fa.svg"
   },
   {
-    "name": "circled latin capital fonds lettre",
+    "name": "m",
     "svg": "24c2.svg"
   },
   {
-    "name": "brun noir petit droit rectangle esplanade place rond‐point",
+    "name": "carre",
     "svg": "25aa.svg"
   },
   {
-    "name": "blanc petit droit rectangle esplanade place rond‐point",
+    "name": "carre",
     "svg": "25ab.svg"
   },
   {
@@ -7272,31 +7272,31 @@
     "svg": "25b6.svg"
   },
   {
-    "name": "brun noir left-pointing triangle",
+    "name": "play jouer",
     "svg": "25c0.svg"
   },
   {
-    "name": "blanc medium droit rectangle esplanade place rond‐point",
+    "name": "carre",
     "svg": "25fb.svg"
   },
   {
-    "name": "brun noir medium droit rectangle esplanade place rond‐point",
+    "name": "carre",
     "svg": "25fc.svg"
   },
   {
-    "name": "blanc medium petit droit rectangle esplanade place rond‐point",
+    "name": "carre",
     "svg": "25fd.svg"
   },
   {
-    "name": "brun noir medium petit droit rectangle esplanade place rond‐point",
+    "name": "carre",
     "svg": "25fe.svg"
   },
   {
-    "name": "brun noir ensoleillé soleil moyen bord près rays",
+    "name": "soleil",
     "svg": "2600.svg"
   },
   {
-    "name": "brouiller confus trouble nuage",
+    "name": "nuage",
     "svg": "2601.svg"
   },
   {
@@ -7304,59 +7304,59 @@
     "svg": "2602.svg"
   },
   {
-    "name": "snowman",
+    "name": "bonhome neige",
     "svg": "2603.svg"
   },
   {
-    "name": "comète",
+    "name": "comete",
     "svg": "2604.svg"
   },
   {
-    "name": "brun noir téléphoner téléphone",
+    "name": "telephone",
     "svg": "260e.svg"
   },
   {
-    "name": "ballot boxer bac caisse coffre boîte coffret baquet moyen bord près réprimer retenir bride surveiller vérifier chèque",
+    "name": "ok valider",
     "svg": "2611.svg"
   },
   {
-    "name": "parapluie moyen bord près pleuvoir pluie drops",
+    "name": "parapluie pluie",
     "svg": "2614.svg"
   },
   {
-    "name": "hot boisson consommation",
+    "name": "cafe the",
     "svg": "2615.svg"
   },
   {
-    "name": "shamrock",
+    "name": "trefle fleur",
     "svg": "2618.svg"
   },
   {
-    "name": "blanc pointing liste tableau",
+    "name": "main doigt levee",
     "svg": "261d.svg"
   },
   {
-    "name": "crâne crossbones",
+    "name": "crane",
     "svg": "2620.svg"
   },
   {
-    "name": "radioactif signe",
+    "name": "radioactif nucleaire bombe",
     "svg": "2622.svg"
   },
   {
-    "name": "biohazard signe",
+    "name": "biohazard danger biologique",
     "svg": "2623.svg"
   },
   {
-    "name": "orthodoxe croiser croix maussade passer dépasser",
+    "name": "orthodoxe croix",
     "svg": "2626.svg"
   },
   {
-    "name": "astral étoile star vedette crescent",
+    "name": "croissant etoile",
     "svg": "262a.svg"
   },
   {
-    "name": "paix symbole",
+    "name": "paix peace love amour",
     "svg": "262e.svg"
   },
   {
@@ -7368,103 +7368,103 @@
     "svg": "2638.svg"
   },
   {
-    "name": "blanc frowning affronter face figure visage",
+    "name": "face triste",
     "svg": "2639.svg"
   },
   {
-    "name": "blanc sourire  affronter face figure visage",
+    "name": "face sourire",
     "svg": "263a.svg"
   },
   {
-    "name": "aries",
+    "name": "belier astrologie",
     "svg": "2648.svg"
   },
   {
-    "name": "taurus",
+    "name": "taureau astrologie",
     "svg": "2649.svg"
   },
   {
-    "name": "gemini",
+    "name": "gemeaux astrologie",
     "svg": "264a.svg"
   },
   {
-    "name": "cancer",
+    "name": "cancer astrologie",
     "svg": "264b.svg"
   },
   {
-    "name": "leo",
+    "name": "lion astrologie",
     "svg": "264c.svg"
   },
   {
-    "name": "virgo",
+    "name": "vierge astrologie",
     "svg": "264d.svg"
   },
   {
-    "name": "libra",
+    "name": "balance astrologie",
     "svg": "264e.svg"
   },
   {
-    "name": "scorpius",
+    "name": "scorpion astrologie",
     "svg": "264f.svg"
   },
   {
-    "name": "sagittaire",
+    "name": "sagittaire astrologie",
     "svg": "2650.svg"
   },
   {
-    "name": "capricorne",
+    "name": "capricorne astrologie",
     "svg": "2651.svg"
   },
   {
-    "name": "verseau",
+    "name": "verseau astrologie",
     "svg": "2652.svg"
   },
   {
-    "name": "pis",
+    "name": "poisson astrologie",
     "svg": "2653.svg"
   },
   {
-    "name": "brun noir creuser bêche convenir complet costume bon",
+    "name": "pic pocker",
     "svg": "2660.svg"
   },
   {
-    "name": "brun noir club convenir complet costume bon",
+    "name": "treffle pocker",
     "svg": "2663.svg"
   },
   {
-    "name": "brun noir cœur convenir complet costume bon",
+    "name": "coeur pocker",
     "svg": "2665.svg"
   },
   {
-    "name": "brun noir diamant convenir complet costume bon",
+    "name": "carreau pocker",
     "svg": "2666.svg"
   },
   {
-    "name": "hot springs",
+    "name": "chaud feu",
     "svg": "2668.svg"
   },
   {
-    "name": "brun noir universal recycling symbole",
+    "name": "recycler recyclage",
     "svg": "267b.svg"
   },
   {
-    "name": "wheelchair symbole",
+    "name": "fauteuil roulant handicap",
     "svg": "267f.svg"
   },
   {
-    "name": "marteau cueillir piquer rammasser",
+    "name": "marteau",
     "svg": "2692.svg"
   },
   {
-    "name": "ancre relâcher",
+    "name": "ancre bateau",
     "svg": "2693.svg"
   },
   {
-    "name": "crossed swords",
+    "name": "epee",
     "svg": "2694.svg"
   },
   {
-    "name": "sca",
+    "name": "balance",
     "svg": "2696.svg"
   },
   {
@@ -7472,31 +7472,31 @@
     "svg": "2697.svg"
   },
   {
-    "name": "gear",
+    "name": "engrenage options parametres",
     "svg": "2699.svg"
   },
   {
-    "name": "atome symbole",
+    "name": "atome",
     "svg": "269b.svg"
   },
   {
-    "name": "fleur-de-lis",
+    "name": "fleur lis",
     "svg": "269c.svg"
   },
   {
-    "name": "recommandation sommation signe",
+    "name": "attention warning",
     "svg": "26a0.svg"
   },
   {
-    "name": "haut tension signe",
+    "name": "eclaire electricite tension",
     "svg": "26a1.svg"
   },
   {
-    "name": "medium blanc cercle rond ronde",
+    "name": "cercle",
     "svg": "26aa.svg"
   },
   {
-    "name": "medium brun noir cercle rond ronde",
+    "name": "cercle",
     "svg": "26ab.svg"
   },
   {
@@ -7504,55 +7504,55 @@
     "svg": "26b0.svg"
   },
   {
-    "name": "enterrement obsèques urn",
+    "name": "urne jarre",
     "svg": "26b1.svg"
   },
   {
-    "name": "foot football bal globe balle sphère",
+    "name": "foot",
     "svg": "26bd.svg"
   },
   {
-    "name": "base‐ball",
+    "name": "baseball",
     "svg": "26be.svg"
   },
   {
-    "name": "snowman sans neiger neige",
+    "name": "bonhomme neige",
     "svg": "26c4.svg"
   },
   {
-    "name": "ensoleillé soleil derrière arrière après cul croupe brouiller confus trouble nuage",
+    "name": "soleil nuage",
     "svg": "26c5.svg"
   },
   {
-    "name": "retenir tonner tonnerre brouiller confus trouble nuage pleuvoir pluie",
+    "name": "pluie nuage eclaire tonnere",
     "svg": "26c8.svg"
   },
   {
-    "name": "ophiuchus",
+    "name": "ophiuchus constellation",
     "svg": "26ce.svg"
   },
   {
-    "name": "cueillir piquer rammasser",
+    "name": "pic pioche",
     "svg": "26cf.svg"
   },
   {
-    "name": "helmet moyen bord près blanc croiser croix maussade passer dépasser",
+    "name": "casque secours pompier",
     "svg": "26d1.svg"
   },
   {
-    "name": "chains",
+    "name": "chaines attacher",
     "svg": "26d3.svg"
   },
   {
-    "name": "non inscription présentation",
+    "name": "non interdit",
     "svg": "26d4.svg"
   },
   {
-    "name": "shinto shrine",
+    "name": "shinto torii",
     "svg": "26e9.svg"
   },
   {
-    "name": "église",
+    "name": "eglise",
     "svg": "26ea.svg"
   },
   {
@@ -7560,7 +7560,7 @@
     "svg": "26f0.svg"
   },
   {
-    "name": "parapluie avant milie dans moyen plus sujet contre  fond sol terre terrain",
+    "name": "parasol plage soleil",
     "svg": "26f1.svg"
   },
   {
@@ -7568,23 +7568,23 @@
     "svg": "26f2.svg"
   },
   {
-    "name": "drapeau pavillon étendard milie dans fossé trou",
+    "name": "drapeau golf trou",
     "svg": "26f3.svg"
   },
   {
-    "name": "bac",
+    "name": "bateau croisiere",
     "svg": "26f4.svg"
   },
   {
-    "name": "sailboat",
+    "name": "bateau voile",
     "svg": "26f5.svg"
   },
   {
-    "name": "skier",
+    "name": "ski",
     "svg": "26f7.svg"
   },
   {
-    "name": "crème glacée glace patin raie",
+    "name": "patin glace",
     "svg": "26f8.svg"
   },
   {
@@ -7592,19 +7592,19 @@
     "svg": "26fa.svg"
   },
   {
-    "name": "fuel pomper pompe",
+    "name": "pompe essence gazole gazoil sp95 sp98",
     "svg": "26fd.svg"
   },
   {
-    "name": "brun noir ciseaux",
+    "name": "ciseaux",
     "svg": "2702.svg"
   },
   {
-    "name": "blanc lourd réprimer retenir bride surveiller vérifier chèque signe",
+    "name": "ok",
     "svg": "2705.svg"
   },
   {
-    "name": "aéroplane avion",
+    "name": "avion",
     "svg": "2708.svg"
   },
   {
@@ -7612,19 +7612,19 @@
     "svg": "2709.svg"
   },
   {
-    "name": "raised poing",
+    "name": "poing main levee",
     "svg": "270a.svg"
   },
   {
-    "name": "raised ouvrier main",
+    "name": "main levee",
     "svg": "270b.svg"
   },
   {
-    "name": "victory ouvrier main",
+    "name": "main v victoire",
     "svg": "270c.svg"
   },
   {
-    "name": "writing ouvrier main",
+    "name": "main stylo ecriture",
     "svg": "270d.svg"
   },
   {
@@ -7632,35 +7632,35 @@
     "svg": "270f.svg"
   },
   {
-    "name": "brun noir nib",
+    "name": "stylo plume",
     "svg": "2712.svg"
   },
   {
-    "name": "lourd réprimer retenir bride surveiller vérifier chèque signe",
+    "name": "ok",
     "svg": "2714.svg"
   },
   {
-    "name": "lourd multiplication",
+    "name": "multiplication croix",
     "svg": "2716.svg"
   },
   {
-    "name": "latin croiser croix maussade passer dépasser",
+    "name": "croix chretien",
     "svg": "271d.svg"
   },
   {
-    "name": "astral étoile star vedette david",
+    "name": "etoile david",
     "svg": "2721.svg"
   },
   {
-    "name": "spark",
+    "name": "etoile etincelles magie",
     "svg": "2728.svg"
   },
   {
-    "name": "huit spoked astérisque",
+    "name": "etoile asterisque",
     "svg": "2733.svg"
   },
   {
-    "name": "huit pointu brun noir astral étoile star vedette",
+    "name": "etoile asterisque",
     "svg": "2734.svg"
   },
   {
@@ -7668,243 +7668,243 @@
     "svg": "2744.svg"
   },
   {
-    "name": "sparkle",
+    "name": "etincelle",
     "svg": "2747.svg"
   },
   {
-    "name": "croiser croix maussade passer dépasser signe",
+    "name": "croix multiplier",
     "svg": "274c.svg"
   },
   {
-    "name": "negative squared croiser croix maussade passer dépasser signe",
+    "name": "croix",
     "svg": "274e.svg"
   },
   {
-    "name": "brun noir question contester disputer signe ornament parure décorer orner parer ornement",
+    "name": "question",
     "svg": "2753.svg"
   },
   {
-    "name": "blanc question contester disputer signe ornament parure décorer orner parer ornement",
+    "name": "question",
     "svg": "2754.svg"
   },
   {
-    "name": "blanc exclamation signe ornament parure décorer orner parer ornement",
+    "name": "exclamation",
     "svg": "2755.svg"
   },
   {
-    "name": "lourd exclamation signe symbole",
+    "name": "exclamation",
     "svg": "2757.svg"
   },
   {
-    "name": "lourd cœur exclamation signe ornament parure décorer orner parer ornement",
+    "name": "coeur exclamation",
     "svg": "2763.svg"
   },
   {
-    "name": "lourd brun noir cœur",
+    "name": "coeur",
     "svg": "2764.svg"
   },
   {
-    "name": "lourd plus signe",
+    "name": "plus addition",
     "svg": "2795.svg"
   },
   {
-    "name": "lourd moins signe",
+    "name": "moins soustraction",
     "svg": "2796.svg"
   },
   {
-    "name": "lourd division signe",
+    "name": "diviser division",
     "svg": "2797.svg"
   },
   {
-    "name": "brun noir rightwards fleche",
+    "name": "fleche droit",
     "svg": "27a1.svg"
   },
   {
-    "name": "curly maille",
+    "name": "boucle",
     "svg": "27b0.svg"
   },
   {
-    "name": "double redoubler curly maille",
+    "name": "boucle",
     "svg": "27bf.svg"
   },
   {
-    "name": "fleche pointing rightwards après ensuite alors curving upwards",
+    "name": "fleche haut",
     "svg": "2934.svg"
   },
   {
-    "name": "fleche pointing rightwards après ensuite alors curving downwards",
+    "name": "fleche bas",
     "svg": "2935.svg"
   },
   {
-    "name": "leftwards brun noir fleche",
+    "name": "fleche gauche",
     "svg": "2b05.svg"
   },
   {
-    "name": "upwards brun noir fleche",
+    "name": "fleche haut",
     "svg": "2b06.svg"
   },
   {
-    "name": "downwards brun noir fleche",
+    "name": "fleche bas",
     "svg": "2b07.svg"
   },
   {
-    "name": "brun noir grand droit rectangle esplanade place rond‐point",
+    "name": "carre",
     "svg": "2b1b.svg"
   },
   {
-    "name": "blanc grand droit rectangle esplanade place rond‐point",
+    "name": "carre",
     "svg": "2b1c.svg"
   },
   {
-    "name": "blanc medium astral étoile star vedette",
+    "name": "etoile",
     "svg": "2b50.svg"
   },
   {
-    "name": "lourd grand cercle rond ronde",
+    "name": "cercle rond",
     "svg": "2b55.svg"
   },
   {
-    "name": "wavy dash",
+    "name": "vague signature",
     "svg": "3030.svg"
   },
   {
-    "name": "part partie contingent portion rôle alternation signe",
+    "name": "signature",
     "svg": "303d.svg"
   },
   {
-    "name": "circled ideograph congratulation",
+    "name": "ideogramme felicitations",
     "svg": "3297.svg"
   },
   {
-    "name": "circled ideograph arcane secret",
+    "name": "ideogramme secret",
     "svg": "3299.svg"
   },
   {
-    "name": "mahjong carreau rouge dragon",
+    "name": "mahjong",
     "svg": "1f004.svg"
   },
   {
-    "name": "playing carte brun noir joker",
+    "name": "carte joker",
     "svg": "1f0cf.svg"
   },
   {
-    "name": "negative squared latin capital fonds lettre milie dans quelqu'un àraisonde une",
+    "name": "a sanguin",
     "svg": "1f170.svg"
   },
   {
-    "name": "negative squared latin capital fonds lettre",
+    "name": "b sanguin",
     "svg": "1f171.svg"
   },
   {
-    "name": "negative squared latin capital fonds lettre",
+    "name": "0 sanguin",
     "svg": "1f17e.svg"
   },
   {
-    "name": "negative squared latin capital fonds lettre",
+    "name": "p",
     "svg": "1f17f.svg"
   },
   {
-    "name": "negative squared",
+    "name": "ab sanguin",
     "svg": "1f18e.svg"
   },
   {
-    "name": "squared",
+    "name": "cl",
     "svg": "1f191.svg"
   },
   {
-    "name": "squared cool",
+    "name": "cool",
     "svg": "1f192.svg"
   },
   {
-    "name": "squared free",
+    "name": "free",
     "svg": "1f193.svg"
   },
   {
-    "name": "squared",
+    "name": "id",
     "svg": "1f194.svg"
   },
   {
-    "name": "squared nouveau",
+    "name": "new nouveau",
     "svg": "1f195.svg"
   },
   {
-    "name": "squared",
+    "name": "ng",
     "svg": "1f196.svg"
   },
   {
-    "name": "squared",
+    "name": "ok",
     "svg": "1f197.svg"
   },
   {
-    "name": "squared sos",
+    "name": "aide sos help",
     "svg": "1f198.svg"
   },
   {
-    "name": "squared moyen bord près exclamation signe",
+    "name": "haut up",
     "svg": "1f199.svg"
   },
   {
-    "name": "squared",
+    "name": "vs versus contre",
     "svg": "1f19a.svg"
   },
   {
-    "name": "squared katakana koko",
+    "name": "katakana koko",
     "svg": "1f201.svg"
   },
   {
-    "name": "squared katakana",
+    "name": "katakana",
     "svg": "1f202.svg"
   },
   {
-    "name": "squared cjk unified ideograph-7121",
+    "name": "ideogramme",
     "svg": "1f21a.svg"
   },
   {
-    "name": "squared cjk unified ideograph-6307",
+    "name": "ideogramme",
     "svg": "1f22f.svg"
   },
   {
-    "name": "squared cjk unified ideograph-7981",
+    "name": "ideogramme",
     "svg": "1f232.svg"
   },
   {
-    "name": "squared cjk unified ideograph-7a7a",
+    "name": "ideogramme",
     "svg": "1f233.svg"
   },
   {
-    "name": "squared cjk unified ideograph-5408",
+    "name": "ideogramme",
     "svg": "1f234.svg"
   },
   {
-    "name": "squared cjk unified ideograph-6e80",
+    "name": "ideogramme",
     "svg": "1f235.svg"
   },
   {
-    "name": "squared cjk unified ideograph-6709",
+    "name": "ideogramme",
     "svg": "1f236.svg"
   },
   {
-    "name": "squared cjk unified ideograph-6708",
+    "name": "ideogramme",
     "svg": "1f237.svg"
   },
   {
-    "name": "squared cjk unified ideograph-7533",
+    "name": "ideogramme",
     "svg": "1f238.svg"
   },
   {
-    "name": "squared cjk unified ideograph-5272",
+    "name": "ideogramme",
     "svg": "1f239.svg"
   },
   {
-    "name": "squared cjk unified ideograph-55b6",
+    "name": "ideogramme",
     "svg": "1f23a.svg"
   },
   {
-    "name": "circled ideograph avantage intérêt",
+    "name": "ideogramme avantage",
     "svg": "1f250.svg"
   },
   {
-    "name": "circled ideograph accepter accueillir admettre agréer recevoir recueiller",
+    "name": "ideogramme accepter",
     "svg": "1f251.svg"
   },
   {
@@ -7912,163 +7912,163 @@
     "svg": "1f300.svg"
   },
   {
-    "name": "foggy",
+    "name": "brouillard immeubles ville fog",
     "svg": "1f301.svg"
   },
   {
-    "name": "closed parapluie",
+    "name": "parapluie",
     "svg": "1f302.svg"
   },
   {
-    "name": "nuit moyen bord près stars",
+    "name": "nuit immeubles ville",
     "svg": "1f303.svg"
   },
   {
-    "name": "sunrise au‐dessus mountains",
+    "name": "soleil montagne",
     "svg": "1f304.svg"
   },
   {
-    "name": "sunrise",
+    "name": "soleil mer",
     "svg": "1f305.svg"
   },
   {
-    "name": "cityscape vers près àraisonde bord près dusk",
+    "name": "ville",
     "svg": "1f306.svg"
   },
   {
-    "name": "sunset au‐dessus buildings",
+    "name": "ville leve soleil",
     "svg": "1f307.svg"
   },
   {
-    "name": "arc‐en‐ciel",
+    "name": "arc ciel rainbow",
     "svg": "1f308.svg"
   },
   {
-    "name": "pont vers près àraisonde bord près nuit",
+    "name": "nuit pont ville",
     "svg": "1f309.svg"
   },
   {
-    "name": "aquatique eau onde abreuver arroser onde vague onduler agiter brandir",
+    "name": "eau mer vagues",
     "svg": "1f30a.svg"
   },
   {
-    "name": "volcan",
+    "name": "volcan lave",
     "svg": "1f30b.svg"
   },
   {
-    "name": "milky chemin coutume habitude manière route voie",
+    "name": "etoile voie lactee",
     "svg": "1f30c.svg"
   },
   {
-    "name": "terre butter terrer globe europe-africa",
+    "name": "terre globe europe afrique",
     "svg": "1f30d.svg"
   },
   {
-    "name": "terre butter terrer globe americas",
+    "name": "terre globe amerique",
     "svg": "1f30e.svg"
   },
   {
-    "name": "terre butter terrer globe asia-australia",
+    "name": "terre globe asie australie",
     "svg": "1f30f.svg"
   },
   {
-    "name": "globe moyen bord près meridians",
+    "name": "globe meridiens",
     "svg": "1f310.svg"
   },
   {
-    "name": "nouveau lune symbole",
+    "name": "lune",
     "svg": "1f311.svg"
   },
   {
-    "name": "waxing crescent lune symbole",
+    "name": "lune croissant",
     "svg": "1f312.svg"
   },
   {
-    "name": "premier commencement premier lieu d'abord quartier lune symbole",
+    "name": "lune quartier",
     "svg": "1f313.svg"
   },
   {
-    "name": "waxing gibbous lune symbole",
+    "name": "lune",
     "svg": "1f314.svg"
   },
   {
-    "name": "complet entier rassasié lune symbole",
+    "name": "lune pleine",
     "svg": "1f315.svg"
   },
   {
-    "name": "waning gibbous lune symbole",
+    "name": "lune",
     "svg": "1f316.svg"
   },
   {
-    "name": "précédent continuer durer dernier passé quartier lune symbole",
+    "name": "lune croissant",
     "svg": "1f317.svg"
   },
   {
-    "name": "waning crescent lune symbole",
+    "name": "lune croissant",
     "svg": "1f318.svg"
   },
   {
-    "name": "crescent lune",
+    "name": "lune croissant",
     "svg": "1f319.svg"
   },
   {
-    "name": "nouveau lune moyen bord près affronter face figure visage",
+    "name": "face lune",
     "svg": "1f31a.svg"
   },
   {
-    "name": "premier commencement premier lieu d'abord quartier lune moyen bord près affronter face figure visage",
+    "name": "lune croissant",
     "svg": "1f31b.svg"
   },
   {
-    "name": "précédent continuer durer dernier passé quartier lune moyen bord près affronter face figure visage",
+    "name": "lune croissant",
     "svg": "1f31c.svg"
   },
   {
-    "name": "complet entier rassasié lune moyen bord près affronter face figure visage",
+    "name": "lune face",
     "svg": "1f31d.svg"
   },
   {
-    "name": "ensoleillé soleil moyen bord près affronter face figure visage",
+    "name": "soleil face sourire",
     "svg": "1f31e.svg"
   },
   {
-    "name": "glowing astral étoile star vedette",
+    "name": "etoile",
     "svg": "1f31f.svg"
   },
   {
-    "name": "shooting astral étoile star vedette",
+    "name": "etoile comete",
     "svg": "1f320.svg"
   },
   {
-    "name": "thermomètre",
+    "name": "thermometre",
     "svg": "1f321.svg"
   },
   {
-    "name": "blanc ensoleillé soleil moyen bord près petit brouiller   confus   trouble nuage",
+    "name": "soleil nuage",
     "svg": "1f324.svg"
   },
   {
-    "name": "blanc ensoleillé soleil derrière arrière après cul croupe brouiller confus trouble nuage",
+    "name": "soleil nuage",
     "svg": "1f325.svg"
   },
   {
-    "name": "blanc ensoleillé soleil derrière arrière après cul croupe brouiller confus trouble nuage  moyen  bord près pleuvoir pluie",
+    "name": "soleil nuage pluie",
     "svg": "1f326.svg"
   },
   {
-    "name": "brouiller confus trouble nuage  moyen  bord près pleuvoir pluie",
+    "name": "nuage pluie",
     "svg": "1f327.svg"
   },
   {
-    "name": "brouiller confus trouble nuage  moyen  bord près neiger neige",
+    "name": "nuage neige",
     "svg": "1f328.svg"
   },
   {
-    "name": "brouiller confus trouble nuage  moyen  bord près éclair foudre",
+    "name": "nuage eclair foudre orage",
     "svg": "1f329.svg"
   },
   {
-    "name": "brouiller confus trouble nuage  moyen  bord près tornado",
+    "name": "nuage orage tornade",
     "svg": "1f32a.svg"
   },
   {
@@ -8076,103 +8076,103 @@
     "svg": "1f32b.svg"
   },
   {
-    "name": "vent emmailloter enrouler blowing affronter face figure visage",
+    "name": "vent souffler face",
     "svg": "1f32c.svg"
   },
   {
-    "name": "hot chien clébard",
+    "name": "hotdog hot-dog sandwich",
     "svg": "1f32d.svg"
   },
   {
-    "name": "taco",
+    "name": "taco sandwich",
     "svg": "1f32e.svg"
   },
   {
-    "name": "burrito",
+    "name": "burrito sandwich",
     "svg": "1f32f.svg"
   },
   {
-    "name": "châtaigne marron",
+    "name": "marron chataigne",
     "svg": "1f330.svg"
   },
   {
-    "name": "seedling",
+    "name": "fleur pousse",
     "svg": "1f331.svg"
   },
   {
-    "name": "evergreen arbre",
+    "name": "arbre sapin",
     "svg": "1f332.svg"
   },
   {
-    "name": "deciduous arbre",
+    "name": "arbre",
     "svg": "1f333.svg"
   },
   {
-    "name": "paume palmier arbre",
+    "name": "palmier arbre",
     "svg": "1f334.svg"
   },
   {
-    "name": "cactus",
+    "name": "cactus plante",
     "svg": "1f335.svg"
   },
   {
-    "name": "hot poivre",
+    "name": "piment",
     "svg": "1f336.svg"
   },
   {
-    "name": "tulip",
+    "name": "tulipe fleur",
     "svg": "1f337.svg"
   },
   {
-    "name": "cerise blossom",
+    "name": "ceriser fleur",
     "svg": "1f338.svg"
   },
   {
-    "name": "rose",
+    "name": "rose fleur",
     "svg": "1f339.svg"
   },
   {
-    "name": "hibiscus",
+    "name": "hibiscus fleur",
     "svg": "1f33a.svg"
   },
   {
-    "name": "sunflower",
+    "name": "tournesol fleur",
     "svg": "1f33b.svg"
   },
   {
-    "name": "blossom",
+    "name": "fleur",
     "svg": "1f33c.svg"
   },
   {
-    "name": "epi maïs",
+    "name": "epi mais plante",
     "svg": "1f33d.svg"
   },
   {
-    "name": "epi riz",
+    "name": "epi riz ble plante",
     "svg": "1f33e.svg"
   },
   {
-    "name": "herbe",
+    "name": "feuille arbre",
     "svg": "1f33f.svg"
   },
   {
-    "name": "quatre feuille clover",
+    "name": "trefle chance",
     "svg": "1f340.svg"
   },
   {
-    "name": "érable feuille",
+    "name": "erable feuille",
     "svg": "1f341.svg"
   },
   {
-    "name": "fallen feuille",
+    "name": "feuille automne",
     "svg": "1f342.svg"
   },
   {
-    "name": "feuille fluttering milie dans vent emmailloter enrouler",
+    "name": "feuille vent",
     "svg": "1f343.svg"
   },
   {
-    "name": "champignon",
+    "name": "champignon plante",
     "svg": "1f344.svg"
   },
   {
@@ -8184,7 +8184,7 @@
     "svg": "1f346.svg"
   },
   {
-    "name": "grapes",
+    "name": "raisin",
     "svg": "1f347.svg"
   },
   {
@@ -8192,7 +8192,7 @@
     "svg": "1f348.svg"
   },
   {
-    "name": "watermelon",
+    "name": "pasteque",
     "svg": "1f349.svg"
   },
   {
@@ -8212,11 +8212,11 @@
     "svg": "1f34d.svg"
   },
   {
-    "name": "rouge pomme",
+    "name": "pomme",
     "svg": "1f34e.svg"
   },
   {
-    "name": "vert pomme",
+    "name": "pomme",
     "svg": "1f34f.svg"
   },
   {
@@ -8224,11 +8224,11 @@
     "svg": "1f350.svg"
   },
   {
-    "name": "pêche",
+    "name": "peche",
     "svg": "1f351.svg"
   },
   {
-    "name": "cherries",
+    "name": "cerise",
     "svg": "1f352.svg"
   },
   {
@@ -8236,19 +8236,19 @@
     "svg": "1f353.svg"
   },
   {
-    "name": "hamburger",
+    "name": "hamburger sandwich",
     "svg": "1f354.svg"
   },
   {
-    "name": "balafre couper tailler trancher pizza",
+    "name": "pizza",
     "svg": "1f355.svg"
   },
   {
-    "name": "viande avant milie dans moyen plus sujet contre",
+    "name": "viande",
     "svg": "1f356.svg"
   },
   {
-    "name": "poultry jambe patte",
+    "name": "poulet",
     "svg": "1f357.svg"
   },
   {
@@ -8256,35 +8256,35 @@
     "svg": "1f358.svg"
   },
   {
-    "name": "riz bal globe balle sphère",
+    "name": "riz",
     "svg": "1f359.svg"
   },
   {
-    "name": "cooked riz",
+    "name": "riz bol",
     "svg": "1f35a.svg"
   },
   {
-    "name": "panser riz",
+    "name": "riz",
     "svg": "1f35b.svg"
   },
   {
-    "name": "steaming bassin bol",
+    "name": "bol pates nouille ramen soupe",
     "svg": "1f35c.svg"
   },
   {
-    "name": "spaghetti",
+    "name": "spaghetti pates",
     "svg": "1f35d.svg"
   },
   {
-    "name": "pain",
+    "name": "pain brioche",
     "svg": "1f35e.svg"
   },
   {
-    "name": "français langue française fries",
+    "name": "frites",
     "svg": "1f35f.svg"
   },
   {
-    "name": "grillé doux gentil suave sucré friandise pomme terre",
+    "name": "pomme terre patate",
     "svg": "1f360.svg"
   },
   {
@@ -8300,27 +8300,27 @@
     "svg": "1f363.svg"
   },
   {
-    "name": "fried shrimp",
+    "name": "crevette",
     "svg": "1f364.svg"
   },
   {
-    "name": "pêcher poisson gâteau moyen bord près tourbilloner dessiner dessin plan projet esquisse",
+    "name": "poisson",
     "svg": "1f365.svg"
   },
   {
-    "name": "doux gentil suave sucré mœlleux mou tendre crème glacée glace crème",
+    "name": "glace creme",
     "svg": "1f366.svg"
   },
   {
-    "name": "shaved crème glacée glace",
+    "name": "glace creme",
     "svg": "1f367.svg"
   },
   {
-    "name": "crème glacée glace crème",
+    "name": "glace creme",
     "svg": "1f368.svg"
   },
   {
-    "name": "doughnut",
+    "name": "doughnut gateau",
     "svg": "1f369.svg"
   },
   {
@@ -8328,19 +8328,19 @@
     "svg": "1f36a.svg"
   },
   {
-    "name": "chocolat barrer bar abreuvoir",
+    "name": "chocolat",
     "svg": "1f36b.svg"
   },
   {
-    "name": "friandise",
+    "name": "friandise bonbon",
     "svg": "1f36c.svg"
   },
   {
-    "name": "lollipop",
+    "name": "friandise sucette",
     "svg": "1f36d.svg"
   },
   {
-    "name": "custard",
+    "name": "creme",
     "svg": "1f36e.svg"
   },
   {
@@ -8348,19 +8348,19 @@
     "svg": "1f36f.svg"
   },
   {
-    "name": "shortcake",
+    "name": "gateau",
     "svg": "1f370.svg"
   },
   {
-    "name": "bento boxer bac caisse coffre boîte coffret baquet",
+    "name": "bento repas",
     "svg": "1f371.svg"
   },
   {
-    "name": "pot nourriture aliment pâture",
+    "name": "casserole soupe",
     "svg": "1f372.svg"
   },
   {
-    "name": "cooking",
+    "name": "poele oeuf",
     "svg": "1f373.svg"
   },
   {
@@ -8368,7 +8368,7 @@
     "svg": "1f374.svg"
   },
   {
-    "name": "teacup sans tâter manier traiter",
+    "name": "tasse the",
     "svg": "1f375.svg"
   },
   {
@@ -8384,27 +8384,27 @@
     "svg": "1f378.svg"
   },
   {
-    "name": "tropical s'enivrer boisson consommation boire",
+    "name": "cocktail verre",
     "svg": "1f379.svg"
   },
   {
-    "name": "bière mug",
+    "name": "biere",
     "svg": "1f37a.svg"
   },
   {
-    "name": "clinking bière mugs",
+    "name": "biere trinquer apero",
     "svg": "1f37b.svg"
   },
   {
-    "name": "bébé bouteille",
+    "name": "biberon bebe",
     "svg": "1f37c.svg"
   },
   {
-    "name": "fourchette couteau moyen bord près met plat plaque assiette",
+    "name": "fourchette couteau assiette",
     "svg": "1f37d.svg"
   },
   {
-    "name": "bouteille moyen bord près popping liège bouchon liège",
+    "name": "bouteille champagne mousseux",
     "svg": "1f37e.svg"
   },
   {
@@ -8412,47 +8412,47 @@
     "svg": "1f37f.svg"
   },
   {
-    "name": "ruban",
+    "name": "ruban noeud",
     "svg": "1f380.svg"
   },
   {
-    "name": "wrapped actuel cadeau don présenter présent",
+    "name": "cadeau paquet",
     "svg": "1f381.svg"
   },
   {
-    "name": "anniversaire gâteau",
+    "name": "anniversaire gateau",
     "svg": "1f382.svg"
   },
   {
-    "name": "jack-o-lantern",
+    "name": "citrouille potiron",
     "svg": "1f383.svg"
   },
   {
-    "name": "christmas arbre",
+    "name": "arbre noel sapin",
     "svg": "1f384.svg"
   },
   {
-    "name": "père christmas",
+    "name": "pere noel santa",
     "svg": "1f385.svg"
   },
   {
-    "name": "fireworks",
+    "name": "feu artifice",
     "svg": "1f386.svg"
   },
   {
-    "name": "firework sparkler",
+    "name": "feu artifice",
     "svg": "1f387.svg"
   },
   {
-    "name": "aérostat ballon",
+    "name": "ballon",
     "svg": "1f388.svg"
   },
   {
-    "name": "adhérents parti fête suite popper",
+    "name": "fete soiree confetti",
     "svg": "1f389.svg"
   },
   {
-    "name": "confetti bal globe balle sphère",
+    "name": "fete confetti carnaval",
     "svg": "1f38a.svg"
   },
   {
@@ -8460,31 +8460,31 @@
     "svg": "1f38b.svg"
   },
   {
-    "name": "crossed flags",
+    "name": "drapeau",
     "svg": "1f38c.svg"
   },
   {
-    "name": "pin décor décoration ornament parure",
+    "name": "decoration noel",
     "svg": "1f38d.svg"
   },
   {
-    "name": "japonais langue japonaise japonais dolls",
+    "name": "japon japonais poupee",
     "svg": "1f38e.svg"
   },
   {
-    "name": "carpe streamer",
+    "name": "carpe banderole koinobori vent",
     "svg": "1f38f.svg"
   },
   {
-    "name": "vent emmailloter enrouler chime",
+    "name": "vent carillon",
     "svg": "1f390.svg"
   },
   {
-    "name": "lune viewing cérémonie",
+    "name": "lune ceremonie",
     "svg": "1f391.svg"
   },
   {
-    "name": "école satchel",
+    "name": "cartable",
     "svg": "1f392.svg"
   },
   {
@@ -8492,31 +8492,31 @@
     "svg": "1f393.svg"
   },
   {
-    "name": "military médaille",
+    "name": "militaire medaille",
     "svg": "1f396.svg"
   },
   {
-    "name": "reminder ruban",
+    "name": "ruban",
     "svg": "1f397.svg"
   },
   {
-    "name": "atelier studio microphone",
+    "name": "microphone",
     "svg": "1f399.svg"
   },
   {
-    "name": "plat uni égal horizontal niveau slider",
+    "name": "potentiometre slidder",
     "svg": "1f39a.svg"
   },
   {
-    "name": "commandement gouvernement règne tenue gouverner régner surveiller knobs",
+    "name": "potentiometre potar knobs",
     "svg": "1f39b.svg"
   },
   {
-    "name": "film pellicule fra",
+    "name": "film pellicule",
     "svg": "1f39e.svg"
   },
   {
-    "name": "abord accueil réception accès entrée aveu confession tickets",
+    "name": "tickets",
     "svg": "1f39f.svg"
   },
   {
@@ -8524,15 +8524,15 @@
     "svg": "1f3a0.svg"
   },
   {
-    "name": "ferris roue",
+    "name": "roue",
     "svg": "1f3a1.svg"
   },
   {
-    "name": "cylindre coaster",
+    "name": "coaster",
     "svg": "1f3a2.svg"
   },
   {
-    "name": "fishing polonais pêcher poisson",
+    "name": "pecher poisson",
     "svg": "1f3a3.svg"
   },
   {
@@ -8540,23 +8540,23 @@
     "svg": "1f3a4.svg"
   },
   {
-    "name": "film pellicule caméra",
+    "name": "camera",
     "svg": "1f3a5.svg"
   },
   {
-    "name": "cinéma",
+    "name": "camera",
     "svg": "1f3a6.svg"
   },
   {
-    "name": "headphone",
+    "name": "casque audio",
     "svg": "1f3a7.svg"
   },
   {
-    "name": "artiste palette",
+    "name": "palette peinture",
     "svg": "1f3a8.svg"
   },
   {
-    "name": "mutiler comble faîte haut sommet sum chapeau",
+    "name": "chapeau",
     "svg": "1f3a9.svg"
   },
   {
@@ -8568,31 +8568,31 @@
     "svg": "1f3ab.svg"
   },
   {
-    "name": "clapper panneau planche",
+    "name": "clap",
     "svg": "1f3ac.svg"
   },
   {
-    "name": "performing arts",
+    "name": "masques theatre",
     "svg": "1f3ad.svg"
   },
   {
-    "name": "video jeu",
+    "name": "manette gamepad console",
     "svg": "1f3ae.svg"
   },
   {
-    "name": "diriger guider régler direct droit battre frapper heurter atteindre parvenir saisir",
+    "name": "cible flechettes",
     "svg": "1f3af.svg"
   },
   {
-    "name": "cannelure rainure sillon machine",
+    "name": "jackpot",
     "svg": "1f3b0.svg"
   },
   {
-    "name": "billiards",
+    "name": "billard 8",
     "svg": "1f3b1.svg"
   },
   {
-    "name": "jeu décéder mourir",
+    "name": "perdre",
     "svg": "1f3b2.svg"
   },
   {
@@ -8600,15 +8600,15 @@
     "svg": "1f3b3.svg"
   },
   {
-    "name": "fleur playing cards",
+    "name": "carte",
     "svg": "1f3b4.svg"
   },
   {
-    "name": "musical billet ticket noter note",
+    "name": "notes musique",
     "svg": "1f3b5.svg"
   },
   {
-    "name": "multiple musical notes",
+    "name": "notes musique",
     "svg": "1f3b6.svg"
   },
   {
@@ -8620,7 +8620,7 @@
     "svg": "1f3b8.svg"
   },
   {
-    "name": "musical clavier",
+    "name": "piano synthetiseur",
     "svg": "1f3b9.svg"
   },
   {
@@ -8632,59 +8632,59 @@
     "svg": "1f3bb.svg"
   },
   {
-    "name": "musical adapter orchestrer",
+    "name": "partition",
     "svg": "1f3bc.svg"
   },
   {
-    "name": "running chemise moyen bord près sash",
+    "name": "maillot tshirt",
     "svg": "1f3bd.svg"
   },
   {
-    "name": "tennis racquet bal globe balle sphère",
+    "name": "tennis raquette balle",
     "svg": "1f3be.svg"
   },
   {
-    "name": "ski ski botte",
+    "name": "ski",
     "svg": "1f3bf.svg"
   },
   {
-    "name": "basket‐ball hoop",
+    "name": "basket ballon",
     "svg": "1f3c0.svg"
   },
   {
-    "name": "chequered drapeau pavillon étendard",
+    "name": "drapeau course f1",
     "svg": "1f3c1.svg"
   },
   {
-    "name": "snowboarder",
+    "name": "snowboarder ski",
     "svg": "1f3c2.svg"
   },
   {
-    "name": "sports médaille",
+    "name": "medaille",
     "svg": "1f3c5.svg"
   },
   {
-    "name": "trophy",
+    "name": "coupe",
     "svg": "1f3c6.svg"
   },
   {
-    "name": "cheval racing",
+    "name": "cheval jockey course",
     "svg": "1f3c7.svg"
   },
   {
-    "name": "américain américain foot football ballon ballon football",
+    "name": "football ballon",
     "svg": "1f3c8.svg"
   },
   {
-    "name": "rugby foot football ballon ballon football",
+    "name": "rugby ballon",
     "svg": "1f3c9.svg"
   },
   {
-    "name": "racing moto vélomoteur",
+    "name": "moto",
     "svg": "1f3cd.svg"
   },
   {
-    "name": "racing auto",
+    "name": "voiture f1",
     "svg": "1f3ce.svg"
   },
   {
@@ -8696,87 +8696,87 @@
     "svg": "1f3d0.svg"
   },
   {
-    "name": "champ hockey s'agglutiner bâtonnet bâton canne coller bal globe balle sphère",
+    "name": "hockey balle",
     "svg": "1f3d1.svg"
   },
   {
-    "name": "crème glacée glace hockey s'agglutiner bâtonnet bâton canne coller puck",
+    "name": "hockey palet",
     "svg": "1f3d2.svg"
   },
   {
-    "name": "liste tableau table tennis barboter patauger bal globe balle sphère",
+    "name": "ping pong tennis balle raquette",
     "svg": "1f3d3.svg"
   },
   {
-    "name": "neiger neige capped mont montagne",
+    "name": "neige montagne",
     "svg": "1f3d4.svg"
   },
   {
-    "name": "camping",
+    "name": "camping tente",
     "svg": "1f3d5.svg"
   },
   {
-    "name": "plage moyen bord près parapluie",
+    "name": "plage soleil parasol",
     "svg": "1f3d6.svg"
   },
   {
-    "name": "construction bâtiment immeuble construction",
+    "name": "construction immeuble",
     "svg": "1f3d7.svg"
   },
   {
-    "name": "maison buildings",
+    "name": "maison",
     "svg": "1f3d8.svg"
   },
   {
-    "name": "cityscape",
+    "name": "ville nuit immeuble",
     "svg": "1f3d9.svg"
   },
   {
-    "name": "derelict maison construction bâtiment immeuble",
+    "name": "maison delabree",
     "svg": "1f3da.svg"
   },
   {
-    "name": "classique construction bâtiment immeuble",
+    "name": "batiment",
     "svg": "1f3db.svg"
   },
   {
-    "name": "désert abandonner délaisser livrer quitter",
+    "name": "desert soleil sable cactus",
     "svg": "1f3dc.svg"
   },
   {
-    "name": "désert abandonner délaisser livrer quitter île",
+    "name": "desert ile mer palmier",
     "svg": "1f3dd.svg"
   },
   {
-    "name": "national garer stationner parc",
+    "name": "parc riviere montagne foret",
     "svg": "1f3de.svg"
   },
   {
-    "name": "étape stade",
+    "name": "stade",
     "svg": "1f3df.svg"
   },
   {
-    "name": "maison construction bâtiment immeuble",
+    "name": "maison",
     "svg": "1f3e0.svg"
   },
   {
-    "name": "maison moyen bord près jardin",
+    "name": "maison",
     "svg": "1f3e1.svg"
   },
   {
-    "name": "bureau emploi fonction office service construction bâtiment immeuble",
+    "name": "bureau immeuble",
     "svg": "1f3e2.svg"
   },
   {
-    "name": "japonais langue japonaise japonais afficher agglutiner coller pieu poteau emploi fonction office service place poste courrier bureau emploi fonction office service",
+    "name": "immeuble japonais",
     "svg": "1f3e3.svg"
   },
   {
-    "name": "européen afficher agglutiner coller pieu poteau emploi fonction office service place poste courrier bureau emploi fonction office service",
+    "name": "immeuble europeen",
     "svg": "1f3e4.svg"
   },
   {
-    "name": "hôpital",
+    "name": "immeuble hopital",
     "svg": "1f3e5.svg"
   },
   {
@@ -8784,31 +8784,31 @@
     "svg": "1f3e6.svg"
   },
   {
-    "name": "automated teller machine",
+    "name": "machine synthese vocale",
     "svg": "1f3e7.svg"
   },
   {
-    "name": "hôtel",
+    "name": "immeuble hotel",
     "svg": "1f3e8.svg"
   },
   {
-    "name": "aimer amour amour charnel bagatelle hôtel",
+    "name": "immeuble hotel coeur close",
     "svg": "1f3e9.svg"
   },
   {
-    "name": "convenience boutique magasin enlever ôter",
+    "name": "urgences",
     "svg": "1f3ea.svg"
   },
   {
-    "name": "école",
+    "name": "batiment ecole",
     "svg": "1f3eb.svg"
   },
   {
-    "name": "domaine spécialité boutique magasin enlever ôter",
+    "name": "immeuble",
     "svg": "1f3ec.svg"
   },
   {
-    "name": "fabrique usine",
+    "name": "immeuble usine",
     "svg": "1f3ed.svg"
   },
   {
@@ -8816,31 +8816,31 @@
     "svg": "1f3ee.svg"
   },
   {
-    "name": "japonais langue japonaise japonais château tour",
+    "name": "batiment chateau japonais",
     "svg": "1f3ef.svg"
   },
   {
-    "name": "européen château tour",
+    "name": "batiement europeen chateau tour",
     "svg": "1f3f0.svg"
   },
   {
-    "name": "waving blanc drapeau pavillon étendard",
+    "name": "drapeau",
     "svg": "1f3f3.svg"
   },
   {
-    "name": "waving brun noir drapeau pavillon étendard",
+    "name": "drapeau",
     "svg": "1f3f4.svg"
   },
   {
-    "name": "rosette",
+    "name": "fleur",
     "svg": "1f3f5.svg"
   },
   {
-    "name": "label",
+    "name": "etiquette",
     "svg": "1f3f7.svg"
   },
   {
-    "name": "badminton racquet shuttlecock",
+    "name": "badminton raquette",
     "svg": "1f3f8.svg"
   },
   {
@@ -8852,23 +8852,23 @@
     "svg": "1f3fa.svg"
   },
   {
-    "name": "emoji modifier fitzpatrick type-1-2",
+    "name": "fitzpatrick",
     "svg": "1f3fb.svg"
   },
   {
-    "name": "emoji modifier fitzpatrick type-3",
+    "name": "fitzpatrick",
     "svg": "1f3fc.svg"
   },
   {
-    "name": "emoji modifier fitzpatrick type-4",
+    "name": "fitzpatrick",
     "svg": "1f3fd.svg"
   },
   {
-    "name": "emoji modifier fitzpatrick type-5",
+    "name": "fitzpatrick",
     "svg": "1f3fe.svg"
   },
   {
-    "name": "emoji modifier fitzpatrick type-6",
+    "name": "fitzpatrick",
     "svg": "1f3ff.svg"
   },
   {
@@ -8880,11 +8880,11 @@
     "svg": "1f401.svg"
   },
   {
-    "name": "bœuf",
+    "name": "boeuf",
     "svg": "1f402.svg"
   },
   {
-    "name": "aquatique eau onde abreuver arroser bison bubale buffle",
+    "name": "bison buffle",
     "svg": "1f403.svg"
   },
   {
@@ -8896,7 +8896,7 @@
     "svg": "1f405.svg"
   },
   {
-    "name": "léopard",
+    "name": "leopard",
     "svg": "1f406.svg"
   },
   {
@@ -8904,7 +8904,7 @@
     "svg": "1f407.svg"
   },
   {
-    "name": "mégère peau vache rosse chat",
+    "name": "chat",
     "svg": "1f408.svg"
   },
   {
@@ -8920,7 +8920,7 @@
     "svg": "1f40b.svg"
   },
   {
-    "name": "escargot limaçon colimaçon",
+    "name": "escargot",
     "svg": "1f40c.svg"
   },
   {
@@ -8932,11 +8932,11 @@
     "svg": "1f40e.svg"
   },
   {
-    "name": "bélier",
+    "name": "belier",
     "svg": "1f40f.svg"
   },
   {
-    "name": "chèvre",
+    "name": "chevre",
     "svg": "1f410.svg"
   },
   {
@@ -8956,7 +8956,7 @@
     "svg": "1f414.svg"
   },
   {
-    "name": "chien clébard",
+    "name": "chien loup",
     "svg": "1f415.svg"
   },
   {
@@ -8964,11 +8964,11 @@
     "svg": "1f416.svg"
   },
   {
-    "name": "verrat",
+    "name": "sanglier phacochere",
     "svg": "1f417.svg"
   },
   {
-    "name": "éléphant",
+    "name": "elephant",
     "svg": "1f418.svg"
   },
   {
@@ -8976,11 +8976,11 @@
     "svg": "1f419.svg"
   },
   {
-    "name": "spirale conque coquille dépouiller coque écorce",
+    "name": "coquillage conque mer",
     "svg": "1f41a.svg"
   },
   {
-    "name": "punaise insecte",
+    "name": "chenille",
     "svg": "1f41b.svg"
   },
   {
@@ -8988,39 +8988,39 @@
     "svg": "1f41c.svg"
   },
   {
-    "name": "honeybee",
+    "name": "abeille",
     "svg": "1f41d.svg"
   },
   {
-    "name": "demoiselle noble dame madame scarabée",
+    "name": "coccinelle",
     "svg": "1f41e.svg"
   },
   {
-    "name": "pêcher poisson",
+    "name": "poisson",
     "svg": "1f41f.svg"
   },
   {
-    "name": "tropical pêcher poisson",
+    "name": "poisson",
     "svg": "1f420.svg"
   },
   {
-    "name": "blowfish",
+    "name": "poisson",
     "svg": "1f421.svg"
   },
   {
-    "name": "turtle",
+    "name": "tortue",
     "svg": "1f422.svg"
   },
   {
-    "name": "hatching poussin",
+    "name": "poussin",
     "svg": "1f423.svg"
   },
   {
-    "name": "bébé poussin",
+    "name": "poussin",
     "svg": "1f424.svg"
   },
   {
-    "name": "front-facing bébé poussin",
+    "name": "poussin",
     "svg": "1f425.svg"
   },
   {
@@ -9028,7 +9028,7 @@
     "svg": "1f426.svg"
   },
   {
-    "name": "penguin",
+    "name": "pingouin manchot",
     "svg": "1f427.svg"
   },
   {
@@ -9036,15 +9036,15 @@
     "svg": "1f428.svg"
   },
   {
-    "name": "poodle",
+    "name": "caniche chien",
     "svg": "1f429.svg"
   },
   {
-    "name": "dromedary chameau",
+    "name": "dromadaire",
     "svg": "1f42a.svg"
   },
   {
-    "name": "bactrian chameau",
+    "name": "chameau",
     "svg": "1f42b.svg"
   },
   {
@@ -9052,67 +9052,67 @@
     "svg": "1f42c.svg"
   },
   {
-    "name": "souris affronter face figure visage",
+    "name": "souris face",
     "svg": "1f42d.svg"
   },
   {
-    "name": "vache affronter face figure visage",
+    "name": "vache face",
     "svg": "1f42e.svg"
   },
   {
-    "name": "tigre affronter face figure visage",
+    "name": "tigre face",
     "svg": "1f42f.svg"
   },
   {
-    "name": "lapin affronter face figure visage",
+    "name": "lapin face",
     "svg": "1f430.svg"
   },
   {
-    "name": "mégère peau vache rosse chat affronter face figure visage",
+    "name": "chat face",
     "svg": "1f431.svg"
   },
   {
-    "name": "dragon affronter face figure visage",
+    "name": "dragon face",
     "svg": "1f432.svg"
   },
   {
-    "name": "spouting baleine",
+    "name": "baleine",
     "svg": "1f433.svg"
   },
   {
-    "name": "cheval affronter face figure visage",
+    "name": "cheval face",
     "svg": "1f434.svg"
   },
   {
-    "name": "singe affronter face figure visage",
+    "name": "singe face",
     "svg": "1f435.svg"
   },
   {
-    "name": "chien clébard affronter face figure visage",
+    "name": "chien face",
     "svg": "1f436.svg"
   },
   {
-    "name": "cochon porc affronter face figure visage",
+    "name": "cochon porc face",
     "svg": "1f437.svg"
   },
   {
-    "name": "grenouille affronter face figure visage",
+    "name": "grenouille face",
     "svg": "1f438.svg"
   },
   {
-    "name": "hamster affronter face figure visage",
+    "name": "hamster face",
     "svg": "1f439.svg"
   },
   {
-    "name": "loup affronter face figure visage",
+    "name": "loup face",
     "svg": "1f43a.svg"
   },
   {
-    "name": "faire naître mettre monde produire endurer souffrir subir ours affronter face figure visage",
+    "name": "ours face",
     "svg": "1f43b.svg"
   },
   {
-    "name": "panda affronter face figure visage",
+    "name": "panda face",
     "svg": "1f43c.svg"
   },
   {
@@ -9120,23 +9120,23 @@
     "svg": "1f43d.svg"
   },
   {
-    "name": "jambe prints",
+    "name": "empreinte ours",
     "svg": "1f43e.svg"
   },
   {
-    "name": "chipmunk",
+    "name": "ecureuil",
     "svg": "1f43f.svg"
   },
   {
-    "name": "eyes",
+    "name": "oeil yeux",
     "svg": "1f440.svg"
   },
   {
-    "name": "œil",
+    "name": "oeil",
     "svg": "1f441.svg"
   },
   {
-    "name": "oreille épi",
+    "name": "oreille",
     "svg": "1f442.svg"
   },
   {
@@ -9144,7 +9144,7 @@
     "svg": "1f443.svg"
   },
   {
-    "name": "bouche embouchure",
+    "name": "bouche",
     "svg": "1f444.svg"
   },
   {
@@ -9152,47 +9152,47 @@
     "svg": "1f445.svg"
   },
   {
-    "name": "blanc pointing backhand liste tableau",
+    "name": "main",
     "svg": "1f446.svg"
   },
   {
-    "name": "blanc duvet pointing backhand liste tableau",
+    "name": "main bas",
     "svg": "1f447.svg"
   },
   {
-    "name": "blanc gauche pointing backhand liste tableau",
+    "name": "main gauche",
     "svg": "1f448.svg"
   },
   {
-    "name": "blanc droit pointing backhand liste tableau",
+    "name": "main droit",
     "svg": "1f449.svg"
   },
   {
-    "name": "fisted ouvrier main signe",
+    "name": "poing main",
     "svg": "1f44a.svg"
   },
   {
-    "name": "waving ouvrier main signe",
+    "name": "main salut",
     "svg": "1f44b.svg"
   },
   {
-    "name": "ouvrier main signe",
+    "name": "main",
     "svg": "1f44c.svg"
   },
   {
-    "name": "thumbs signe",
+    "name": "main pousse ok oui",
     "svg": "1f44d.svg"
   },
   {
-    "name": "thumbs duvet signe",
+    "name": "main pousse ko non",
     "svg": "1f44e.svg"
   },
   {
-    "name": "clapping hands signe",
+    "name": "main bravo",
     "svg": "1f44f.svg"
   },
   {
-    "name": "ouvrir hands signe",
+    "name": "mains",
     "svg": "1f450.svg"
   },
   {
@@ -9200,11 +9200,11 @@
     "svg": "1f451.svg"
   },
   {
-    "name": "womans chapeau",
+    "name": "chapeau",
     "svg": "1f452.svg"
   },
   {
-    "name": "eyeglas",
+    "name": "lunettes soleil",
     "svg": "1f453.svg"
   },
   {
@@ -9212,15 +9212,15 @@
     "svg": "1f454.svg"
   },
   {
-    "name": "t-shirt",
+    "name": "tshirt",
     "svg": "1f455.svg"
   },
   {
-    "name": "jeans",
+    "name": "jeans pantalons",
     "svg": "1f456.svg"
   },
   {
-    "name": "panser robe habiller vêtir revêtir s'habiller",
+    "name": "robe",
     "svg": "1f457.svg"
   },
   {
@@ -9228,71 +9228,71 @@
     "svg": "1f458.svg"
   },
   {
-    "name": "bikini",
+    "name": "bikini culotte soutien",
     "svg": "1f459.svg"
   },
   {
-    "name": "womans vêtements",
+    "name": "chemise",
     "svg": "1f45a.svg"
   },
   {
-    "name": "porte‐monnaie sacoche",
+    "name": "monnaie",
     "svg": "1f45b.svg"
   },
   {
-    "name": "handbag",
+    "name": "sac",
     "svg": "1f45c.svg"
   },
   {
-    "name": "pouch",
+    "name": "monnaie",
     "svg": "1f45d.svg"
   },
   {
-    "name": "mans chaussure soulier",
+    "name": "chaussure",
     "svg": "1f45e.svg"
   },
   {
-    "name": "athlétique chaussure soulier",
+    "name": "chaussure",
     "svg": "1f45f.svg"
   },
   {
-    "name": "high-heeled chaussure soulier",
+    "name": "chaussure talon",
     "svg": "1f460.svg"
   },
   {
-    "name": "womans sandale",
+    "name": "chaussure sandale",
     "svg": "1f461.svg"
   },
   {
-    "name": "womans boots",
+    "name": "chaussure botte",
     "svg": "1f462.svg"
   },
   {
-    "name": "footprints",
+    "name": "empreinte pied",
     "svg": "1f463.svg"
   },
   {
-    "name": "bust milie dans silhouette",
+    "name": "face silhouette",
     "svg": "1f464.svg"
   },
   {
-    "name": "busts milie dans silhouette",
+    "name": "face silhouette",
     "svg": "1f465.svg"
   },
   {
-    "name": "garçon gosse domestique serviteur",
+    "name": "garcon face",
     "svg": "1f466.svg"
   },
   {
-    "name": "fille jeune fille gosse",
+    "name": "fille face",
     "svg": "1f467.svg"
   },
   {
-    "name": "humain homme mâle",
+    "name": "homme face",
     "svg": "1f468.svg"
   },
   {
-    "name": "femme",
+    "name": "femme face",
     "svg": "1f469.svg"
   },
   {
@@ -9300,307 +9300,307 @@
     "svg": "1f46a.svg"
   },
   {
-    "name": "humain homme mâle femme holding hands",
+    "name": "amis homme femme couple heterosexuel",
     "svg": "1f46b.svg"
   },
   {
-    "name": "deux men holding hands",
+    "name": "amis homme couple gay",
     "svg": "1f46c.svg"
   },
   {
-    "name": "deux women holding hands",
+    "name": "amis femme couple lesbienne",
     "svg": "1f46d.svg"
   },
   {
-    "name": "accordée fiancée moyen bord près voiler voile",
+    "name": "face femme mariage mariee",
     "svg": "1f470.svg"
   },
   {
-    "name": "humain homme mâle moyen bord près gua mao",
+    "name": "face homme gua mao",
     "svg": "1f472.svg"
   },
   {
-    "name": "older humain homme mâle",
+    "name": "face homme vieux",
     "svg": "1f474.svg"
   },
   {
-    "name": "older femme",
+    "name": "face femme vieille",
     "svg": "1f475.svg"
   },
   {
-    "name": "bébé",
+    "name": "face bebe",
     "svg": "1f476.svg"
   },
   {
-    "name": "princesse",
+    "name": "face princesse",
     "svg": "1f478.svg"
   },
   {
-    "name": "japonais langue japonaise japonais ogre",
+    "name": "face ogre japonais",
     "svg": "1f479.svg"
   },
   {
-    "name": "japonais langue japonaise japonais gnome lutin",
+    "name": "face diable japonais",
     "svg": "1f47a.svg"
   },
   {
-    "name": "apparition",
+    "name": "face fantome",
     "svg": "1f47b.svg"
   },
   {
-    "name": "bébé ange",
+    "name": "face bebe enfant garcon ange",
     "svg": "1f47c.svg"
   },
   {
-    "name": "extraterrestrial abject abominable hideux horrible odieux étranger contradictoire opposé",
+    "name": "face extraterrestre martien",
     "svg": "1f47d.svg"
   },
   {
-    "name": "abject abominable hideux horrible odieux étranger contradictoire opposé clébard monstre",
+    "name": "face extraterrestre space invader -invader-",
     "svg": "1f47e.svg"
   },
   {
-    "name": "lutin",
+    "name": "face diable",
     "svg": "1f47f.svg"
   },
   {
-    "name": "crâne",
+    "name": "crane",
     "svg": "1f480.svg"
   },
   {
-    "name": "dancer",
+    "name": "femme danser",
     "svg": "1f483.svg"
   },
   {
-    "name": "lipstick",
+    "name": "rouge levre",
     "svg": "1f484.svg"
   },
   {
-    "name": "clouer clou ongle polonais",
+    "name": "verni ongle",
     "svg": "1f485.svg"
   },
   {
-    "name": "barbier coiffeur polonais",
+    "name": "?",
     "svg": "1f488.svg"
   },
   {
-    "name": "syringe",
+    "name": "seringue piqure sang drogue",
     "svg": "1f489.svg"
   },
   {
-    "name": "pilule",
+    "name": "pilule medicament",
     "svg": "1f48a.svg"
   },
   {
-    "name": "baiser embrasser signe",
+    "name": "baiser bisous levres embrasser amour",
     "svg": "1f48b.svg"
   },
   {
-    "name": "aimer amour amour charnel bagatelle lettre",
+    "name": "aimer amour lettre",
     "svg": "1f48c.svg"
   },
   {
-    "name": "anneau bague sonner tinter sonner porte",
+    "name": "anneau bague alliance",
     "svg": "1f48d.svg"
   },
   {
-    "name": "gem pierre",
+    "name": "pierre precieuse diamant",
     "svg": "1f48e.svg"
   },
   {
-    "name": "baiser embrasser",
+    "name": "baiser embrasser amour gay",
     "svg": "1f48f.svg"
   },
   {
-    "name": "bouquet",
+    "name": "bouquet fleurs",
     "svg": "1f490.svg"
   },
   {
-    "name": "couple époux mari femme coupler accoupler apparier moyen bord près cœur",
+    "name": "couple epoux gay",
     "svg": "1f491.svg"
   },
   {
-    "name": "wedding",
+    "name": "mariage eglise batiment",
     "svg": "1f492.svg"
   },
   {
-    "name": "beating cœur",
+    "name": "coeur battement cardiaque",
     "svg": "1f493.svg"
   },
   {
-    "name": "broken cœur",
+    "name": "coeur brise",
     "svg": "1f494.svg"
   },
   {
-    "name": "deux hearts",
+    "name": "deux coeurs",
     "svg": "1f495.svg"
   },
   {
-    "name": "sparkling cœur",
+    "name": "coeur brillant etoiles",
     "svg": "1f496.svg"
   },
   {
-    "name": "growing cœur",
+    "name": "coeur",
     "svg": "1f497.svg"
   },
   {
-    "name": "cœur moyen bord près fleche",
+    "name": "coeur fleche",
     "svg": "1f498.svg"
   },
   {
-    "name": "bleu cœur",
+    "name": "coeur bleu",
     "svg": "1f499.svg"
   },
   {
-    "name": "vert cœur",
+    "name": "coeur vert",
     "svg": "1f49a.svg"
   },
   {
-    "name": "jaune cœur",
+    "name": "coeur jaune",
     "svg": "1f49b.svg"
   },
   {
-    "name": "pourpre cœur",
+    "name": "coeur violet",
     "svg": "1f49c.svg"
   },
   {
-    "name": "cœur moyen bord près ruban",
+    "name": "coeur ruban cadeau",
     "svg": "1f49d.svg"
   },
   {
-    "name": "revolving hearts",
+    "name": "coeurs",
     "svg": "1f49e.svg"
   },
   {
-    "name": "cœur décor décoration ornament parure",
+    "name": "coeur",
     "svg": "1f49f.svg"
   },
   {
-    "name": "diamant former forme moyen bord près au milie dans  quelqu'un àraisonde  une point milie dans  intérieur interne milieu dedans",
+    "name": "diamant",
     "svg": "1f4a0.svg"
   },
   {
-    "name": "électrique allumer enflammer clair lumineux lumière faible léger ampoule bulbe",
+    "name": "lumiere ampoule bulbe eclairage idee",
     "svg": "1f4a1.svg"
   },
   {
-    "name": "anger symbole",
+    "name": "colere",
     "svg": "1f4a2.svg"
   },
   {
-    "name": "bombe",
+    "name": "bombe virus",
     "svg": "1f4a3.svg"
   },
   {
-    "name": "sleeping symbole",
+    "name": "sommeil dormir",
     "svg": "1f4a4.svg"
   },
   {
-    "name": "choc collision symbole",
+    "name": "choc collision boom",
     "svg": "1f4a5.svg"
   },
   {
-    "name": "splashing transpirer suer sueur symbole",
+    "name": "eau eclabousser gouttes",
     "svg": "1f4a6.svg"
   },
   {
-    "name": "droplet",
+    "name": "eau goutte",
     "svg": "1f4a7.svg"
   },
   {
-    "name": "dash symbole",
+    "name": "jet",
     "svg": "1f4a8.svg"
   },
   {
-    "name": "amas foule masse multitude tas hémorrhoïde poo",
+    "name": "caca merde",
     "svg": "1f4a9.svg"
   },
   {
-    "name": "flexed biceps",
+    "name": "biceps muscles musculation",
     "svg": "1f4aa.svg"
   },
   {
-    "name": "dizzy symbole",
+    "name": "face sonne",
     "svg": "1f4ab.svg"
   },
   {
-    "name": "discours langage parole aérostat ballon",
+    "name": "discours langage discussion bulle forum chat parole",
     "svg": "1f4ac.svg"
   },
   {
-    "name": "pensée aérostat ballon",
+    "name": "pensee penser bulle",
     "svg": "1f4ad.svg"
   },
   {
-    "name": "blanc fleur",
+    "name": "fleur",
     "svg": "1f4ae.svg"
   },
   {
-    "name": "cent points symbole",
+    "name": "cent 100",
     "svg": "1f4af.svg"
   },
   {
-    "name": "argent monnaie bag",
+    "name": "argent sac dollar",
     "svg": "1f4b0.svg"
   },
   {
-    "name": "currency central centrale",
+    "name": "conversion devise echange",
     "svg": "1f4b1.svg"
   },
   {
-    "name": "lourd dollar signe",
+    "name": "dollar",
     "svg": "1f4b2.svg"
   },
   {
-    "name": "credit carte",
+    "name": "credit carte cb",
     "svg": "1f4b3.svg"
   },
   {
-    "name": "banknote moyen bord près yen signe",
+    "name": "billet yen",
     "svg": "1f4b4.svg"
   },
   {
-    "name": "banknote moyen bord près dollar signe",
+    "name": "billet dollar",
     "svg": "1f4b5.svg"
   },
   {
-    "name": "banknote moyen bord près euro signe",
+    "name": "billet euro",
     "svg": "1f4b6.svg"
   },
   {
-    "name": "banknote moyen bord près broyer piler signe",
+    "name": "billet livre",
     "svg": "1f4b7.svg"
   },
   {
-    "name": "argent monnaie moyen bord près wings",
+    "name": "billet dollar ailes",
     "svg": "1f4b8.svg"
   },
   {
-    "name": "chart moyen bord près upwards trend yen signe",
+    "name": "graphique yen",
     "svg": "1f4b9.svg"
   },
   {
-    "name": "siège",
+    "name": "siege",
     "svg": "1f4ba.svg"
   },
   {
-    "name": "personnel propre ordinateur",
+    "name": "ordinateur portable",
     "svg": "1f4bb.svg"
   },
   {
-    "name": "collection consulter porte document",
+    "name": "valise malette document",
     "svg": "1f4bc.svg"
   },
   {
-    "name": "minidisc",
+    "name": "minidisc musique",
     "svg": "1f4bd.svg"
   },
   {
-    "name": "floppy disk",
+    "name": "disquette",
     "svg": "1f4be.svg"
   },
   {
-    "name": "optical disque",
+    "name": "disque cd dvd bluray",
     "svg": "1f4bf.svg"
   },
   {
@@ -9608,19 +9608,19 @@
     "svg": "1f4c0.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangée tour chemise dossier cahier",
+    "name": "dossier",
     "svg": "1f4c1.svg"
   },
   {
-    "name": "ouvrir dossier limer lime fichier collection consulter porte document file rang rangée tour chemise dossier cahier",
+    "name": "dossier",
     "svg": "1f4c2.svg"
   },
   {
-    "name": "page moyen bord près coiffer friser battre faire tournoyer",
+    "name": "page feuille",
     "svg": "1f4c3.svg"
   },
   {
-    "name": "page facing",
+    "name": "page feuille",
     "svg": "1f4c4.svg"
   },
   {
@@ -9628,55 +9628,55 @@
     "svg": "1f4c5.svg"
   },
   {
-    "name": "tear-off calendrier",
+    "name": "calendrier",
     "svg": "1f4c6.svg"
   },
   {
-    "name": "carte liste tableau",
+    "name": "carte",
     "svg": "1f4c7.svg"
   },
   {
-    "name": "chart moyen bord près upwards trend",
+    "name": "graphique hausse",
     "svg": "1f4c8.svg"
   },
   {
-    "name": "chart moyen bord près downwards trend",
+    "name": "graphique baisse",
     "svg": "1f4c9.svg"
   },
   {
-    "name": "barrer bar abreuvoir chart",
+    "name": "graphique barre",
     "svg": "1f4ca.svg"
   },
   {
-    "name": "clipboard",
+    "name": "clipboard presse papier",
     "svg": "1f4cb.svg"
   },
   {
-    "name": "pushpin",
+    "name": "epingle",
     "svg": "1f4cc.svg"
   },
   {
-    "name": "reprise ronde arrondir autour parages pushpin",
+    "name": "epingle",
     "svg": "1f4cd.svg"
   },
   {
-    "name": "paperclip",
+    "name": "trombonne",
     "svg": "1f4ce.svg"
   },
   {
-    "name": "direct droit dominateur",
+    "name": "regle",
     "svg": "1f4cf.svg"
   },
   {
-    "name": "triangulaire dominateur",
+    "name": "equerre",
     "svg": "1f4d0.svg"
   },
   {
-    "name": "bookmark tabs",
+    "name": "etiquette",
     "svg": "1f4d1.svg"
   },
   {
-    "name": "ledger",
+    "name": "registre comptabilite",
     "svg": "1f4d2.svg"
   },
   {
@@ -9684,47 +9684,47 @@
     "svg": "1f4d3.svg"
   },
   {
-    "name": "cahier moyen bord près decorative couvrir recouvrir couverture revêtir tapisser abattre parcourir",
+    "name": "cahier onglets",
     "svg": "1f4d4.svg"
   },
   {
-    "name": "closed livre commander demander retenir",
+    "name": "livre",
     "svg": "1f4d5.svg"
   },
   {
-    "name": "ouvrir livre commander demander retenir",
+    "name": "livre",
     "svg": "1f4d6.svg"
   },
   {
-    "name": "vert livre commander demander retenir",
+    "name": "livre vert",
     "svg": "1f4d7.svg"
   },
   {
-    "name": "bleu livre commander demander retenir",
+    "name": "livre bleu",
     "svg": "1f4d8.svg"
   },
   {
-    "name": "orange livre commander demander retenir",
+    "name": "livre orange",
     "svg": "1f4d9.svg"
   },
   {
-    "name": "books",
+    "name": "livres",
     "svg": "1f4da.svg"
   },
   {
-    "name": "nom insigne",
+    "name": "insigne",
     "svg": "1f4db.svg"
   },
   {
-    "name": "scroll",
+    "name": "parchemin",
     "svg": "1f4dc.svg"
   },
   {
-    "name": "memo",
+    "name": "memo note crayon feuille",
     "svg": "1f4dd.svg"
   },
   {
-    "name": "téléphoner téléphone receiver",
+    "name": "telephone",
     "svg": "1f4de.svg"
   },
   {
@@ -9732,7 +9732,7 @@
     "svg": "1f4df.svg"
   },
   {
-    "name": "fax machine",
+    "name": "fax telecopieur facsimile",
     "svg": "1f4e0.svg"
   },
   {
@@ -9740,59 +9740,59 @@
     "svg": "1f4e1.svg"
   },
   {
-    "name": "public adresser adresse destination aborder adresser parole interpeller parler loudspeaker",
+    "name": "megaphone",
     "svg": "1f4e2.svg"
   },
   {
-    "name": "cheering megaphone",
+    "name": "megaphone",
     "svg": "1f4e3.svg"
   },
   {
-    "name": "outbox plateau",
+    "name": "outbox expedition courrier",
     "svg": "1f4e4.svg"
   },
   {
-    "name": "inbox plateau",
+    "name": "inbox reception courrier",
     "svg": "1f4e5.svg"
   },
   {
-    "name": "package",
+    "name": "paquet boite carton colis",
     "svg": "1f4e6.svg"
   },
   {
-    "name": "e-mail symbole",
+    "name": "email mail messagerie",
     "svg": "1f4e7.svg"
   },
   {
-    "name": "incoming enveloppe",
+    "name": "enveloppe courrier messagerie",
     "svg": "1f4e8.svg"
   },
   {
-    "name": "enveloppe moyen bord près downwards fleche au‐dessus dessus haut",
+    "name": "enveloppe reception",
     "svg": "1f4e9.svg"
   },
   {
-    "name": "closed boîte aux lettres moyen bord près lowered drapeau pavillon étendard",
+    "name": "courrier boite lettres",
     "svg": "1f4ea.svg"
   },
   {
-    "name": "closed boîte aux lettres moyen bord près raised drapeau pavillon étendard",
+    "name": "courrier boite lettres",
     "svg": "1f4eb.svg"
   },
   {
-    "name": "ouvrir boîte aux lettres moyen bord près raised drapeau pavillon étendard",
+    "name": "courrier boite lettres",
     "svg": "1f4ec.svg"
   },
   {
-    "name": "ouvrir boîte aux lettres moyen bord près lowered drapeau pavillon étendard",
+    "name": "courrier boite lettres",
     "svg": "1f4ed.svg"
   },
   {
-    "name": "postbox",
+    "name": "courrier boite lettres",
     "svg": "1f4ee.svg"
   },
   {
-    "name": "postal corne avertisseur",
+    "name": "klaxone avertisseur",
     "svg": "1f4ef.svg"
   },
   {
@@ -9800,219 +9800,219 @@
     "svg": "1f4f0.svg"
   },
   {
-    "name": "mobile mobilier phone",
+    "name": "telephone mobile smartphone",
     "svg": "1f4f1.svg"
   },
   {
-    "name": "mobile mobilier phone moyen bord près rightwards fleche vers près àraisonde  bord près gauche",
+    "name": "telephone mobile smartphone import",
     "svg": "1f4f2.svg"
   },
   {
-    "name": "frisson manière mode",
+    "name": "telephone mobile smartphone vibreur",
     "svg": "1f4f3.svg"
   },
   {
-    "name": "mobile mobilier phone off",
+    "name": "telephone mobile smartphone off",
     "svg": "1f4f4.svg"
   },
   {
-    "name": "non mobile mobilier phones",
+    "name": "telephone mobile smartphone interdit",
     "svg": "1f4f5.svg"
   },
   {
-    "name": "antenne moyen bord près bars",
+    "name": "telephone mobile smartphone reception",
     "svg": "1f4f6.svg"
   },
   {
-    "name": "caméra",
+    "name": "photo apn retro",
     "svg": "1f4f7.svg"
   },
   {
-    "name": "caméra moyen bord près flash",
+    "name": "photo apn retro flash",
     "svg": "1f4f8.svg"
   },
   {
-    "name": "video caméra",
+    "name": "video camera camescope",
     "svg": "1f4f9.svg"
   },
   {
-    "name": "télévision",
+    "name": "television tv retro",
     "svg": "1f4fa.svg"
   },
   {
-    "name": "radio",
+    "name": "radio retro",
     "svg": "1f4fb.svg"
   },
   {
-    "name": "videocassette",
+    "name": "cassette video k7 retro",
     "svg": "1f4fc.svg"
   },
   {
-    "name": "film pellicule projector",
+    "name": "film pellicule projecteur",
     "svg": "1f4fd.svg"
   },
   {
-    "name": "prière beads",
+    "name": "priere chapelet",
     "svg": "1f4ff.svg"
   },
   {
-    "name": "twisted rightwards arrows",
+    "name": "fleches inverser",
     "svg": "1f500.svg"
   },
   {
-    "name": "clockwise rightwards leftwards ouvrir arrows",
+    "name": "repeter",
     "svg": "1f501.svg"
   },
   {
-    "name": "clockwise rightwards leftwards ouvrir arrows moyen bord près circled quelqu'un une recouvrir revêtir tapisser",
+    "name": "repeter",
     "svg": "1f502.svg"
   },
   {
-    "name": "clockwise downwards upwards ouvrir arrows",
+    "name": "repeter",
     "svg": "1f503.svg"
   },
   {
-    "name": "anticlockwise downwards upwards ouvrir arrows",
+    "name": "repeter",
     "svg": "1f504.svg"
   },
   {
-    "name": "abject lâche brightness symbole",
+    "name": "luminosite",
     "svg": "1f505.svg"
   },
   {
-    "name": "haut brightness symbole",
+    "name": "luminosite",
     "svg": "1f506.svg"
   },
   {
-    "name": "speaker moyen bord près cancellation apoplexie caresser caresse raie rayure",
+    "name": "volume silence",
     "svg": "1f507.svg"
   },
   {
-    "name": "speaker",
+    "name": "volume",
     "svg": "1f508.svg"
   },
   {
-    "name": "speaker moyen bord près quelqu'un une sonner résonner son onde vague onduler agiter brandir",
+    "name": "volume doucement",
     "svg": "1f509.svg"
   },
   {
-    "name": "speaker moyen bord près trois sonner résonner son waves",
+    "name": "volume fort",
     "svg": "1f50a.svg"
   },
   {
-    "name": "accu accumulator accumulateur batterie",
+    "name": "accumulateur batterie pile",
     "svg": "1f50b.svg"
   },
   {
-    "name": "électrique bougie bougie électrique bouchon prise courant mâle",
+    "name": "prise electrique courant brancher alimentation",
     "svg": "1f50c.svg"
   },
   {
-    "name": "left-pointing magnifying verre",
+    "name": "loupe",
     "svg": "1f50d.svg"
   },
   {
-    "name": "right-pointing magnifying verre",
+    "name": "loupe",
     "svg": "1f50e.svg"
   },
   {
-    "name": "écluse serrure fermer fermer clé moyen bord près encre pen",
+    "name": "serrure cadenas signature",
     "svg": "1f50f.svg"
   },
   {
-    "name": "closed écluse serrure fermer fermer clé moyen bord près touche touche clavier clef",
+    "name": "serrure cadenas clef",
     "svg": "1f510.svg"
   },
   {
-    "name": "touche touche clavier clef",
+    "name": "cle",
     "svg": "1f511.svg"
   },
   {
-    "name": "écluse serrure fermer fermer clé",
+    "name": "serrure cadenas fermer",
     "svg": "1f512.svg"
   },
   {
-    "name": "ouvrir écluse serrure fermer fermer clé",
+    "name": "serrure cadenas ouvert",
     "svg": "1f513.svg"
   },
   {
-    "name": "clochette sonnette cloche",
+    "name": "clochette sonnette cloche notification",
     "svg": "1f514.svg"
   },
   {
-    "name": "clochette sonnette cloche moyen bord près cancellation apoplexie caresser caresse raie rayure",
+    "name": "clochette sonnette cloche",
     "svg": "1f515.svg"
   },
   {
-    "name": "bookmark",
+    "name": "etiquette",
     "svg": "1f516.svg"
   },
   {
-    "name": "monter symbole",
+    "name": "lier lien attacher",
     "svg": "1f517.svg"
   },
   {
-    "name": "radio bouton",
+    "name": "radio boutton",
     "svg": "1f518.svg"
   },
   {
-    "name": "dos moyen bord près leftwards fleche au‐dessus dessus haut",
+    "name": "fleche gauche back",
     "svg": "1f519.svg"
   },
   {
-    "name": "cesser finir terminer p fin terminer bout fin moyen  bord près leftwards fleche au‐dessus dessus haut",
+    "name": "fleche gauche end",
     "svg": "1f51a.svg"
   },
   {
-    "name": "avant milie dans moyen plus sujet contre   moyen  bord près exclamation signe  moyen  bord près gauche droit vrai  raison exact juste proprement fleche au‐dessus dessus haut",
+    "name": "fleche on",
     "svg": "1f51b.svg"
   },
   {
-    "name": "bientôt tout l'heure moyen bord près rightwards fleche au‐dessus dessus haut",
+    "name": "fleche bientot soon",
     "svg": "1f51c.svg"
   },
   {
-    "name": "mutiler comble faîte haut sommet sum moyen bord près upwards fleche au‐dessus dessus haut",
+    "name": "fleche haut top",
     "svg": "1f51d.svg"
   },
   {
-    "name": "non quelqu'un une sous dix‐huit symbole",
+    "name": "interdit mineur porno",
     "svg": "1f51e.svg"
   },
   {
-    "name": "keycap dix",
+    "name": "dix 10",
     "svg": "1f51f.svg"
   },
   {
-    "name": "input symbole durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que latin capital fonds letters",
+    "name": "majuscule capital lettre",
     "svg": "1f520.svg"
   },
   {
-    "name": "input symbole durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que latin petit letters",
+    "name": "minuscule lettre",
     "svg": "1f521.svg"
   },
   {
-    "name": "input symbole durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que numbers",
+    "name": "chiffre nombre",
     "svg": "1f522.svg"
   },
   {
-    "name": "input symbole durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que symbols",
+    "name": "symbols",
     "svg": "1f523.svg"
   },
   {
-    "name": "input symbole durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que latin letters",
+    "name": "lettres",
     "svg": "1f524.svg"
   },
   {
-    "name": "partir licencier renvoyer suspendre feu incendie tirer",
+    "name": "feu incendie",
     "svg": "1f525.svg"
   },
   {
-    "name": "électrique torche",
+    "name": "torche electrique lumiere lampe poche",
     "svg": "1f526.svg"
   },
   {
-    "name": "clef",
+    "name": "cle -cle-",
     "svg": "1f527.svg"
   },
   {
@@ -10020,11 +10020,11 @@
     "svg": "1f528.svg"
   },
   {
-    "name": "écrou fruit coque noix verrouiller",
+    "name": "ecrou vis boulon",
     "svg": "1f529.svg"
   },
   {
-    "name": "hocho",
+    "name": "couteau",
     "svg": "1f52a.svg"
   },
   {
@@ -10040,75 +10040,75 @@
     "svg": "1f52d.svg"
   },
   {
-    "name": "cristal bal globe balle sphère",
+    "name": "boulle cristal magie",
     "svg": "1f52e.svg"
   },
   {
-    "name": "six pointu astral étoile star vedette moyen bord près intermédiaire centre milieu point",
+    "name": "etoile david juif",
     "svg": "1f52f.svg"
   },
   {
-    "name": "japonais langue japonaise japonais symbole durant lors pendant pendant que tandis que afin pour cause attendu que car comme parce que puisque que beginner",
+    "name": "japonais debutant",
     "svg": "1f530.svg"
   },
   {
-    "name": "trident emblem",
+    "name": "trident",
     "svg": "1f531.svg"
   },
   {
-    "name": "brun noir droit bouton",
+    "name": "carre bouton interrupteur",
     "svg": "1f532.svg"
   },
   {
-    "name": "blanc droit bouton",
+    "name": "carre bouton interrupteur",
     "svg": "1f533.svg"
   },
   {
-    "name": "grand rouge cercle rond ronde",
+    "name": "cercle rond rouge",
     "svg": "1f534.svg"
   },
   {
-    "name": "grand bleu cercle rond ronde",
+    "name": "cercle rond bleu",
     "svg": "1f535.svg"
   },
   {
-    "name": "grand orange diamant",
+    "name": "losange orange",
     "svg": "1f536.svg"
   },
   {
-    "name": "grand bleu diamant",
+    "name": "losange bleu",
     "svg": "1f537.svg"
   },
   {
-    "name": "petit orange diamant",
+    "name": "diamant orange",
     "svg": "1f538.svg"
   },
   {
-    "name": "petit bleu diamant",
+    "name": "diamant bleu",
     "svg": "1f539.svg"
   },
   {
-    "name": "up-pointing rouge triangle",
+    "name": "triangle rouge haut",
     "svg": "1f53a.svg"
   },
   {
-    "name": "down-pointing rouge triangle",
+    "name": "triangle rouge bas",
     "svg": "1f53b.svg"
   },
   {
-    "name": "up-pointing petit rouge triangle",
+    "name": "triangle rouge haut",
     "svg": "1f53c.svg"
   },
   {
-    "name": "down-pointing petit rouge triangle",
+    "name": "triangle rouge bas",
     "svg": "1f53d.svg"
   },
   {
-    "name": "symbole",
+    "name": "?",
     "svg": "1f549.svg"
   },
   {
-    "name": "colombe pigeon paix",
+    "name": "colombe oiseau pigeon paix",
     "svg": "1f54a.svg"
   },
   {
@@ -10116,7 +10116,7 @@
     "svg": "1f54b.svg"
   },
   {
-    "name": "mosquée",
+    "name": "mosquee",
     "svg": "1f54c.svg"
   },
   {
@@ -10124,103 +10124,103 @@
     "svg": "1f54d.svg"
   },
   {
-    "name": "menorah moyen bord près neuf branches",
+    "name": "menorah",
     "svg": "1f54e.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage quelqu'un une oclock",
+    "name": "montre un 1",
     "svg": "1f550.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage deux oclock",
+    "name": "montre deux 2",
     "svg": "1f551.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage trois oclock",
+    "name": "montre trois 3",
     "svg": "1f552.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage quatre oclock",
+    "name": "montre quatre 4",
     "svg": "1f553.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage cinq oclock",
+    "name": "montre cinq 5",
     "svg": "1f554.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage six oclock",
+    "name": "montre six 6",
     "svg": "1f555.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage sept oclock",
+    "name": "montre sept 7",
     "svg": "1f556.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage huit oclock",
+    "name": "montre huit 8",
     "svg": "1f557.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage neuf oclock",
+    "name": "montre neuf 9",
     "svg": "1f558.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage dix oclock",
+    "name": "montre dix 10",
     "svg": "1f559.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage onze oclock",
+    "name": "montre onze 11",
     "svg": "1f55a.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage douze oclock",
+    "name": "montre douze 12",
     "svg": "1f55b.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage one-thirty",
+    "name": "montre un 1",
     "svg": "1f55c.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage two-thirty",
+    "name": "montre deux 2",
     "svg": "1f55d.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage three-thirty",
+    "name": "montre trois 3",
     "svg": "1f55e.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage four-thirty",
+    "name": "montre quatre 4",
     "svg": "1f55f.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage five-thirty",
+    "name": "montre cinq 5",
     "svg": "1f560.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage six-thirty",
+    "name": "montre six 6",
     "svg": "1f561.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage seven-thirty",
+    "name": "montre sept 7",
     "svg": "1f562.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage eight-thirty",
+    "name": "montre huit 8",
     "svg": "1f563.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage nine-thirty",
+    "name": "montre neuf 9",
     "svg": "1f564.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage ten-thirty",
+    "name": "montre dix 10",
     "svg": "1f565.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage eleven-thirty",
+    "name": "montre onze 11",
     "svg": "1f566.svg"
   },
   {
-    "name": "horloge pendule affronter face figure visage twelve-thirty",
+    "name": "montre douze 12",
     "svg": "1f567.svg"
   },
   {
@@ -10228,63 +10228,63 @@
     "svg": "1f56f.svg"
   },
   {
-    "name": "mantelpiece horloge pendule",
+    "name": "horloge pendule",
     "svg": "1f570.svg"
   },
   {
-    "name": "fossé trou",
+    "name": "trou",
     "svg": "1f573.svg"
   },
   {
-    "name": "humain homme mâle milie dans affaire chose commerce convenir complet costume bon levitating",
+    "name": "homme affaire business",
     "svg": "1f574.svg"
   },
   {
-    "name": "foncé sombre obscur sunglas",
+    "name": "lunettes soleil",
     "svg": "1f576.svg"
   },
   {
-    "name": "araignée",
+    "name": "araignee",
     "svg": "1f577.svg"
   },
   {
-    "name": "araignée web",
+    "name": "araignée toile",
     "svg": "1f578.svg"
   },
   {
-    "name": "gouvernail",
+    "name": "joystick gamepad manette",
     "svg": "1f579.svg"
   },
   {
-    "name": "linked paperclips",
+    "name": "trombonnes lies attaches",
     "svg": "1f587.svg"
   },
   {
-    "name": "abaisser baisser gauche stylo bille pen",
+    "name": "stylo bille",
     "svg": "1f58a.svg"
   },
   {
-    "name": "abaisser baisser gauche fontaine source pen",
+    "name": "stylo plume",
     "svg": "1f58b.svg"
   },
   {
-    "name": "abaisser baisser gauche pinceau",
+    "name": "pinceau",
     "svg": "1f58c.svg"
   },
   {
-    "name": "abaisser baisser gauche crayon",
+    "name": "crayon pastelle",
     "svg": "1f58d.svg"
   },
   {
-    "name": "raised ouvrier main moyen bord près fingers splayed",
+    "name": "main levee check",
     "svg": "1f590.svg"
   },
   {
-    "name": "inverse ouvrier main moyen bord près intermédiaire centre milieu doigt tâter extended",
+    "name": "main doigt honneur fuck",
     "svg": "1f595.svg"
   },
   {
-    "name": "raised ouvrier main moyen bord près part partie contingent portion rôle milieu entre  intermédiaire centre milieu anneau bague sonner tinter sonner porte fingers",
+    "name": "main spock",
     "svg": "1f596.svg"
   },
   {
@@ -10292,75 +10292,75 @@
     "svg": "1f5a5.svg"
   },
   {
-    "name": "imprimeur",
+    "name": "imprimante printer",
     "svg": "1f5a8.svg"
   },
   {
-    "name": "trois bouton souris",
+    "name": "souris",
     "svg": "1f5b1.svg"
   },
   {
-    "name": "trackball",
+    "name": "souris trackball",
     "svg": "1f5b2.svg"
   },
   {
-    "name": "cadre moyen bord près image figure",
+    "name": "cadre photo paysage montagne riviere",
     "svg": "1f5bc.svg"
   },
   {
-    "name": "carte liste tableau dividers",
+    "name": "classeur",
     "svg": "1f5c2.svg"
   },
   {
-    "name": "carte dossier limer lime fichier collection consulter porte document file rang rangée tour boxer bac caisse coffre boîte coffret baquet",
+    "name": "dossier document classeur",
     "svg": "1f5c3.svg"
   },
   {
-    "name": "dossier limer lime fichier collection consulter porte document file rang rangée tour armoire",
+    "name": "dossier document meuble",
     "svg": "1f5c4.svg"
   },
   {
-    "name": "wastebasket",
+    "name": "corbeille poubelle",
     "svg": "1f5d1.svg"
   },
   {
-    "name": "spirale billet ticket noter note bloc rembourrer",
+    "name": "carnet spirale bloc note",
     "svg": "1f5d2.svg"
   },
   {
-    "name": "spirale calendrier bloc rembourrer",
+    "name": "calendrier spirale",
     "svg": "1f5d3.svg"
   },
   {
-    "name": "compression",
+    "name": "compression etau",
     "svg": "1f5dc.svg"
   },
   {
-    "name": "vieux olda ancien touche touche clavier clef",
+    "name": "clef retro",
     "svg": "1f5dd.svg"
   },
   {
-    "name": "rolled-up gazette journal quotidien",
+    "name": "gazette journal quotidien",
     "svg": "1f5de.svg"
   },
   {
-    "name": "dagger couteau",
+    "name": "dague epee couteau",
     "svg": "1f5e1.svg"
   },
   {
-    "name": "speaking guider régler tête milie dans silhouette",
+    "name": "face parler guide instructions",
     "svg": "1f5e3.svg"
   },
   {
-    "name": "gauche discours langage parole bulle vésicule vessie",
+    "name": "discours langage discussion bulle forum chat parole",
     "svg": "1f5e8.svg"
   },
   {
-    "name": "droit anger bulle vésicule vessie",
+    "name": "discours langage discussion bulle forum chat parole",
     "svg": "1f5ef.svg"
   },
   {
-    "name": "ballot boxer bac caisse coffre boîte coffret baquet moyen bord près ballot",
+    "name": "urne vote election",
     "svg": "1f5f3.svg"
   },
   {
@@ -10368,7 +10368,7 @@
     "svg": "1f5fa.svg"
   },
   {
-    "name": "adapter monter fuji",
+    "name": "montagne mont volcan neige fuji",
     "svg": "1f5fb.svg"
   },
   {
@@ -10376,339 +10376,339 @@
     "svg": "1f5fc.svg"
   },
   {
-    "name": "statue liberty",
+    "name": "statue liberte new york",
     "svg": "1f5fd.svg"
   },
   {
-    "name": "silhouette japon",
+    "name": "japon",
     "svg": "1f5fe.svg"
   },
   {
-    "name": "moyai",
+    "name": "moai paques rapanui",
     "svg": "1f5ff.svg"
   },
   {
-    "name": "grinning affronter face figure visage",
+    "name": "face sourire",
     "svg": "1f600.svg"
   },
   {
-    "name": "grinning affronter face figure visage moyen bord près sourire eyes",
+    "name": "face sourire",
     "svg": "1f601.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près tears allégresse joie",
+    "name": "face sourire larmes",
     "svg": "1f602.svg"
   },
   {
-    "name": "sourire affronter face figure visage moyen bord près ouvrir bouche embouchure",
+    "name": "face sourire",
     "svg": "1f603.svg"
   },
   {
-    "name": "sourire affronter face figure visage moyen bord près ouvrir bouche embouchure sourire eyes",
+    "name": "face sourire",
     "svg": "1f604.svg"
   },
   {
-    "name": "sourire affronter face figure visage moyen bord près ouvrir bouche embouchure froid rhume transpirer suer sueur",
+    "name": "face sourire transpirer gene",
     "svg": "1f605.svg"
   },
   {
-    "name": "sourire affronter face figure visage moyen bord près ouvrir bouche embouchure tightly-closed eyes",
+    "name": "face sourire",
     "svg": "1f606.svg"
   },
   {
-    "name": "sourire affronter face figure visage moyen bord près auréole",
+    "name": "face sourire aureole",
     "svg": "1f607.svg"
   },
   {
-    "name": "sourire affronter face figure visage moyen bord près horns",
+    "name": "face sourire cornes diable",
     "svg": "1f608.svg"
   },
   {
-    "name": "winking affronter face figure visage",
+    "name": "face sourire clin oeil",
     "svg": "1f609.svg"
   },
   {
-    "name": "sourire affronter face figure visage moyen bord près sourire eyes",
+    "name": "face sourire",
     "svg": "1f60a.svg"
   },
   {
-    "name": "affronter face figure visage savouring savoureux nourriture aliment pâture",
+    "name": "face sourire langue miam",
     "svg": "1f60b.svg"
   },
   {
-    "name": "relieved affronter face figure visage",
+    "name": "face sourire",
     "svg": "1f60c.svg"
   },
   {
-    "name": "sourire affronter face figure visage moyen bord près heart-shaped eyes",
+    "name": "face sourire coeur love",
     "svg": "1f60d.svg"
   },
   {
-    "name": "sourire affronter face figure visage moyen bord près sunglas",
+    "name": "face sourire lunettes soleil",
     "svg": "1f60e.svg"
   },
   {
-    "name": "smirking affronter face figure visage",
+    "name": "face sourire",
     "svg": "1f60f.svg"
   },
   {
-    "name": "neutre affronter face figure visage",
+    "name": "face neutre",
     "svg": "1f610.svg"
   },
   {
-    "name": "expressionless affronter face figure visage",
+    "name": "face neutre",
     "svg": "1f611.svg"
   },
   {
-    "name": "unamused affronter face figure visage",
+    "name": "face",
     "svg": "1f612.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près froid rhume transpirer suer sueur",
+    "name": "face transpirer sueur",
     "svg": "1f613.svg"
   },
   {
-    "name": "pensive affronter face figure visage",
+    "name": "face penser",
     "svg": "1f614.svg"
   },
   {
-    "name": "confused affronter face figure visage",
+    "name": "face confu",
     "svg": "1f615.svg"
   },
   {
-    "name": "confounded affronter face figure visage",
+    "name": "face confondu attrape",
     "svg": "1f616.svg"
   },
   {
-    "name": "kissing affronter face figure visage",
+    "name": "face bisous embrasser",
     "svg": "1f617.svg"
   },
   {
-    "name": "affronter face figure visage throwing milie dans quelqu'un àraisonde une baiser embrasser",
+    "name": "face bisous embrasser coeur",
     "svg": "1f618.svg"
   },
   {
-    "name": "kissing affronter face figure visage moyen bord près sourire eyes",
+    "name": "face bisous embrasser",
     "svg": "1f619.svg"
   },
   {
-    "name": "kissing affronter face figure visage moyen bord près closed eyes",
+    "name": "face bisous embrasser",
     "svg": "1f61a.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près stuck-out langue",
+    "name": "face sourire langue",
     "svg": "1f61b.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près stuck-out langue winking œil",
+    "name": "face sourire langue oeil clin",
     "svg": "1f61c.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près stuck-out langue tightly-closed eyes",
+    "name": "face sourire langue oeil",
     "svg": "1f61d.svg"
   },
   {
-    "name": "disappointed affronter face figure visage",
+    "name": "face decu",
     "svg": "1f61e.svg"
   },
   {
-    "name": "worried affronter face figure visage",
+    "name": "face inquiet",
     "svg": "1f61f.svg"
   },
   {
-    "name": "angry affronter face figure visage",
+    "name": "face colere",
     "svg": "1f620.svg"
   },
   {
-    "name": "pouting affronter face figure visage",
+    "name": "face colere rouge",
     "svg": "1f621.svg"
   },
   {
-    "name": "crying affronter face figure visage",
+    "name": "face triste larme pleure",
     "svg": "1f622.svg"
   },
   {
-    "name": "persevering affronter face figure visage",
+    "name": "face aie",
     "svg": "1f623.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près avoir l'air paraître air allure apparence aspect spectacle voici voilà regarder regard vue triomphe",
+    "name": "face enerve",
     "svg": "1f624.svg"
   },
   {
-    "name": "disappointed mais cependant néanmoins pourtant tout même relieved affronter face figure visage",
+    "name": "face decu",
     "svg": "1f625.svg"
   },
   {
-    "name": "frowning affronter face figure visage moyen bord près ouvrir bouche embouchure",
+    "name": "face surprise oh",
     "svg": "1f626.svg"
   },
   {
-    "name": "anguished affronter face figure visage",
+    "name": "face angoisse",
     "svg": "1f627.svg"
   },
   {
-    "name": "fearful affronter face figure visage",
+    "name": "face peur effraye",
     "svg": "1f628.svg"
   },
   {
-    "name": "weary affronter face figure visage",
+    "name": "face surprise fatigue",
     "svg": "1f629.svg"
   },
   {
-    "name": "sleepy affronter face figure visage",
+    "name": "face sommeil fatigue",
     "svg": "1f62a.svg"
   },
   {
-    "name": "fatigué las affronter face figure visage",
+    "name": "face fatigue",
     "svg": "1f62b.svg"
   },
   {
-    "name": "grimacing affronter face figure visage",
+    "name": "face grimace aie",
     "svg": "1f62c.svg"
   },
   {
-    "name": "haute voix fort crying affronter face figure visage",
+    "name": "face pleurer triste",
     "svg": "1f62d.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près ouvrir bouche embouchure",
+    "name": "face oh surpise",
     "svg": "1f62e.svg"
   },
   {
-    "name": "hushed affronter face figure visage",
+    "name": "face oh suprise",
     "svg": "1f62f.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près ouvrir bouche embouchure froid rhume transpirer suer sueur",
+    "name": "face transpirer suer sueur",
     "svg": "1f630.svg"
   },
   {
-    "name": "affronter face figure visage screaming milie dans angoisse avoir peur craindre redouter appréhension crainte peur",
+    "name": "face peur",
     "svg": "1f631.svg"
   },
   {
-    "name": "astonished affronter face figure visage",
+    "name": "face surprise",
     "svg": "1f632.svg"
   },
   {
-    "name": "flushed affronter face figure visage",
+    "name": "face surprise",
     "svg": "1f633.svg"
   },
   {
-    "name": "sleeping affronter face figure visage",
+    "name": "face sommeil fatigue dormir",
     "svg": "1f634.svg"
   },
   {
-    "name": "dizzy affronter face figure visage",
+    "name": "face sonne ko",
     "svg": "1f635.svg"
   },
   {
-    "name": "affronter face figure visage sans bouche embouchure",
+    "name": "face bouche voix",
     "svg": "1f636.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près medical masque",
+    "name": "face medecin masque",
     "svg": "1f637.svg"
   },
   {
-    "name": "grinning mégère peau vache rosse chat affronter face figure visage moyen bord près sourire eyes",
+    "name": "face chat sourire",
     "svg": "1f638.svg"
   },
   {
-    "name": "mégère peau vache rosse chat affronter face figure visage moyen bord près tears allégresse joie",
+    "name": "face chat larme sourire",
     "svg": "1f639.svg"
   },
   {
-    "name": "sourire mégère peau vache rosse chat affronter face figure visage moyen bord près ouvrir bouche embouchure",
+    "name": "face chat sourire",
     "svg": "1f63a.svg"
   },
   {
-    "name": "sourire mégère peau vache rosse chat affronter face figure visage moyen bord près heart-shaped eyes",
+    "name": "face sourire chat coeur",
     "svg": "1f63b.svg"
   },
   {
-    "name": "mégère peau vache rosse chat affronter face figure visage moyen bord près wry sourire ",
+    "name": "face chat sourire mechant",
     "svg": "1f63c.svg"
   },
   {
-    "name": "kissing mégère peau vache rosse chat affronter face figure visage moyen bord près closed eyes",
+    "name": "face chat bisous",
     "svg": "1f63d.svg"
   },
   {
-    "name": "pouting mégère peau vache rosse chat affronter face figure visage",
+    "name": "chat face colere contrarie",
     "svg": "1f63e.svg"
   },
   {
-    "name": "crying mégère peau vache rosse chat affronter face figure visage",
+    "name": "chat face pleure larme",
     "svg": "1f63f.svg"
   },
   {
-    "name": "weary mégère peau vache rosse chat affronter face figure visage",
+    "name": "chat face peur inquiet",
     "svg": "1f640.svg"
   },
   {
-    "name": "slightly frowning affronter face figure visage",
+    "name": "face",
     "svg": "1f641.svg"
   },
   {
-    "name": "slightly sourire affronter face figure visage",
+    "name": "face sourire",
     "svg": "1f642.svg"
   },
   {
-    "name": "upside-down affronter face figure visage",
+    "name": "face sourire retourne",
     "svg": "1f643.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près rolling eyes",
+    "name": "face yeux gave pfff",
     "svg": "1f644.svg"
   },
   {
-    "name": "see-no-evil singe",
+    "name": "singe voir sagesse",
     "svg": "1f648.svg"
   },
   {
-    "name": "hear-no-evil singe",
+    "name": "singe entendre sagesse",
     "svg": "1f649.svg"
   },
   {
-    "name": "speak-no-evil singe",
+    "name": "singe parler dire sagesse",
     "svg": "1f64a.svg"
   },
   {
-    "name": "personne individu raising deux l'un l'autre l'une l'autre toutes hands milie dans  fête",
+    "name": "mains stop pousser",
     "svg": "1f64c.svg"
   },
   {
-    "name": "personne individu moyen bord près folded hands",
+    "name": "mains priere merci",
     "svg": "1f64f.svg"
   },
   {
-    "name": "fusée",
+    "name": "fusee",
     "svg": "1f680.svg"
   },
   {
-    "name": "helicopter",
+    "name": "helicoptere",
     "svg": "1f681.svg"
   },
   {
-    "name": "vapeur locomotive",
+    "name": "vapeur locomotive train retro",
     "svg": "1f682.svg"
   },
   {
-    "name": "chemin fer auto",
+    "name": "train wagon",
     "svg": "1f683.svg"
   },
   {
-    "name": "high-speed clique cortège escorte suite dresser train entraîner rame",
+    "name": "train tgv sncf",
     "svg": "1f684.svg"
   },
   {
-    "name": "high-speed clique cortège escorte suite dresser train entraîner rame moyen bord près balle balle fusil projectile nez",
+    "name": "train tgv sncf",
     "svg": "1f685.svg"
   },
   {
-    "name": "clique cortège escorte suite dresser train entraîner rame",
+    "name": "train tgv sncf",
     "svg": "1f686.svg"
   },
   {
@@ -10716,11 +10716,11 @@
     "svg": "1f687.svg"
   },
   {
-    "name": "allumer enflammer clair lumineux lumière faible léger rail",
+    "name": "feu tricolore train",
     "svg": "1f688.svg"
   },
   {
-    "name": "gare station",
+    "name": "gare station train",
     "svg": "1f689.svg"
   },
   {
@@ -10728,27 +10728,27 @@
     "svg": "1f68a.svg"
   },
   {
-    "name": "tramway auto",
+    "name": "tramway",
     "svg": "1f68b.svg"
   },
   {
-    "name": "autobus",
+    "name": "autobus bus car",
     "svg": "1f68c.svg"
   },
   {
-    "name": "oncoming autobus",
+    "name": "autobus bus car",
     "svg": "1f68d.svg"
   },
   {
-    "name": "trolleybus",
+    "name": "bus tram",
     "svg": "1f68e.svg"
   },
   {
-    "name": "autobus halte s'arrêter gare station cesser arrêter faire cesser interrompre terminer",
+    "name": "autobus bus car",
     "svg": "1f68f.svg"
   },
   {
-    "name": "minibus",
+    "name": "minibus van bus",
     "svg": "1f690.svg"
   },
   {
@@ -10756,43 +10756,43 @@
     "svg": "1f691.svg"
   },
   {
-    "name": "partir licencier renvoyer suspendre feu incendie tirer locomotive machine moteur",
+    "name": "camion pompier feu incendie",
     "svg": "1f692.svg"
   },
   {
-    "name": "police auto",
+    "name": "voiture police",
     "svg": "1f693.svg"
   },
   {
-    "name": "oncoming police auto",
+    "name": "voiture police",
     "svg": "1f694.svg"
   },
   {
-    "name": "taxi",
+    "name": "voiture taxi",
     "svg": "1f695.svg"
   },
   {
-    "name": "oncoming taxi",
+    "name": "voiture taxi",
     "svg": "1f696.svg"
   },
   {
-    "name": "automobile",
+    "name": "voiture",
     "svg": "1f697.svg"
   },
   {
-    "name": "oncoming automobile",
+    "name": "voiture",
     "svg": "1f698.svg"
   },
   {
-    "name": "recreational bagnole véhicle voiture",
+    "name": "voiture 4x4",
     "svg": "1f699.svg"
   },
   {
-    "name": "remise transmission camion poids lourd",
+    "name": "camion",
     "svg": "1f69a.svg"
   },
   {
-    "name": "articulated camion poids lourd",
+    "name": "camion",
     "svg": "1f69b.svg"
   },
   {
@@ -10800,51 +10800,51 @@
     "svg": "1f69c.svg"
   },
   {
-    "name": "monorail",
+    "name": "monorail train",
     "svg": "1f69d.svg"
   },
   {
-    "name": "mont montagne chemin fer",
+    "name": "train wagon",
     "svg": "1f69e.svg"
   },
   {
-    "name": "suspension chemin fer",
+    "name": "telepherique ski",
     "svg": "1f69f.svg"
   },
   {
-    "name": "mont montagne cableway",
+    "name": "telepherique ski cabine",
     "svg": "1f6a0.svg"
   },
   {
-    "name": "aérien antenne tramway",
+    "name": "telepherique ski cabine",
     "svg": "1f6a1.svg"
   },
   {
-    "name": "expédier bateau navire",
+    "name": "bateau navire vapeur",
     "svg": "1f6a2.svg"
   },
   {
-    "name": "speedboat",
+    "name": "bateau horsbord",
     "svg": "1f6a4.svg"
   },
   {
-    "name": "horizontal circulation trafic allumer enflammer clair lumineux lumière faible léger",
+    "name": "feu tricolor",
     "svg": "1f6a5.svg"
   },
   {
-    "name": "vertical circulation trafic allumer enflammer clair lumineux lumière faible léger",
+    "name": "feu tricolor",
     "svg": "1f6a6.svg"
   },
   {
-    "name": "construction signe",
+    "name": "construction panneau",
     "svg": "1f6a7.svg"
   },
   {
-    "name": "police cars revolving allumer enflammer clair lumineux lumière faible léger",
+    "name": "police girophare",
     "svg": "1f6a8.svg"
   },
   {
-    "name": "triangulaire drapeau pavillon étendard avant milie dans moyen plus sujet contre  afficher agglutiner coller pieu poteau emploi fonction office service place poste courrier",
+    "name": "drapeau pavillon rouge",
     "svg": "1f6a9.svg"
   },
   {
@@ -10852,75 +10852,75 @@
     "svg": "1f6aa.svg"
   },
   {
-    "name": "non inscription présentation signe",
+    "name": "non interdit panneau",
     "svg": "1f6ab.svg"
   },
   {
-    "name": "smoking symbole",
+    "name": "fumer cigarette drogue",
     "svg": "1f6ac.svg"
   },
   {
-    "name": "non smoking symbole",
+    "name": "non fumer cigarette interdit",
     "svg": "1f6ad.svg"
   },
   {
-    "name": "appliquer mettre poser litter milie dans leur son adapter local place placer poser situer déstination endroit lieu localité appliquer mettre symbole",
+    "name": "poubelle ordure recylage",
     "svg": "1f6ae.svg"
   },
   {
-    "name": "construire fabriquer faire opérer poser coiffer friser ... pas pas litter symbole",
+    "name": "non interdit jeter ordure",
     "svg": "1f6af.svg"
   },
   {
-    "name": "potable aquatique eau onde abreuver arroser symbole",
+    "name": "potable eau boire verre robinet",
     "svg": "1f6b0.svg"
   },
   {
-    "name": "non-potable aquatique eau onde abreuver arroser symbole",
+    "name": "non interdit potable eau boire verre robinet",
     "svg": "1f6b1.svg"
   },
   {
-    "name": "bécane bicyclette vélo",
+    "name": "bicyclette velo",
     "svg": "1f6b2.svg"
   },
   {
-    "name": "non bicyc",
+    "name": "non interdit velo",
     "svg": "1f6b3.svg"
   },
   {
-    "name": "non pedestrians",
+    "name": "non interdit pieton",
     "svg": "1f6b7.svg"
   },
   {
-    "name": "children crossing",
+    "name": "enfant traverser",
     "svg": "1f6b8.svg"
   },
   {
-    "name": "mens symbole",
+    "name": "homme wc toilettes",
     "svg": "1f6b9.svg"
   },
   {
-    "name": "womens symbole",
+    "name": "femme wc toilettes",
     "svg": "1f6ba.svg"
   },
   {
-    "name": "restroom",
+    "name": "toilettes wc",
     "svg": "1f6bb.svg"
   },
   {
-    "name": "bébé symbole",
+    "name": "bebe toilettes wc",
     "svg": "1f6bc.svg"
   },
   {
-    "name": "cabinet toilette",
+    "name": "cabinet toilette wc",
     "svg": "1f6bd.svg"
   },
   {
-    "name": "aquatique eau onde abreuver arroser armoire",
+    "name": "cabinet toilette wc",
     "svg": "1f6be.svg"
   },
   {
-    "name": "douche",
+    "name": "douche bain",
     "svg": "1f6bf.svg"
   },
   {
@@ -10928,47 +10928,47 @@
     "svg": "1f6c0.svg"
   },
   {
-    "name": "bathtub",
+    "name": "baignoire bain",
     "svg": "1f6c1.svg"
   },
   {
-    "name": "passeport commandement gouvernement règne tenue gouverner régner surveiller",
+    "name": "passeport douane controle",
     "svg": "1f6c2.svg"
   },
   {
-    "name": "douane",
+    "name": "douane controle",
     "svg": "1f6c3.svg"
   },
   {
-    "name": "bagage colis aspirer prétendre",
+    "name": "bagage colis",
     "svg": "1f6c4.svg"
   },
   {
-    "name": "gauche bagage colis",
+    "name": "bagage colis",
     "svg": "1f6c5.svg"
   },
   {
-    "name": "canapé lampe",
+    "name": "canape lampe",
     "svg": "1f6cb.svg"
   },
   {
-    "name": "sleeping accomodation arrangement compromis construction disposition faiblesse caractère accommodement pacte demeure domicile gîte habitation logement logis",
+    "name": "dormir lit",
     "svg": "1f6cc.svg"
   },
   {
-    "name": "shopping bags",
+    "name": "shopping sac soldes achats",
     "svg": "1f6cd.svg"
   },
   {
-    "name": "bellhop clochette sonnette cloche",
+    "name": "sonnette cloche",
     "svg": "1f6ce.svg"
   },
   {
-    "name": "planche plate‐bande plate‐forme lit",
+    "name": "lit",
     "svg": "1f6cf.svg"
   },
   {
-    "name": "adapter local place placer poser situer déstination endroit lieu localité appliquer mettre adoration adorer",
+    "name": "priere adoration adorer",
     "svg": "1f6d0.svg"
   },
   {
@@ -10976,79 +10976,79 @@
     "svg": "1f6e0.svg"
   },
   {
-    "name": "enseigne",
+    "name": "bouclier virus antivirus",
     "svg": "1f6e1.svg"
   },
   {
-    "name": "huile tambour",
+    "name": "huile bidon",
     "svg": "1f6e2.svg"
   },
   {
-    "name": "autoroute autostrade",
+    "name": "autoroute",
     "svg": "1f6e3.svg"
   },
   {
-    "name": "chemin fer piste empreinte impression trace route voie",
+    "name": "chemin fer train rail",
     "svg": "1f6e4.svg"
   },
   {
-    "name": "moteur barque bateau",
+    "name": "bateau",
     "svg": "1f6e5.svg"
   },
   {
-    "name": "petit aéroplane avion",
+    "name": "avion",
     "svg": "1f6e9.svg"
   },
   {
-    "name": "aéroplane avion départ disparition",
+    "name": "avion depart decollage",
     "svg": "1f6eb.svg"
   },
   {
-    "name": "aéroplane avion arriving",
+    "name": "avion arrive atterissage",
     "svg": "1f6ec.svg"
   },
   {
-    "name": "satellite",
+    "name": "satellite espace",
     "svg": "1f6f0.svg"
   },
   {
-    "name": "passager expédier bateau navire",
+    "name": "bateau croisiere",
     "svg": "1f6f3.svg"
   },
   {
-    "name": "zipper-mouth affronter face figure visage",
+    "name": "face silence fermeture",
     "svg": "1f910.svg"
   },
   {
-    "name": "money-mouth affronter face figure visage",
+    "name": "face dollar sourire",
     "svg": "1f911.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près thermomètre",
+    "name": "face thermometre malade",
     "svg": "1f912.svg"
   },
   {
-    "name": "nerd affronter face figure visage",
+    "name": "face sourire nerd geek",
     "svg": "1f913.svg"
   },
   {
-    "name": "thinking affronter face figure visage",
+    "name": "face penser reflechir idee",
     "svg": "1f914.svg"
   },
   {
-    "name": "affronter face figure visage moyen bord près head-bandage",
+    "name": "face bandage",
     "svg": "1f915.svg"
   },
   {
-    "name": "robot affronter face figure visage",
+    "name": "face robot",
     "svg": "1f916.svg"
   },
   {
-    "name": "hugging affronter face figure visage",
+    "name": "face sourire gentil calin",
     "svg": "1f917.svg"
   },
   {
-    "name": "signe l' au aux lui horns",
+    "name": "main corne metal rock punk",
     "svg": "1f918.svg"
   },
   {
@@ -11056,7 +11056,7 @@
     "svg": "1f980.svg"
   },
   {
-    "name": "lion affronter face figure visage",
+    "name": "face lion",
     "svg": "1f981.svg"
   },
   {
@@ -11064,15 +11064,15 @@
     "svg": "1f982.svg"
   },
   {
-    "name": "turquie",
+    "name": "dinde dindon",
     "svg": "1f983.svg"
   },
   {
-    "name": "unicorn affronter face figure visage",
+    "name": "face licorne",
     "svg": "1f984.svg"
   },
   {
-    "name": "fromage cale coin",
+    "name": "fromage",
     "svg": "1f9c0.svg"
   }
 ]
